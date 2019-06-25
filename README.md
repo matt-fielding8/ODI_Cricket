@@ -1,10 +1,23 @@
-ODI_cricket
-==============================
+# ODI_cricket
 
-Investigation of ODI Cricket data through machine learning.
+With the 2019 ICC Cricket World Cup now in full swing, I wanted to dig a
+little deeper into the statistics behind this weird and wonderful game.
 
-Project Organization
-------------
+There is a vast amount of data collected within cricket. Every ball bowled
+represents a potentially interesting data point (runs scored, wickets taken),
+and each has the potential to follow patterns. This project will attempt to
+identify these patterns through various machine learning techniques, and see
+what it really takes to win a cricket match.
+
+In the One Day Internation (ODI) format, the team batting first will have 50
+overs (6 balls in an over) to amas as higher score as possible whilst the other
+team attempt to take wickets and limit their score. The second team will then
+have 50 overs to try and chase down that score. Either team can lose a maximum
+of 10 wickets within the 50 over innings.
+
+The structure of this project has been set up using cookiecutter.
+
+## Project Organisation
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
