@@ -1,0 +1,1297 @@
+,margin,br,toss,bat,score,overs,rpo,target,inns,result,opposition,ground,start_date,match_id,country,country_id
+0,85 runs,,lost,1st,250,48.3,5.15,,1,won,v India,Kolkata,3 Jan 2013,ODI # 3315,Pakistan,7
+1,85 runs,,won,2nd,165,48.0,3.43,251.0,2,lost,v Pakistan,Kolkata,3 Jan 2013,ODI # 3315,India,6
+2,10 runs,,lost,2nd,157,48.5,3.21,168.0,2,lost,v India,Delhi,6 Jan 2013,ODI # 3316,Pakistan,7
+3,10 runs,,won,1st,167,43.4,3.82,,1,won,v Pakistan,Delhi,6 Jan 2013,ODI # 3316,India,6
+4,107 runs,,lost,2nd,198,40.0,4.95,306.0,2,lost,v Australia,Melbourne,11 Jan 2013,ODI # 3317,SriLanka,8
+5,107 runs,,won,1st,305/5,50.0,6.10,,1,won,v Sri Lanka,Melbourne,11 Jan 2013,ODI # 3317,Australia,2
+6,9 runs,,lost,2nd,316/9,50.0,6.32,326.0,2,lost,v England,Rajkot,11 Jan 2013,ODI # 3318,India,6
+7,9 runs,,won,1st,325/4,50.0,6.50,,1,won,v India,Rajkot,11 Jan 2013,ODI # 3318,England,1
+8,8 wickets,59.0,won,2nd,172/2,40.1,4.28,171.0,2,won,v Australia,Adelaide,13 Jan 2013,ODI # 3319,SriLanka,8
+9,8 wickets,59.0,lost,1st,170,46.5,3.62,,1,lost,v Sri Lanka,Adelaide,13 Jan 2013,ODI # 3319,Australia,2
+10,127 runs,,won,1st,285/6,50.0,5.70,,1,won,v England,Kochi,15 Jan 2013,ODI # 3320,India,6
+11,127 runs,,lost,2nd,158,36.0,4.38,286.0,2,lost,v India,Kochi,15 Jan 2013,ODI # 3320,England,1
+12,4 wickets,180.0,lost,2nd,75/6,20.0,3.75,75.0,2,won,v Australia,Brisbane,18 Jan 2013,ODI # 3321,SriLanka,8
+13,4 wickets,180.0,won,1st,74,26.4,2.77,,1,lost,v Sri Lanka,Brisbane,18 Jan 2013,ODI # 3321,Australia,2
+14,7 wickets,131.0,won,2nd,157/3,28.1,5.57,156.0,2,won,v England,Ranchi,19 Jan 2013,ODI # 3322,India,6
+15,7 wickets,131.0,lost,1st,155,42.2,3.66,,1,lost,v India,Ranchi,19 Jan 2013,ODI # 3322,England,1
+16,1 wickets,26.0,lost,1st,208,46.2,4.48,,1,lost,v New Zealand,Paarl,19 Jan 2013,ODI # 3323,SouthAfrica,3
+17,1 wickets,26.0,won,2nd,209/9,45.4,4.57,209.0,2,won,v South Africa,Paarl,19 Jan 2013,ODI # 3323,Newzealad,5
+18,-,,lost,2nd,14/0,3.2,4.20,223.0,2,n/r,v Australia,Sydney,20 Jan 2013,ODI # 3324,SriLanka,8
+19,-,,won,1st,222/9,50.0,4.44,,1,n/r,v Sri Lanka,Sydney,20 Jan 2013,ODI # 3324,Australia,2
+20,27 runs,,won,2nd,252,49.1,5.12,280.0,2,lost,v New Zealand,Kimberley,22 Jan 2013,ODI # 3325,SouthAfrica,3
+21,27 runs,,lost,1st,279/8,50.0,5.58,,1,won,v South Africa,Kimberley,22 Jan 2013,ODI # 3325,Newzealad,5
+22,32 runs,,won,2nd,215,48.3,4.43,248.0,2,lost,v Australia,Hobart,23 Jan 2013,ODI # 3326,SriLanka,8
+23,32 runs,,lost,1st,247/5,50.0,4.94,,1,won,v Sri Lanka,Hobart,23 Jan 2013,ODI # 3326,Australia,2
+24,5 wickets,15.0,won,2nd,258/5,47.3,5.43,258.0,2,won,v England,Mohali,23 Jan 2013,ODI # 3327,India,6
+25,5 wickets,15.0,lost,1st,257/7,50.0,5.14,,1,lost,v India,Mohali,23 Jan 2013,ODI # 3327,England,1
+26,1 wickets,0.0,lost,2nd,264/9,50.0,5.28,261.0,2,won,v New Zealand,Potchefstroom,25 Jan 2013,ODI # 3328,SouthAfrica,3
+27,1 wickets,0.0,won,1st,260/9,50.0,5.20,,1,lost,v South Africa,Potchefstroom,25 Jan 2013,ODI # 3328,Newzealad,5
+28,7 wickets,16.0,lost,1st,226,49.4,4.55,,1,lost,v England,Dharamsala,27 Jan 2013,ODI # 3329,India,6
+29,7 wickets,16.0,won,2nd,227/3,47.2,4.79,227.0,2,won,v India,Dharamsala,27 Jan 2013,ODI # 3329,England,1
+30,9 wickets,244.0,won,1st,70,23.5,2.93,,1,lost,v Australia,Perth,1 Feb 2013,ODI # 3330,WestIndies,4
+31,9 wickets,244.0,lost,2nd,71/1,9.2,7.60,71.0,2,won,v West Indies,Perth,1 Feb 2013,ODI # 3330,Australia,2
+32,54 runs,,won,2nd,212,38.1,5.55,267.0,2,lost,v Australia,Perth,3 Feb 2013,ODI # 3331,WestIndies,4
+33,54 runs,,lost,1st,266/7,50.0,5.32,,1,won,v West Indies,Perth,3 Feb 2013,ODI # 3331,Australia,2
+34,39 runs,,lost,2nd,290,47.3,6.10,330.0,2,lost,v Australia,Canberra,6 Feb 2013,ODI # 3332,WestIndies,4
+35,39 runs,,won,1st,329/7,50.0,6.58,,1,won,v West Indies,Canberra,6 Feb 2013,ODI # 3332,Australia,2
+36,5 wickets,31.0,won,1st,220,49.4,4.42,,1,lost,v Australia,Sydney,8 Feb 2013,ODI # 3333,WestIndies,4
+37,5 wickets,31.0,lost,2nd,221/5,44.5,4.92,221.0,2,won,v West Indies,Sydney,8 Feb 2013,ODI # 3333,Australia,2
+38,17 runs,,won,2nd,257,49.5,5.15,275.0,2,lost,v Australia,Melbourne,10 Feb 2013,ODI # 3334,WestIndies,4
+39,17 runs,,lost,1st,274/5,50.0,5.48,,1,won,v West Indies,Melbourne,10 Feb 2013,ODI # 3334,Australia,2
+40,3 wickets,7.0,won,2nd,259/7,48.5,5.30,259.0,2,won,v England,Hamilton,17 Feb 2013,ODI # 3335,Newzealad,5
+41,3 wickets,7.0,lost,1st,258,49.3,5.21,,1,lost,v New Zealand,Hamilton,17 Feb 2013,ODI # 3335,England,1
+42,8 wickets,14.0,lost,1st,269,48.5,5.50,,1,lost,v England,Napier,20 Feb 2013,ODI # 3336,Newzealad,5
+43,8 wickets,14.0,won,2nd,270/2,47.4,5.66,270.0,2,won,v New Zealand,Napier,20 Feb 2013,ODI # 3336,England,1
+44,156 runs,,lost,1st,337/4,50.0,6.74,,1,won,v Zimbabwe,St George's,22 Feb 2013,ODI # 3337,WestIndies,4
+45,5 wickets,75.0,lost,1st,185,43.5,4.22,,1,lost,v England,Auckland,23 Feb 2013,ODI # 3338,Newzealad,5
+46,5 wickets,75.0,won,2nd,186/5,37.3,4.96,186.0,2,won,v New Zealand,Auckland,23 Feb 2013,ODI # 3338,England,1
+47,7 wickets,6.0,lost,2nd,274/3,49.0,5.59,274.0,2,won,v Zimbabwe,St George's,24 Feb 2013,ODI # 3339,WestIndies,4
+48,5 wickets,22.0,lost,2nd,215/5,46.2,4.64,212.0,2,won,v Zimbabwe,St George's,26 Feb 2013,ODI # 3340,WestIndies,4
+49,7 wickets,97.0,lost,2nd,203/3,33.5,6.00,200.0,2,won,v Scotland,Sharjah,6 Mar 2013,ODI # 3341,Afghanistan,40
+50,5 wickets,8.0,won,2nd,261/5,48.4,5.36,260.0,2,won,v Scotland,Sharjah,8 Mar 2013,ODI # 3342,Afghanistan,40
+51,125 runs,,lost,1st,315/4,50.0,6.30,,1,won,v Pakistan,Bloemfontein,10 Mar 2013,ODI # 3343,SouthAfrica,3
+52,125 runs,,won,2nd,190,36.2,5.22,316.0,2,lost,v South Africa,Bloemfontein,10 Mar 2013,ODI # 3343,Pakistan,7
+53,6 wickets,28.0,won,1st,191,43.2,4.40,,1,lost,v Pakistan,Centurion,15 Mar 2013,ODI # 3346,SouthAfrica,3
+54,6 wickets,28.0,lost,2nd,192/4,39.2,4.88,192.0,2,won,v South Africa,Centurion,15 Mar 2013,ODI # 3346,Pakistan,7
+55,34 runs,,lost,1st,343/5,50.0,6.86,,1,won,v Pakistan,Johannesburg,17 Mar 2013,ODI # 3347,SouthAfrica,3
+56,34 runs,,won,2nd,309,48.1,6.41,344.0,2,lost,v South Africa,Johannesburg,17 Mar 2013,ODI # 3347,Pakistan,7
+57,3 wickets,8.0,won,1st,234/9,50.0,4.68,,1,lost,v Pakistan,Durban,21 Mar 2013,ODI # 3348,SouthAfrica,3
+58,3 wickets,8.0,lost,2nd,236/7,48.4,4.84,235.0,2,won,v South Africa,Durban,21 Mar 2013,ODI # 3348,Pakistan,7
+59,8 wickets,32.0,won,2nd,238/2,35.4,6.67,238.0,2,won,v Bangladesh,Hambantota,23 Mar 2013,ODI # 3349,SriLanka,8
+60,8 wickets,32.0,lost,1st,259/8,50.0,5.18,,1,lost,v Sri Lanka,Hambantota,23 Mar 2013,ODI # 3349,Bangladesh,25
+61,6 wickets,36.0,lost,2nd,208/4,44.0,4.72,206.0,2,won,v Pakistan,Benoni,24 Mar 2013,ODI # 3350,SouthAfrica,3
+62,6 wickets,36.0,won,1st,205,49.1,4.16,,1,lost,v South Africa,Benoni,24 Mar 2013,ODI # 3350,Pakistan,7
+63,-,,lost,1st,33/0,5.0,6.60,,1,n/r,v Bangladesh,Hambantota,25 Mar 2013,ODI # 3351,SriLanka,8
+64,-,,won,2nd,DNB,0.0,-,,0,n/r,v Sri Lanka,Hambantota,25 Mar 2013,ODI # 3351,Bangladesh,25
+65,3 wickets,6.0,won,1st,302/9,50.0,6.04,,1,lost,v Bangladesh,Pallekele,28 Mar 2013,ODI # 3352,SriLanka,8
+66,3 wickets,6.0,lost,2nd,184/7,26.0,7.07,183.0,2,won,v Sri Lanka,Pallekele,28 Mar 2013,ODI # 3352,Bangladesh,25
+67,121 runs,,lost,1st,269/8,50.0,5.38,,1,won,v Zimbabwe,Bulawayo,3 May 2013,ODI # 3353,Bangladesh,25
+68,6 wickets,13.0,lost,1st,252/9,50.0,5.04,,1,lost,v Zimbabwe,Bulawayo,5 May 2013,ODI # 3354,Bangladesh,25
+69,7 wickets,17.0,lost,1st,247/9,50.0,4.94,,1,lost,v Zimbabwe,Bulawayo,8 May 2013,ODI # 3355,Bangladesh,25
+70,96 runs,,won,1st,231/7,50.0,4.62,,1,won,v Scotland,Edinburgh,17 May 2013,ODI # 3356,Pakistan,7
+71,-,,won,1st,266/5,47.0,5.65,,1,tied,v Ireland,Dublin,23 May 2013,ODI # 3357,Pakistan,7
+72,2 wickets,8.0,won,2nd,230/8,48.4,4.72,230.0,2,won,v Ireland,Dublin,26 May 2013,ODI # 3358,Pakistan,7
+73,83 runs,,won,1st,341/3,50.0,6.82,,1,won,v Netherlands,Amstelveen,31 May 2013,ODI # 3359,SouthAfrica,3
+74,5 wickets,19.0,won,2nd,231/5,46.5,4.93,228.0,2,won,v England,Lord's,31 May 2013,ODI # 3360,Newzealad,5
+75,5 wickets,19.0,lost,1st,227/9,50.0,4.54,,1,lost,v New Zealand,Lord's,31 May 2013,ODI # 3360,England,1
+76,86 runs,,won,1st,359/3,50.0,7.18,,1,won,v England,Southampton,2 Jun 2013,ODI # 3361,Newzealad,5
+77,86 runs,,lost,2nd,273,44.1,6.18,360.0,2,lost,v New Zealand,Southampton,2 Jun 2013,ODI # 3361,England,1
+78,34 runs,,won,2nd,253,46.3,5.44,288.0,2,lost,v England,Nottingham,5 Jun 2013,ODI # 3362,Newzealad,5
+79,34 runs,,lost,1st,287/6,50.0,5.74,,1,won,v New Zealand,Nottingham,5 Jun 2013,ODI # 3362,England,1
+80,26 runs,,won,2nd,305,50.0,6.10,332.0,2,lost,v India,Cardiff,6 Jun 2013,ODI # 3363,SouthAfrica,3
+81,26 runs,,lost,1st,331/7,50.0,6.62,,1,won,v South Africa,Cardiff,6 Jun 2013,ODI # 3363,India,6
+82,2 wickets,56.0,won,2nd,172/8,40.4,4.22,171.0,2,won,v Pakistan,The Oval,7 Jun 2013,ODI # 3364,WestIndies,4
+83,2 wickets,56.0,lost,1st,170,48.0,3.54,,1,lost,v West Indies,The Oval,7 Jun 2013,ODI # 3364,Pakistan,7
+84,48 runs,,won,1st,269/6,50.0,5.38,,1,won,v Australia,Birmingham,8 Jun 2013,ODI # 3365,England,1
+85,48 runs,,lost,2nd,221/9,50.0,4.42,270.0,2,lost,v England,Birmingham,8 Jun 2013,ODI # 3365,Australia,2
+86,1 wickets,81.0,won,1st,138,37.5,3.64,,1,lost,v New Zealand,Cardiff,9 Jun 2013,ODI # 3366,SriLanka,8
+87,1 wickets,81.0,lost,2nd,139/9,36.3,3.80,139.0,2,won,v Sri Lanka,Cardiff,9 Jun 2013,ODI # 3366,Newzealad,5
+88,67 runs,,won,1st,234/9,50.0,4.68,,1,won,v Pakistan,Birmingham,10 Jun 2013,ODI # 3367,SouthAfrica,3
+89,67 runs,,lost,2nd,167,45.0,3.71,235.0,2,lost,v South Africa,Birmingham,10 Jun 2013,ODI # 3367,Pakistan,7
+90,8 wickets,65.0,lost,1st,233/9,50.0,4.66,,1,lost,v India,The Oval,11 Jun 2013,ODI # 3368,WestIndies,4
+91,8 wickets,65.0,won,2nd,236/2,39.1,6.02,234.0,2,won,v West Indies,The Oval,11 Jun 2013,ODI # 3368,India,6
+92,-,,lost,2nd,51/2,15.0,3.40,244.0,2,n/r,v Australia,Birmingham,12 Jun 2013,ODI # 3369,Newzealad,5
+93,-,,won,1st,243/8,50.0,4.86,,1,n/r,v New Zealand,Birmingham,12 Jun 2013,ODI # 3369,Australia,2
+94,7 wickets,17.0,won,2nd,297/3,47.1,6.29,294.0,2,won,v England,The Oval,13 Jun 2013,ODI # 3370,SriLanka,8
+95,7 wickets,17.0,lost,1st,293/7,50.0,5.86,,1,lost,v Sri Lanka,The Oval,13 Jun 2013,ODI # 3370,England,1
+96,-,,won,2nd,190/6,26.1,7.26,191.0,2,tied,v South Africa,Cardiff,14 Jun 2013,ODI # 3371,WestIndies,4
+97,-,,lost,1st,230/6,31.0,7.41,,1,tied,v West Indies,Cardiff,14 Jun 2013,ODI # 3371,SouthAfrica,3
+98,8 wickets,17.0,lost,1st,165,39.4,4.15,,1,lost,v India,Birmingham,15 Jun 2013,ODI # 3372,Pakistan,7
+99,8 wickets,17.0,won,2nd,102/2,19.1,5.32,102.0,2,won,v Pakistan,Birmingham,15 Jun 2013,ODI # 3372,India,6
+100,10 runs,,won,2nd,159/8,24.0,6.62,170.0,2,lost,v England,Cardiff,16 Jun 2013,ODI # 3373,Newzealad,5
+101,10 runs,,lost,1st,169,23.3,7.19,,1,won,v New Zealand,Cardiff,16 Jun 2013,ODI # 3373,England,1
+102,20 runs,,lost,1st,253/8,50.0,5.06,,1,won,v Australia,The Oval,17 Jun 2013,ODI # 3374,SriLanka,8
+103,20 runs,,won,2nd,233,42.3,5.48,254.0,2,lost,v Sri Lanka,The Oval,17 Jun 2013,ODI # 3374,Australia,2
+104,7 wickets,75.0,lost,1st,175,38.4,4.52,,1,lost,v England,The Oval,19 Jun 2013,ODI # 3375,SouthAfrica,3
+105,7 wickets,75.0,won,2nd,179/3,37.3,4.77,176.0,2,won,v South Africa,The Oval,19 Jun 2013,ODI # 3375,England,1
+106,8 wickets,90.0,lost,1st,181/8,50.0,3.62,,1,lost,v India,Cardiff,20 Jun 2013,ODI # 3376,SriLanka,8
+107,8 wickets,90.0,won,2nd,182/2,35.0,5.20,182.0,2,won,v Sri Lanka,Cardiff,20 Jun 2013,ODI # 3376,India,6
+108,5 runs,,lost,1st,129/7,20.0,6.45,,1,won,v England,Birmingham,23 Jun 2013,ODI # 3377,India,6
+109,5 runs,,won,2nd,124/8,20.0,6.20,130.0,2,lost,v India,Birmingham,23 Jun 2013,ODI # 3377,England,1
+110,6 wickets,73.0,won,2nd,209/4,37.5,5.52,209.0,2,won,v Sri Lanka,Kingston,28 Jun 2013,ODI # 3378,WestIndies,4
+111,6 wickets,73.0,lost,1st,208,48.3,4.28,,1,lost,v West Indies,Kingston,28 Jun 2013,ODI # 3378,SriLanka,8
+112,1 wickets,14.0,won,2nd,230/9,47.4,4.82,230.0,2,won,v India,Kingston,30 Jun 2013,ODI # 3380,WestIndies,4
+113,1 wickets,14.0,lost,1st,229/7,50.0,4.58,,1,lost,v West Indies,Kingston,30 Jun 2013,ODI # 3380,India,6
+114,161 runs,,lost,1st,348/1,50.0,6.96,,1,won,v India,Kingston,2 Jul 2013,ODI # 3382,SriLanka,8
+115,161 runs,,won,2nd,187,44.5,4.17,349.0,2,lost,v Sri Lanka,Kingston,2 Jul 2013,ODI # 3382,India,6
+116,102 runs,,won,2nd,171,34.0,5.02,274.0,2,lost,v India,Port of Spain,5 Jul 2013,ODI # 3383,WestIndies,4
+117,102 runs,,lost,1st,311/7,50.0,6.22,,1,won,v West Indies,Port of Spain,5 Jul 2013,ODI # 3383,India,6
+118,39 runs,,won,2nd,190/9,41.0,4.63,230.0,2,lost,v Sri Lanka,Port of Spain,7 Jul 2013,ODI # 3385,WestIndies,4
+119,39 runs,,lost,1st,219/8,41.0,5.34,,1,won,v West Indies,Port of Spain,7 Jul 2013,ODI # 3385,SriLanka,8
+120,81 runs,,won,2nd,96,24.4,3.89,178.0,2,lost,v India,Port of Spain,9 Jul 2013,ODI # 3387,SriLanka,8
+121,81 runs,,lost,1st,119/3,29.0,4.10,,1,won,v Sri Lanka,Port of Spain,9 Jul 2013,ODI # 3387,India,6
+122,1 wickets,2.0,lost,1st,201,48.5,4.11,,1,lost,v India,Port of Spain,11 Jul 2013,ODI # 3388,SriLanka,8
+123,1 wickets,2.0,won,2nd,203/9,49.4,4.08,202.0,2,won,v Sri Lanka,Port of Spain,11 Jul 2013,ODI # 3388,India,6
+124,126 runs,,won,2nd,98,41.0,2.39,225.0,2,lost,v Pakistan,Providence,14 Jul 2013,ODI # 3389,WestIndies,4
+125,126 runs,,lost,1st,224/9,50.0,4.48,,1,won,v West Indies,Providence,14 Jul 2013,ODI # 3389,Pakistan,7
+126,37 runs,,lost,1st,232/8,50.0,4.64,,1,won,v Pakistan,Providence,16 Jul 2013,ODI # 3390,WestIndies,4
+127,37 runs,,won,2nd,195,47.5,4.07,233.0,2,lost,v West Indies,Providence,16 Jul 2013,ODI # 3390,Pakistan,7
+128,-,,won,2nd,229/9,50.0,4.58,230.0,2,tied,v Pakistan,Gros Islet,19 Jul 2013,ODI # 3391,WestIndies,4
+129,-,,lost,1st,229/6,50.0,4.58,,1,tied,v West Indies,Gros Islet,19 Jul 2013,ODI # 3391,Pakistan,7
+130,180 runs,,lost,1st,320/5,50.0,6.40,,1,won,v South Africa,Colombo (RPS),20 Jul 2013,ODI # 3392,SriLanka,8
+131,180 runs,,won,2nd,140,31.5,4.39,321.0,2,lost,v Sri Lanka,Colombo (RPS),20 Jul 2013,ODI # 3392,SouthAfrica,3
+132,6 wickets,6.0,lost,1st,261/7,49.0,5.32,,1,lost,v Pakistan,Gros Islet,21 Jul 2013,ODI # 3393,WestIndies,4
+133,6 wickets,6.0,won,2nd,189/4,30.0,6.30,189.0,2,won,v West Indies,Gros Islet,21 Jul 2013,ODI # 3393,Pakistan,7
+134,17 runs,,won,1st,223/9,49.2,4.52,,1,won,v South Africa,Colombo (RPS),23 Jul 2013,ODI # 3394,SriLanka,8
+135,17 runs,,lost,2nd,104/5,21.0,4.95,122.0,2,lost,v Sri Lanka,Colombo (RPS),23 Jul 2013,ODI # 3394,SouthAfrica,3
+136,6 wickets,31.0,won,2nd,230/4,44.5,5.13,229.0,2,won,v Zimbabwe,Harare,24 Jul 2013,ODI # 3395,India,6
+137,4 wickets,1.0,lost,1st,242/7,50.0,4.84,,1,lost,v Pakistan,Gros Islet,24 Jul 2013,ODI # 3396,WestIndies,4
+138,4 wickets,1.0,won,2nd,243/6,49.5,4.87,243.0,2,won,v West Indies,Gros Islet,24 Jul 2013,ODI # 3396,Pakistan,7
+139,58 runs,,lost,1st,294/8,50.0,5.88,,1,won,v Zimbabwe,Harare,26 Jul 2013,ODI # 3397,India,6
+140,56 runs,,lost,2nd,167,43.2,3.85,224.0,2,lost,v South Africa,Pallekele,26 Jul 2013,ODI # 3398,SriLanka,8
+141,56 runs,,won,1st,223/7,50.0,4.46,,1,won,v Sri Lanka,Pallekele,26 Jul 2013,ODI # 3398,SouthAfrica,3
+142,7 wickets,87.0,won,2nd,187/3,35.3,5.26,184.0,2,won,v Zimbabwe,Harare,28 Jul 2013,ODI # 3399,India,6
+143,8 wickets,36.0,lost,2nd,239/2,44.0,5.43,239.0,2,won,v South Africa,Pallekele,28 Jul 2013,ODI # 3400,SriLanka,8
+144,8 wickets,36.0,won,1st,238,48.4,4.89,,1,lost,v Sri Lanka,Pallekele,28 Jul 2013,ODI # 3400,SouthAfrica,3
+145,128 runs,,won,1st,307/4,50.0,6.14,,1,won,v South Africa,Colombo (RPS),31 Jul 2013,ODI # 3401,SriLanka,8
+146,128 runs,,lost,2nd,179,43.5,4.08,308.0,2,lost,v Sri Lanka,Colombo (RPS),31 Jul 2013,ODI # 3401,SouthAfrica,3
+147,9 wickets,115.0,won,2nd,145/1,30.5,4.70,145.0,2,won,v Zimbabwe,Bulawayo,1 Aug 2013,ODI # 3402,India,6
+148,7 wickets,96.0,won,2nd,167/3,34.0,4.91,164.0,2,won,v Zimbabwe,Bulawayo,3 Aug 2013,ODI # 3403,India,6
+149,7 wickets,10.0,won,1st,244/7,50.0,4.88,,1,lost,v Zimbabwe,Harare,27 Aug 2013,ODI # 3404,Pakistan,7
+150,90 runs,,lost,1st,299/4,50.0,5.98,,1,won,v Zimbabwe,Harare,29 Aug 2013,ODI # 3406,Pakistan,7
+151,108 runs,,lost,1st,260/6,50.0,5.20,,1,won,v Zimbabwe,Harare,31 Aug 2013,ODI # 3408,Pakistan,7
+152,6 wickets,42.0,won,2nd,274/4,43.0,6.37,270.0,2,won,v Ireland,Dublin (Malahide),3 Sep 2013,ODI # 3409,England,1
+153,200 runs,,lost,1st,362/3,50.0,7.24,,1,won,v Scotland,Edinburgh,3 Sep 2013,ODI # 3410,Australia,2
+154,88 runs,,won,2nd,227,44.2,5.12,316.0,2,lost,v Australia,Manchester,8 Sep 2013,ODI # 3412,England,1
+155,88 runs,,lost,1st,315/7,50.0,6.30,,1,won,v England,Manchester,8 Sep 2013,ODI # 3412,Australia,2
+156,-,,lost,1st,59/3,15.1,3.89,,1,n/r,v Australia,Birmingham,11 Sep 2013,ODI # 3414,England,1
+157,-,,won,2nd,DNB,0.0,-,,0,n/r,v England,Birmingham,11 Sep 2013,ODI # 3414,Australia,2
+158,3 wickets,3.0,won,2nd,231/7,49.3,4.66,228.0,2,won,v Australia,Cardiff,14 Sep 2013,ODI # 3415,England,1
+159,3 wickets,3.0,lost,1st,227,48.2,4.69,,1,lost,v England,Cardiff,14 Sep 2013,ODI # 3415,Australia,2
+160,49 runs,,lost,2nd,249,48.0,5.18,299.0,2,lost,v Australia,Southampton,16 Sep 2013,ODI # 3416,England,1
+161,49 runs,,won,1st,298,49.1,6.06,,1,won,v England,Southampton,16 Sep 2013,ODI # 3416,Australia,2
+162,8 wickets,193.0,lost,2nd,95/2,17.5,5.32,90.0,2,won,v Kenya,Sharjah,2 Oct 2013,ODI # 3417,Afghanistan,40
+163,7 wickets,175.0,won,2nd,96/3,20.5,4.60,94.0,2,won,v Kenya,Sharjah,4 Oct 2013,ODI # 3418,Afghanistan,40
+164,72 runs,,lost,2nd,232,49.4,4.67,305.0,2,lost,v Australia,Pune,13 Oct 2013,ODI # 3419,India,6
+165,72 runs,,won,1st,304/8,50.0,6.08,,1,won,v India,Pune,13 Oct 2013,ODI # 3419,Australia,2
+166,9 wickets,39.0,lost,2nd,362/1,43.3,8.32,360.0,2,won,v Australia,Jaipur,16 Oct 2013,ODI # 3420,India,6
+167,9 wickets,39.0,won,1st,359/5,50.0,7.18,,1,lost,v India,Jaipur,16 Oct 2013,ODI # 3420,Australia,2
+168,4 wickets,3.0,lost,1st,303/9,50.0,6.06,,1,lost,v Australia,Mohali,19 Oct 2013,ODI # 3421,India,6
+169,4 wickets,3.0,won,2nd,304/6,49.3,6.14,304.0,2,won,v India,Mohali,19 Oct 2013,ODI # 3421,Australia,2
+170,-,,won,2nd,27/0,4.1,6.48,296.0,2,n/r,v Australia,Ranchi,23 Oct 2013,ODI # 3422,India,6
+171,-,,lost,1st,295/8,50.0,5.90,,1,n/r,v India,Ranchi,23 Oct 2013,ODI # 3422,Australia,2
+172,43 runs,,won,2nd,162,29.5,5.43,206.0,2,lost,v Bangladesh,Dhaka,29 Oct 2013,ODI # 3423,Newzealad,5
+173,43 runs,,lost,1st,265,49.5,5.31,,1,won,v New Zealand,Dhaka,29 Oct 2013,ODI # 3423,Bangladesh,25
+174,6 wickets,3.0,won,2nd,351/4,49.3,7.09,351.0,2,won,v Australia,Nagpur,30 Oct 2013,ODI # 3424,India,6
+175,6 wickets,3.0,lost,1st,350/6,50.0,7.00,,1,lost,v India,Nagpur,30 Oct 2013,ODI # 3424,Australia,2
+176,1 runs,,won,1st,183,49.5,3.67,,1,won,v Pakistan,Sharjah,30 Oct 2013,ODI # 3425,SouthAfrica,3
+177,1 runs,,lost,2nd,182,46.3,3.91,184.0,2,lost,v South Africa,Sharjah,30 Oct 2013,ODI # 3425,Pakistan,7
+178,40 runs,,lost,2nd,207,46.4,4.43,248.0,2,lost,v Bangladesh,Dhaka,31 Oct 2013,ODI # 3426,Newzealad,5
+179,40 runs,,won,1st,247,49.0,5.04,,1,won,v New Zealand,Dhaka,31 Oct 2013,ODI # 3426,Bangladesh,25
+180,66 runs,,lost,2nd,143,40.4,3.51,210.0,2,lost,v Pakistan,Dubai (DSC),1 Nov 2013,ODI # 3427,SouthAfrica,3
+181,66 runs,,won,1st,209,49.4,4.20,,1,won,v South Africa,Dubai (DSC),1 Nov 2013,ODI # 3427,Pakistan,7
+182,57 runs,,lost,1st,383/6,50.0,7.66,,1,won,v Australia,Bengaluru,2 Nov 2013,ODI # 3428,India,6
+183,57 runs,,won,2nd,326,45.1,7.21,384.0,2,lost,v India,Bengaluru,2 Nov 2013,ODI # 3428,Australia,2
+184,4 wickets,4.0,lost,1st,307/5,50.0,6.14,,1,lost,v Bangladesh,Fatullah,3 Nov 2013,ODI # 3429,Newzealad,5
+185,4 wickets,4.0,won,2nd,309/6,49.2,6.26,308.0,2,won,v New Zealand,Fatullah,3 Nov 2013,ODI # 3429,Bangladesh,25
+186,68 runs,,won,1st,259/8,50.0,5.18,,1,won,v Pakistan,Abu Dhabi,6 Nov 2013,ODI # 3430,SouthAfrica,3
+187,68 runs,,lost,2nd,191,44.3,4.29,260.0,2,lost,v South Africa,Abu Dhabi,6 Nov 2013,ODI # 3430,Pakistan,7
+188,28 runs,,won,1st,266/5,50.0,5.32,,1,won,v Pakistan,Abu Dhabi,8 Nov 2013,ODI # 3431,SouthAfrica,3
+189,28 runs,,lost,2nd,238,49.2,4.82,267.0,2,lost,v South Africa,Abu Dhabi,8 Nov 2013,ODI # 3431,Pakistan,7
+190,-,,lost,1st,288/9,50.0,5.76,,1,n/r,v New Zealand,Hambantota,10 Nov 2013,ODI # 3432,SriLanka,8
+191,-,,won,2nd,13/1,4.2,3.00,289.0,2,n/r,v Sri Lanka,Hambantota,10 Nov 2013,ODI # 3432,Newzealad,5
+192,117 runs,,won,1st,268/7,50.0,5.36,,1,won,v Pakistan,Sharjah,11 Nov 2013,ODI # 3433,SouthAfrica,3
+193,117 runs,,lost,2nd,151,35.3,4.25,269.0,2,lost,v South Africa,Sharjah,11 Nov 2013,ODI # 3433,Pakistan,7
+194,4 wickets,0.0,won,1st,138/1,23.0,6.00,,1,lost,v New Zealand,Hambantota,12 Nov 2013,ODI # 3434,SriLanka,8
+195,4 wickets,0.0,lost,2nd,203/6,23.0,8.82,198.0,2,won,v Sri Lanka,Hambantota,12 Nov 2013,ODI # 3434,Newzealad,5
+196,36 runs,,lost,1st,211/8,33.0,6.39,,1,won,v New Zealand,Dambulla,16 Nov 2013,ODI # 3435,SriLanka,8
+197,36 runs,,won,2nd,126/6,25.0,5.04,163.0,2,lost,v Sri Lanka,Dambulla,16 Nov 2013,ODI # 3435,Newzealad,5
+198,6 wickets,88.0,won,1st,211,48.5,4.32,,1,lost,v India,Kochi,21 Nov 2013,ODI # 3436,WestIndies,4
+199,6 wickets,88.0,lost,2nd,212/4,35.2,6.00,212.0,2,won,v West Indies,Kochi,21 Nov 2013,ODI # 3436,India,6
+200,2 wickets,3.0,won,2nd,289/8,49.3,5.83,289.0,2,won,v India,Visakhapatnam,24 Nov 2013,ODI # 3437,WestIndies,4
+201,2 wickets,3.0,lost,1st,288/7,50.0,5.76,,1,lost,v West Indies,Visakhapatnam,24 Nov 2013,ODI # 3437,India,6
+202,23 runs,,lost,2nd,195,48.1,4.04,219.0,2,lost,v Pakistan,Cape Town,24 Nov 2013,ODI # 3438,SouthAfrica,3
+203,23 runs,,won,1st,218/9,50.0,4.36,,1,won,v South Africa,Cape Town,24 Nov 2013,ODI # 3438,Pakistan,7
+204,5 wickets,23.0,lost,1st,263/5,50.0,5.26,,1,lost,v India,Kanpur,27 Nov 2013,ODI # 3439,WestIndies,4
+205,5 wickets,23.0,won,2nd,266/5,46.1,5.76,264.0,2,won,v West Indies,Kanpur,27 Nov 2013,ODI # 3439,India,6
+206,1 runs,,won,2nd,261/6,45.0,5.80,263.0,2,lost,v Pakistan,Port Elizabeth,27 Nov 2013,ODI # 3440,SouthAfrica,3
+207,1 runs,,lost,1st,262,45.0,5.82,,1,won,v South Africa,Port Elizabeth,27 Nov 2013,ODI # 3440,Pakistan,7
+208,4 wickets,68.0,won,2nd,181/6,38.4,4.68,180.0,2,won,v Pakistan,Centurion,30 Nov 2013,ODI # 3441,SouthAfrica,3
+209,4 wickets,68.0,lost,1st,179,46.5,3.82,,1,lost,v South Africa,Centurion,30 Nov 2013,ODI # 3441,Pakistan,7
+210,141 runs,,lost,1st,358/4,50.0,7.16,,1,won,v India,Johannesburg,5 Dec 2013,ODI # 3442,SouthAfrica,3
+211,141 runs,,won,2nd,217,41.0,5.29,359.0,2,lost,v South Africa,Johannesburg,5 Dec 2013,ODI # 3442,India,6
+212,134 runs,,lost,1st,280/6,49.0,5.71,,1,won,v India,Durban,8 Dec 2013,ODI # 3443,SouthAfrica,3
+213,134 runs,,won,2nd,146,35.1,4.15,281.0,2,lost,v South Africa,Durban,8 Dec 2013,ODI # 3443,India,6
+214,-,,won,1st,301/8,50.0,6.02,,1,n/r,v India,Centurion,11 Dec 2013,ODI # 3444,SouthAfrica,3
+215,-,,lost,2nd,DNB,0.0,-,,0,n/r,v South Africa,Centurion,11 Dec 2013,ODI # 3444,India,6
+216,11 runs,,lost,2nd,311,49.4,6.26,323.0,2,lost,v Pakistan,Sharjah,18 Dec 2013,ODI # 3445,SriLanka,8
+217,11 runs,,won,1st,322/5,50.0,6.44,,1,won,v Sri Lanka,Sharjah,18 Dec 2013,ODI # 3445,Pakistan,7
+218,2 wickets,2.0,won,2nd,287/8,49.4,5.77,285.0,2,won,v Pakistan,Dubai (DSC),20 Dec 2013,ODI # 3446,SriLanka,8
+219,2 wickets,2.0,lost,1st,284/4,50.0,5.68,,1,lost,v Sri Lanka,Dubai (DSC),20 Dec 2013,ODI # 3446,Pakistan,7
+220,113 runs,,won,2nd,213,44.4,4.76,327.0,2,lost,v Pakistan,Sharjah,22 Dec 2013,ODI # 3447,SriLanka,8
+221,113 runs,,lost,1st,326/5,50.0,6.52,,1,won,v Sri Lanka,Sharjah,22 Dec 2013,ODI # 3447,Pakistan,7
+222,8 wickets,53.0,won,1st,225,48.5,4.60,,1,lost,v Pakistan,Abu Dhabi,25 Dec 2013,ODI # 3448,SriLanka,8
+223,8 wickets,53.0,lost,2nd,226/2,41.1,5.48,226.0,2,won,v Sri Lanka,Abu Dhabi,25 Dec 2013,ODI # 3448,Pakistan,7
+224,2 wickets,135.0,won,2nd,157/8,27.3,5.70,157.0,2,won,v New Zealand,Auckland,26 Dec 2013,ODI # 3449,WestIndies,4
+225,2 wickets,135.0,lost,1st,156,42.1,3.69,,1,lost,v West Indies,Auckland,26 Dec 2013,ODI # 3449,Newzealad,5
+226,2 wickets,2.0,lost,2nd,235/8,49.4,4.73,233.0,2,won,v Pakistan,Abu Dhabi,27 Dec 2013,ODI # 3450,SriLanka,8
+227,2 wickets,2.0,won,1st,232,49.3,4.68,,1,lost,v Sri Lanka,Abu Dhabi,27 Dec 2013,ODI # 3450,Pakistan,7
+228,159 runs,,won,2nd,124/5,21.0,5.90,284.0,2,lost,v New Zealand,Queenstown,1 Jan 2014,ODI # 3451,WestIndies,4
+229,159 runs,,lost,1st,283/4,21.0,13.47,,1,won,v West Indies,Queenstown,1 Jan 2014,ODI # 3451,Newzealad,5
+230,58 runs,,lost,2nd,134/5,33.4,3.98,193.0,2,lost,v New Zealand,Nelson,4 Jan 2014,ODI # 3452,WestIndies,4
+231,58 runs,,won,1st,285/6,50.0,5.70,,1,won,v West Indies,Nelson,4 Jan 2014,ODI # 3452,Newzealad,5
+232,203 runs,,lost,1st,363/4,50.0,7.26,,1,won,v New Zealand,Hamilton,8 Jan 2014,ODI # 3453,WestIndies,4
+233,203 runs,,won,2nd,160,29.5,5.36,364.0,2,lost,v West Indies,Hamilton,8 Jan 2014,ODI # 3453,Newzealad,5
+234,6 wickets,26.0,won,1st,269/7,50.0,5.38,,1,lost,v Australia,Melbourne,12 Jan 2014,ODI # 3454,England,1
+235,6 wickets,26.0,lost,2nd,270/4,45.4,5.91,270.0,2,won,v England,Melbourne,12 Jan 2014,ODI # 3454,Australia,2
+236,1 wickets,3.0,won,1st,300/8,50.0,6.00,,1,lost,v Australia,Brisbane,17 Jan 2014,ODI # 3455,England,1
+237,1 wickets,3.0,lost,2nd,301/9,49.3,6.08,301.0,2,won,v England,Brisbane,17 Jan 2014,ODI # 3455,Australia,2
+238,24 runs,,lost,1st,292/7,50.0,5.84,,1,won,v India,Napier,19 Jan 2014,ODI # 3456,Newzealad,5
+239,24 runs,,won,2nd,268,48.4,5.50,293.0,2,lost,v New Zealand,Napier,19 Jan 2014,ODI # 3456,India,6
+240,7 wickets,60.0,won,1st,243/9,50.0,4.86,,1,lost,v Australia,Sydney,19 Jan 2014,ODI # 3457,England,1
+241,7 wickets,60.0,lost,2nd,244/3,40.0,6.10,244.0,2,won,v England,Sydney,19 Jan 2014,ODI # 3457,Australia,2
+242,15 runs,,lost,1st,271/7,42.0,6.45,,1,won,v India,Hamilton,22 Jan 2014,ODI # 3458,Newzealad,5
+243,15 runs,,won,2nd,277/9,41.3,6.67,293.0,2,lost,v New Zealand,Hamilton,22 Jan 2014,ODI # 3458,India,6
+244,57 runs,,lost,1st,316/8,50.0,6.32,,1,won,v Australia,Perth,24 Jan 2014,ODI # 3461,England,1
+245,57 runs,,won,2nd,259,47.4,5.43,317.0,2,lost,v England,Perth,24 Jan 2014,ODI # 3461,Australia,2
+246,-,,lost,1st,314,50.0,6.28,,1,tied,v India,Auckland,25 Jan 2014,ODI # 3462,Newzealad,5
+247,-,,won,2nd,314/9,50.0,6.28,315.0,2,tied,v New Zealand,Auckland,25 Jan 2014,ODI # 3462,India,6
+248,5 runs,,lost,2nd,212,49.4,4.26,218.0,2,lost,v Australia,Adelaide,26 Jan 2014,ODI # 3463,England,1
+249,5 runs,,won,1st,217/9,50.0,4.34,,1,won,v England,Adelaide,26 Jan 2014,ODI # 3463,Australia,2
+250,7 wickets,11.0,lost,2nd,280/3,48.1,5.81,279.0,2,won,v India,Hamilton,28 Jan 2014,ODI # 3465,Newzealad,5
+251,7 wickets,11.0,won,1st,278/5,50.0,5.56,,1,lost,v New Zealand,Hamilton,28 Jan 2014,ODI # 3465,India,6
+252,87 runs,,lost,1st,303/5,50.0,6.06,,1,won,v India,Wellington,31 Jan 2014,ODI # 3467,Newzealad,5
+253,87 runs,,won,2nd,216,49.4,4.34,304.0,2,lost,v New Zealand,Wellington,31 Jan 2014,ODI # 3467,India,6
+254,13 runs,,lost,1st,180,40.0,4.50,,1,won,v Bangladesh,Dhaka,17 Feb 2014,ODI # 3469,SriLanka,8
+255,13 runs,,won,2nd,167,39.2,4.24,181.0,2,lost,v Sri Lanka,Dhaka,17 Feb 2014,ODI # 3469,Bangladesh,25
+256,61 runs,,won,1st,289/6,50.0,5.78,,1,won,v Bangladesh,Dhaka,20 Feb 2014,ODI # 3470,SriLanka,8
+257,61 runs,,lost,2nd,228,43.0,5.30,290.0,2,lost,v Sri Lanka,Dhaka,20 Feb 2014,ODI # 3470,Bangladesh,25
+258,6 wickets,15.0,won,2nd,246/4,47.3,5.17,241.0,2,won,v Bangladesh,Dhaka,22 Feb 2014,ODI # 3471,SriLanka,8
+259,6 wickets,15.0,lost,1st,240/8,50.0,4.80,,1,lost,v Sri Lanka,Dhaka,22 Feb 2014,ODI # 3471,Bangladesh,25
+260,4 wickets,80.0,lost,2nd,205/6,36.4,5.59,203.0,2,won,v Ireland,Kingston,23 Feb 2014,ODI # 3472,WestIndies,4
+261,12 runs,,won,1st,296/6,50.0,5.92,,1,won,v Pakistan,Fatullah,25 Feb 2014,ODI # 3473,SriLanka,8
+262,12 runs,,lost,2nd,284,48.5,5.81,297.0,2,lost,v Sri Lanka,Fatullah,25 Feb 2014,ODI # 3473,Pakistan,7
+263,6 wickets,6.0,won,2nd,280/4,49.0,5.71,280.0,2,won,v Bangladesh,Fatullah,26 Feb 2014,ODI # 3474,India,6
+264,6 wickets,6.0,lost,1st,279/7,50.0,5.58,,1,lost,v India,Fatullah,26 Feb 2014,ODI # 3474,Bangladesh,25
+265,72 runs,,lost,1st,248/8,50.0,4.96,,1,won,v Afghanistan,Fatullah,27 Feb 2014,ODI # 3475,Pakistan,7
+266,72 runs,,won,2nd,176,47.2,3.71,249.0,2,lost,v Pakistan,Fatullah,27 Feb 2014,ODI # 3475,Afghanistan,40
+267,2 wickets,4.0,won,2nd,265/8,49.2,5.37,265.0,2,won,v India,Fatullah,28 Feb 2014,ODI # 3476,SriLanka,8
+268,2 wickets,4.0,lost,1st,264/9,50.0,5.28,,1,lost,v Sri Lanka,Fatullah,28 Feb 2014,ODI # 3476,India,6
+269,15 runs,,lost,1st,269/6,50.0,5.38,,1,won,v England,North Sound,28 Feb 2014,ODI # 3477,WestIndies,4
+270,15 runs,,won,2nd,254/6,50.0,5.08,270.0,2,lost,v West Indies,North Sound,28 Feb 2014,ODI # 3477,England,1
+271,32 runs,,won,2nd,222,47.5,4.64,255.0,2,lost,v Afghanistan,Fatullah,1 Mar 2014,ODI # 3478,Bangladesh,25
+272,32 runs,,lost,1st,254/6,50.0,5.08,,1,won,v Bangladesh,Fatullah,1 Mar 2014,ODI # 3478,Afghanistan,40
+273,1 wickets,2.0,won,2nd,249/9,49.4,5.01,246.0,2,won,v India,Dhaka,2 Mar 2014,ODI # 3479,Pakistan,7
+274,1 wickets,2.0,lost,1st,245/8,50.0,4.90,,1,lost,v Pakistan,Dhaka,2 Mar 2014,ODI # 3479,India,6
+275,3 wickets,31.0,lost,1st,159,44.2,3.58,,1,lost,v England,North Sound,2 Mar 2014,ODI # 3480,WestIndies,4
+276,3 wickets,31.0,won,2nd,163/7,44.5,3.63,160.0,2,won,v West Indies,North Sound,2 Mar 2014,ODI # 3480,England,1
+277,129 runs,,won,1st,253/6,50.0,5.06,,1,won,v Afghanistan,Dhaka,3 Mar 2014,ODI # 3481,SriLanka,8
+278,129 runs,,lost,2nd,124,38.4,3.20,254.0,2,lost,v Sri Lanka,Dhaka,3 Mar 2014,ODI # 3481,Afghanistan,40
+279,3 wickets,1.0,lost,2nd,329/7,49.5,6.60,327.0,2,won,v Bangladesh,Dhaka,4 Mar 2014,ODI # 3482,Pakistan,7
+280,3 wickets,1.0,won,1st,326/3,50.0,6.52,,1,lost,v Pakistan,Dhaka,4 Mar 2014,ODI # 3482,Bangladesh,25
+281,8 wickets,106.0,won,2nd,160/2,32.2,4.94,160.0,2,won,v Afghanistan,Dhaka,5 Mar 2014,ODI # 3483,India,6
+282,8 wickets,106.0,lost,1st,159,45.2,3.50,,1,lost,v India,Dhaka,5 Mar 2014,ODI # 3483,Afghanistan,40
+283,25 runs,,won,2nd,278,47.4,5.83,304.0,2,lost,v England,North Sound,5 Mar 2014,ODI # 3484,WestIndies,4
+284,25 runs,,lost,1st,303/6,50.0,6.06,,1,won,v West Indies,North Sound,5 Mar 2014,ODI # 3484,England,1
+285,3 wickets,6.0,lost,2nd,208/7,49.0,4.24,205.0,2,won,v Bangladesh,Dhaka,6 Mar 2014,ODI # 3485,SriLanka,8
+286,3 wickets,6.0,won,1st,204/9,50.0,4.08,,1,lost,v Sri Lanka,Dhaka,6 Mar 2014,ODI # 3485,Bangladesh,25
+287,5 wickets,22.0,lost,2nd,261/5,46.2,5.63,261.0,2,won,v Pakistan,Dhaka,8 Mar 2014,ODI # 3486,SriLanka,8
+288,5 wickets,22.0,won,1st,260/5,50.0,5.20,,1,lost,v Sri Lanka,Dhaka,8 Mar 2014,ODI # 3486,Pakistan,7
+289,6 wickets,41.0,won,2nd,218/4,43.1,5.05,217.0,2,won,v Hong Kong,Kuala Lumpur,1 May 2014,ODI # 3487,Afghanistan,40
+290,70 runs,,lost,1st,302/5,50.0,6.04,,1,won,v U.A.E.,Kuala Lumpur,2 May 2014,ODI # 3488,Afghanistan,40
+291,79 runs,,lost,1st,219/8,50.0,4.38,,1,won,v Ireland,Dublin,6 May 2014,ODI # 3490,SriLanka,8
+292,39 runs,,lost,1st,167/6,20.0,8.35,,1,won,v Scotland,Aberdeen,9 May 2014,ODI # 3491,England,1
+293,81 runs,,won,2nd,144,27.5,5.17,226.0,2,lost,v England,The Oval,22 May 2014,ODI # 3492,SriLanka,8
+294,81 runs,,lost,1st,247/6,39.0,6.33,,1,won,v Sri Lanka,The Oval,22 May 2014,ODI # 3492,England,1
+295,157 runs,,lost,1st,256/8,50.0,5.12,,1,won,v England,Chester-le-Street,25 May 2014,ODI # 3493,SriLanka,8
+296,157 runs,,won,2nd,99,26.1,3.78,257.0,2,lost,v Sri Lanka,Chester-le-Street,25 May 2014,ODI # 3493,England,1
+297,10 wickets,227.0,lost,1st,67,24.0,2.79,,1,lost,v England,Manchester,28 May 2014,ODI # 3494,SriLanka,8
+298,10 wickets,227.0,won,2nd,73/0,12.1,6.00,68.0,2,won,v Sri Lanka,Manchester,28 May 2014,ODI # 3494,England,1
+299,7 runs,,lost,1st,300/9,50.0,6.00,,1,won,v England,Lord's,31 May 2014,ODI # 3495,SriLanka,8
+300,7 runs,,won,2nd,293/8,50.0,5.86,301.0,2,lost,v Sri Lanka,Lord's,31 May 2014,ODI # 3495,England,1
+301,6 wickets,10.0,lost,2nd,222/4,48.2,4.59,220.0,2,won,v England,Birmingham,3 Jun 2014,ODI # 3496,SriLanka,8
+302,6 wickets,10.0,won,1st,219,48.1,4.54,,1,lost,v Sri Lanka,Birmingham,3 Jun 2014,ODI # 3496,England,1
+303,7 wickets,7.0,lost,2nd,153/3,24.5,6.16,150.0,2,won,v Bangladesh,Dhaka,15 Jun 2014,ODI # 3497,India,6
+304,7 wickets,7.0,won,1st,272/9,50.0,5.44,,1,lost,v India,Dhaka,15 Jun 2014,ODI # 3497,Bangladesh,25
+305,47 runs,,lost,1st,105,25.3,4.11,,1,won,v Bangladesh,Dhaka,17 Jun 2014,ODI # 3498,India,6
+306,47 runs,,won,2nd,58,17.4,3.28,106.0,2,lost,v India,Dhaka,17 Jun 2014,ODI # 3498,Bangladesh,25
+307,-,,won,1st,119/9,34.2,3.46,,1,n/r,v Bangladesh,Dhaka,19 Jun 2014,ODI # 3499,India,6
+308,-,,lost,2nd,DNB,0.0,-,,0,n/r,v India,Dhaka,19 Jun 2014,ODI # 3499,Bangladesh,25
+309,75 runs,,lost,2nd,229,40.3,5.65,305.0,2,lost,v South Africa,Colombo (RPS),6 Jul 2014,ODI # 3500,SriLanka,8
+310,75 runs,,won,1st,304/5,50.0,6.08,,1,won,v Sri Lanka,Colombo (RPS),6 Jul 2014,ODI # 3500,SouthAfrica,3
+311,87 runs,,won,1st,267,49.2,5.41,,1,won,v South Africa,Pallekele,9 Jul 2014,ODI # 3501,SriLanka,8
+312,87 runs,,lost,2nd,180,38.1,4.71,268.0,2,lost,v Sri Lanka,Pallekele,9 Jul 2014,ODI # 3501,SouthAfrica,3
+313,82 runs,,lost,2nd,257,44.3,5.77,340.0,2,lost,v South Africa,Hambantota,12 Jul 2014,ODI # 3502,SriLanka,8
+314,82 runs,,won,1st,339/5,50.0,6.78,,1,won,v Sri Lanka,Hambantota,12 Jul 2014,ODI # 3502,SouthAfrica,3
+315,6 wickets,28.0,lost,1st,223/9,50.0,4.46,,1,lost,v Zimbabwe,Bulawayo,18 Jul 2014,ODI # 3503,Afghanistan,40
+316,8 wickets,39.0,lost,1st,256/7,50.0,5.12,,1,lost,v Zimbabwe,Bulawayo,20 Jul 2014,ODI # 3504,Afghanistan,40
+317,2 wickets,2.0,won,2nd,264/8,49.4,5.31,262.0,2,won,v Zimbabwe,Bulawayo,22 Jul 2014,ODI # 3505,Afghanistan,40
+318,100 runs,,lost,1st,259,49.1,5.26,,1,won,v Zimbabwe,Bulawayo,24 Jul 2014,ODI # 3506,Afghanistan,40
+319,93 runs,,lost,1st,309/3,50.0,6.18,,1,won,v Zimbabwe,Bulawayo,17 Aug 2014,ODI # 3507,SouthAfrica,3
+320,61 runs,,lost,1st,257,49.4,5.17,,1,won,v Zimbabwe,Bulawayo,19 Aug 2014,ODI # 3508,SouthAfrica,3
+321,3 wickets,62.0,won,2nd,219/7,39.4,5.52,218.0,2,won,v Bangladesh,St George's,20 Aug 2014,ODI # 3509,WestIndies,4
+322,3 wickets,62.0,lost,1st,217/9,50.0,4.34,,1,lost,v West Indies,St George's,20 Aug 2014,ODI # 3509,Bangladesh,25
+323,7 wickets,136.0,won,2nd,171/3,27.2,6.25,166.0,2,won,v Zimbabwe,Bulawayo,21 Aug 2014,ODI # 3510,SouthAfrica,3
+324,177 runs,,lost,1st,247/7,50.0,4.94,,1,won,v Bangladesh,St George's,22 Aug 2014,ODI # 3511,WestIndies,4
+325,177 runs,,won,2nd,70,24.4,2.83,248.0,2,lost,v West Indies,St George's,22 Aug 2014,ODI # 3511,Bangladesh,25
+326,4 wickets,1.0,lost,1st,275/7,45.0,6.11,,1,lost,v Pakistan,Hambantota,23 Aug 2014,ODI # 3512,SriLanka,8
+327,4 wickets,1.0,won,2nd,277/6,44.5,6.17,275.0,2,won,v Sri Lanka,Hambantota,23 Aug 2014,ODI # 3512,Pakistan,7
+328,198 runs,,lost,1st,350/6,50.0,7.00,,1,won,v Zimbabwe,Harare,25 Aug 2014,ODI # 3513,Australia,2
+329,91 runs,,won,1st,338/7,50.0,6.76,,1,won,v Bangladesh,Basseterre,25 Aug 2014,ODI # 3514,WestIndies,4
+330,91 runs,,lost,2nd,247/8,50.0,4.94,339.0,2,lost,v West Indies,Basseterre,25 Aug 2014,ODI # 3514,Bangladesh,25
+331,77 runs,,won,1st,310/9,50.0,6.20,,1,won,v Pakistan,Hambantota,26 Aug 2014,ODI # 3515,SriLanka,8
+332,77 runs,,lost,2nd,233,43.5,5.31,311.0,2,lost,v Sri Lanka,Hambantota,26 Aug 2014,ODI # 3515,Pakistan,7
+333,7 wickets,20.0,won,2nd,328/3,46.4,7.02,328.0,2,won,v Australia,Harare,27 Aug 2014,ODI # 3516,SouthAfrica,3
+334,7 wickets,20.0,lost,1st,327/7,50.0,6.54,,1,lost,v South Africa,Harare,27 Aug 2014,ODI # 3516,Australia,2
+335,133 runs,,lost,1st,304/6,50.0,6.08,,1,won,v England,Cardiff,27 Aug 2014,ODI # 3517,India,6
+336,133 runs,,won,2nd,161,38.1,4.21,295.0,2,lost,v India,Cardiff,27 Aug 2014,ODI # 3517,England,1
+337,61 runs,,lost,1st,231,49.5,4.63,,1,won,v Zimbabwe,Harare,29 Aug 2014,ODI # 3518,SouthAfrica,3
+338,7 wickets,178.0,lost,2nd,104/3,18.2,5.67,101.0,2,won,v Pakistan,Dambulla,30 Aug 2014,ODI # 3519,SriLanka,8
+339,7 wickets,178.0,won,1st,102,32.1,3.17,,1,lost,v Sri Lanka,Dambulla,30 Aug 2014,ODI # 3519,Pakistan,7
+340,6 wickets,42.0,won,2nd,228/4,43.0,5.30,228.0,2,won,v England,Nottingham,30 Aug 2014,ODI # 3520,India,6
+341,6 wickets,42.0,lost,1st,227,50.0,4.54,,1,lost,v India,Nottingham,30 Aug 2014,ODI # 3520,England,1
+342,3 wickets,12.0,won,1st,209/9,50.0,4.18,,1,lost,v Zimbabwe,Harare,31 Aug 2014,ODI # 3521,Australia,2
+343,62 runs,,won,2nd,220,44.0,5.00,283.0,2,lost,v Australia,Harare,2 Sep 2014,ODI # 3522,SouthAfrica,3
+344,62 runs,,lost,1st,282/7,50.0,5.64,,1,won,v South Africa,Harare,2 Sep 2014,ODI # 3522,Australia,2
+345,9 wickets,117.0,won,2nd,212/1,30.3,6.95,207.0,2,won,v England,Birmingham,2 Sep 2014,ODI # 3523,India,6
+346,9 wickets,117.0,lost,1st,206,49.3,4.16,,1,lost,v India,Birmingham,2 Sep 2014,ODI # 3523,England,1
+347,63 runs,,lost,1st,271/6,50.0,5.42,,1,won,v Zimbabwe,Harare,4 Sep 2014,ODI # 3524,SouthAfrica,3
+348,41 runs,,won,2nd,253,48.4,5.19,295.0,2,lost,v England,Leeds,5 Sep 2014,ODI # 3525,India,6
+349,41 runs,,lost,1st,294/7,50.0,5.88,,1,won,v India,Leeds,5 Sep 2014,ODI # 3525,England,1
+350,6 wickets,55.0,won,2nd,221/4,40.5,5.41,218.0,2,won,v Australia,Harare,6 Sep 2014,ODI # 3526,SouthAfrica,3
+351,6 wickets,55.0,lost,1st,217/9,50.0,4.34,,1,lost,v South Africa,Harare,6 Sep 2014,ODI # 3526,Australia,2
+352,93 runs,,lost,2nd,162,36.3,4.43,256.0,2,lost,v Australia,Sharjah,7 Oct 2014,ODI # 3530,Pakistan,7
+353,93 runs,,won,1st,255/8,50.0,5.10,,1,won,v Pakistan,Sharjah,7 Oct 2014,ODI # 3530,Australia,2
+354,124 runs,,lost,1st,321/6,50.0,6.42,,1,won,v India,Kochi,8 Oct 2014,ODI # 3531,WestIndies,4
+355,124 runs,,won,2nd,197,41.0,4.80,322.0,2,lost,v West Indies,Kochi,8 Oct 2014,ODI # 3531,India,6
+356,5 wickets,40.0,won,1st,215,49.3,4.34,,1,lost,v Australia,Dubai (DSC),10 Oct 2014,ODI # 3532,Pakistan,7
+357,5 wickets,40.0,lost,2nd,217/5,43.2,5.00,216.0,2,won,v Pakistan,Dubai (DSC),10 Oct 2014,ODI # 3532,Australia,2
+358,48 runs,,lost,2nd,215,46.3,4.62,264.0,2,lost,v India,Delhi,11 Oct 2014,ODI # 3533,WestIndies,4
+359,48 runs,,won,1st,263/7,50.0,5.26,,1,won,v West Indies,Delhi,11 Oct 2014,ODI # 3533,India,6
+360,1 runs,,lost,2nd,230,50.0,4.60,232.0,2,lost,v Australia,Abu Dhabi,12 Oct 2014,ODI # 3534,Pakistan,7
+361,1 runs,,won,1st,231/9,50.0,4.62,,1,won,v Pakistan,Abu Dhabi,12 Oct 2014,ODI # 3534,Australia,2
+362,59 runs,,won,2nd,271,48.1,5.62,331.0,2,lost,v India,Dharamsala,17 Oct 2014,ODI # 3535,WestIndies,4
+363,59 runs,,lost,1st,330/6,50.0,6.60,,1,won,v West Indies,Dharamsala,17 Oct 2014,ODI # 3535,India,6
+364,6 wickets,11.0,won,2nd,236/4,48.1,4.89,231.0,2,won,v New Zealand,Mount Maunganui,21 Oct 2014,ODI # 3536,SouthAfrica,3
+365,6 wickets,11.0,lost,1st,230,45.1,5.09,,1,lost,v South Africa,Mount Maunganui,21 Oct 2014,ODI # 3536,Newzealad,5
+366,72 runs,,lost,1st,282/9,50.0,5.64,,1,won,v New Zealand,Mount Maunganui,24 Oct 2014,ODI # 3537,SouthAfrica,3
+367,72 runs,,won,2nd,210,46.3,4.51,283.0,2,lost,v South Africa,Mount Maunganui,24 Oct 2014,ODI # 3537,Newzealad,5
+368,-,,lost,1st,157/3,30.4,5.11,,1,n/r,v New Zealand,Hamilton,27 Oct 2014,ODI # 3538,SouthAfrica,3
+369,-,,won,2nd,DNB,0.0,-,,0,n/r,v South Africa,Hamilton,27 Oct 2014,ODI # 3538,Newzealad,5
+370,169 runs,,won,2nd,194,39.2,4.93,364.0,2,lost,v India,Cuttack,2 Nov 2014,ODI # 3539,SriLanka,8
+371,169 runs,,lost,1st,363/5,50.0,7.26,,1,won,v Sri Lanka,Cuttack,2 Nov 2014,ODI # 3539,India,6
+372,6 wickets,33.0,won,1st,274/8,50.0,5.48,,1,lost,v India,Ahmedabad,6 Nov 2014,ODI # 3540,SriLanka,8
+373,6 wickets,33.0,lost,2nd,275/4,44.3,6.17,275.0,2,won,v Sri Lanka,Ahmedabad,6 Nov 2014,ODI # 3540,India,6
+374,6 wickets,35.0,won,1st,242,48.2,5.00,,1,lost,v India,Hyderabad (Deccan),9 Nov 2014,ODI # 3543,SriLanka,8
+375,6 wickets,35.0,lost,2nd,245/4,44.1,5.54,243.0,2,won,v Sri Lanka,Hyderabad (Deccan),9 Nov 2014,ODI # 3543,India,6
+376,153 runs,,lost,2nd,251,43.1,5.81,405.0,2,lost,v India,Kolkata,13 Nov 2014,ODI # 3544,SriLanka,8
+377,153 runs,,won,1st,404/5,50.0,8.08,,1,won,v Sri Lanka,Kolkata,13 Nov 2014,ODI # 3544,India,6
+378,32 runs,,won,2nd,268,48.1,5.56,301.0,2,lost,v Australia,Perth,14 Nov 2014,ODI # 3545,SouthAfrica,3
+379,32 runs,,lost,1st,300/8,50.0,6.00,,1,won,v South Africa,Perth,14 Nov 2014,ODI # 3545,Australia,2
+380,3 wickets,134.0,lost,2nd,157/7,27.4,5.67,155.0,2,won,v Australia,Perth,16 Nov 2014,ODI # 3546,SouthAfrica,3
+381,3 wickets,134.0,won,1st,154,41.4,3.69,,1,lost,v South Africa,Perth,16 Nov 2014,ODI # 3546,Australia,2
+382,3 wickets,8.0,won,1st,286/8,50.0,5.72,,1,lost,v India,Ranchi,16 Nov 2014,ODI # 3547,SriLanka,8
+383,3 wickets,8.0,lost,2nd,288/7,48.4,5.91,287.0,2,won,v Sri Lanka,Ranchi,16 Nov 2014,ODI # 3547,India,6
+384,73 runs,,lost,2nd,256,44.3,5.75,330.0,2,lost,v Australia,Canberra,19 Nov 2014,ODI # 3548,SouthAfrica,3
+385,73 runs,,won,1st,329/5,50.0,6.58,,1,won,v South Africa,Canberra,19 Nov 2014,ODI # 3548,Australia,2
+386,3 wickets,6.0,won,1st,267/8,50.0,5.34,,1,lost,v Australia,Melbourne,21 Nov 2014,ODI # 3549,SouthAfrica,3
+387,3 wickets,6.0,lost,2nd,268/7,49.0,5.46,268.0,2,won,v South Africa,Melbourne,21 Nov 2014,ODI # 3549,Australia,2
+388,87 runs,,lost,1st,281/7,50.0,5.62,,1,won,v Zimbabwe,Chattogram,21 Nov 2014,ODI # 3550,Bangladesh,25
+389,2 wickets,5.0,won,1st,280/6,50.0,5.60,,1,lost,v Australia,Sydney,23 Nov 2014,ODI # 3551,SouthAfrica,3
+390,2 wickets,5.0,lost,2nd,275/8,47.1,5.83,275.0,2,won,v South Africa,Sydney,23 Nov 2014,ODI # 3551,Australia,2
+391,68 runs,,won,1st,251/7,50.0,5.02,,1,won,v Zimbabwe,Chattogram,23 Nov 2014,ODI # 3552,Bangladesh,25
+392,124 runs,,lost,1st,297/6,50.0,5.94,,1,won,v Zimbabwe,Dhaka,26 Nov 2014,ODI # 3553,Bangladesh,25
+393,25 runs,,lost,1st,317/6,50.0,6.34,,1,won,v England,Colombo (RPS),26 Nov 2014,ODI # 3554,SriLanka,8
+394,25 runs,,won,2nd,292,47.1,6.19,318.0,2,lost,v Sri Lanka,Colombo (RPS),26 Nov 2014,ODI # 3554,England,1
+395,21 runs,,won,1st,256/8,50.0,5.12,,1,won,v Zimbabwe,Dhaka,28 Nov 2014,ODI # 3555,Bangladesh,25
+396,5 wickets,8.0,won,1st,248/6,50.0,4.96,,1,lost,v U.A.E.,ICCA Dubai,28 Nov 2014,ODI # 3556,Afghanistan,40
+397,8 wickets,64.0,lost,2nd,186/2,34.2,5.41,186.0,2,won,v England,Colombo (RPS),29 Nov 2014,ODI # 3557,SriLanka,8
+398,8 wickets,64.0,won,1st,185,43.0,4.30,,1,lost,v Sri Lanka,Colombo (RPS),29 Nov 2014,ODI # 3557,England,1
+399,6 wickets,10.0,lost,1st,280/8,50.0,5.60,,1,lost,v U.A.E.,ICCA Dubai,30 Nov 2014,ODI # 3558,Afghanistan,40
+400,5 wickets,153.0,lost,2nd,130/5,24.3,5.30,129.0,2,won,v Zimbabwe,Dhaka,1 Dec 2014,ODI # 3559,Bangladesh,25
+401,2 wickets,2.0,won,2nd,276/8,49.4,5.55,274.0,2,won,v U.A.E.,ICCA Dubai,2 Dec 2014,ODI # 3560,Afghanistan,40
+402,5 wickets,8.0,won,1st,242/8,35.0,6.91,,1,lost,v England,Hambantota,3 Dec 2014,ODI # 3561,SriLanka,8
+403,5 wickets,8.0,lost,2nd,236/5,33.4,7.00,236.0,2,won,v Sri Lanka,Hambantota,3 Dec 2014,ODI # 3561,England,1
+404,30 runs,,won,2nd,228,49.3,4.60,259.0,2,lost,v U.A.E.,ICCA Dubai,4 Dec 2014,ODI # 3562,Afghanistan,40
+405,6 wickets,2.0,lost,2nd,267/4,49.4,5.37,266.0,2,won,v England,Colombo (RPS),7 Dec 2014,ODI # 3563,SriLanka,8
+406,6 wickets,2.0,won,1st,265,50.0,5.30,,1,lost,v Sri Lanka,Colombo (RPS),7 Dec 2014,ODI # 3563,England,1
+407,3 wickets,3.0,won,2nd,250/7,49.3,5.05,247.0,2,won,v New Zealand,Dubai (DSC),8 Dec 2014,ODI # 3564,Pakistan,7
+408,3 wickets,3.0,lost,1st,246/7,50.0,4.92,,1,lost,v Pakistan,Dubai (DSC),8 Dec 2014,ODI # 3564,Newzealad,5
+409,5 wickets,5.0,lost,1st,239,49.0,4.87,,1,lost,v England,Pallekele,10 Dec 2014,ODI # 3565,SriLanka,8
+410,5 wickets,5.0,won,2nd,240/5,49.1,4.88,240.0,2,won,v Sri Lanka,Pallekele,10 Dec 2014,ODI # 3565,England,1
+411,4 wickets,24.0,won,1st,252,48.3,5.19,,1,lost,v New Zealand,Sharjah,12 Dec 2014,ODI # 3566,Pakistan,7
+412,4 wickets,24.0,lost,2nd,255/6,46.0,5.54,253.0,2,won,v Pakistan,Sharjah,12 Dec 2014,ODI # 3566,Newzealad,5
+413,90 runs,,won,1st,292/7,50.0,5.84,,1,won,v England,Pallekele,13 Dec 2014,ODI # 3567,SriLanka,8
+414,90 runs,,lost,2nd,202,41.3,4.86,293.0,2,lost,v Sri Lanka,Pallekele,13 Dec 2014,ODI # 3567,England,1
+415,147 runs,,won,1st,364/7,50.0,7.28,,1,won,v New Zealand,Sharjah,14 Dec 2014,ODI # 3568,Pakistan,7
+416,147 runs,,lost,2nd,217,38.2,5.66,365.0,2,lost,v Pakistan,Sharjah,14 Dec 2014,ODI # 3568,Newzealad,5
+417,87 runs,,won,1st,302/6,50.0,6.04,,1,won,v England,Colombo (RPS),16 Dec 2014,ODI # 3569,SriLanka,8
+418,87 runs,,lost,2nd,215,45.5,4.69,303.0,2,lost,v Sri Lanka,Colombo (RPS),16 Dec 2014,ODI # 3569,England,1
+419,7 runs,,lost,2nd,292/8,50.0,5.84,300.0,2,lost,v New Zealand,Abu Dhabi,17 Dec 2014,ODI # 3570,Pakistan,7
+420,7 runs,,won,1st,299/5,50.0,5.98,,1,won,v Pakistan,Abu Dhabi,17 Dec 2014,ODI # 3570,Newzealad,5
+421,68 runs,,lost,2nd,207,43.3,4.75,276.0,2,lost,v New Zealand,Abu Dhabi,19 Dec 2014,ODI # 3571,Pakistan,7
+422,68 runs,,won,1st,275/4,50.0,5.50,,1,won,v Pakistan,Abu Dhabi,19 Dec 2014,ODI # 3571,Newzealad,5
+423,8 wickets,42.0,won,2nd,240/2,38.0,6.31,238.0,2,won,v Scotland,ICCA Dubai,8 Jan 2015,ODI # 3572,Afghanistan,40
+424,3 wickets,40.0,lost,1st,180,44.2,4.06,,1,lost,v Ireland,Dubai (DSC),10 Jan 2015,ODI # 3573,Afghanistan,40
+425,3 wickets,42.0,won,1st,218/9,50.0,4.36,,1,lost,v New Zealand,Christchurch,11 Jan 2015,ODI # 3574,SriLanka,8
+426,3 wickets,42.0,lost,2nd,219/7,43.0,5.09,219.0,2,won,v Sri Lanka,Christchurch,11 Jan 2015,ODI # 3574,Newzealad,5
+427,150 runs,,lost,2nd,63,18.3,3.40,214.0,2,lost,v Scotland,Abu Dhabi,14 Jan 2015,ODI # 3576,Afghanistan,40
+428,6 wickets,14.0,lost,2nd,252/4,47.4,5.28,249.0,2,won,v New Zealand,Hamilton,15 Jan 2015,ODI # 3577,SriLanka,8
+429,6 wickets,14.0,won,1st,248,50.0,4.96,,1,lost,v Sri Lanka,Hamilton,15 Jan 2015,ODI # 3577,Newzealad,5
+430,3 wickets,61.0,won,1st,234,47.5,4.89,,1,lost,v Australia,Sydney,16 Jan 2015,ODI # 3578,England,1
+431,3 wickets,61.0,lost,2nd,235/7,39.5,5.89,235.0,2,won,v England,Sydney,16 Jan 2015,ODI # 3578,Australia,2
+432,61 runs,,lost,2nd,164,28.2,5.78,226.0,2,lost,v South Africa,Durban,16 Jan 2015,ODI # 3579,WestIndies,4
+433,61 runs,,won,1st,279/8,48.2,5.77,,1,won,v West Indies,Durban,16 Jan 2015,ODI # 3579,SouthAfrica,3
+434,-,,won,2nd,DNB,0.0,-,,0,n/r,v New Zealand,Auckland,17 Jan 2015,ODI # 3580,SriLanka,8
+435,-,,lost,1st,145/3,28.5,5.02,,1,n/r,v Sri Lanka,Auckland,17 Jan 2015,ODI # 3580,Newzealad,5
+436,71 runs,,lost,1st,246/8,50.0,4.92,,1,won,v Ireland,Dubai (DSC),17 Jan 2015,ODI # 3581,Afghanistan,40
+437,4 wickets,6.0,won,1st,267/8,50.0,5.34,,1,lost,v Australia,Melbourne,18 Jan 2015,ODI # 3582,India,6
+438,4 wickets,6.0,lost,2nd,269/6,49.0,5.48,268.0,2,won,v India,Melbourne,18 Jan 2015,ODI # 3582,Australia,2
+439,148 runs,,won,2nd,291/7,50.0,5.82,440.0,2,lost,v South Africa,Johannesburg,18 Jan 2015,ODI # 3583,WestIndies,4
+440,148 runs,,lost,1st,439/2,50.0,8.78,,1,won,v West Indies,Johannesburg,18 Jan 2015,ODI # 3583,SouthAfrica,3
+441,4 wickets,11.0,won,1st,276,49.3,5.57,,1,lost,v New Zealand,Nelson,20 Jan 2015,ODI # 3585,SriLanka,8
+442,4 wickets,11.0,lost,2nd,280/6,48.1,5.81,277.0,2,won,v Sri Lanka,Nelson,20 Jan 2015,ODI # 3585,Newzealad,5
+443,9 wickets,135.0,won,1st,153,39.3,3.87,,1,lost,v England,Brisbane,20 Jan 2015,ODI # 3586,India,6
+444,9 wickets,135.0,lost,2nd,156/1,27.3,5.67,154.0,2,won,v India,Brisbane,20 Jan 2015,ODI # 3586,England,1
+445,9 wickets,152.0,won,1st,122,33.4,3.62,,1,lost,v South Africa,East London,21 Jan 2015,ODI # 3587,WestIndies,4
+446,9 wickets,152.0,lost,2nd,124/1,24.4,5.02,123.0,2,won,v West Indies,East London,21 Jan 2015,ODI # 3587,SouthAfrica,3
+447,108 runs,,won,2nd,252,43.4,5.77,361.0,2,lost,v New Zealand,Dunedin,23 Jan 2015,ODI # 3588,SriLanka,8
+448,108 runs,,lost,1st,360/5,50.0,7.20,,1,won,v Sri Lanka,Dunedin,23 Jan 2015,ODI # 3588,Newzealad,5
+449,3 wickets,1.0,lost,1st,303/8,50.0,6.06,,1,lost,v Australia,Hobart,23 Jan 2015,ODI # 3589,England,1
+450,3 wickets,1.0,won,2nd,304/7,49.5,6.10,304.0,2,won,v England,Hobart,23 Jan 2015,ODI # 3589,Australia,2
+451,120 runs,,lost,2nd,195,40.3,4.81,316.0,2,lost,v New Zealand,Dunedin,25 Jan 2015,ODI # 3590,SriLanka,8
+452,120 runs,,won,1st,315/8,50.0,6.30,,1,won,v Sri Lanka,Dunedin,25 Jan 2015,ODI # 3590,Newzealad,5
+453,1 wickets,9.0,won,2nd,266/9,48.3,5.48,263.0,2,won,v South Africa,Port Elizabeth,25 Jan 2015,ODI # 3591,WestIndies,4
+454,1 wickets,9.0,lost,1st,262/8,50.0,5.24,,1,lost,v West Indies,Port Elizabeth,25 Jan 2015,ODI # 3591,SouthAfrica,3
+455,-,,lost,1st,69/2,16.0,4.31,,1,n/r,v Australia,Sydney,26 Jan 2015,ODI # 3592,India,6
+456,-,,won,2nd,DNB,0.0,-,,0,n/r,v India,Sydney,26 Jan 2015,ODI # 3592,Australia,2
+457,131 runs,,won,2nd,230,37.4,6.10,362.0,2,lost,v South Africa,Centurion,28 Jan 2015,ODI # 3593,WestIndies,4
+458,131 runs,,lost,1st,361/5,42.0,8.59,,1,won,v West Indies,Centurion,28 Jan 2015,ODI # 3593,SouthAfrica,3
+459,34 runs,,won,1st,287/6,50.0,5.74,,1,won,v New Zealand,Wellington,29 Jan 2015,ODI # 3594,SriLanka,8
+460,34 runs,,lost,2nd,253,45.2,5.58,288.0,2,lost,v Sri Lanka,Wellington,29 Jan 2015,ODI # 3594,Newzealad,5
+461,3 wickets,19.0,lost,1st,200,48.1,4.15,,1,lost,v England,Perth,30 Jan 2015,ODI # 3595,India,6
+462,3 wickets,19.0,won,2nd,201/7,46.5,4.29,201.0,2,won,v India,Perth,30 Jan 2015,ODI # 3595,England,1
+463,7 wickets,63.0,lost,1st,210,45.3,4.61,,1,lost,v New Zealand,Wellington,31 Jan 2015,ODI # 3596,Pakistan,7
+464,7 wickets,63.0,won,2nd,213/3,39.3,5.39,211.0,2,won,v Pakistan,Wellington,31 Jan 2015,ODI # 3596,Newzealad,5
+465,112 runs,,won,2nd,166,39.1,4.23,279.0,2,lost,v Australia,Perth,1 Feb 2015,ODI # 3597,England,1
+466,112 runs,,lost,1st,278/8,50.0,5.56,,1,won,v England,Perth,1 Feb 2015,ODI # 3597,Australia,2
+467,119 runs,,lost,2nd,250,43.1,5.79,370.0,2,lost,v New Zealand,Napier,3 Feb 2015,ODI # 3598,Pakistan,7
+468,119 runs,,won,1st,369/5,50.0,7.38,,1,won,v Pakistan,Napier,3 Feb 2015,ODI # 3598,Newzealad,5
+469,98 runs,,won,2nd,233,46.1,5.04,332.0,2,lost,v New Zealand,Christchurch,14 Feb 2015,ODI # 3599,SriLanka,8
+470,98 runs,,lost,1st,331/6,50.0,6.62,,1,won,v Sri Lanka,Christchurch,14 Feb 2015,ODI # 3599,Newzealad,5
+471,111 runs,,won,2nd,231,41.5,5.52,343.0,2,lost,v Australia,Melbourne,14 Feb 2015,ODI # 3600,England,1
+472,111 runs,,lost,1st,342/9,50.0,6.84,,1,won,v England,Melbourne,14 Feb 2015,ODI # 3600,Australia,2
+473,62 runs,,lost,1st,339/4,50.0,6.78,,1,won,v Zimbabwe,Hamilton,15 Feb 2015,ODI # 3601,SouthAfrica,3
+474,76 runs,,lost,2nd,224,47.0,4.76,301.0,2,lost,v India,Adelaide,15 Feb 2015,ODI # 3602,Pakistan,7
+475,76 runs,,won,1st,300/7,50.0,6.00,,1,won,v Pakistan,Adelaide,15 Feb 2015,ODI # 3602,India,6
+476,4 wickets,25.0,lost,1st,304/7,50.0,6.08,,1,lost,v Ireland,Nelson,16 Feb 2015,ODI # 3603,WestIndies,4
+477,3 wickets,151.0,won,2nd,146/7,24.5,5.87,143.0,2,won,v Scotland,Dunedin,17 Feb 2015,ODI # 3604,Newzealad,5
+478,105 runs,,won,1st,267,50.0,5.34,,1,won,v Afghanistan,Canberra,18 Feb 2015,ODI # 3605,Bangladesh,25
+479,105 runs,,lost,2nd,162,42.5,3.78,268.0,2,lost,v Bangladesh,Canberra,18 Feb 2015,ODI # 3605,Afghanistan,40
+480,8 wickets,226.0,lost,2nd,125/2,12.2,10.13,124.0,2,won,v England,Wellington,20 Feb 2015,ODI # 3607,Newzealad,5
+481,8 wickets,226.0,won,1st,123,33.2,3.69,,1,lost,v New Zealand,Wellington,20 Feb 2015,ODI # 3607,England,1
+482,150 runs,,lost,1st,310/6,50.0,6.20,,1,won,v Pakistan,Christchurch,21 Feb 2015,ODI # 3608,WestIndies,4
+483,150 runs,,won,2nd,160,39.0,4.10,311.0,2,lost,v West Indies,Christchurch,21 Feb 2015,ODI # 3608,Pakistan,7
+484,4 wickets,10.0,won,2nd,236/6,48.2,4.88,233.0,2,won,v Afghanistan,Dunedin,22 Feb 2015,ODI # 3609,SriLanka,8
+485,4 wickets,10.0,lost,1st,232,49.4,4.67,,1,lost,v Sri Lanka,Dunedin,22 Feb 2015,ODI # 3609,Afghanistan,40
+486,130 runs,,lost,2nd,177,40.2,4.38,308.0,2,lost,v India,Melbourne,22 Feb 2015,ODI # 3610,SouthAfrica,3
+487,130 runs,,won,1st,307/7,50.0,6.14,,1,won,v South Africa,Melbourne,22 Feb 2015,ODI # 3610,India,6
+488,119 runs,,lost,1st,303/8,50.0,6.06,,1,won,v Scotland,Christchurch,23 Feb 2015,ODI # 3611,England,1
+489,73 runs,,won,1st,372/2,50.0,7.44,,1,won,v Zimbabwe,Canberra,24 Feb 2015,ODI # 3612,WestIndies,4
+490,1 wickets,3.0,won,2nd,211/9,49.3,4.26,211.0,2,won,v Scotland,Dunedin,26 Feb 2015,ODI # 3614,Afghanistan,40
+491,92 runs,,won,1st,332/1,50.0,6.64,,1,won,v Bangladesh,Melbourne,26 Feb 2015,ODI # 3615,SriLanka,8
+492,92 runs,,lost,2nd,240,47.0,5.10,333.0,2,lost,v Sri Lanka,Melbourne,26 Feb 2015,ODI # 3615,Bangladesh,25
+493,257 runs,,lost,2nd,151,33.1,4.55,409.0,2,lost,v South Africa,Sydney,27 Feb 2015,ODI # 3616,WestIndies,4
+494,257 runs,,won,1st,408/5,50.0,8.16,,1,won,v West Indies,Sydney,27 Feb 2015,ODI # 3616,SouthAfrica,3
+495,1 wickets,161.0,lost,2nd,152/9,23.1,6.56,152.0,2,won,v Australia,Auckland,28 Feb 2015,ODI # 3617,Newzealad,5
+496,1 wickets,161.0,won,1st,151,32.2,4.67,,1,lost,v New Zealand,Auckland,28 Feb 2015,ODI # 3617,Australia,2
+497,9 wickets,187.0,lost,2nd,104/1,18.5,5.52,103.0,2,won,v U.A.E.,Perth,28 Feb 2015,ODI # 3618,India,6
+498,9 wickets,16.0,lost,2nd,312/1,47.2,6.59,310.0,2,won,v England,Wellington,1 Mar 2015,ODI # 3619,SriLanka,8
+499,9 wickets,16.0,won,1st,309/6,50.0,6.18,,1,lost,v Sri Lanka,Wellington,1 Mar 2015,ODI # 3619,England,1
+500,20 runs,,won,1st,235/7,50.0,4.70,,1,won,v Zimbabwe,Brisbane,1 Mar 2015,ODI # 3620,Pakistan,7
+501,201 runs,,won,1st,411/4,50.0,8.22,,1,won,v Ireland,Canberra,3 Mar 2015,ODI # 3621,SouthAfrica,3
+502,129 runs,,lost,1st,339/6,50.0,6.78,,1,won,v U.A.E.,Napier,4 Mar 2015,ODI # 3622,Pakistan,7
+503,275 runs,,lost,1st,417/6,50.0,8.34,,1,won,v Afghanistan,Perth,4 Mar 2015,ODI # 3623,Australia,2
+504,275 runs,,won,2nd,142,37.3,3.78,418.0,2,lost,v Australia,Perth,4 Mar 2015,ODI # 3623,Afghanistan,40
+505,6 wickets,11.0,won,2nd,322/4,48.1,6.68,319.0,2,won,v Scotland,Nelson,5 Mar 2015,ODI # 3624,Bangladesh,25
+506,4 wickets,65.0,won,1st,182,44.2,4.10,,1,lost,v India,Perth,6 Mar 2015,ODI # 3625,WestIndies,4
+507,4 wickets,65.0,lost,2nd,185/6,39.1,4.72,183.0,2,won,v West Indies,Perth,6 Mar 2015,ODI # 3625,India,6
+508,29 runs,,won,2nd,202,33.3,6.02,232.0,2,lost,v Pakistan,Auckland,7 Mar 2015,ODI # 3626,SouthAfrica,3
+509,29 runs,,lost,1st,222,46.4,4.75,,1,won,v South Africa,Auckland,7 Mar 2015,ODI # 3626,Pakistan,7
+510,6 wickets,83.0,lost,2nd,188/4,36.1,5.19,187.0,2,won,v Afghanistan,Napier,8 Mar 2015,ODI # 3628,Newzealad,5
+511,6 wickets,83.0,won,1st,186,47.4,3.90,,1,lost,v New Zealand,Napier,8 Mar 2015,ODI # 3628,Afghanistan,40
+512,64 runs,,lost,2nd,312,46.2,6.73,377.0,2,lost,v Australia,Sydney,8 Mar 2015,ODI # 3629,SriLanka,8
+513,64 runs,,won,1st,376/9,50.0,7.52,,1,won,v Sri Lanka,Sydney,8 Mar 2015,ODI # 3629,Australia,2
+514,15 runs,,won,2nd,260,48.3,5.36,276.0,2,lost,v Bangladesh,Adelaide,9 Mar 2015,ODI # 3630,England,1
+515,15 runs,,lost,1st,275/7,50.0,5.50,,1,won,v England,Adelaide,9 Mar 2015,ODI # 3630,Bangladesh,25
+516,8 wickets,79.0,lost,2nd,260/2,36.5,7.05,260.0,2,won,v Ireland,Hamilton,10 Mar 2015,ODI # 3631,India,6
+517,148 runs,,won,1st,363/9,50.0,7.26,,1,won,v Scotland,Hobart,11 Mar 2015,ODI # 3632,SriLanka,8
+518,146 runs,,lost,1st,341/6,50.0,6.82,,1,won,v U.A.E.,Wellington,12 Mar 2015,ODI # 3633,SouthAfrica,3
+519,3 wickets,7.0,won,2nd,290/7,48.5,5.93,289.0,2,won,v Bangladesh,Hamilton,13 Mar 2015,ODI # 3634,Newzealad,5
+520,3 wickets,7.0,lost,1st,288/7,50.0,5.76,,1,lost,v New Zealand,Hamilton,13 Mar 2015,ODI # 3634,Bangladesh,25
+521,9 wickets,41.0,won,2nd,101/1,18.1,5.55,101.0,2,won,v Afghanistan,Sydney,13 Mar 2015,ODI # 3635,England,1
+522,9 wickets,41.0,lost,1st,111/7,36.2,3.05,,1,lost,v England,Sydney,13 Mar 2015,ODI # 3635,Afghanistan,40
+523,6 wickets,8.0,won,2nd,288/4,48.4,5.91,288.0,2,won,v Zimbabwe,Auckland,14 Mar 2015,ODI # 3636,India,6
+524,7 wickets,208.0,won,2nd,133/3,15.2,8.67,131.0,2,won,v Scotland,Hobart,14 Mar 2015,ODI # 3637,Australia,2
+525,6 wickets,117.0,won,2nd,176/4,30.3,5.77,176.0,2,won,v U.A.E.,Napier,15 Mar 2015,ODI # 3638,WestIndies,4
+526,7 wickets,23.0,lost,2nd,241/3,46.1,5.22,238.0,2,won,v Ireland,Adelaide,15 Mar 2015,ODI # 3639,Pakistan,7
+527,9 wickets,192.0,won,1st,133,37.2,3.56,,1,lost,v South Africa,Sydney,18 Mar 2015,ODI # 3640,SriLanka,8
+528,9 wickets,192.0,lost,2nd,134/1,18.0,7.44,134.0,2,won,v Sri Lanka,Sydney,18 Mar 2015,ODI # 3640,SouthAfrica,3
+529,109 runs,,won,1st,302/6,50.0,6.04,,1,won,v Bangladesh,Melbourne,19 Mar 2015,ODI # 3641,India,6
+530,109 runs,,lost,2nd,193,45.0,4.28,303.0,2,lost,v India,Melbourne,19 Mar 2015,ODI # 3641,Bangladesh,25
+531,6 wickets,97.0,won,1st,213,49.5,4.27,,1,lost,v Australia,Adelaide,20 Mar 2015,ODI # 3642,Pakistan,7
+532,6 wickets,97.0,lost,2nd,216/4,33.5,6.38,214.0,2,won,v Pakistan,Adelaide,20 Mar 2015,ODI # 3642,Australia,2
+533,143 runs,,lost,2nd,250,30.3,8.19,394.0,2,lost,v New Zealand,Wellington,21 Mar 2015,ODI # 3643,WestIndies,4
+534,143 runs,,won,1st,393/6,50.0,7.86,,1,won,v West Indies,Wellington,21 Mar 2015,ODI # 3643,Newzealad,5
+535,4 wickets,1.0,won,1st,281/5,43.0,6.53,,1,lost,v New Zealand,Auckland,24 Mar 2015,ODI # 3644,SouthAfrica,3
+536,4 wickets,1.0,lost,2nd,299/6,42.5,6.98,298.0,2,won,v South Africa,Auckland,24 Mar 2015,ODI # 3644,Newzealad,5
+537,95 runs,,lost,2nd,233,46.5,4.97,329.0,2,lost,v Australia,Sydney,26 Mar 2015,ODI # 3645,India,6
+538,95 runs,,won,1st,328/7,50.0,6.56,,1,won,v India,Sydney,26 Mar 2015,ODI # 3645,Australia,2
+539,7 wickets,101.0,won,1st,183,45.0,4.06,,1,lost,v Australia,Melbourne,29 Mar 2015,ODI # 3646,Newzealad,5
+540,7 wickets,101.0,lost,2nd,186/3,33.1,5.60,184.0,2,won,v New Zealand,Melbourne,29 Mar 2015,ODI # 3646,Australia,2
+541,79 runs,,lost,2nd,250,45.2,5.51,330.0,2,lost,v Bangladesh,Dhaka,17 Apr 2015,ODI # 3647,Pakistan,7
+542,79 runs,,won,1st,329/6,50.0,6.58,,1,won,v Pakistan,Dhaka,17 Apr 2015,ODI # 3647,Bangladesh,25
+543,7 wickets,71.0,won,1st,239/6,50.0,4.78,,1,lost,v Bangladesh,Dhaka,19 Apr 2015,ODI # 3648,Pakistan,7
+544,7 wickets,71.0,lost,2nd,240/3,38.1,6.28,240.0,2,won,v Pakistan,Dhaka,19 Apr 2015,ODI # 3648,Bangladesh,25
+545,8 wickets,63.0,won,1st,250,49.0,5.10,,1,lost,v Bangladesh,Dhaka,22 Apr 2015,ODI # 3649,Pakistan,7
+546,8 wickets,63.0,lost,2nd,251/2,39.3,6.35,251.0,2,won,v Pakistan,Dhaka,22 Apr 2015,ODI # 3649,Bangladesh,25
+547,-,,won,2nd,DNB,0.0,-,,0,n/r,v Ireland,Dublin (Malahide),8 May 2015,ODI # 3650,England,1
+548,41 runs,,won,1st,375/3,50.0,7.50,,1,won,v Zimbabwe,Lahore,26 May 2015,ODI # 3651,Pakistan,7
+549,6 wickets,16.0,won,2nd,269/4,47.2,5.68,269.0,2,won,v Zimbabwe,Lahore,29 May 2015,ODI # 3652,Pakistan,7
+550,-,,won,1st,296/9,50.0,5.92,,1,n/r,v Zimbabwe,Lahore,31 May 2015,ODI # 3653,Pakistan,7
+551,210 runs,,won,2nd,198,31.1,6.35,409.0,2,lost,v England,Birmingham,9 Jun 2015,ODI # 3654,Newzealad,5
+552,210 runs,,lost,1st,408/9,50.0,8.16,,1,won,v New Zealand,Birmingham,9 Jun 2015,ODI # 3654,England,1
+553,13 runs,,won,1st,398/5,50.0,7.96,,1,won,v England,The Oval,12 Jun 2015,ODI # 3655,Newzealad,5
+554,13 runs,,lost,2nd,365/9,46.0,7.93,379.0,2,lost,v New Zealand,The Oval,12 Jun 2015,ODI # 3655,England,1
+555,3 wickets,6.0,lost,2nd,306/7,49.0,6.24,303.0,2,won,v England,Southampton,14 Jun 2015,ODI # 3656,Newzealad,5
+556,3 wickets,6.0,won,1st,302,45.2,6.66,,1,lost,v New Zealand,Southampton,14 Jun 2015,ODI # 3656,England,1
+557,7 wickets,36.0,won,1st,349/7,50.0,6.98,,1,lost,v England,Nottingham,17 Jun 2015,ODI # 3657,Newzealad,5
+558,7 wickets,36.0,lost,2nd,350/3,44.0,7.95,350.0,2,won,v New Zealand,Nottingham,17 Jun 2015,ODI # 3657,England,1
+559,79 runs,,lost,2nd,228,46.0,4.95,308.0,2,lost,v Bangladesh,Dhaka,18 Jun 2015,ODI # 3658,India,6
+560,79 runs,,won,1st,307,49.4,6.18,,1,won,v India,Dhaka,18 Jun 2015,ODI # 3658,Bangladesh,25
+561,3 wickets,6.0,lost,1st,283/9,50.0,5.66,,1,lost,v England,Chester-le-Street,20 Jun 2015,ODI # 3659,Newzealad,5
+562,3 wickets,6.0,won,2nd,192/7,25.0,7.68,192.0,2,won,v New Zealand,Chester-le-Street,20 Jun 2015,ODI # 3659,England,1
+563,6 wickets,54.0,won,1st,200,45.0,4.44,,1,lost,v Bangladesh,Dhaka,21 Jun 2015,ODI # 3660,India,6
+564,6 wickets,54.0,lost,2nd,200/4,38.0,5.26,200.0,2,won,v India,Dhaka,21 Jun 2015,ODI # 3660,Bangladesh,25
+565,77 runs,,lost,1st,317/6,50.0,6.34,,1,won,v Bangladesh,Dhaka,24 Jun 2015,ODI # 3661,India,6
+566,77 runs,,won,2nd,240,47.0,5.10,318.0,2,lost,v India,Dhaka,24 Jun 2015,ODI # 3661,Bangladesh,25
+567,4 runs,,lost,1st,255/6,50.0,5.10,,1,won,v Zimbabwe,Harare,10 Jul 2015,ODI # 3662,India,6
+568,8 wickets,53.0,lost,2nd,164/2,31.1,5.26,161.0,2,won,v Bangladesh,Dhaka,10 Jul 2015,ODI # 3663,SouthAfrica,3
+569,8 wickets,53.0,won,1st,160,36.3,4.38,,1,lost,v South Africa,Dhaka,10 Jul 2015,ODI # 3663,Bangladesh,25
+570,6 wickets,28.0,lost,1st,255/8,50.0,5.10,,1,lost,v Pakistan,Dambulla,11 Jul 2015,ODI # 3664,SriLanka,8
+571,6 wickets,28.0,won,2nd,259/4,45.2,5.71,256.0,2,won,v Sri Lanka,Dambulla,11 Jul 2015,ODI # 3664,Pakistan,7
+572,62 runs,,lost,1st,271/8,50.0,5.42,,1,won,v Zimbabwe,Harare,12 Jul 2015,ODI # 3665,India,6
+573,7 wickets,134.0,won,1st,162,46.0,3.52,,1,lost,v Bangladesh,Dhaka,12 Jul 2015,ODI # 3666,SouthAfrica,3
+574,7 wickets,134.0,lost,2nd,167/3,27.4,6.03,163.0,2,won,v South Africa,Dhaka,12 Jul 2015,ODI # 3666,Bangladesh,25
+575,83 runs,,lost,1st,276/5,50.0,5.52,,1,won,v Zimbabwe,Harare,14 Jul 2015,ODI # 3667,India,6
+576,9 wickets,83.0,won,1st,168/9,40.0,4.20,,1,lost,v Bangladesh,Chattogram,15 Jul 2015,ODI # 3668,SouthAfrica,3
+577,9 wickets,83.0,lost,2nd,170/1,26.1,6.49,170.0,2,won,v South Africa,Chattogram,15 Jul 2015,ODI # 3668,Bangladesh,25
+578,2 wickets,11.0,lost,2nd,288/8,48.1,5.97,288.0,2,won,v Pakistan,Pallekele,15 Jul 2015,ODI # 3669,SriLanka,8
+579,2 wickets,11.0,won,1st,287/8,50.0,5.74,,1,lost,v Sri Lanka,Pallekele,15 Jul 2015,ODI # 3669,Pakistan,7
+580,135 runs,,lost,2nd,181,41.1,4.39,317.0,2,lost,v Pakistan,Colombo (RPS),19 Jul 2015,ODI # 3670,SriLanka,8
+581,135 runs,,won,1st,316/4,50.0,6.32,,1,won,v Sri Lanka,Colombo (RPS),19 Jul 2015,ODI # 3670,Pakistan,7
+582,7 wickets,55.0,won,1st,256/9,50.0,5.12,,1,lost,v Pakistan,Colombo (RPS),22 Jul 2015,ODI # 3671,SriLanka,8
+583,7 wickets,55.0,lost,2nd,257/3,40.5,6.29,257.0,2,won,v Sri Lanka,Colombo (RPS),22 Jul 2015,ODI # 3671,Pakistan,7
+584,165 runs,,won,1st,368/4,50.0,7.36,,1,won,v Pakistan,Hambantota,26 Jul 2015,ODI # 3672,SriLanka,8
+585,165 runs,,lost,2nd,203,37.2,5.43,369.0,2,lost,v Sri Lanka,Hambantota,26 Jul 2015,ODI # 3672,Pakistan,7
+586,7 wickets,6.0,lost,1st,303/4,50.0,6.06,,1,lost,v Zimbabwe,Harare,2 Aug 2015,ODI # 3673,Newzealad,5
+587,10 wickets,46.0,lost,2nd,236/0,42.2,5.57,236.0,2,won,v Zimbabwe,Harare,4 Aug 2015,ODI # 3674,Newzealad,5
+588,38 runs,,lost,1st,273/6,50.0,5.46,,1,won,v Zimbabwe,Harare,7 Aug 2015,ODI # 3675,Newzealad,5
+589,20 runs,,lost,1st,304/7,50.0,6.08,,1,won,v New Zealand,Centurion,19 Aug 2015,ODI # 3676,SouthAfrica,3
+590,20 runs,,won,2nd,284,48.1,5.89,305.0,2,lost,v South Africa,Centurion,19 Aug 2015,ODI # 3676,Newzealad,5
+591,8 wickets,33.0,won,1st,204,49.3,4.12,,1,lost,v New Zealand,Potchefstroom,23 Aug 2015,ODI # 3677,SouthAfrica,3
+592,8 wickets,33.0,lost,2nd,207/2,44.3,4.65,205.0,2,won,v South Africa,Potchefstroom,23 Aug 2015,ODI # 3677,Newzealad,5
+593,62 runs,,won,1st,283/7,50.0,5.66,,1,won,v New Zealand,Durban,26 Aug 2015,ODI # 3678,SouthAfrica,3
+594,62 runs,,lost,2nd,221,49.2,4.47,284.0,2,lost,v South Africa,Durban,26 Aug 2015,ODI # 3678,Newzealad,5
+595,23 runs,,won,1st,222/6,40.2,5.50,,1,won,v Ireland,Belfast,27 Aug 2015,ODI # 3679,Australia,2
+596,59 runs,,lost,2nd,246,45.3,5.40,306.0,2,lost,v Australia,Southampton,3 Sep 2015,ODI # 3680,England,1
+597,59 runs,,won,1st,305/6,50.0,6.10,,1,won,v England,Southampton,3 Sep 2015,ODI # 3680,Australia,2
+598,64 runs,,won,2nd,245,42.3,5.76,310.0,2,lost,v Australia,Lord's,5 Sep 2015,ODI # 3681,England,1
+599,64 runs,,lost,1st,309/7,49.0,6.30,,1,won,v England,Lord's,5 Sep 2015,ODI # 3681,Australia,2
+600,93 runs,,won,1st,300/8,50.0,6.00,,1,won,v Australia,Manchester,8 Sep 2015,ODI # 3682,England,1
+601,93 runs,,lost,2nd,207,44.0,4.70,301.0,2,lost,v England,Manchester,8 Sep 2015,ODI # 3682,Australia,2
+602,3 wickets,10.0,lost,2nd,304/7,48.2,6.28,300.0,2,won,v Australia,Leeds,11 Sep 2015,ODI # 3683,England,1
+603,3 wickets,10.0,won,1st,299/7,50.0,5.98,,1,lost,v England,Leeds,11 Sep 2015,ODI # 3683,Australia,2
+604,8 wickets,154.0,won,1st,138,33.0,4.18,,1,lost,v Australia,Manchester,13 Sep 2015,ODI # 3684,England,1
+605,8 wickets,154.0,lost,2nd,140/2,24.2,5.75,139.0,2,won,v England,Manchester,13 Sep 2015,ODI # 3684,Australia,2
+606,131 runs,,lost,1st,259/6,50.0,5.18,,1,won,v Zimbabwe,Harare,1 Oct 2015,ODI # 3685,Pakistan,7
+607,5 runs,,won,2nd,256/8,48.0,5.33,262.0,2,lost,v Zimbabwe,Harare,3 Oct 2015,ODI # 3686,Pakistan,7
+608,7 wickets,96.0,won,2nd,162/3,34.0,4.76,162.0,2,won,v Zimbabwe,Harare,5 Oct 2015,ODI # 3687,Pakistan,7
+609,5 runs,,won,1st,303/5,50.0,6.06,,1,won,v India,Kanpur,11 Oct 2015,ODI # 3689,SouthAfrica,3
+610,5 runs,,lost,2nd,298/7,50.0,5.96,304.0,2,lost,v South Africa,Kanpur,11 Oct 2015,ODI # 3689,India,6
+611,22 runs,,lost,2nd,225,43.4,5.15,248.0,2,lost,v India,Indore,14 Oct 2015,ODI # 3692,SouthAfrica,3
+612,22 runs,,won,1st,247/9,50.0,4.94,,1,won,v South Africa,Indore,14 Oct 2015,ODI # 3692,India,6
+613,8 wickets,160.0,won,1st,122,34.1,3.57,,1,lost,v Zimbabwe,Bulawayo,16 Oct 2015,ODI # 3693,Afghanistan,40
+614,58 runs,,won,1st,271/6,50.0,5.42,,1,won,v Zimbabwe,Bulawayo,18 Oct 2015,ODI # 3694,Afghanistan,40
+615,18 runs,,won,1st,270/7,50.0,5.40,,1,won,v India,Rajkot,18 Oct 2015,ODI # 3695,SouthAfrica,3
+616,18 runs,,lost,2nd,252/6,50.0,5.04,271.0,2,lost,v South Africa,Rajkot,18 Oct 2015,ODI # 3695,India,6
+617,6 wickets,2.0,won,1st,223/8,50.0,4.46,,1,lost,v Zimbabwe,Bulawayo,20 Oct 2015,ODI # 3696,Afghanistan,40
+618,3 wickets,20.0,lost,2nd,185/7,46.4,3.96,185.0,2,won,v Zimbabwe,Bulawayo,22 Oct 2015,ODI # 3697,Afghanistan,40
+619,35 runs,,lost,2nd,264/9,50.0,5.28,300.0,2,lost,v India,Chennai,22 Oct 2015,ODI # 3698,SouthAfrica,3
+620,35 runs,,won,1st,299/8,50.0,5.98,,1,won,v South Africa,Chennai,22 Oct 2015,ODI # 3698,India,6
+621,73 runs,,lost,1st,245/9,50.0,4.90,,1,won,v Zimbabwe,Bulawayo,24 Oct 2015,ODI # 3699,Afghanistan,40
+622,214 runs,,won,1st,438/4,50.0,8.76,,1,won,v India,Mumbai,25 Oct 2015,ODI # 3700,SouthAfrica,3
+623,214 runs,,lost,2nd,224,36.0,6.22,439.0,2,lost,v South Africa,Mumbai,25 Oct 2015,ODI # 3700,India,6
+624,1 wickets,7.0,lost,1st,159/8,26.0,6.11,,1,lost,v Sri Lanka,Colombo (RPS),1 Nov 2015,ODI # 3701,WestIndies,4
+625,1 wickets,7.0,won,2nd,164/9,24.5,6.60,163.0,2,won,v West Indies,Colombo (RPS),1 Nov 2015,ODI # 3701,SriLanka,8
+626,8 wickets,9.0,won,1st,214,37.4,5.68,,1,lost,v Sri Lanka,Colombo (RPS),4 Nov 2015,ODI # 3702,WestIndies,4
+627,8 wickets,9.0,lost,2nd,225/2,36.3,6.16,225.0,2,won,v West Indies,Colombo (RPS),4 Nov 2015,ODI # 3702,SriLanka,8
+628,145 runs,,lost,1st,273/9,50.0,5.46,,1,won,v Zimbabwe,Dhaka,7 Nov 2015,ODI # 3703,Bangladesh,25
+629,19 runs,,lost,1st,206/9,36.0,5.72,,1,lost,v Sri Lanka,Pallekele,7 Nov 2015,ODI # 3704,WestIndies,4
+630,19 runs,,won,2nd,180/5,32.3,5.53,162.0,2,won,v West Indies,Pallekele,7 Nov 2015,ODI # 3704,SriLanka,8
+631,58 runs,,lost,1st,241/9,50.0,4.82,,1,won,v Zimbabwe,Dhaka,9 Nov 2015,ODI # 3705,Bangladesh,25
+632,61 runs,,won,1st,276/9,50.0,5.52,,1,won,v Zimbabwe,Dhaka,11 Nov 2015,ODI # 3706,Bangladesh,25
+633,6 wickets,38.0,lost,2nd,217/4,43.4,4.96,217.0,2,won,v England,Abu Dhabi,11 Nov 2015,ODI # 3707,Pakistan,7
+634,6 wickets,38.0,won,1st,216,49.4,4.34,,1,lost,v Pakistan,Abu Dhabi,11 Nov 2015,ODI # 3707,England,1
+635,95 runs,,lost,2nd,188,45.5,4.10,284.0,2,lost,v England,Abu Dhabi,13 Nov 2015,ODI # 3708,Pakistan,7
+636,95 runs,,won,1st,283/5,50.0,5.66,,1,won,v Pakistan,Abu Dhabi,13 Nov 2015,ODI # 3708,England,1
+637,6 wickets,54.0,won,1st,208,49.5,4.17,,1,lost,v England,Sharjah,17 Nov 2015,ODI # 3710,Pakistan,7
+638,6 wickets,54.0,lost,2nd,210/4,41.0,5.12,209.0,2,won,v Pakistan,Sharjah,17 Nov 2015,ODI # 3710,England,1
+639,84 runs,,lost,2nd,271,40.4,6.66,356.0,2,lost,v England,Dubai (DSC),20 Nov 2015,ODI # 3712,Pakistan,7
+640,84 runs,,won,1st,355/5,50.0,7.10,,1,won,v Pakistan,Dubai (DSC),20 Nov 2015,ODI # 3712,England,1
+641,49 runs,,won,1st,131,38.5,3.37,,1,won,v Zimbabwe,Sharjah,25 Dec 2015,ODI # 3713,Afghanistan,40
+642,7 wickets,174.0,won,1st,188,47.0,4.00,,1,lost,v New Zealand,Christchurch,26 Dec 2015,ODI # 3714,SriLanka,8
+643,7 wickets,174.0,lost,2nd,191/3,21.0,9.09,189.0,2,won,v Sri Lanka,Christchurch,26 Dec 2015,ODI # 3714,Newzealad,5
+644,10 wickets,250.0,won,1st,117,27.4,4.22,,1,lost,v New Zealand,Christchurch,28 Dec 2015,ODI # 3715,SriLanka,8
+645,10 wickets,250.0,lost,2nd,118/0,8.2,14.16,118.0,2,won,v Sri Lanka,Christchurch,28 Dec 2015,ODI # 3715,Newzealad,5
+646,4 wickets,14.0,lost,2nd,254/6,47.4,5.32,254.0,2,won,v Zimbabwe,Sharjah,29 Dec 2015,ODI # 3716,Afghanistan,40
+647,8 wickets,22.0,lost,2nd,277/2,46.2,5.97,277.0,2,won,v New Zealand,Nelson,31 Dec 2015,ODI # 3717,SriLanka,8
+648,8 wickets,22.0,won,1st,276/8,50.0,5.52,,1,lost,v Sri Lanka,Nelson,31 Dec 2015,ODI # 3717,Newzealad,5
+649,-,,won,2nd,DNB,0.0,-,,0,n/r,v New Zealand,Nelson,2 Jan 2016,ODI # 3718,SriLanka,8
+650,-,,lost,1st,75/3,9.0,8.33,,1,n/r,v Sri Lanka,Nelson,2 Jan 2016,ODI # 3718,Newzealad,5
+651,117 runs,,lost,2nd,58,16.1,3.58,176.0,2,lost,v Zimbabwe,Sharjah,2 Jan 2016,ODI # 3719,Afghanistan,40
+652,65 runs,,lost,2nd,161,45.0,3.57,227.0,2,lost,v Zimbabwe,Sharjah,4 Jan 2016,ODI # 3720,Afghanistan,40
+653,36 runs,,won,2nd,258,47.1,5.46,295.0,2,lost,v New Zealand,Mount Maunganui,5 Jan 2016,ODI # 3721,SriLanka,8
+654,36 runs,,lost,1st,294/5,50.0,5.88,,1,won,v Sri Lanka,Mount Maunganui,5 Jan 2016,ODI # 3721,Newzealad,5
+655,2 wickets,2.0,lost,2nd,254/8,49.4,5.11,249.0,2,won,v Zimbabwe,Sharjah,6 Jan 2016,ODI # 3722,Afghanistan,40
+656,5 wickets,4.0,won,1st,309/3,50.0,6.18,,1,lost,v Australia,Perth,12 Jan 2016,ODI # 3723,India,6
+657,5 wickets,4.0,lost,2nd,310/5,49.2,6.28,310.0,2,won,v India,Perth,12 Jan 2016,ODI # 3723,Australia,2
+658,7 wickets,6.0,won,1st,308/8,50.0,6.16,,1,lost,v Australia,Brisbane,15 Jan 2016,ODI # 3724,India,6
+659,7 wickets,6.0,lost,2nd,309/3,49.0,6.30,309.0,2,won,v India,Brisbane,15 Jan 2016,ODI # 3724,Australia,2
+660,3 wickets,7.0,lost,1st,295/6,50.0,5.90,,1,lost,v Australia,Melbourne,17 Jan 2016,ODI # 3725,India,6
+661,3 wickets,7.0,won,2nd,296/7,48.5,6.06,296.0,2,won,v India,Melbourne,17 Jan 2016,ODI # 3725,Australia,2
+662,25 runs,,lost,2nd,323,49.2,6.54,349.0,2,lost,v Australia,Canberra,20 Jan 2016,ODI # 3726,India,6
+663,25 runs,,won,1st,348/8,50.0,6.96,,1,won,v India,Canberra,20 Jan 2016,ODI # 3726,Australia,2
+664,6 wickets,2.0,won,2nd,331/4,49.4,6.66,331.0,2,won,v Australia,Sydney,23 Jan 2016,ODI # 3727,India,6
+665,6 wickets,2.0,lost,1st,330/7,50.0,6.60,,1,lost,v India,Sydney,23 Jan 2016,ODI # 3727,Australia,2
+666,70 runs,,won,2nd,210,46.0,4.56,281.0,2,lost,v New Zealand,Wellington,25 Jan 2016,ODI # 3728,Pakistan,7
+667,70 runs,,lost,1st,280/8,50.0,5.60,,1,won,v Pakistan,Wellington,25 Jan 2016,ODI # 3728,Newzealad,5
+668,3 wickets,2.0,won,1st,290,47.3,6.10,,1,lost,v New Zealand,Auckland,31 Jan 2016,ODI # 3730,Pakistan,7
+669,3 wickets,2.0,lost,2nd,265/7,42.4,6.21,263.0,2,won,v Pakistan,Auckland,31 Jan 2016,ODI # 3730,Newzealad,5
+670,159 runs,,lost,1st,307/8,50.0,6.14,,1,won,v Australia,Auckland,3 Feb 2016,ODI # 3731,Newzealad,5
+671,159 runs,,won,2nd,148,24.2,6.08,308.0,2,lost,v New Zealand,Auckland,3 Feb 2016,ODI # 3731,Australia,2
+672,39 runs,,lost,2nd,250/5,33.3,7.46,290.0,2,lost,v England,Bloemfontein,3 Feb 2016,ODI # 3732,SouthAfrica,3
+673,39 runs,,won,1st,399/9,50.0,7.98,,1,won,v South Africa,Bloemfontein,3 Feb 2016,ODI # 3732,England,1
+674,4 wickets,21.0,won,1st,281/9,50.0,5.62,,1,lost,v Australia,Wellington,6 Feb 2016,ODI # 3733,Newzealad,5
+675,4 wickets,21.0,lost,2nd,283/6,46.3,6.08,282.0,2,won,v New Zealand,Wellington,6 Feb 2016,ODI # 3733,Australia,2
+676,5 wickets,22.0,won,1st,262/7,50.0,5.24,,1,lost,v England,Port Elizabeth,6 Feb 2016,ODI # 3734,SouthAfrica,3
+677,5 wickets,22.0,lost,2nd,263/5,46.2,5.67,263.0,2,won,v South Africa,Port Elizabeth,6 Feb 2016,ODI # 3734,England,1
+678,55 runs,,lost,1st,246,45.3,5.40,,1,won,v Australia,Hamilton,8 Feb 2016,ODI # 3735,Newzealad,5
+679,55 runs,,won,2nd,191,43.4,4.37,247.0,2,lost,v New Zealand,Hamilton,8 Feb 2016,ODI # 3735,Australia,2
+680,7 wickets,22.0,lost,2nd,319/3,46.2,6.88,319.0,2,won,v England,Centurion,9 Feb 2016,ODI # 3736,SouthAfrica,3
+681,7 wickets,22.0,won,1st,318/8,50.0,6.36,,1,lost,v South Africa,Centurion,9 Feb 2016,ODI # 3736,England,1
+682,1 wickets,16.0,won,2nd,266/9,47.2,5.61,263.0,2,won,v England,Johannesburg,12 Feb 2016,ODI # 3737,SouthAfrica,3
+683,1 wickets,16.0,lost,1st,262,47.5,5.47,,1,lost,v South Africa,Johannesburg,12 Feb 2016,ODI # 3737,England,1
+684,5 wickets,36.0,won,2nd,237/5,44.0,5.38,237.0,2,won,v England,Cape Town,14 Feb 2016,ODI # 3738,SouthAfrica,3
+685,5 wickets,36.0,lost,1st,236,45.0,5.24,,1,lost,v South Africa,Cape Town,14 Feb 2016,ODI # 3738,England,1
+686,4 wickets,11.0,lost,2nd,191/6,48.1,3.96,189.0,2,won,v South Africa,Providence,3 Jun 2016,ODI # 3739,WestIndies,4
+687,4 wickets,11.0,won,1st,188,46.5,4.01,,1,lost,v West Indies,Providence,3 Jun 2016,ODI # 3739,SouthAfrica,3
+688,6 wickets,146.0,lost,1st,116,32.3,3.56,,1,lost,v Australia,Providence,5 Jun 2016,ODI # 3740,WestIndies,4
+689,6 wickets,146.0,won,2nd,117/4,25.4,4.55,117.0,2,won,v West Indies,Providence,5 Jun 2016,ODI # 3740,Australia,2
+690,47 runs,,won,1st,189/9,50.0,3.78,,1,won,v Australia,Providence,7 Jun 2016,ODI # 3741,SouthAfrica,3
+691,47 runs,,lost,2nd,142,34.2,4.13,190.0,2,lost,v South Africa,Providence,7 Jun 2016,ODI # 3741,Australia,2
+692,9 wickets,45.0,won,2nd,173/1,42.3,4.07,169.0,2,won,v Zimbabwe,Harare,11 Jun 2016,ODI # 3742,India,6
+693,36 runs,,lost,2nd,252,47.4,5.28,289.0,2,lost,v Australia,Basseterre,11 Jun 2016,ODI # 3743,SouthAfrica,3
+694,36 runs,,won,1st,288/6,50.0,5.76,,1,won,v South Africa,Basseterre,11 Jun 2016,ODI # 3743,Australia,2
+695,8 wickets,139.0,won,2nd,129/2,26.5,4.80,127.0,2,won,v Zimbabwe,Harare,13 Jun 2016,ODI # 3744,India,6
+696,4 wickets,26.0,won,2nd,266/6,45.4,5.82,266.0,2,won,v Australia,Basseterre,13 Jun 2016,ODI # 3745,WestIndies,4
+697,4 wickets,26.0,lost,1st,265/7,50.0,5.30,,1,lost,v West Indies,Basseterre,13 Jun 2016,ODI # 3745,Australia,2
+698,10 wickets,169.0,lost,2nd,126/0,21.5,5.77,124.0,2,won,v Zimbabwe,Harare,15 Jun 2016,ODI # 3746,India,6
+699,139 runs,,won,2nd,204,38.0,5.36,344.0,2,lost,v South Africa,Basseterre,15 Jun 2016,ODI # 3747,WestIndies,4
+700,139 runs,,lost,1st,343/4,50.0,6.86,,1,won,v West Indies,Basseterre,15 Jun 2016,ODI # 3747,SouthAfrica,3
+701,76 runs,,lost,1st,303/7,50.0,6.06,,1,won,v Ireland,Dublin (Malahide),16 Jun 2016,ODI # 3748,SriLanka,8
+702,136 runs,,lost,1st,377/8,50.0,7.54,,1,won,v Ireland,Dublin (Malahide),18 Jun 2016,ODI # 3749,SriLanka,8
+703,-,,lost,1st,8/0,1.0,8.00,,1,n/r,v Australia,Bridgetown,19 Jun 2016,ODI # 3750,SouthAfrica,3
+704,-,,won,2nd,DNB,0.0,-,,0,n/r,v South Africa,Bridgetown,19 Jun 2016,ODI # 3750,Australia,2
+705,-,,lost,1st,286/9,50.0,5.72,,1,tied,v England,Nottingham,21 Jun 2016,ODI # 3751,SriLanka,8
+706,-,,won,2nd,286/8,50.0,5.72,287.0,2,tied,v Sri Lanka,Nottingham,21 Jun 2016,ODI # 3751,England,1
+707,6 wickets,8.0,lost,1st,282/8,50.0,5.64,,1,lost,v Australia,Bridgetown,21 Jun 2016,ODI # 3752,WestIndies,4
+708,6 wickets,8.0,won,2nd,283/4,48.4,5.81,283.0,2,won,v West Indies,Bridgetown,21 Jun 2016,ODI # 3752,Australia,2
+709,10 wickets,95.0,won,1st,254/7,50.0,5.08,,1,lost,v England,Birmingham,24 Jun 2016,ODI # 3753,SriLanka,8
+710,10 wickets,95.0,lost,2nd,256/0,34.1,7.49,255.0,2,won,v Sri Lanka,Birmingham,24 Jun 2016,ODI # 3753,England,1
+711,100 runs,,lost,1st,285,49.5,5.71,,1,won,v South Africa,Bridgetown,24 Jun 2016,ODI # 3754,WestIndies,4
+712,100 runs,,won,2nd,185,46.0,4.02,286.0,2,lost,v West Indies,Bridgetown,24 Jun 2016,ODI # 3754,SouthAfrica,3
+713,-,,lost,1st,248/9,50.0,4.96,,1,n/r,v England,Bristol,26 Jun 2016,ODI # 3755,SriLanka,8
+714,-,,won,2nd,16/1,4.0,4.00,249.0,2,n/r,v Sri Lanka,Bristol,26 Jun 2016,ODI # 3755,England,1
+715,58 runs,,lost,2nd,212,45.4,4.64,271.0,2,lost,v Australia,Bridgetown,26 Jun 2016,ODI # 3756,WestIndies,4
+716,58 runs,,won,1st,270/9,50.0,5.40,,1,won,v West Indies,Bridgetown,26 Jun 2016,ODI # 3756,Australia,2
+717,6 wickets,11.0,lost,1st,305/5,42.0,7.26,,1,lost,v England,The Oval,29 Jun 2016,ODI # 3757,SriLanka,8
+718,6 wickets,11.0,won,2nd,309/4,40.1,7.69,308.0,2,won,v Sri Lanka,The Oval,29 Jun 2016,ODI # 3757,England,1
+719,122 runs,,won,2nd,202,42.4,4.73,325.0,2,lost,v England,Cardiff,2 Jul 2016,ODI # 3758,SriLanka,8
+720,122 runs,,lost,1st,324/7,50.0,6.48,,1,won,v Sri Lanka,Cardiff,2 Jul 2016,ODI # 3758,England,1
+721,-,,lost,1st,283/4,47.2,5.97,,1,n/r,v Scotland,Edinburgh,4 Jul 2016,ODI # 3759,Afghanistan,40
+722,78 runs,,won,1st,178/6,37.2,4.76,,1,won,v Scotland,Edinburgh,6 Jul 2016,ODI # 3760,Afghanistan,40
+723,39 runs,,lost,1st,250,49.2,5.06,,1,won,v Ireland,Belfast,12 Jul 2016,ODI # 3761,Afghanistan,40
+724,6 wickets,15.0,won,1st,236,49.1,4.80,,1,lost,v Ireland,Belfast,14 Jul 2016,ODI # 3762,Afghanistan,40
+725,79 runs,,won,1st,229/7,50.0,4.58,,1,won,v Ireland,Belfast,17 Jul 2016,ODI # 3763,Afghanistan,40
+726,12 runs,,won,2nd,253/9,50.0,5.06,266.0,2,lost,v Ireland,Belfast,19 Jul 2016,ODI # 3764,Afghanistan,40
+727,255 runs,,lost,1st,337/6,47.0,7.17,,1,won,v Ireland,Dublin (Malahide),18 Aug 2016,ODI # 3767,Pakistan,7
+728,3 wickets,19.0,lost,1st,227/8,50.0,4.54,,1,lost,v Australia,Colombo (RPS),21 Aug 2016,ODI # 3768,SriLanka,8
+729,3 wickets,19.0,won,2nd,228/7,46.5,4.86,228.0,2,won,v Sri Lanka,Colombo (RPS),21 Aug 2016,ODI # 3768,Australia,2
+730,82 runs,,won,1st,288,48.5,5.89,,1,won,v Australia,Colombo (RPS),24 Aug 2016,ODI # 3769,SriLanka,8
+731,82 runs,,lost,2nd,206,47.2,4.35,289.0,2,lost,v Sri Lanka,Colombo (RPS),24 Aug 2016,ODI # 3769,Australia,2
+732,44 runs,,won,1st,260/6,50.0,5.20,,1,lost,v England,Southampton,24 Aug 2016,ODI # 3770,Pakistan,7
+733,44 runs,,lost,2nd,194/3,34.3,5.62,151.0,2,won,v Pakistan,Southampton,24 Aug 2016,ODI # 3770,England,1
+734,4 wickets,15.0,won,1st,251,49.5,5.03,,1,lost,v England,Lord's,27 Aug 2016,ODI # 3771,Pakistan,7
+735,4 wickets,15.0,lost,2nd,255/6,47.3,5.36,252.0,2,won,v Pakistan,Lord's,27 Aug 2016,ODI # 3771,England,1
+736,2 wickets,24.0,won,1st,226,49.2,4.58,,1,lost,v Australia,Dambulla,28 Aug 2016,ODI # 3772,SriLanka,8
+737,2 wickets,24.0,lost,2nd,227/8,46.0,4.93,227.0,2,won,v Sri Lanka,Dambulla,28 Aug 2016,ODI # 3772,Australia,2
+738,169 runs,,lost,2nd,275,42.4,6.44,445.0,2,lost,v England,Nottingham,30 Aug 2016,ODI # 3773,Pakistan,7
+739,169 runs,,won,1st,444/3,50.0,8.88,,1,won,v Pakistan,Nottingham,30 Aug 2016,ODI # 3773,England,1
+740,6 wickets,114.0,won,1st,212,50.0,4.24,,1,lost,v Australia,Dambulla,31 Aug 2016,ODI # 3774,SriLanka,8
+741,6 wickets,114.0,lost,2nd,217/4,31.0,7.00,213.0,2,won,v Sri Lanka,Dambulla,31 Aug 2016,ODI # 3774,Australia,2
+742,4 wickets,12.0,won,1st,247/8,50.0,4.94,,1,lost,v England,Leeds,1 Sep 2016,ODI # 3775,Pakistan,7
+743,4 wickets,12.0,lost,2nd,252/6,48.0,5.25,248.0,2,won,v Pakistan,Leeds,1 Sep 2016,ODI # 3775,England,1
+744,5 wickets,42.0,won,1st,195,40.2,4.83,,1,lost,v Australia,Pallekele,4 Sep 2016,ODI # 3776,SriLanka,8
+745,5 wickets,42.0,lost,2nd,199/5,43.0,4.62,196.0,2,won,v Sri Lanka,Pallekele,4 Sep 2016,ODI # 3776,Australia,2
+746,4 wickets,10.0,won,2nd,304/6,48.2,6.28,303.0,2,won,v England,Cardiff,4 Sep 2016,ODI # 3777,Pakistan,7
+747,4 wickets,10.0,lost,1st,302/9,50.0,6.04,,1,lost,v Pakistan,Cardiff,4 Sep 2016,ODI # 3777,England,1
+748,206 runs,,lost,1st,354/5,50.0,7.08,,1,won,v Ireland,Benoni,25 Sep 2016,ODI # 3780,SouthAfrica,3
+749,7 runs,,won,1st,265,50.0,5.30,,1,won,v Afghanistan,Dhaka,25 Sep 2016,ODI # 3781,Bangladesh,25
+750,7 runs,,lost,2nd,258,50.0,5.16,266.0,2,lost,v Bangladesh,Dhaka,25 Sep 2016,ODI # 3781,Afghanistan,40
+751,9 wickets,119.0,lost,2nd,199/1,30.1,6.59,199.0,2,won,v Ireland,Benoni,27 Sep 2016,ODI # 3782,Australia,2
+752,2 wickets,2.0,lost,1st,208,49.2,4.21,,1,lost,v Afghanistan,Dhaka,28 Sep 2016,ODI # 3783,Bangladesh,25
+753,2 wickets,2.0,won,2nd,212/8,49.4,4.26,209.0,2,won,v Bangladesh,Dhaka,28 Sep 2016,ODI # 3783,Afghanistan,40
+754,111 runs,,won,2nd,175,38.4,4.52,287.0,2,lost,v Pakistan,Sharjah,30 Sep 2016,ODI # 3784,WestIndies,4
+755,111 runs,,lost,1st,284/9,49.0,5.79,,1,won,v West Indies,Sharjah,30 Sep 2016,ODI # 3784,Pakistan,7
+756,6 wickets,82.0,won,2nd,295/4,36.2,8.11,295.0,2,won,v Australia,Centurion,30 Sep 2016,ODI # 3785,SouthAfrica,3
+757,6 wickets,82.0,lost,1st,294/9,50.0,5.88,,1,lost,v South Africa,Centurion,30 Sep 2016,ODI # 3785,Australia,2
+758,141 runs,,won,1st,279/8,50.0,5.58,,1,won,v Afghanistan,Dhaka,1 Oct 2016,ODI # 3786,Bangladesh,25
+759,141 runs,,lost,2nd,138,33.5,4.07,280.0,2,lost,v Bangladesh,Dhaka,1 Oct 2016,ODI # 3786,Afghanistan,40
+760,142 runs,,lost,1st,361/6,50.0,7.22,,1,won,v Australia,Johannesburg,2 Oct 2016,ODI # 3787,SouthAfrica,3
+761,142 runs,,won,2nd,219,37.4,5.81,362.0,2,lost,v South Africa,Johannesburg,2 Oct 2016,ODI # 3787,Australia,2
+762,59 runs,,lost,2nd,278/7,50.0,5.56,338.0,2,lost,v Pakistan,Sharjah,2 Oct 2016,ODI # 3788,WestIndies,4
+763,59 runs,,won,1st,337/5,50.0,6.74,,1,won,v West Indies,Sharjah,2 Oct 2016,ODI # 3788,Pakistan,7
+764,136 runs,,lost,2nd,172,44.0,3.90,309.0,2,lost,v Pakistan,Abu Dhabi,5 Oct 2016,ODI # 3789,WestIndies,4
+765,136 runs,,won,1st,308/6,50.0,6.16,,1,won,v West Indies,Abu Dhabi,5 Oct 2016,ODI # 3789,Pakistan,7
+766,4 wickets,4.0,lost,2nd,372/6,49.2,7.54,372.0,2,won,v Australia,Durban,5 Oct 2016,ODI # 3790,SouthAfrica,3
+767,4 wickets,4.0,won,1st,371/6,50.0,7.42,,1,lost,v South Africa,Durban,5 Oct 2016,ODI # 3790,Australia,2
+768,21 runs,,won,1st,309/8,50.0,6.18,,1,won,v Bangladesh,Dhaka,7 Oct 2016,ODI # 3791,England,1
+769,21 runs,,lost,2nd,288,47.5,6.02,310.0,2,lost,v England,Dhaka,7 Oct 2016,ODI # 3791,Bangladesh,25
+770,6 wickets,87.0,lost,2nd,168/4,35.3,4.73,168.0,2,won,v Australia,Port Elizabeth,9 Oct 2016,ODI # 3792,SouthAfrica,3
+771,6 wickets,87.0,won,1st,167,36.4,4.55,,1,lost,v South Africa,Port Elizabeth,9 Oct 2016,ODI # 3792,Australia,2
+772,34 runs,,won,2nd,204,44.4,4.56,239.0,2,lost,v Bangladesh,Dhaka,9 Oct 2016,ODI # 3793,England,1
+773,34 runs,,lost,1st,238/8,50.0,4.76,,1,won,v England,Dhaka,9 Oct 2016,ODI # 3793,Bangladesh,25
+774,4 wickets,13.0,won,2nd,278/6,47.5,5.81,278.0,2,won,v Bangladesh,Chattogram,12 Oct 2016,ODI # 3794,England,1
+775,4 wickets,13.0,lost,1st,277/6,50.0,5.54,,1,lost,v England,Chattogram,12 Oct 2016,ODI # 3794,Bangladesh,25
+776,31 runs,,won,1st,327/8,50.0,6.54,,1,won,v Australia,Cape Town,12 Oct 2016,ODI # 3795,SouthAfrica,3
+777,31 runs,,lost,2nd,296,48.2,6.12,328.0,2,lost,v South Africa,Cape Town,12 Oct 2016,ODI # 3795,Australia,2
+778,6 wickets,101.0,lost,1st,190,43.5,4.33,,1,lost,v India,Dharamsala,16 Oct 2016,ODI # 3796,Newzealad,5
+779,6 wickets,101.0,won,2nd,194/4,33.1,5.84,191.0,2,won,v New Zealand,Dharamsala,16 Oct 2016,ODI # 3796,India,6
+780,6 runs,,lost,1st,242/9,50.0,4.84,,1,won,v India,Delhi,20 Oct 2016,ODI # 3797,Newzealad,5
+781,6 runs,,won,2nd,236,49.3,4.76,243.0,2,lost,v New Zealand,Delhi,20 Oct 2016,ODI # 3797,India,6
+782,7 wickets,10.0,lost,1st,285,49.4,5.73,,1,lost,v India,Mohali,23 Oct 2016,ODI # 3798,Newzealad,5
+783,7 wickets,10.0,won,2nd,289/3,48.2,5.97,286.0,2,won,v New Zealand,Mohali,23 Oct 2016,ODI # 3798,India,6
+784,19 runs,,won,1st,260/7,50.0,5.20,,1,won,v India,Ranchi,26 Oct 2016,ODI # 3799,Newzealad,5
+785,19 runs,,lost,2nd,241,48.4,4.95,261.0,2,lost,v New Zealand,Ranchi,26 Oct 2016,ODI # 3799,India,6
+786,190 runs,,lost,2nd,79,23.1,3.41,270.0,2,lost,v India,Visakhapatnam,29 Oct 2016,ODI # 3800,Newzealad,5
+787,190 runs,,won,1st,269/6,50.0,5.38,,1,won,v New Zealand,Visakhapatnam,29 Oct 2016,ODI # 3800,India,6
+788,8 wickets,153.0,won,2nd,155/2,24.3,6.32,155.0,2,won,v Zimbabwe,Harare,14 Nov 2016,ODI # 3804,SriLanka,8
+789,62 runs,,lost,1st,227,49.2,4.60,,1,won,v Sri Lanka,Harare,16 Nov 2016,ODI # 3805,WestIndies,4
+790,62 runs,,won,2nd,165,43.1,3.82,228.0,2,lost,v West Indies,Harare,16 Nov 2016,ODI # 3805,SriLanka,8
+791,-,,lost,2nd,257/8,50.0,5.14,258.0,2,tied,v Zimbabwe,Bulawayo,19 Nov 2016,ODI # 3806,WestIndies,4
+792,-,,lost,2nd,DNB,0.0,-,,0,n/r,v Zimbabwe,Bulawayo,21 Nov 2016,ODI # 3807,SriLanka,8
+793,1 runs,,won,2nd,329/9,50.0,6.58,331.0,2,lost,v Sri Lanka,Bulawayo,23 Nov 2016,ODI # 3808,WestIndies,4
+794,1 runs,,lost,1st,330/7,50.0,6.60,,1,won,v West Indies,Bulawayo,23 Nov 2016,ODI # 3808,SriLanka,8
+795,5 runs,,lost,2nd,124/5,27.3,4.50,130.0,2,lost,v Zimbabwe,Bulawayo,25 Nov 2016,ODI # 3809,WestIndies,4
+796,6 wickets,75.0,lost,2nd,166/4,37.3,4.42,161.0,2,won,v Zimbabwe,Bulawayo,27 Nov 2016,ODI # 3810,SriLanka,8
+797,68 runs,,lost,2nd,256,44.2,5.77,325.0,2,lost,v Australia,Sydney,4 Dec 2016,ODI # 3811,Newzealad,5
+798,68 runs,,won,1st,324/8,50.0,6.48,,1,won,v New Zealand,Sydney,4 Dec 2016,ODI # 3811,Australia,2
+799,116 runs,,won,2nd,262,47.2,5.53,379.0,2,lost,v Australia,Canberra,6 Dec 2016,ODI # 3812,Newzealad,5
+800,116 runs,,lost,1st,378/5,50.0,7.56,,1,won,v New Zealand,Canberra,6 Dec 2016,ODI # 3812,Australia,2
+801,117 runs,,lost,2nd,147,36.1,4.06,265.0,2,lost,v Australia,Melbourne,9 Dec 2016,ODI # 3813,Newzealad,5
+802,117 runs,,won,1st,264/8,50.0,5.28,,1,won,v New Zealand,Melbourne,9 Dec 2016,ODI # 3813,Australia,2
+803,77 runs,,won,1st,341/7,50.0,6.82,,1,won,v Bangladesh,Christchurch,26 Dec 2016,ODI # 3814,Newzealad,5
+804,77 runs,,lost,2nd,264,44.5,5.88,342.0,2,lost,v New Zealand,Christchurch,26 Dec 2016,ODI # 3814,Bangladesh,25
+805,67 runs,,lost,1st,251,50.0,5.02,,1,won,v Bangladesh,Nelson,29 Dec 2016,ODI # 3815,Newzealad,5
+806,67 runs,,won,2nd,184,42.4,4.31,252.0,2,lost,v New Zealand,Nelson,29 Dec 2016,ODI # 3815,Bangladesh,25
+807,8 wickets,52.0,lost,2nd,239/2,41.2,5.78,237.0,2,won,v Bangladesh,Nelson,31 Dec 2016,ODI # 3816,Newzealad,5
+808,8 wickets,52.0,won,1st,236/9,50.0,4.72,,1,lost,v New Zealand,Nelson,31 Dec 2016,ODI # 3816,Bangladesh,25
+809,92 runs,,lost,2nd,176,42.4,4.12,269.0,2,lost,v Australia,Brisbane,13 Jan 2017,ODI # 3817,Pakistan,7
+810,92 runs,,won,1st,268/9,50.0,5.36,,1,won,v Pakistan,Brisbane,13 Jan 2017,ODI # 3817,Australia,2
+811,6 wickets,14.0,lost,2nd,221/4,47.4,4.63,221.0,2,won,v Australia,Melbourne,15 Jan 2017,ODI # 3818,Pakistan,7
+812,6 wickets,14.0,won,1st,220,48.2,4.55,,1,lost,v Pakistan,Melbourne,15 Jan 2017,ODI # 3818,Australia,2
+813,3 wickets,11.0,won,2nd,356/7,48.1,7.39,351.0,2,won,v England,Pune,15 Jan 2017,ODI # 3819,India,6
+814,3 wickets,11.0,lost,1st,350/7,50.0,7.00,,1,lost,v India,Pune,15 Jan 2017,ODI # 3819,England,1
+815,7 wickets,30.0,lost,1st,263/7,50.0,5.26,,1,lost,v Australia,Perth,19 Jan 2017,ODI # 3820,Pakistan,7
+816,7 wickets,30.0,won,2nd,265/3,45.0,5.88,264.0,2,won,v Pakistan,Perth,19 Jan 2017,ODI # 3820,Australia,2
+817,15 runs,,lost,1st,381/6,50.0,7.62,,1,won,v England,Cuttack,19 Jan 2017,ODI # 3821,India,6
+818,15 runs,,won,2nd,366/8,50.0,7.32,382.0,2,lost,v India,Cuttack,19 Jan 2017,ODI # 3821,England,1
+819,86 runs,,lost,2nd,267,43.5,6.09,354.0,2,lost,v Australia,Sydney,22 Jan 2017,ODI # 3822,Pakistan,7
+820,86 runs,,won,1st,353/6,50.0,7.06,,1,won,v Pakistan,Sydney,22 Jan 2017,ODI # 3822,Australia,2
+821,5 runs,,won,2nd,316/9,50.0,6.32,322.0,2,lost,v England,Kolkata,22 Jan 2017,ODI # 3824,India,6
+822,5 runs,,lost,1st,321/8,50.0,6.42,,1,won,v India,Kolkata,22 Jan 2017,ODI # 3824,England,1
+823,57 runs,,lost,2nd,312,49.1,6.34,370.0,2,lost,v Australia,Adelaide,26 Jan 2017,ODI # 3826,Pakistan,7
+824,57 runs,,won,1st,369/7,50.0,7.38,,1,won,v Pakistan,Adelaide,26 Jan 2017,ODI # 3826,Australia,2
+825,8 wickets,94.0,lost,1st,181,48.3,3.73,,1,lost,v South Africa,Port Elizabeth,28 Jan 2017,ODI # 3828,SriLanka,8
+826,8 wickets,94.0,won,2nd,185/2,34.2,5.38,182.0,2,won,v Sri Lanka,Port Elizabeth,28 Jan 2017,ODI # 3828,SouthAfrica,3
+827,6 runs,,lost,1st,286/9,50.0,5.72,,1,won,v Australia,Auckland,30 Jan 2017,ODI # 3829,Newzealad,5
+828,6 runs,,won,2nd,280,47.0,5.95,287.0,2,lost,v New Zealand,Auckland,30 Jan 2017,ODI # 3829,Australia,2
+829,121 runs,,won,2nd,186,37.5,4.91,308.0,2,lost,v South Africa,Durban,1 Feb 2017,ODI # 3830,SriLanka,8
+830,121 runs,,lost,1st,307/6,50.0,6.14,,1,won,v Sri Lanka,Durban,1 Feb 2017,ODI # 3830,SouthAfrica,3
+831,7 wickets,108.0,lost,1st,163,39.2,4.14,,1,lost,v South Africa,Johannesburg,4 Feb 2017,ODI # 3831,SriLanka,8
+832,7 wickets,108.0,won,2nd,164/3,32.0,5.12,164.0,2,won,v Sri Lanka,Johannesburg,4 Feb 2017,ODI # 3831,SouthAfrica,3
+833,24 runs,,won,1st,281/9,50.0,5.62,,1,won,v Australia,Hamilton,5 Feb 2017,ODI # 3832,Newzealad,5
+834,24 runs,,lost,2nd,257,47.0,5.46,282.0,2,lost,v New Zealand,Hamilton,5 Feb 2017,ODI # 3832,Australia,2
+835,40 runs,,lost,2nd,327,48.1,6.78,368.0,2,lost,v South Africa,Cape Town,7 Feb 2017,ODI # 3833,SriLanka,8
+836,40 runs,,won,1st,367/5,50.0,7.34,,1,won,v Sri Lanka,Cape Town,7 Feb 2017,ODI # 3833,SouthAfrica,3
+837,88 runs,,won,2nd,296/8,50.0,5.92,385.0,2,lost,v South Africa,Centurion,10 Feb 2017,ODI # 3834,SriLanka,8
+838,88 runs,,lost,1st,384/6,50.0,7.68,,1,won,v Sri Lanka,Centurion,10 Feb 2017,ODI # 3834,SouthAfrica,3
+839,12 runs,,won,1st,215,49.2,4.35,,1,won,v Zimbabwe,Harare,16 Feb 2017,ODI # 3835,Afghanistan,40
+840,4 wickets,1.0,won,2nd,210/6,33.5,6.20,208.0,2,won,v New Zealand,Hamilton,19 Feb 2017,ODI # 3836,SouthAfrica,3
+841,4 wickets,1.0,lost,1st,207/7,34.0,6.08,,1,lost,v South Africa,Hamilton,19 Feb 2017,ODI # 3836,Newzealad,5
+842,54 runs,,won,1st,238/9,50.0,4.76,,1,won,v Zimbabwe,Harare,19 Feb 2017,ODI # 3837,Afghanistan,40
+843,3 runs,,lost,2nd,126,29.3,4.27,130.0,2,lost,v Zimbabwe,Harare,21 Feb 2017,ODI # 3838,Afghanistan,40
+844,6 runs,,won,2nd,283/9,50.0,5.66,290.0,2,lost,v New Zealand,Christchurch,22 Feb 2017,ODI # 3839,SouthAfrica,3
+845,6 runs,,lost,1st,289/4,50.0,5.78,,1,won,v South Africa,Christchurch,22 Feb 2017,ODI # 3839,Newzealad,5
+846,7 wickets,118.0,won,1st,111,38.5,2.85,,1,lost,v Zimbabwe,Harare,24 Feb 2017,ODI # 3840,Afghanistan,40
+847,159 runs,,won,1st,271/8,50.0,5.42,,1,won,v New Zealand,Wellington,25 Feb 2017,ODI # 3841,SouthAfrica,3
+848,159 runs,,lost,2nd,112,32.2,3.46,272.0,2,lost,v South Africa,Wellington,25 Feb 2017,ODI # 3841,Newzealad,5
+849,106 runs,,won,1st,253/9,50.0,5.06,,1,won,v Zimbabwe,Harare,26 Feb 2017,ODI # 3842,Afghanistan,40
+850,7 wickets,30.0,won,1st,279/8,50.0,5.58,,1,lost,v New Zealand,Hamilton,1 Mar 2017,ODI # 3843,SouthAfrica,3
+851,7 wickets,30.0,lost,2nd,280/3,45.0,6.22,280.0,2,won,v South Africa,Hamilton,1 Mar 2017,ODI # 3843,Newzealad,5
+852,45 runs,,won,2nd,251,47.2,5.30,297.0,2,lost,v England,North Sound,3 Mar 2017,ODI # 3845,WestIndies,4
+853,45 runs,,lost,1st,296/6,50.0,5.92,,1,won,v West Indies,North Sound,3 Mar 2017,ODI # 3845,England,1
+854,6 wickets,106.0,won,2nd,150/4,32.2,4.63,150.0,2,won,v New Zealand,Auckland,4 Mar 2017,ODI # 3846,SouthAfrica,3
+855,6 wickets,106.0,lost,1st,149,41.1,3.61,,1,lost,v South Africa,Auckland,4 Mar 2017,ODI # 3846,Newzealad,5
+856,4 wickets,10.0,won,1st,225,47.5,4.70,,1,lost,v England,North Sound,5 Mar 2017,ODI # 3848,WestIndies,4
+857,4 wickets,10.0,lost,2nd,226/6,48.2,4.67,226.0,2,won,v West Indies,North Sound,5 Mar 2017,ODI # 3848,England,1
+858,186 runs,,won,2nd,142,39.2,3.61,329.0,2,lost,v England,Bridgetown,9 Mar 2017,ODI # 3849,WestIndies,4
+859,186 runs,,lost,1st,328,50.0,6.56,,1,won,v West Indies,Bridgetown,9 Mar 2017,ODI # 3849,England,1
+860,30 runs,,won,1st,292/7,50.0,5.84,,1,won,v Ireland,Greater Noida,15 Mar 2017,ODI # 3850,Afghanistan,40
+861,34 runs,,won,1st,338,50.0,6.76,,1,won,v Ireland,Greater Noida,17 Mar 2017,ODI # 3851,Afghanistan,40
+862,6 wickets,9.0,won,1st,264/8,50.0,5.28,,1,lost,v Ireland,Greater Noida,19 Mar 2017,ODI # 3852,Afghanistan,40
+863,3 wickets,19.0,won,1st,220,49.5,4.41,,1,lost,v Ireland,Greater Noida,22 Mar 2017,ODI # 3853,Afghanistan,40
+864,7 wickets,8.0,lost,2nd,231/3,48.4,4.74,230.0,2,won,v Ireland,Greater Noida,24 Mar 2017,ODI # 3854,Afghanistan,40
+865,90 runs,,won,2nd,234,45.1,5.18,325.0,2,lost,v Bangladesh,Dambulla,25 Mar 2017,ODI # 3855,SriLanka,8
+866,90 runs,,lost,1st,324/5,50.0,6.48,,1,won,v Sri Lanka,Dambulla,25 Mar 2017,ODI # 3855,Bangladesh,25
+867,-,,won,1st,311,49.5,6.24,,1,n/r,v Bangladesh,Dambulla,28 Mar 2017,ODI # 3856,SriLanka,8
+868,-,,lost,2nd,DNB,0.0,-,,0,n/r,v Sri Lanka,Dambulla,28 Mar 2017,ODI # 3856,Bangladesh,25
+869,70 runs,,lost,1st,280/9,50.0,5.60,,1,won,v Bangladesh,Colombo (SSC),1 Apr 2017,ODI # 3858,SriLanka,8
+870,70 runs,,won,2nd,210,44.3,4.71,281.0,2,lost,v Sri Lanka,Colombo (SSC),1 Apr 2017,ODI # 3858,Bangladesh,25
+871,4 wickets,6.0,won,2nd,309/6,49.0,6.30,309.0,2,won,v Pakistan,Providence,7 Apr 2017,ODI # 3861,WestIndies,4
+872,4 wickets,6.0,lost,1st,308/5,50.0,6.16,,1,lost,v West Indies,Providence,7 Apr 2017,ODI # 3861,Pakistan,7
+873,74 runs,,won,2nd,208,44.5,4.63,283.0,2,lost,v Pakistan,Providence,9 Apr 2017,ODI # 3862,WestIndies,4
+874,74 runs,,lost,1st,282/5,50.0,5.64,,1,won,v West Indies,Providence,9 Apr 2017,ODI # 3862,Pakistan,7
+875,6 wickets,41.0,won,1st,233/9,50.0,4.66,,1,lost,v Pakistan,Providence,11 Apr 2017,ODI # 3863,WestIndies,4
+876,6 wickets,41.0,lost,2nd,236/4,43.1,5.46,234.0,2,won,v West Indies,Providence,11 Apr 2017,ODI # 3863,Pakistan,7
+877,7 wickets,180.0,lost,2nd,127/3,20.0,6.35,127.0,2,won,v Ireland,Bristol,5 May 2017,ODI # 3864,England,1
+878,85 runs,,lost,1st,328/6,50.0,6.56,,1,won,v Ireland,Lord's,7 May 2017,ODI # 3865,England,1
+879,-,,lost,1st,157/4,31.1,5.03,,1,n/r,v Ireland,Dublin (Malahide),12 May 2017,ODI # 3866,Bangladesh,25
+880,51 runs,,lost,1st,289/7,50.0,5.78,,1,won,v Ireland,Dublin (Malahide),14 May 2017,ODI # 3867,Newzealad,5
+881,4 wickets,15.0,won,2nd,258/6,47.3,5.43,258.0,2,won,v Bangladesh,Dublin,17 May 2017,ODI # 3868,Newzealad,5
+882,4 wickets,15.0,lost,1st,257/9,50.0,5.14,,1,lost,v New Zealand,Dublin,17 May 2017,ODI # 3868,Bangladesh,25
+883,8 wickets,137.0,won,2nd,182/2,27.1,6.69,182.0,2,won,v Ireland,Dublin (Malahide),19 May 2017,ODI # 3869,Bangladesh,25
+884,190 runs,,lost,1st,344/6,50.0,6.88,,1,won,v Ireland,Dublin (Malahide),21 May 2017,ODI # 3870,Newzealad,5
+885,5 wickets,10.0,lost,1st,270/8,50.0,5.40,,1,lost,v Bangladesh,Dublin,24 May 2017,ODI # 3871,Newzealad,5
+886,5 wickets,10.0,won,2nd,271/5,48.2,5.60,271.0,2,won,v New Zealand,Dublin,24 May 2017,ODI # 3871,Bangladesh,25
+887,72 runs,,won,2nd,267,45.0,5.93,340.0,2,lost,v England,Leeds,24 May 2017,ODI # 3872,SouthAfrica,3
+888,72 runs,,lost,1st,339/6,50.0,6.78,,1,won,v South Africa,Leeds,24 May 2017,ODI # 3872,England,1
+889,2 runs,,won,2nd,328/5,50.0,6.56,331.0,2,lost,v England,Southampton,27 May 2017,ODI # 3873,SouthAfrica,3
+890,2 runs,,lost,1st,330/6,50.0,6.60,,1,won,v South Africa,Southampton,27 May 2017,ODI # 3873,England,1
+891,7 wickets,127.0,won,2nd,156/3,28.5,5.41,154.0,2,won,v England,Lord's,29 May 2017,ODI # 3874,SouthAfrica,3
+892,7 wickets,127.0,lost,1st,153,31.1,4.90,,1,lost,v South Africa,Lord's,29 May 2017,ODI # 3874,England,1
+893,8 wickets,16.0,won,2nd,308/2,47.2,6.50,306.0,2,won,v Bangladesh,The Oval,1 Jun 2017,ODI # 3875,England,1
+894,8 wickets,16.0,lost,1st,305/6,50.0,6.10,,1,lost,v England,The Oval,1 Jun 2017,ODI # 3875,Bangladesh,25
+895,-,,won,1st,291,45.0,6.46,,1,n/r,v Australia,Birmingham,2 Jun 2017,ODI # 3876,Newzealad,5
+896,-,,lost,2nd,53/3,9.0,5.88,235.0,2,n/r,v New Zealand,Birmingham,2 Jun 2017,ODI # 3876,Australia,2
+897,96 runs,,won,2nd,203,41.3,4.89,300.0,2,lost,v South Africa,The Oval,3 Jun 2017,ODI # 3877,SriLanka,8
+898,96 runs,,lost,1st,299/6,50.0,5.98,,1,won,v Sri Lanka,The Oval,3 Jun 2017,ODI # 3877,SouthAfrica,3
+899,124 runs,,won,2nd,164,33.4,4.87,289.0,2,lost,v India,Birmingham,4 Jun 2017,ODI # 3878,Pakistan,7
+900,124 runs,,lost,1st,319/3,48.0,6.64,,1,won,v Pakistan,Birmingham,4 Jun 2017,ODI # 3878,India,6
+901,-,,won,1st,182,44.3,4.08,,1,n/r,v Australia,The Oval,5 Jun 2017,ODI # 3879,Bangladesh,25
+902,-,,lost,2nd,83/1,16.0,5.18,183.0,2,n/r,v Bangladesh,The Oval,5 Jun 2017,ODI # 3879,Australia,2
+903,87 runs,,won,2nd,223,44.3,5.01,311.0,2,lost,v England,Cardiff,6 Jun 2017,ODI # 3880,Newzealad,5
+904,87 runs,,lost,1st,310,49.3,6.26,,1,won,v New Zealand,Cardiff,6 Jun 2017,ODI # 3880,England,1
+905,19 runs,,won,1st,219/8,50.0,4.38,,1,lost,v Pakistan,Birmingham,7 Jun 2017,ODI # 3881,SouthAfrica,3
+906,19 runs,,lost,2nd,119/3,27.0,4.40,101.0,2,won,v South Africa,Birmingham,7 Jun 2017,ODI # 3881,Pakistan,7
+907,7 wickets,8.0,won,2nd,322/3,48.4,6.61,322.0,2,won,v India,The Oval,8 Jun 2017,ODI # 3882,SriLanka,8
+908,7 wickets,8.0,lost,1st,321/6,50.0,6.42,,1,lost,v Sri Lanka,The Oval,8 Jun 2017,ODI # 3882,India,6
+909,5 wickets,16.0,won,1st,265/8,50.0,5.30,,1,lost,v Bangladesh,Cardiff,9 Jun 2017,ODI # 3883,Newzealad,5
+910,5 wickets,16.0,lost,2nd,268/5,47.2,5.66,266.0,2,won,v New Zealand,Cardiff,9 Jun 2017,ODI # 3883,Bangladesh,25
+911,63 runs,,lost,2nd,149,44.4,3.33,213.0,2,lost,v Afghanistan,Gros Islet,9 Jun 2017,ODI # 3884,WestIndies,4
+912,63 runs,,won,1st,212/6,50.0,4.24,,1,won,v West Indies,Gros Islet,9 Jun 2017,ODI # 3884,Afghanistan,40
+913,40 runs,,won,2nd,240/4,40.2,5.95,201.0,2,won,v Australia,Birmingham,10 Jun 2017,ODI # 3885,England,1
+914,40 runs,,lost,1st,277/9,50.0,5.54,,1,lost,v England,Birmingham,10 Jun 2017,ODI # 3885,Australia,2
+915,8 wickets,72.0,lost,1st,191,44.3,4.29,,1,lost,v India,The Oval,11 Jun 2017,ODI # 3886,SouthAfrica,3
+916,8 wickets,72.0,won,2nd,193/2,38.0,5.07,192.0,2,won,v South Africa,The Oval,11 Jun 2017,ODI # 3886,India,6
+917,4 wickets,64.0,lost,2nd,138/6,39.2,3.50,136.0,2,won,v Afghanistan,Gros Islet,11 Jun 2017,ODI # 3887,WestIndies,4
+918,4 wickets,64.0,won,1st,135,37.3,3.60,,1,lost,v West Indies,Gros Islet,11 Jun 2017,ODI # 3887,Afghanistan,40
+919,3 wickets,31.0,lost,1st,236,49.2,4.78,,1,lost,v Pakistan,Cardiff,12 Jun 2017,ODI # 3888,SriLanka,8
+920,3 wickets,31.0,won,2nd,237/7,44.5,5.28,237.0,2,won,v Sri Lanka,Cardiff,12 Jun 2017,ODI # 3888,Pakistan,7
+921,8 wickets,77.0,won,2nd,215/2,37.1,5.78,212.0,2,won,v England,Cardiff,14 Jun 2017,ODI # 3889,Pakistan,7
+922,8 wickets,77.0,lost,1st,211,49.5,4.23,,1,lost,v Pakistan,Cardiff,14 Jun 2017,ODI # 3889,England,1
+923,-,,lost,-,DNB,0.0,-,,0,n/r,v Afghanistan,Gros Islet,14 Jun 2017,ODI # 3890,WestIndies,4
+924,-,,won,-,DNB,0.0,-,,0,n/r,v West Indies,Gros Islet,14 Jun 2017,ODI # 3890,Afghanistan,40
+925,9 wickets,59.0,won,2nd,265/1,40.1,6.59,265.0,2,won,v Bangladesh,Birmingham,15 Jun 2017,ODI # 3891,India,6
+926,9 wickets,59.0,lost,1st,264/7,50.0,5.28,,1,lost,v India,Birmingham,15 Jun 2017,ODI # 3891,Bangladesh,25
+927,180 runs,,lost,1st,338/4,50.0,6.76,,1,won,v India,The Oval,18 Jun 2017,ODI # 3894,Pakistan,7
+928,180 runs,,won,2nd,158,30.3,5.18,339.0,2,lost,v Pakistan,The Oval,18 Jun 2017,ODI # 3894,India,6
+929,-,,won,2nd,DNB,0.0,-,,0,n/r,v India,Port of Spain,23 Jun 2017,ODI # 3895,WestIndies,4
+930,-,,lost,1st,199/3,39.2,5.05,,1,n/r,v West Indies,Port of Spain,23 Jun 2017,ODI # 3895,India,6
+931,105 runs,,won,2nd,205/6,43.0,4.76,311.0,2,lost,v India,Port of Spain,25 Jun 2017,ODI # 3896,WestIndies,4
+932,105 runs,,lost,1st,310/5,43.0,7.20,,1,won,v West Indies,Port of Spain,25 Jun 2017,ODI # 3896,India,6
+933,6 wickets,14.0,won,1st,316/5,50.0,6.32,,1,lost,v Zimbabwe,Galle,30 Jun 2017,ODI # 3897,SriLanka,8
+934,93 runs,,won,2nd,158,38.1,4.13,252.0,2,lost,v India,North Sound,30 Jun 2017,ODI # 3898,WestIndies,4
+935,93 runs,,lost,1st,251/4,50.0,5.02,,1,won,v West Indies,North Sound,30 Jun 2017,ODI # 3898,India,6
+936,7 wickets,119.0,won,2nd,158/3,30.1,5.23,156.0,2,won,v Zimbabwe,Galle,2 Jul 2017,ODI # 3899,SriLanka,8
+937,11 runs,,won,1st,189/9,50.0,3.78,,1,won,v India,North Sound,2 Jul 2017,ODI # 3900,WestIndies,4
+938,11 runs,,lost,2nd,178,49.4,3.58,190.0,2,lost,v West Indies,North Sound,2 Jul 2017,ODI # 3900,India,6
+939,8 wickets,16.0,won,2nd,312/2,47.2,6.59,311.0,2,won,v Zimbabwe,Hambantota,6 Jul 2017,ODI # 3901,SriLanka,8
+940,8 wickets,79.0,won,1st,205/9,50.0,4.10,,1,lost,v India,Kingston,6 Jul 2017,ODI # 3902,WestIndies,4
+941,8 wickets,79.0,lost,2nd,206/2,36.5,5.59,206.0,2,won,v West Indies,Kingston,6 Jul 2017,ODI # 3902,India,6
+942,4 wickets,10.0,won,1st,300/6,50.0,6.00,,1,lost,v Zimbabwe,Hambantota,8 Jul 2017,ODI # 3903,SriLanka,8
+943,3 wickets,71.0,lost,1st,203/8,50.0,4.06,,1,lost,v Zimbabwe,Hambantota,10 Jul 2017,ODI # 3904,SriLanka,8
+944,9 wickets,127.0,lost,1st,216,43.2,4.98,,1,lost,v India,Dambulla,20 Aug 2017,ODI # 3905,SriLanka,8
+945,9 wickets,127.0,won,2nd,220/1,28.5,7.63,217.0,2,won,v Sri Lanka,Dambulla,20 Aug 2017,ODI # 3905,India,6
+946,3 wickets,16.0,lost,1st,236/8,50.0,4.72,,1,lost,v India,Pallekele,24 Aug 2017,ODI # 3906,SriLanka,8
+947,3 wickets,16.0,won,2nd,231/7,44.2,5.21,231.0,2,won,v Sri Lanka,Pallekele,24 Aug 2017,ODI # 3906,India,6
+948,6 wickets,29.0,won,1st,217/9,50.0,4.34,,1,lost,v India,Pallekele,27 Aug 2017,ODI # 3907,SriLanka,8
+949,6 wickets,29.0,lost,2nd,218/4,45.1,4.82,218.0,2,won,v Sri Lanka,Pallekele,27 Aug 2017,ODI # 3907,India,6
+950,168 runs,,lost,2nd,207,42.4,4.85,376.0,2,lost,v India,Colombo (RPS),31 Aug 2017,ODI # 3908,SriLanka,8
+951,168 runs,,won,1st,375/5,50.0,7.50,,1,won,v Sri Lanka,Colombo (RPS),31 Aug 2017,ODI # 3908,India,6
+952,6 wickets,21.0,won,1st,238,49.4,4.79,,1,lost,v India,Colombo (RPS),3 Sep 2017,ODI # 3909,SriLanka,8
+953,6 wickets,21.0,lost,2nd,239/4,46.3,5.13,239.0,2,won,v Sri Lanka,Colombo (RPS),3 Sep 2017,ODI # 3909,India,6
+954,26 runs,,won,1st,281/7,50.0,5.62,,1,won,v Australia,Chennai,17 Sep 2017,ODI # 3910,India,6
+955,26 runs,,lost,2nd,137/9,21.0,6.52,164.0,2,lost,v India,Chennai,17 Sep 2017,ODI # 3910,Australia,2
+956,7 wickets,67.0,won,1st,204/9,42.0,4.85,,1,lost,v England,Manchester,19 Sep 2017,ODI # 3911,WestIndies,4
+957,7 wickets,67.0,lost,2nd,210/3,30.5,6.81,205.0,2,won,v West Indies,Manchester,19 Sep 2017,ODI # 3911,England,1
+958,50 runs,,won,1st,252,50.0,5.04,,1,won,v Australia,Kolkata,21 Sep 2017,ODI # 3912,India,6
+959,50 runs,,lost,2nd,202,43.1,4.67,253.0,2,lost,v India,Kolkata,21 Sep 2017,ODI # 3912,Australia,2
+960,-,,won,2nd,DNB,0.0,-,,0,n/r,v England,Nottingham,21 Sep 2017,ODI # 3913,WestIndies,4
+961,-,,lost,1st,21/0,2.2,9.00,,1,n/r,v West Indies,Nottingham,21 Sep 2017,ODI # 3913,England,1
+962,5 wickets,13.0,lost,2nd,294/5,47.5,6.14,294.0,2,won,v Australia,Indore,24 Sep 2017,ODI # 3914,India,6
+963,5 wickets,13.0,won,1st,293/6,50.0,5.86,,1,lost,v India,Indore,24 Sep 2017,ODI # 3914,Australia,2
+964,124 runs,,won,2nd,245,39.1,6.25,370.0,2,lost,v England,Bristol,24 Sep 2017,ODI # 3915,WestIndies,4
+965,124 runs,,lost,1st,369/9,50.0,7.38,,1,won,v West Indies,Bristol,24 Sep 2017,ODI # 3915,England,1
+966,6 runs,,lost,1st,356/5,50.0,7.12,,1,lost,v England,The Oval,27 Sep 2017,ODI # 3916,WestIndies,4
+967,6 runs,,won,2nd,258/5,35.1,7.33,253.0,2,won,v West Indies,The Oval,27 Sep 2017,ODI # 3916,England,1
+968,21 runs,,lost,2nd,313/8,50.0,6.26,335.0,2,lost,v Australia,Bengaluru,28 Sep 2017,ODI # 3917,India,6
+969,21 runs,,won,1st,334/5,50.0,6.68,,1,won,v India,Bengaluru,28 Sep 2017,ODI # 3917,Australia,2
+970,9 wickets,72.0,lost,1st,288/6,50.0,5.76,,1,lost,v England,Southampton,29 Sep 2017,ODI # 3918,WestIndies,4
+971,9 wickets,72.0,won,2nd,294/1,38.0,7.73,289.0,2,won,v West Indies,Southampton,29 Sep 2017,ODI # 3918,England,1
+972,7 wickets,43.0,lost,2nd,243/3,42.5,5.67,243.0,2,won,v Australia,Nagpur,1 Oct 2017,ODI # 3919,India,6
+973,7 wickets,43.0,won,1st,242/9,50.0,4.84,,1,lost,v India,Nagpur,1 Oct 2017,ODI # 3919,Australia,2
+974,83 runs,,won,2nd,209/8,50.0,4.18,293.0,2,lost,v Pakistan,Dubai (DSC),13 Oct 2017,ODI # 3922,SriLanka,8
+975,83 runs,,lost,1st,292/6,50.0,5.84,,1,won,v Sri Lanka,Dubai (DSC),13 Oct 2017,ODI # 3922,Pakistan,7
+976,10 wickets,43.0,lost,2nd,282/0,42.5,6.58,279.0,2,won,v Bangladesh,Kimberley,15 Oct 2017,ODI # 3923,SouthAfrica,3
+977,10 wickets,43.0,won,1st,278/7,50.0,5.56,,1,lost,v South Africa,Kimberley,15 Oct 2017,ODI # 3923,Bangladesh,25
+978,32 runs,,lost,2nd,187,48.0,3.89,220.0,2,lost,v Pakistan,Abu Dhabi,16 Oct 2017,ODI # 3924,SriLanka,8
+979,32 runs,,won,1st,219/9,50.0,4.38,,1,won,v Sri Lanka,Abu Dhabi,16 Oct 2017,ODI # 3924,Pakistan,7
+980,104 runs,,lost,1st,353/6,50.0,7.06,,1,won,v Bangladesh,Paarl,18 Oct 2017,ODI # 3925,SouthAfrica,3
+981,104 runs,,won,2nd,249,47.5,5.20,354.0,2,lost,v South Africa,Paarl,18 Oct 2017,ODI # 3925,Bangladesh,25
+982,7 wickets,45.0,won,1st,208,48.2,4.30,,1,lost,v Pakistan,Abu Dhabi,18 Oct 2017,ODI # 3926,SriLanka,8
+983,7 wickets,45.0,lost,2nd,209/3,42.3,4.91,209.0,2,won,v Sri Lanka,Abu Dhabi,18 Oct 2017,ODI # 3926,Pakistan,7
+984,7 wickets,66.0,won,1st,173,43.4,3.96,,1,lost,v Pakistan,Sharjah,20 Oct 2017,ODI # 3927,SriLanka,8
+985,7 wickets,66.0,lost,2nd,177/3,39.0,4.53,174.0,2,won,v Sri Lanka,Sharjah,20 Oct 2017,ODI # 3927,Pakistan,7
+986,6 wickets,6.0,lost,2nd,284/4,49.0,5.79,281.0,2,won,v India,Mumbai,22 Oct 2017,ODI # 3928,Newzealad,5
+987,6 wickets,6.0,won,1st,280/8,50.0,5.60,,1,lost,v New Zealand,Mumbai,22 Oct 2017,ODI # 3928,India,6
+988,200 runs,,won,1st,369/6,50.0,7.38,,1,won,v Bangladesh,East London,22 Oct 2017,ODI # 3929,SouthAfrica,3
+989,200 runs,,lost,2nd,169,40.4,4.15,370.0,2,lost,v South Africa,East London,22 Oct 2017,ODI # 3929,Bangladesh,25
+990,9 wickets,178.0,won,1st,103,26.2,3.91,,1,lost,v Pakistan,Sharjah,23 Oct 2017,ODI # 3930,SriLanka,8
+991,9 wickets,178.0,lost,2nd,105/1,20.2,5.16,104.0,2,won,v Sri Lanka,Sharjah,23 Oct 2017,ODI # 3930,Pakistan,7
+992,6 wickets,24.0,won,1st,230/9,50.0,4.60,,1,lost,v India,Pune,25 Oct 2017,ODI # 3931,Newzealad,5
+993,6 wickets,24.0,lost,2nd,232/4,46.0,5.04,231.0,2,won,v New Zealand,Pune,25 Oct 2017,ODI # 3931,India,6
+994,6 runs,,won,2nd,331/7,50.0,6.62,338.0,2,lost,v India,Kanpur,29 Oct 2017,ODI # 3932,Newzealad,5
+995,6 runs,,lost,1st,337/6,50.0,6.74,,1,won,v New Zealand,Kanpur,29 Oct 2017,ODI # 3932,India,6
+996,138 runs,,lost,1st,238/9,50.0,4.76,,1,won,v Ireland,Sharjah,5 Dec 2017,ODI # 3935,Afghanistan,40
+997,51 runs,,lost,2nd,220,45.2,4.85,272.0,2,lost,v Ireland,Sharjah,7 Dec 2017,ODI # 3937,Afghanistan,40
+998,7 wickets,176.0,won,2nd,114/3,20.4,5.51,113.0,2,won,v India,Dharamsala,10 Dec 2017,ODI # 3939,SriLanka,8
+999,7 wickets,176.0,lost,1st,112,38.2,2.92,,1,lost,v Sri Lanka,Dharamsala,10 Dec 2017,ODI # 3939,India,6
+1000,5 wickets,72.0,won,1st,177,48.2,3.66,,1,lost,v Ireland,Sharjah,10 Dec 2017,ODI # 3940,Afghanistan,40
+1001,141 runs,,won,2nd,251/8,50.0,5.02,393.0,2,lost,v India,Mohali,13 Dec 2017,ODI # 3941,SriLanka,8
+1002,141 runs,,lost,1st,392/4,50.0,7.84,,1,won,v Sri Lanka,Mohali,13 Dec 2017,ODI # 3941,India,6
+1003,8 wickets,107.0,lost,1st,215,44.5,4.79,,1,lost,v India,Visakhapatnam,17 Dec 2017,ODI # 3942,SriLanka,8
+1004,8 wickets,107.0,won,2nd,219/2,32.1,6.80,216.0,2,won,v Sri Lanka,Visakhapatnam,17 Dec 2017,ODI # 3942,India,6
+1005,5 wickets,24.0,lost,1st,248/9,50.0,4.96,,1,lost,v New Zealand,Whangarei,20 Dec 2017,ODI # 3943,WestIndies,4
+1006,5 wickets,24.0,won,2nd,249/5,46.0,5.41,249.0,2,won,v West Indies,Whangarei,20 Dec 2017,ODI # 3943,Newzealad,5
+1007,204 runs,,won,2nd,121,28.0,4.32,326.0,2,lost,v New Zealand,Christchurch,23 Dec 2017,ODI # 3944,WestIndies,4
+1008,204 runs,,lost,1st,325/6,50.0,6.50,,1,won,v West Indies,Christchurch,23 Dec 2017,ODI # 3944,Newzealad,5
+1009,66 runs,,lost,2nd,99/9,23.0,4.30,166.0,2,lost,v New Zealand,Christchurch,26 Dec 2017,ODI # 3945,WestIndies,4
+1010,66 runs,,won,1st,131/4,23.0,5.69,,1,won,v West Indies,Christchurch,26 Dec 2017,ODI # 3945,Newzealad,5
+1011,61 runs,,won,2nd,166/6,30.1,5.50,228.0,2,lost,v New Zealand,Wellington,6 Jan 2018,ODI # 3946,Pakistan,7
+1012,61 runs,,lost,1st,315/7,50.0,6.30,,1,won,v Pakistan,Wellington,6 Jan 2018,ODI # 3946,Newzealad,5
+1013,8 wickets,7.0,won,1st,246/9,50.0,4.92,,1,lost,v New Zealand,Nelson,9 Jan 2018,ODI # 3947,Pakistan,7
+1014,8 wickets,7.0,lost,2nd,151/2,23.5,6.33,151.0,2,won,v Pakistan,Nelson,9 Jan 2018,ODI # 3947,Newzealad,5
+1015,183 runs,,lost,2nd,74,27.2,2.70,258.0,2,lost,v New Zealand,Dunedin,13 Jan 2018,ODI # 3949,Pakistan,7
+1016,183 runs,,won,1st,257,50.0,5.14,,1,won,v Pakistan,Dunedin,13 Jan 2018,ODI # 3949,Newzealad,5
+1017,5 wickets,7.0,won,2nd,308/5,48.5,6.30,305.0,2,won,v Australia,Melbourne,14 Jan 2018,ODI # 3951,England,1
+1018,5 wickets,7.0,lost,1st,304/8,50.0,6.08,,1,lost,v England,Melbourne,14 Jan 2018,ODI # 3951,Australia,2
+1019,8 wickets,129.0,won,2nd,171/2,28.3,6.00,171.0,2,won,v Zimbabwe,Dhaka,15 Jan 2018,ODI # 3952,Bangladesh,25
+1020,5 wickets,25.0,won,1st,262/8,50.0,5.24,,1,lost,v New Zealand,Hamilton,16 Jan 2018,ODI # 3953,Pakistan,7
+1021,5 wickets,25.0,lost,2nd,263/5,45.5,5.73,263.0,2,won,v Pakistan,Hamilton,16 Jan 2018,ODI # 3953,Newzealad,5
+1022,12 runs,,won,2nd,278,48.1,5.77,291.0,2,lost,v Zimbabwe,Dhaka,17 Jan 2018,ODI # 3955,SriLanka,8
+1023,15 runs,,lost,2nd,256,49.0,5.22,272.0,2,lost,v New Zealand,Wellington,19 Jan 2018,ODI # 3957,Pakistan,7
+1024,15 runs,,won,1st,271/7,50.0,5.42,,1,won,v Pakistan,Wellington,19 Jan 2018,ODI # 3957,Newzealad,5
+1025,4 wickets,34.0,lost,2nd,274/6,44.2,6.18,271.0,2,won,v Australia,Brisbane,19 Jan 2018,ODI # 3958,England,1
+1026,4 wickets,34.0,won,1st,270/9,50.0,5.40,,1,lost,v England,Brisbane,19 Jan 2018,ODI # 3958,Australia,2
+1027,163 runs,,lost,2nd,157,32.2,4.85,321.0,2,lost,v Bangladesh,Dhaka,19 Jan 2018,ODI # 3959,SriLanka,8
+1028,163 runs,,won,1st,320/7,50.0,6.40,,1,won,v Sri Lanka,Dhaka,19 Jan 2018,ODI # 3959,Bangladesh,25
+1029,16 runs,,lost,1st,302/6,50.0,6.04,,1,won,v Australia,Sydney,21 Jan 2018,ODI # 3960,England,1
+1030,16 runs,,won,2nd,286/6,50.0,5.72,303.0,2,lost,v England,Sydney,21 Jan 2018,ODI # 3960,Australia,2
+1031,5 wickets,31.0,lost,2nd,202/5,44.5,4.50,199.0,2,won,v Zimbabwe,Dhaka,21 Jan 2018,ODI # 3962,SriLanka,8
+1032,91 runs,,won,1st,216/9,50.0,4.32,,1,won,v Zimbabwe,Dhaka,23 Jan 2018,ODI # 3964,Bangladesh,25
+1033,10 wickets,229.0,lost,2nd,83/0,11.5,7.01,83.0,2,won,v Bangladesh,Dhaka,25 Jan 2018,ODI # 3965,SriLanka,8
+1034,10 wickets,229.0,won,1st,82,24.0,3.41,,1,lost,v Sri Lanka,Dhaka,25 Jan 2018,ODI # 3965,Bangladesh,25
+1035,3 wickets,78.0,lost,1st,196,44.5,4.37,,1,lost,v Australia,Adelaide,26 Jan 2018,ODI # 3966,England,1
+1036,3 wickets,78.0,won,2nd,197/7,37.0,5.32,197.0,2,won,v England,Adelaide,26 Jan 2018,ODI # 3966,Australia,2
+1037,79 runs,,won,1st,221,50.0,4.42,,1,won,v Bangladesh,Dhaka,27 Jan 2018,ODI # 3967,SriLanka,8
+1038,79 runs,,lost,2nd,142,41.1,3.44,222.0,2,lost,v Sri Lanka,Dhaka,27 Jan 2018,ODI # 3967,Bangladesh,25
+1039,12 runs,,lost,1st,259,47.4,5.43,,1,won,v Australia,Perth,28 Jan 2018,ODI # 3968,England,1
+1040,12 runs,,won,2nd,247,48.2,5.11,260.0,2,lost,v England,Perth,28 Jan 2018,ODI # 3968,Australia,2
+1041,6 wickets,27.0,won,1st,269/8,50.0,5.38,,1,lost,v India,Durban,1 Feb 2018,ODI # 3969,SouthAfrica,3
+1042,6 wickets,27.0,lost,2nd,270/4,45.3,5.93,270.0,2,won,v South Africa,Durban,1 Feb 2018,ODI # 3969,India,6
+1043,9 wickets,177.0,lost,1st,118,32.2,3.64,,1,lost,v India,Centurion,4 Feb 2018,ODI # 3970,SouthAfrica,3
+1044,9 wickets,177.0,won,2nd,119/1,20.3,5.80,119.0,2,won,v South Africa,Centurion,4 Feb 2018,ODI # 3970,India,6
+1045,124 runs,,won,2nd,179,40.0,4.47,304.0,2,lost,v India,Cape Town,7 Feb 2018,ODI # 3971,SouthAfrica,3
+1046,124 runs,,lost,1st,303/6,50.0,6.06,,1,won,v South Africa,Cape Town,7 Feb 2018,ODI # 3971,India,6
+1047,154 runs,,won,1st,333/5,50.0,6.66,,1,won,v Zimbabwe,Sharjah,9 Feb 2018,ODI # 3972,Afghanistan,40
+1048,5 wickets,15.0,lost,2nd,207/5,25.3,8.11,202.0,2,won,v India,Johannesburg,10 Feb 2018,ODI # 3973,SouthAfrica,3
+1049,5 wickets,15.0,won,1st,289/7,50.0,5.78,,1,lost,v South Africa,Johannesburg,10 Feb 2018,ODI # 3973,India,6
+1050,154 runs,,lost,2nd,179,30.1,5.93,334.0,2,lost,v Zimbabwe,Sharjah,11 Feb 2018,ODI # 3974,Afghanistan,40
+1051,6 wickets,135.0,lost,2nd,158/4,27.3,5.74,155.0,2,won,v Zimbabwe,Sharjah,13 Feb 2018,ODI # 3975,Afghanistan,40
+1052,73 runs,,won,2nd,201,42.2,4.74,275.0,2,lost,v India,Port Elizabeth,13 Feb 2018,ODI # 3976,SouthAfrica,3
+1053,73 runs,,lost,1st,274/7,50.0,5.48,,1,won,v South Africa,Port Elizabeth,13 Feb 2018,ODI # 3976,India,6
+1054,10 wickets,173.0,lost,2nd,135/0,21.1,6.37,135.0,2,won,v Zimbabwe,Sharjah,16 Feb 2018,ODI # 3977,Afghanistan,40
+1055,8 wickets,107.0,lost,1st,204,46.5,4.35,,1,lost,v India,Centurion,16 Feb 2018,ODI # 3978,SouthAfrica,3
+1056,8 wickets,107.0,won,2nd,206/2,32.1,6.40,205.0,2,won,v South Africa,Centurion,16 Feb 2018,ODI # 3978,India,6
+1057,146 runs,,won,1st,241/9,50.0,4.82,,1,won,v Zimbabwe,Sharjah,19 Feb 2018,ODI # 3979,Afghanistan,40
+1058,3 wickets,4.0,won,2nd,287/7,49.2,5.81,285.0,2,won,v England,Hamilton,25 Feb 2018,ODI # 3980,Newzealad,5
+1059,3 wickets,4.0,lost,1st,284/8,50.0,5.68,,1,lost,v New Zealand,Hamilton,25 Feb 2018,ODI # 3980,England,1
+1060,6 wickets,73.0,lost,1st,223,49.4,4.48,,1,lost,v England,Mount Maunganui,28 Feb 2018,ODI # 3981,Newzealad,5
+1061,6 wickets,73.0,won,2nd,225/4,37.5,5.94,224.0,2,won,v New Zealand,Mount Maunganui,28 Feb 2018,ODI # 3981,England,1
+1062,4 runs,,won,2nd,230/8,50.0,4.60,235.0,2,lost,v England,Wellington,3 Mar 2018,ODI # 3982,Newzealad,5
+1063,4 runs,,lost,1st,234,50.0,4.68,,1,won,v New Zealand,Wellington,3 Mar 2018,ODI # 3982,England,1
+1064,7 wickets,16.0,lost,1st,255,49.4,5.13,,1,lost,v Scotland,Bulawayo,4 Mar 2018,ODI # 3983,Afghanistan,40
+1065,60 runs,,won,1st,357/4,50.0,7.14,,1,won,v U.A.E.,Harare,6 Mar 2018,ODI # 3987,WestIndies,4
+1066,2 runs,,lost,2nd,194,49.3,3.91,197.0,2,lost,v Zimbabwe,Bulawayo,6 Mar 2018,ODI # 3988,Afghanistan,40
+1067,5 wickets,3.0,won,2nd,339/5,49.3,6.84,336.0,2,won,v England,Dunedin,7 Mar 2018,ODI # 3989,Newzealad,5
+1068,5 wickets,3.0,lost,1st,335/9,50.0,6.70,,1,lost,v New Zealand,Dunedin,7 Mar 2018,ODI # 3989,England,1
+1069,30 runs,,won,2nd,195/9,46.0,4.23,226.0,2,lost,v Hong Kong,Bulawayo,8 Mar 2018,ODI # 3990,Afghanistan,40
+1070,6 wickets,42.0,lost,2nd,201/4,43.0,4.67,201.0,2,won,v P.N.G.,Harare,8 Mar 2018,ODI # 3991,WestIndies,4
+1071,7 wickets,104.0,lost,1st,223,49.5,4.47,,1,lost,v England,Christchurch,10 Mar 2018,ODI # 3992,Newzealad,5
+1072,7 wickets,104.0,won,2nd,229/3,32.4,7.01,224.0,2,won,v New Zealand,Christchurch,10 Mar 2018,ODI # 3992,England,1
+1073,52 runs,,lost,1st,257/8,50.0,5.14,,1,won,v Ireland,Harare,10 Mar 2018,ODI # 3993,WestIndies,4
+1074,3 wickets,14.0,won,1st,197/8,50.0,3.94,,1,lost,v Afghanistan,Harare,15 Mar 2018,ODI # 3997,WestIndies,4
+1075,3 wickets,14.0,lost,2nd,198/7,47.4,4.15,198.0,2,won,v West Indies,Harare,15 Mar 2018,ODI # 3997,Afghanistan,40
+1076,4 wickets,6.0,lost,2nd,290/6,49.0,5.91,290.0,2,won,v Zimbabwe,Harare,19 Mar 2018,ODI # 4002,WestIndies,4
+1077,5 wickets,93.0,lost,2nd,178/5,34.3,5.15,178.0,2,won,v U.A.E.,Harare,20 Mar 2018,ODI # 4003,Afghanistan,40
+1078,5 runs,,lost,1st,198,48.4,4.06,,1,won,v Scotland,Harare,21 Mar 2018,ODI # 4004,WestIndies,4
+1079,5 wickets,5.0,lost,2nd,213/5,49.1,4.33,210.0,2,won,v Ireland,Harare,23 Mar 2018,ODI # 4006,Afghanistan,40
+1080,7 wickets,56.0,won,1st,204,46.5,4.35,,1,lost,v Afghanistan,Harare,25 Mar 2018,ODI # 4007,WestIndies,4
+1081,7 wickets,56.0,lost,2nd,206/3,40.4,5.06,205.0,2,won,v West Indies,Harare,25 Mar 2018,ODI # 4007,Afghanistan,40
+1082,6 runs,,won,2nd,365,48.5,7.47,372.0,2,lost,v Scotland,Edinburgh,10 Jun 2018,ODI # 4008,England,1
+1083,3 wickets,36.0,lost,2nd,218/7,44.0,4.95,215.0,2,won,v Australia,The Oval,13 Jun 2018,ODI # 4009,England,1
+1084,3 wickets,36.0,won,1st,214,47.0,4.55,,1,lost,v England,The Oval,13 Jun 2018,ODI # 4009,Australia,2
+1085,38 runs,,lost,1st,342/8,50.0,6.84,,1,won,v Australia,Cardiff,16 Jun 2018,ODI # 4010,England,1
+1086,38 runs,,won,2nd,304,47.1,6.44,343.0,2,lost,v England,Cardiff,16 Jun 2018,ODI # 4010,Australia,2
+1087,242 runs,,lost,1st,481/6,50.0,9.62,,1,won,v Australia,Nottingham,19 Jun 2018,ODI # 4011,England,1
+1088,242 runs,,won,2nd,239,37.0,6.45,482.0,2,lost,v England,Nottingham,19 Jun 2018,ODI # 4011,Australia,2
+1089,6 wickets,32.0,lost,2nd,314/4,44.4,7.02,311.0,2,won,v Australia,Chester-le-Street,21 Jun 2018,ODI # 4012,England,1
+1090,6 wickets,32.0,won,1st,310/8,50.0,6.20,,1,lost,v England,Chester-le-Street,21 Jun 2018,ODI # 4012,Australia,2
+1091,1 wickets,9.0,lost,2nd,208/9,48.3,4.28,206.0,2,won,v Australia,Manchester,24 Jun 2018,ODI # 4013,England,1
+1092,1 wickets,9.0,won,1st,205,34.4,5.91,,1,lost,v England,Manchester,24 Jun 2018,ODI # 4013,Australia,2
+1093,8 wickets,59.0,won,2nd,269/2,40.1,6.69,269.0,2,won,v England,Nottingham,12 Jul 2018,ODI # 4014,India,6
+1094,8 wickets,59.0,lost,1st,268,49.5,5.37,,1,lost,v India,Nottingham,12 Jul 2018,ODI # 4014,England,1
+1095,201 runs,,lost,1st,308/7,50.0,6.16,,1,won,v Zimbabwe,Bulawayo,13 Jul 2018,ODI # 4015,Pakistan,7
+1096,86 runs,,lost,2nd,236,50.0,4.72,323.0,2,lost,v England,Lord's,14 Jul 2018,ODI # 4016,India,6
+1097,86 runs,,won,1st,322/7,50.0,6.44,,1,won,v India,Lord's,14 Jul 2018,ODI # 4016,England,1
+1098,9 wickets,84.0,lost,2nd,195/1,36.0,5.41,195.0,2,won,v Zimbabwe,Bulawayo,16 Jul 2018,ODI # 4017,Pakistan,7
+1099,8 wickets,33.0,lost,1st,256/8,50.0,5.12,,1,lost,v England,Leeds,17 Jul 2018,ODI # 4018,India,6
+1100,8 wickets,33.0,won,2nd,260/2,44.3,5.84,257.0,2,won,v India,Leeds,17 Jul 2018,ODI # 4018,England,1
+1101,9 wickets,241.0,lost,2nd,69/1,9.5,7.01,68.0,2,won,v Zimbabwe,Bulawayo,18 Jul 2018,ODI # 4019,Pakistan,7
+1102,244 runs,,won,1st,399/1,50.0,7.98,,1,won,v Zimbabwe,Bulawayo,20 Jul 2018,ODI # 4020,Pakistan,7
+1103,131 runs,,won,1st,364/4,50.0,7.28,,1,won,v Zimbabwe,Bulawayo,22 Jul 2018,ODI # 4021,Pakistan,7
+1104,48 runs,,lost,2nd,231/9,50.0,4.62,280.0,2,lost,v Bangladesh,Providence,22 Jul 2018,ODI # 4022,WestIndies,4
+1105,48 runs,,won,1st,279/4,50.0,5.58,,1,won,v West Indies,Providence,22 Jul 2018,ODI # 4022,Bangladesh,25
+1106,3 runs,,lost,1st,271,49.3,5.47,,1,won,v Bangladesh,Providence,25 Jul 2018,ODI # 4023,WestIndies,4
+1107,3 runs,,won,2nd,268/6,50.0,5.36,272.0,2,lost,v West Indies,Providence,25 Jul 2018,ODI # 4023,Bangladesh,25
+1108,18 runs,,lost,2nd,283/6,50.0,5.66,302.0,2,lost,v Bangladesh,Basseterre,28 Jul 2018,ODI # 4024,WestIndies,4
+1109,18 runs,,won,1st,301/6,50.0,6.02,,1,won,v West Indies,Basseterre,28 Jul 2018,ODI # 4024,Bangladesh,25
+1110,5 wickets,114.0,won,1st,193,34.3,5.59,,1,lost,v South Africa,Dambulla,29 Jul 2018,ODI # 4025,SriLanka,8
+1111,5 wickets,114.0,lost,2nd,196/5,31.0,6.32,194.0,2,won,v Sri Lanka,Dambulla,29 Jul 2018,ODI # 4025,SouthAfrica,3
+1112,4 wickets,43.0,won,1st,244/8,50.0,4.88,,1,lost,v South Africa,Dambulla,1 Aug 2018,ODI # 4027,SriLanka,8
+1113,4 wickets,43.0,lost,2nd,246/6,42.5,5.74,245.0,2,won,v Sri Lanka,Dambulla,1 Aug 2018,ODI # 4027,SouthAfrica,3
+1114,78 runs,,won,2nd,285,45.2,6.28,364.0,2,lost,v South Africa,Pallekele,5 Aug 2018,ODI # 4029,SriLanka,8
+1115,78 runs,,lost,1st,363/7,50.0,7.26,,1,won,v Sri Lanka,Pallekele,5 Aug 2018,ODI # 4029,SouthAfrica,3
+1116,3 runs,,lost,1st,306/7,39.0,7.84,,1,won,v South Africa,Pallekele,8 Aug 2018,ODI # 4030,SriLanka,8
+1117,3 runs,,won,2nd,187/9,21.0,8.90,191.0,2,lost,v Sri Lanka,Pallekele,8 Aug 2018,ODI # 4030,SouthAfrica,3
+1118,178 runs,,won,1st,299/8,50.0,5.98,,1,won,v South Africa,Colombo (RPS),12 Aug 2018,ODI # 4031,SriLanka,8
+1119,178 runs,,lost,2nd,121,24.4,4.90,300.0,2,lost,v Sri Lanka,Colombo (RPS),12 Aug 2018,ODI # 4031,SouthAfrica,3
+1120,29 runs,,lost,1st,227/9,50.0,4.54,,1,won,v Ireland,Belfast,27 Aug 2018,ODI # 4032,Afghanistan,40
+1121,3 wickets,37.0,won,1st,182/9,50.0,3.64,,1,lost,v Ireland,Belfast,29 Aug 2018,ODI # 4033,Afghanistan,40
+1122,8 wickets,157.0,lost,2nd,127/2,23.5,5.32,125.0,2,won,v Ireland,Belfast,31 Aug 2018,ODI # 4035,Afghanistan,40
+1123,137 runs,,lost,2nd,124,35.2,3.50,262.0,2,lost,v Bangladesh,Dubai (DSC),15 Sep 2018,ODI # 4036,SriLanka,8
+1124,137 runs,,won,1st,261,49.3,5.27,,1,won,v Sri Lanka,Dubai (DSC),15 Sep 2018,ODI # 4036,Bangladesh,25
+1125,8 wickets,158.0,lost,2nd,120/2,23.4,5.07,117.0,2,won,v Hong Kong,Dubai (DSC),16 Sep 2018,ODI # 4037,Pakistan,7
+1126,91 runs,,lost,2nd,158,41.2,3.82,250.0,2,lost,v Afghanistan,Abu Dhabi,17 Sep 2018,ODI # 4038,SriLanka,8
+1127,91 runs,,won,1st,249,50.0,4.98,,1,won,v Sri Lanka,Abu Dhabi,17 Sep 2018,ODI # 4038,Afghanistan,40
+1128,26 runs,,lost,1st,285/7,50.0,5.70,,1,won,v Hong Kong,Dubai (DSC),18 Sep 2018,ODI # 4039,India,6
+1129,8 wickets,126.0,won,1st,162,43.1,3.75,,1,lost,v India,Dubai (DSC),19 Sep 2018,ODI # 4040,Pakistan,7
+1130,8 wickets,126.0,lost,2nd,164/2,29.0,5.65,163.0,2,won,v Pakistan,Dubai (DSC),19 Sep 2018,ODI # 4040,India,6
+1131,136 runs,,lost,2nd,119,42.1,2.82,256.0,2,lost,v Afghanistan,Abu Dhabi,20 Sep 2018,ODI # 4041,Bangladesh,25
+1132,136 runs,,won,1st,255/7,50.0,5.10,,1,won,v Bangladesh,Abu Dhabi,20 Sep 2018,ODI # 4041,Afghanistan,40
+1133,7 wickets,82.0,won,2nd,174/3,36.2,4.78,174.0,2,won,v Bangladesh,Dubai (DSC),21 Sep 2018,ODI # 4042,India,6
+1134,7 wickets,82.0,lost,1st,173,49.1,3.51,,1,lost,v India,Dubai (DSC),21 Sep 2018,ODI # 4042,Bangladesh,25
+1135,3 wickets,3.0,lost,2nd,258/7,49.3,5.21,258.0,2,won,v Afghanistan,Abu Dhabi,21 Sep 2018,ODI # 4043,Pakistan,7
+1136,3 wickets,3.0,won,1st,257/6,50.0,5.14,,1,lost,v Pakistan,Abu Dhabi,21 Sep 2018,ODI # 4043,Afghanistan,40
+1137,9 wickets,63.0,won,1st,237/7,50.0,4.74,,1,lost,v India,Dubai (DSC),23 Sep 2018,ODI # 4044,Pakistan,7
+1138,9 wickets,63.0,lost,2nd,238/1,39.3,6.02,238.0,2,won,v Pakistan,Dubai (DSC),23 Sep 2018,ODI # 4044,India,6
+1139,3 runs,,won,1st,249/7,50.0,4.98,,1,won,v Afghanistan,Abu Dhabi,23 Sep 2018,ODI # 4045,Bangladesh,25
+1140,3 runs,,lost,2nd,246/7,50.0,4.92,250.0,2,lost,v Bangladesh,Abu Dhabi,23 Sep 2018,ODI # 4045,Afghanistan,40
+1141,-,,lost,2nd,252,49.5,5.05,253.0,2,tied,v Afghanistan,Dubai (DSC),25 Sep 2018,ODI # 4046,India,6
+1142,-,,won,1st,252/8,50.0,5.04,,1,tied,v India,Dubai (DSC),25 Sep 2018,ODI # 4046,Afghanistan,40
+1143,37 runs,,lost,2nd,202/9,50.0,4.04,240.0,2,lost,v Bangladesh,Abu Dhabi,26 Sep 2018,ODI # 4047,Pakistan,7
+1144,37 runs,,won,1st,239,48.5,4.89,,1,won,v Pakistan,Abu Dhabi,26 Sep 2018,ODI # 4047,Bangladesh,25
+1145,3 wickets,0.0,won,2nd,223/7,50.0,4.46,223.0,2,won,v Bangladesh,Dubai (DSC),28 Sep 2018,ODI # 4048,India,6
+1146,3 wickets,0.0,lost,1st,222,48.3,4.57,,1,lost,v India,Dubai (DSC),28 Sep 2018,ODI # 4048,Bangladesh,25
+1147,5 wickets,143.0,won,2nd,119/5,26.1,4.54,118.0,2,won,v Zimbabwe,Kimberley,30 Sep 2018,ODI # 4049,SouthAfrica,3
+1148,120 runs,,won,1st,198,47.3,4.16,,1,won,v Zimbabwe,Bloemfontein,3 Oct 2018,ODI # 4050,SouthAfrica,3
+1149,4 wickets,25.0,lost,2nd,231/6,45.5,5.04,229.0,2,won,v Zimbabwe,Paarl,6 Oct 2018,ODI # 4051,SouthAfrica,3
+1150,-,,won,2nd,DNB,0.0,-,,0,n/r,v England,Dambulla,10 Oct 2018,ODI # 4052,SriLanka,8
+1151,-,,lost,1st,92/2,15.0,6.13,,1,n/r,v Sri Lanka,Dambulla,10 Oct 2018,ODI # 4052,England,1
+1152,31 runs,,won,2nd,140/5,29.0,4.82,172.0,2,lost,v England,Dambulla,13 Oct 2018,ODI # 4053,SriLanka,8
+1153,31 runs,,lost,1st,278/9,50.0,5.56,,1,won,v Sri Lanka,Dambulla,13 Oct 2018,ODI # 4053,England,1
+1154,7 wickets,15.0,lost,1st,150/9,21.0,7.14,,1,lost,v England,Pallekele,17 Oct 2018,ODI # 4054,SriLanka,8
+1155,7 wickets,15.0,won,2nd,153/3,18.3,8.27,151.0,2,won,v Sri Lanka,Pallekele,17 Oct 2018,ODI # 4054,England,1
+1156,18 runs,,lost,1st,273/7,50.0,5.46,,1,lost,v England,Pallekele,20 Oct 2018,ODI # 4055,SriLanka,8
+1157,18 runs,,won,2nd,132/2,27.0,4.88,115.0,2,won,v Sri Lanka,Pallekele,20 Oct 2018,ODI # 4055,England,1
+1158,8 wickets,47.0,lost,1st,322/8,50.0,6.44,,1,lost,v India,Guwahati,21 Oct 2018,ODI # 4056,WestIndies,4
+1159,8 wickets,47.0,won,2nd,326/2,42.1,7.73,323.0,2,won,v West Indies,Guwahati,21 Oct 2018,ODI # 4056,India,6
+1160,28 runs,,won,1st,271/8,50.0,5.42,,1,won,v Zimbabwe,Dhaka,21 Oct 2018,ODI # 4057,Bangladesh,25
+1161,219 runs,,won,1st,366/6,50.0,7.32,,1,won,v England,Colombo (RPS),23 Oct 2018,ODI # 4058,SriLanka,8
+1162,219 runs,,lost,2nd,132/9,26.1,5.04,352.0,2,lost,v Sri Lanka,Colombo (RPS),23 Oct 2018,ODI # 4058,England,1
+1163,-,,lost,2nd,321/7,50.0,6.42,322.0,2,tied,v India,Visakhapatnam,24 Oct 2018,ODI # 4059,WestIndies,4
+1164,-,,won,1st,321/6,50.0,6.42,,1,tied,v West Indies,Visakhapatnam,24 Oct 2018,ODI # 4059,India,6
+1165,7 wickets,35.0,won,2nd,250/3,44.1,5.66,247.0,2,won,v Zimbabwe,Chattogram,24 Oct 2018,ODI # 4060,Bangladesh,25
+1166,7 wickets,47.0,won,2nd,288/3,42.1,6.83,287.0,2,won,v Zimbabwe,Chattogram,26 Oct 2018,ODI # 4061,Bangladesh,25
+1167,43 runs,,lost,1st,283/9,50.0,5.66,,1,won,v India,Pune,27 Oct 2018,ODI # 4062,WestIndies,4
+1168,43 runs,,won,2nd,240,47.4,5.03,284.0,2,lost,v West Indies,Pune,27 Oct 2018,ODI # 4062,India,6
+1169,224 runs,,lost,2nd,153,36.2,4.21,378.0,2,lost,v India,Mumbai (BS),29 Oct 2018,ODI # 4063,WestIndies,4
+1170,224 runs,,won,1st,377/5,50.0,7.54,,1,won,v West Indies,Mumbai (BS),29 Oct 2018,ODI # 4063,India,6
+1171,9 wickets,211.0,won,1st,104,31.5,3.26,,1,lost,v India,Thiruvananthapuram,1 Nov 2018,ODI # 4064,WestIndies,4
+1172,9 wickets,211.0,lost,2nd,105/1,14.5,7.07,105.0,2,won,v West Indies,Thiruvananthapuram,1 Nov 2018,ODI # 4064,India,6
+1173,6 wickets,124.0,won,2nd,153/4,29.2,5.21,153.0,2,won,v Australia,Perth,4 Nov 2018,ODI # 4065,SouthAfrica,3
+1174,6 wickets,124.0,lost,1st,152,38.1,3.98,,1,lost,v South Africa,Perth,4 Nov 2018,ODI # 4065,Australia,2
+1175,47 runs,,lost,2nd,219,47.2,4.62,267.0,2,lost,v New Zealand,Abu Dhabi,7 Nov 2018,ODI # 4066,Pakistan,7
+1176,47 runs,,won,1st,266/9,50.0,5.32,,1,won,v Pakistan,Abu Dhabi,7 Nov 2018,ODI # 4066,Newzealad,5
+1177,7 runs,,won,2nd,224/9,50.0,4.48,232.0,2,lost,v Australia,Adelaide,9 Nov 2018,ODI # 4067,SouthAfrica,3
+1178,7 runs,,lost,1st,231,48.3,4.76,,1,won,v South Africa,Adelaide,9 Nov 2018,ODI # 4067,Australia,2
+1179,6 wickets,57.0,lost,2nd,212/4,40.3,5.23,210.0,2,won,v New Zealand,Abu Dhabi,9 Nov 2018,ODI # 4068,Pakistan,7
+1180,6 wickets,57.0,won,1st,209/9,50.0,4.18,,1,lost,v Pakistan,Abu Dhabi,9 Nov 2018,ODI # 4068,Newzealad,5
+1181,40 runs,,lost,1st,320/5,50.0,6.40,,1,won,v Australia,Hobart,11 Nov 2018,ODI # 4069,SouthAfrica,3
+1182,40 runs,,won,2nd,280/9,50.0,5.60,321.0,2,lost,v South Africa,Hobart,11 Nov 2018,ODI # 4069,Australia,2
+1183,-,,won,1st,279/8,50.0,5.58,,1,n/r,v New Zealand,Dubai (DSC),11 Nov 2018,ODI # 4070,Pakistan,7
+1184,-,,lost,2nd,35/1,6.5,5.12,280.0,2,n/r,v Pakistan,Dubai (DSC),11 Nov 2018,ODI # 4070,Newzealad,5
+1185,5 wickets,89.0,won,1st,195/9,50.0,3.90,,1,lost,v Bangladesh,Dhaka,9 Dec 2018,ODI # 4071,WestIndies,4
+1186,5 wickets,89.0,lost,2nd,196/5,35.1,5.57,196.0,2,won,v West Indies,Dhaka,9 Dec 2018,ODI # 4071,Bangladesh,25
+1187,4 wickets,2.0,won,2nd,256/6,49.4,5.15,256.0,2,won,v Bangladesh,Dhaka,11 Dec 2018,ODI # 4072,WestIndies,4
+1188,4 wickets,2.0,lost,1st,255/7,50.0,5.10,,1,lost,v West Indies,Dhaka,11 Dec 2018,ODI # 4072,Bangladesh,25
+1189,8 wickets,69.0,lost,1st,198/9,50.0,3.96,,1,lost,v Bangladesh,Sylhet,14 Dec 2018,ODI # 4073,WestIndies,4
+1190,8 wickets,69.0,won,2nd,202/2,38.3,5.24,199.0,2,won,v West Indies,Sylhet,14 Dec 2018,ODI # 4073,Bangladesh,25
+1191,45 runs,,lost,2nd,326,49.0,6.65,372.0,2,lost,v New Zealand,Mount Maunganui,3 Jan 2019,ODI # 4074,SriLanka,8
+1192,45 runs,,won,1st,371/7,50.0,7.42,,1,won,v Sri Lanka,Mount Maunganui,3 Jan 2019,ODI # 4074,Newzealad,5
+1193,21 runs,,lost,2nd,298,46.2,6.43,320.0,2,lost,v New Zealand,Mount Maunganui,5 Jan 2019,ODI # 4075,SriLanka,8
+1194,21 runs,,won,1st,319/7,50.0,6.38,,1,won,v Sri Lanka,Mount Maunganui,5 Jan 2019,ODI # 4075,Newzealad,5
+1195,115 runs,,won,2nd,249,41.4,5.97,365.0,2,lost,v New Zealand,Nelson,8 Jan 2019,ODI # 4076,SriLanka,8
+1196,115 runs,,lost,1st,364/4,50.0,7.28,,1,won,v Sri Lanka,Nelson,8 Jan 2019,ODI # 4076,Newzealad,5
+1197,34 runs,,lost,2nd,254/9,50.0,5.08,289.0,2,lost,v Australia,Sydney,12 Jan 2019,ODI # 4077,India,6
+1198,34 runs,,won,1st,288/5,50.0,5.76,,1,won,v India,Sydney,12 Jan 2019,ODI # 4077,Australia,2
+1199,6 wickets,4.0,lost,2nd,299/4,49.2,6.06,299.0,2,won,v Australia,Adelaide,15 Jan 2019,ODI # 4078,India,6
+1200,6 wickets,4.0,won,1st,298/9,50.0,5.96,,1,lost,v India,Adelaide,15 Jan 2019,ODI # 4078,Australia,2
+1201,7 wickets,4.0,won,2nd,234/3,49.2,4.74,231.0,2,won,v Australia,Melbourne,18 Jan 2019,ODI # 4079,India,6
+1202,7 wickets,4.0,lost,1st,230,48.4,4.72,,1,lost,v India,Melbourne,18 Jan 2019,ODI # 4079,Australia,2
+1203,5 wickets,5.0,won,1st,266/2,50.0,5.32,,1,lost,v Pakistan,Port Elizabeth,19 Jan 2019,ODI # 4080,SouthAfrica,3
+1204,5 wickets,5.0,lost,2nd,267/5,49.1,5.43,267.0,2,won,v South Africa,Port Elizabeth,19 Jan 2019,ODI # 4080,Pakistan,7
+1205,5 wickets,48.0,won,2nd,207/5,42.0,4.92,204.0,2,won,v Pakistan,Durban,22 Jan 2019,ODI # 4081,SouthAfrica,3
+1206,5 wickets,48.0,lost,1st,203,45.5,4.42,,1,lost,v South Africa,Durban,22 Jan 2019,ODI # 4081,Pakistan,7
+1207,8 wickets,85.0,won,1st,157,38.0,4.13,,1,lost,v India,Napier,23 Jan 2019,ODI # 4082,Newzealad,5
+1208,8 wickets,85.0,lost,2nd,156/2,34.5,4.47,156.0,2,won,v New Zealand,Napier,23 Jan 2019,ODI # 4082,India,6
+1209,13 runs,,lost,2nd,187/2,33.0,5.66,175.0,2,won,v Pakistan,Centurion,25 Jan 2019,ODI # 4084,SouthAfrica,3
+1210,13 runs,,won,1st,317/6,50.0,6.34,,1,lost,v South Africa,Centurion,25 Jan 2019,ODI # 4084,Pakistan,7
+1211,90 runs,,lost,2nd,234,40.2,5.80,325.0,2,lost,v India,Mount Maunganui,26 Jan 2019,ODI # 4085,Newzealad,5
+1212,90 runs,,won,1st,324/4,50.0,6.48,,1,won,v New Zealand,Mount Maunganui,26 Jan 2019,ODI # 4085,India,6
+1213,8 wickets,111.0,lost,1st,164,41.0,4.00,,1,lost,v Pakistan,Johannesburg,27 Jan 2019,ODI # 4087,SouthAfrica,3
+1214,8 wickets,111.0,won,2nd,168/2,31.3,5.33,165.0,2,won,v South Africa,Johannesburg,27 Jan 2019,ODI # 4087,Pakistan,7
+1215,7 wickets,42.0,won,1st,243,49.0,4.95,,1,lost,v India,Mount Maunganui,28 Jan 2019,ODI # 4088,Newzealad,5
+1216,7 wickets,42.0,lost,2nd,245/3,43.0,5.69,244.0,2,won,v New Zealand,Mount Maunganui,28 Jan 2019,ODI # 4088,India,6
+1217,7 wickets,60.0,won,2nd,241/3,40.0,6.02,241.0,2,won,v Pakistan,Cape Town,30 Jan 2019,ODI # 4090,SouthAfrica,3
+1218,7 wickets,60.0,lost,1st,240/8,50.0,4.80,,1,lost,v South Africa,Cape Town,30 Jan 2019,ODI # 4090,Pakistan,7
+1219,8 wickets,212.0,won,2nd,93/2,14.4,6.34,93.0,2,won,v India,Hamilton,31 Jan 2019,ODI # 4091,Newzealad,5
+1220,8 wickets,212.0,lost,1st,92,30.5,2.98,,1,lost,v New Zealand,Hamilton,31 Jan 2019,ODI # 4091,India,6
+1221,35 runs,,lost,2nd,217,44.1,4.91,253.0,2,lost,v India,Wellington,3 Feb 2019,ODI # 4092,Newzealad,5
+1222,35 runs,,won,1st,252,49.5,5.05,,1,won,v New Zealand,Wellington,3 Feb 2019,ODI # 4092,India,6
+1223,8 wickets,33.0,lost,2nd,233/2,44.3,5.23,233.0,2,won,v Bangladesh,Napier,13 Feb 2019,ODI # 4093,Newzealad,5
+1224,8 wickets,33.0,won,1st,232,48.5,4.75,,1,lost,v New Zealand,Napier,13 Feb 2019,ODI # 4093,Bangladesh,25
+1225,8 wickets,83.0,won,2nd,229/2,36.1,6.33,227.0,2,won,v Bangladesh,Christchurch,16 Feb 2019,ODI # 4094,Newzealad,5
+1226,8 wickets,83.0,lost,1st,226,49.4,4.55,,1,lost,v New Zealand,Christchurch,16 Feb 2019,ODI # 4094,Bangladesh,25
+1227,88 runs,,lost,1st,330/6,50.0,6.60,,1,won,v Bangladesh,Dunedin,20 Feb 2019,ODI # 4095,Newzealad,5
+1228,88 runs,,won,2nd,242,47.2,5.11,331.0,2,lost,v New Zealand,Dunedin,20 Feb 2019,ODI # 4095,Bangladesh,25
+1229,6 wickets,8.0,won,1st,360/8,50.0,7.20,,1,lost,v England,Bridgetown,20 Feb 2019,ODI # 4096,WestIndies,4
+1230,6 wickets,8.0,lost,2nd,364/4,48.4,7.47,361.0,2,won,v West Indies,Bridgetown,20 Feb 2019,ODI # 4096,England,1
+1231,26 runs,,lost,1st,289/6,50.0,5.78,,1,won,v England,Bridgetown,22 Feb 2019,ODI # 4097,WestIndies,4
+1232,26 runs,,won,2nd,263,47.4,5.51,290.0,2,lost,v West Indies,Bridgetown,22 Feb 2019,ODI # 4097,England,1
+1233,-,,lost,-,DNB,0.0,-,,0,n/r,v England,St George's,25 Feb 2019,ODI # 4098,WestIndies,4
+1234,-,,won,-,DNB,0.0,-,,0,n/r,v West Indies,St George's,25 Feb 2019,ODI # 4098,England,1
+1235,29 runs,,won,2nd,389,48.0,8.10,419.0,2,lost,v England,St George's,27 Feb 2019,ODI # 4099,WestIndies,4
+1236,29 runs,,lost,1st,418/6,50.0,8.36,,1,won,v West Indies,St George's,27 Feb 2019,ODI # 4099,England,1
+1237,5 wickets,49.0,lost,2nd,165/5,41.5,3.94,162.0,2,won,v Ireland,Dehradun,28 Feb 2019,ODI # 4100,Afghanistan,40
+1238,-,,won,1st,250/7,48.3,5.15,,1,n/r,v Ireland,Dehradun,2 Mar 2019,ODI # 4101,Afghanistan,40
+1239,6 wickets,10.0,lost,2nd,240/4,48.2,4.96,237.0,2,won,v Australia,Hyderabad (Deccan),2 Mar 2019,ODI # 4102,India,6
+1240,6 wickets,10.0,won,1st,236/7,50.0,4.72,,1,lost,v India,Hyderabad (Deccan),2 Mar 2019,ODI # 4102,Australia,2
+1241,7 wickets,227.0,won,2nd,115/3,12.1,9.45,114.0,2,won,v England,Gros Islet,2 Mar 2019,ODI # 4103,WestIndies,4
+1242,7 wickets,227.0,lost,1st,113,28.1,4.01,,1,lost,v West Indies,Gros Islet,2 Mar 2019,ODI # 4103,England,1
+1243,8 wickets,67.0,lost,1st,231,47.0,4.91,,1,lost,v South Africa,Johannesburg,3 Mar 2019,ODI # 4104,SriLanka,8
+1244,8 wickets,67.0,won,2nd,232/2,38.5,5.97,232.0,2,won,v Sri Lanka,Johannesburg,3 Mar 2019,ODI # 4104,SouthAfrica,3
+1245,4 wickets,6.0,won,1st,256/8,50.0,5.12,,1,lost,v Ireland,Dehradun,5 Mar 2019,ODI # 4105,Afghanistan,40
+1246,8 runs,,lost,1st,250,48.2,5.17,,1,won,v Australia,Nagpur,5 Mar 2019,ODI # 4106,India,6
+1247,8 runs,,won,2nd,242,49.3,4.88,251.0,2,lost,v India,Nagpur,5 Mar 2019,ODI # 4106,Australia,2
+1248,113 runs,,won,2nd,138,32.2,4.26,252.0,2,lost,v South Africa,Centurion,6 Mar 2019,ODI # 4107,SriLanka,8
+1249,113 runs,,lost,1st,251,45.1,5.55,,1,won,v Sri Lanka,Centurion,6 Mar 2019,ODI # 4107,SouthAfrica,3
+1250,109 runs,,lost,1st,223,49.1,4.53,,1,won,v Ireland,Dehradun,8 Mar 2019,ODI # 4108,Afghanistan,40
+1251,32 runs,,won,2nd,281,48.2,5.81,314.0,2,lost,v Australia,Ranchi,8 Mar 2019,ODI # 4109,India,6
+1252,32 runs,,lost,1st,313/5,50.0,6.26,,1,won,v India,Ranchi,8 Mar 2019,ODI # 4109,Australia,2
+1253,5 wickets,16.0,lost,1st,216/6,50.0,4.32,,1,lost,v Ireland,Dehradun,10 Mar 2019,ODI # 4110,Afghanistan,40
+1254,4 wickets,13.0,won,1st,358/9,50.0,7.16,,1,lost,v Australia,Mohali,10 Mar 2019,ODI # 4111,India,6
+1255,4 wickets,13.0,lost,2nd,359/6,47.5,7.50,359.0,2,won,v India,Mohali,10 Mar 2019,ODI # 4111,Australia,2
+1256,71 runs,,won,2nd,121/5,24.0,5.04,193.0,2,lost,v South Africa,Durban,10 Mar 2019,ODI # 4112,SriLanka,8
+1257,71 runs,,lost,1st,331/5,50.0,6.62,,1,won,v Sri Lanka,Durban,10 Mar 2019,ODI # 4112,SouthAfrica,3
+1258,35 runs,,lost,2nd,237,50.0,4.74,273.0,2,lost,v Australia,Delhi,13 Mar 2019,ODI # 4113,India,6
+1259,35 runs,,won,1st,272/9,50.0,5.44,,1,won,v India,Delhi,13 Mar 2019,ODI # 4113,Australia,2
+1260,6 wickets,103.0,lost,1st,189,39.2,4.80,,1,lost,v South Africa,Port Elizabeth,13 Mar 2019,ODI # 4114,SriLanka,8
+1261,6 wickets,103.0,won,2nd,190/4,32.5,5.78,190.0,2,won,v Sri Lanka,Port Elizabeth,13 Mar 2019,ODI # 4114,SouthAfrica,3
+1262,41 runs,,won,1st,225,49.3,4.54,,1,lost,v South Africa,Cape Town,16 Mar 2019,ODI # 4115,SriLanka,8
+1263,41 runs,,lost,2nd,135/2,28.0,4.82,95.0,2,won,v Sri Lanka,Cape Town,16 Mar 2019,ODI # 4115,SouthAfrica,3
+1264,8 wickets,6.0,won,1st,280/5,50.0,5.60,,1,lost,v Australia,Sharjah,22 Mar 2019,ODI # 4116,Pakistan,7
+1265,8 wickets,6.0,lost,2nd,281/2,49.0,5.73,281.0,2,won,v Pakistan,Sharjah,22 Mar 2019,ODI # 4116,Australia,2
+1266,8 wickets,13.0,won,1st,284/7,50.0,5.68,,1,lost,v Australia,Sharjah,24 Mar 2019,ODI # 4117,Pakistan,7
+1267,8 wickets,13.0,lost,2nd,285/2,47.5,5.95,285.0,2,won,v Pakistan,Sharjah,24 Mar 2019,ODI # 4117,Australia,2
+1268,80 runs,,lost,2nd,186,44.4,4.16,267.0,2,lost,v Australia,Abu Dhabi,27 Mar 2019,ODI # 4118,Pakistan,7
+1269,80 runs,,won,1st,266/6,50.0,5.32,,1,won,v Pakistan,Abu Dhabi,27 Mar 2019,ODI # 4118,Australia,2
+1270,6 runs,,won,2nd,271/8,50.0,5.42,278.0,2,lost,v Australia,Dubai (DSC),29 Mar 2019,ODI # 4119,Pakistan,7
+1271,6 runs,,lost,1st,277/7,50.0,5.54,,1,won,v Pakistan,Dubai (DSC),29 Mar 2019,ODI # 4119,Australia,2
+1272,20 runs,,won,2nd,307/7,50.0,6.14,328.0,2,lost,v Australia,Dubai (DSC),31 Mar 2019,ODI # 4120,Pakistan,7
+1273,20 runs,,lost,1st,327/7,50.0,6.54,,1,won,v Pakistan,Dubai (DSC),31 Mar 2019,ODI # 4120,Australia,2
+1274,4 wickets,18.0,won,2nd,199/6,42.0,4.73,199.0,2,won,v Ireland,Dublin (Malahide),3 May 2019,ODI # 4127,England,1
+1275,196 runs,,lost,1st,381/3,50.0,7.62,,1,won,v Ireland,Dublin,5 May 2019,ODI # 4128,WestIndies,4
+1276,8 wickets,30.0,won,1st,261/9,50.0,5.22,,1,lost,v Bangladesh,Dublin,7 May 2019,ODI # 4129,WestIndies,4
+1277,8 wickets,30.0,lost,2nd,264/2,45.0,5.86,262.0,2,won,v West Indies,Dublin,7 May 2019,ODI # 4129,Bangladesh,25
+1278,-,,lost,1st,80/2,19.0,4.21,,1,n/r,v England,The Oval,8 May 2019,ODI # 4130,Pakistan,7
+1279,-,,won,2nd,DNB,0.0,-,,0,n/r,v Pakistan,The Oval,8 May 2019,ODI # 4130,England,1
+1280,2 runs,,lost,2nd,269/3,44.5,6.00,268.0,2,won,v Scotland,Edinburgh,10 May 2019,ODI # 4131,Afghanistan,40
+1281,5 wickets,13.0,lost,2nd,331/5,47.5,6.91,328.0,2,won,v Ireland,Dublin (Malahide),11 May 2019,ODI # 4132,WestIndies,4
+1282,12 runs,,won,2nd,361/7,50.0,7.22,374.0,2,lost,v England,Southampton,11 May 2019,ODI # 4133,Pakistan,7
+1283,12 runs,,lost,1st,373/3,50.0,7.46,,1,won,v Pakistan,Southampton,11 May 2019,ODI # 4133,England,1
+1284,5 wickets,16.0,won,1st,247/9,50.0,4.94,,1,lost,v Bangladesh,Dublin (Malahide),13 May 2019,ODI # 4134,WestIndies,4
+1285,5 wickets,16.0,lost,2nd,248/5,47.2,5.23,248.0,2,won,v West Indies,Dublin (Malahide),13 May 2019,ODI # 4134,Bangladesh,25
+1286,6 wickets,31.0,lost,1st,358/9,50.0,7.16,,1,lost,v England,Bristol,14 May 2019,ODI # 4135,Pakistan,7
+1287,6 wickets,31.0,won,2nd,359/4,44.5,8.00,359.0,2,won,v Pakistan,Bristol,14 May 2019,ODI # 4135,England,1
+1288,6 wickets,42.0,lost,2nd,294/4,43.0,6.83,293.0,2,won,v Ireland,Dublin,15 May 2019,ODI # 4136,Bangladesh,25
+1289,5 wickets,7.0,lost,1st,152/1,24.0,6.33,,1,lost,v Bangladesh,Dublin (Malahide),17 May 2019,ODI # 4137,WestIndies,4
+1290,5 wickets,7.0,won,2nd,213/5,22.5,9.32,210.0,2,won,v West Indies,Dublin (Malahide),17 May 2019,ODI # 4137,Bangladesh,25
+1291,3 wickets,3.0,lost,1st,340/7,50.0,6.80,,1,lost,v England,Nottingham,17 May 2019,ODI # 4138,Pakistan,7
+1292,3 wickets,3.0,won,2nd,341/7,49.3,6.88,341.0,2,won,v Pakistan,Nottingham,17 May 2019,ODI # 4138,England,1
+1293,-,,won,2nd,120/8,33.0,3.63,211.0,2,-,v Ireland,Belfast,19 May 2019,ODI # 4139,Afghanistan,40
+1294,-,,lost,2nd,193/6,31.5,6.06,352.0,2,-,v England,Leeds,19 May 2019,ODI # 4140,Pakistan,7
+1295,-,,won,1st,351/9,50.0,7.02,,1,-,v Pakistan,Leeds,19 May 2019,ODI # 4140,England,1
