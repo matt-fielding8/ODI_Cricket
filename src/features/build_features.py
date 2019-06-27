@@ -42,9 +42,9 @@ def splitCol(df, col, new_col1, new_col2):
     df.drop(col, axis=1, inplace=True)
 
 # Remove match_id prefix
-def matchPref(df, col):
+def matchPrefix(df, col):
     '''
-    Extract only digits from each value in df[col] as int.
+    Extract only digits from each value in df[col] as int and reassign to df[col]
     '''
     df[col] = df[col].str.extract('(\d+)').astype(int)
 
@@ -54,3 +54,10 @@ def oppPrefix(df, col):
     Remove first 3 chars from each value in df[col]
     '''
     df[col] = df[col].str[2:]
+
+def dupIndex(df, col):
+    ''' (df, str)->list of int
+    Returns index values for all duplicate values in df[col] not including
+    the 1st instance.
+    ''''
+    return np.array(df[df[col].duplicated].index)
