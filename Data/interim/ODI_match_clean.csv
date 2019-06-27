@@ -1,0 +1,744 @@
+,match_id,country1,country2,team_won,toss,bat,win_margin,win_method,balls_remaining,ground,start_date,country_id,result
+0,3315,Pakistan,India,Pakistan,lost,1st,85.0,runs,,Kolkata,2013-01-03,7,won
+2,3316,Pakistan,India,India,lost,2nd,10.0,runs,,Delhi,2013-01-06,7,lost
+4,3317,SriLanka,Australia,Australia,lost,2nd,107.0,runs,,Melbourne,2013-01-11,8,lost
+6,3318,India,England,England,lost,2nd,9.0,runs,,Rajkot,2013-01-11,6,lost
+8,3319,SriLanka,Australia,SriLanka,won,2nd,8.0,wickets,59.0,Adelaide,2013-01-13,8,won
+10,3320,India,England,India,won,1st,127.0,runs,,Kochi,2013-01-15,6,won
+12,3321,SriLanka,Australia,SriLanka,lost,2nd,4.0,wickets,180.0,Brisbane,2013-01-18,8,won
+14,3322,India,England,India,won,2nd,7.0,wickets,131.0,Ranchi,2013-01-19,6,won
+16,3323,SouthAfrica,New Zealand,New Zealand,lost,1st,1.0,wickets,26.0,Paarl,2013-01-19,3,lost
+18,3324,SriLanka,Australia,n/r,lost,2nd,,,,Sydney,2013-01-20,8,n/r
+20,3325,SouthAfrica,New Zealand,New Zealand,won,2nd,27.0,runs,,Kimberley,2013-01-22,3,lost
+22,3326,SriLanka,Australia,Australia,won,2nd,32.0,runs,,Hobart,2013-01-23,8,lost
+24,3327,India,England,India,won,2nd,5.0,wickets,15.0,Mohali,2013-01-23,6,won
+26,3328,SouthAfrica,New Zealand,SouthAfrica,lost,2nd,1.0,wickets,0.0,Potchefstroom,2013-01-25,3,won
+28,3329,India,England,England,lost,1st,7.0,wickets,16.0,Dharamsala,2013-01-27,6,lost
+30,3330,WestIndies,Australia,Australia,won,1st,9.0,wickets,244.0,Perth,2013-02-01,4,lost
+32,3331,WestIndies,Australia,Australia,won,2nd,54.0,runs,,Perth,2013-02-03,4,lost
+34,3332,WestIndies,Australia,Australia,lost,2nd,39.0,runs,,Canberra,2013-02-06,4,lost
+36,3333,WestIndies,Australia,Australia,won,1st,5.0,wickets,31.0,Sydney,2013-02-08,4,lost
+38,3334,WestIndies,Australia,Australia,won,2nd,17.0,runs,,Melbourne,2013-02-10,4,lost
+40,3335,Newzealad,England,Newzealad,won,2nd,3.0,wickets,7.0,Hamilton,2013-02-17,5,won
+42,3336,Newzealad,England,England,lost,1st,8.0,wickets,14.0,Napier,2013-02-20,5,lost
+44,3337,WestIndies,Zimbabwe,WestIndies,lost,1st,156.0,runs,,St George's,2013-02-22,4,won
+45,3338,Newzealad,England,England,lost,1st,5.0,wickets,75.0,Auckland,2013-02-23,5,lost
+47,3339,WestIndies,Zimbabwe,WestIndies,lost,2nd,7.0,wickets,6.0,St George's,2013-02-24,4,won
+48,3340,WestIndies,Zimbabwe,WestIndies,lost,2nd,5.0,wickets,22.0,St George's,2013-02-26,4,won
+49,3341,Afghanistan,Scotland,Afghanistan,lost,2nd,7.0,wickets,97.0,Sharjah,2013-03-06,40,won
+50,3342,Afghanistan,Scotland,Afghanistan,won,2nd,5.0,wickets,8.0,Sharjah,2013-03-08,40,won
+51,3343,SouthAfrica,Pakistan,SouthAfrica,lost,1st,125.0,runs,,Bloemfontein,2013-03-10,3,won
+53,3346,SouthAfrica,Pakistan,Pakistan,won,1st,6.0,wickets,28.0,Centurion,2013-03-15,3,lost
+55,3347,SouthAfrica,Pakistan,SouthAfrica,lost,1st,34.0,runs,,Johannesburg,2013-03-17,3,won
+57,3348,SouthAfrica,Pakistan,Pakistan,won,1st,3.0,wickets,8.0,Durban,2013-03-21,3,lost
+59,3349,SriLanka,Bangladesh,SriLanka,won,2nd,8.0,wickets,32.0,Hambantota,2013-03-23,8,won
+61,3350,SouthAfrica,Pakistan,SouthAfrica,lost,2nd,6.0,wickets,36.0,Benoni,2013-03-24,3,won
+63,3351,SriLanka,Bangladesh,n/r,lost,1st,,,,Hambantota,2013-03-25,8,n/r
+65,3352,SriLanka,Bangladesh,Bangladesh,won,1st,3.0,wickets,6.0,Pallekele,2013-03-28,8,lost
+67,3353,Bangladesh,Zimbabwe,Bangladesh,lost,1st,121.0,runs,,Bulawayo,2013-05-03,25,won
+68,3354,Bangladesh,Zimbabwe,Zimbabwe,lost,1st,6.0,wickets,13.0,Bulawayo,2013-05-05,25,lost
+69,3355,Bangladesh,Zimbabwe,Zimbabwe,lost,1st,7.0,wickets,17.0,Bulawayo,2013-05-08,25,lost
+70,3356,Pakistan,Scotland,Pakistan,won,1st,96.0,runs,,Edinburgh,2013-05-17,7,won
+72,3357,Pakistan,Ireland,tied,won,1st,,,,Dublin,2013-05-23,7,tied
+73,3358,Pakistan,Ireland,Pakistan,won,2nd,2.0,wickets,8.0,Dublin,2013-05-26,7,won
+74,3359,SouthAfrica,Netherlands,SouthAfrica,won,1st,83.0,runs,,Amstelveen,2013-05-31,3,won
+75,3360,Newzealad,England,Newzealad,won,2nd,5.0,wickets,19.0,Lord's,2013-05-31,5,won
+77,3361,Newzealad,England,Newzealad,won,1st,86.0,runs,,Southampton,2013-06-02,5,won
+79,3362,Newzealad,England,England,won,2nd,34.0,runs,,Nottingham,2013-06-05,5,lost
+81,3363,SouthAfrica,India,India,won,2nd,26.0,runs,,Cardiff,2013-06-06,3,lost
+83,3364,WestIndies,Pakistan,WestIndies,won,2nd,2.0,wickets,56.0,The Oval,2013-06-07,4,won
+85,3365,England,Australia,England,won,1st,48.0,runs,,Birmingham,2013-06-08,1,won
+87,3366,SriLanka,New Zealand,New Zealand,won,1st,1.0,wickets,81.0,Cardiff,2013-06-09,8,lost
+89,3367,SouthAfrica,Pakistan,SouthAfrica,won,1st,67.0,runs,,Birmingham,2013-06-10,3,won
+91,3368,WestIndies,India,India,lost,1st,8.0,wickets,65.0,The Oval,2013-06-11,4,lost
+93,3369,Newzealad,Australia,n/r,lost,2nd,,,,Birmingham,2013-06-12,5,n/r
+95,3370,SriLanka,England,SriLanka,won,2nd,7.0,wickets,17.0,The Oval,2013-06-13,8,won
+97,3371,WestIndies,South Africa,tied,won,2nd,,,,Cardiff,2013-06-14,4,tied
+99,3372,Pakistan,India,India,lost,1st,8.0,wickets,17.0,Birmingham,2013-06-15,7,lost
+101,3373,Newzealad,England,England,won,2nd,10.0,runs,,Cardiff,2013-06-16,5,lost
+103,3374,SriLanka,Australia,SriLanka,lost,1st,20.0,runs,,The Oval,2013-06-17,8,won
+105,3375,SouthAfrica,England,England,lost,1st,7.0,wickets,75.0,The Oval,2013-06-19,3,lost
+107,3376,SriLanka,India,India,lost,1st,8.0,wickets,90.0,Cardiff,2013-06-20,8,lost
+109,3377,India,England,India,lost,1st,5.0,runs,,Birmingham,2013-06-23,6,won
+111,3378,WestIndies,Sri Lanka,WestIndies,won,2nd,6.0,wickets,73.0,Kingston,2013-06-28,4,won
+113,3380,WestIndies,India,WestIndies,won,2nd,1.0,wickets,14.0,Kingston,2013-06-30,4,won
+115,3382,SriLanka,India,SriLanka,lost,1st,161.0,runs,,Kingston,2013-07-02,8,won
+117,3383,WestIndies,India,India,won,2nd,102.0,runs,,Port of Spain,2013-07-05,4,lost
+119,3385,WestIndies,Sri Lanka,Sri Lanka,won,2nd,39.0,runs,,Port of Spain,2013-07-07,4,lost
+121,3387,SriLanka,India,India,won,2nd,81.0,runs,,Port of Spain,2013-07-09,8,lost
+123,3388,SriLanka,India,India,lost,1st,1.0,wickets,2.0,Port of Spain,2013-07-11,8,lost
+125,3389,WestIndies,Pakistan,Pakistan,won,2nd,126.0,runs,,Providence,2013-07-14,4,lost
+127,3390,WestIndies,Pakistan,WestIndies,lost,1st,37.0,runs,,Providence,2013-07-16,4,won
+129,3391,WestIndies,Pakistan,tied,won,2nd,,,,Gros Islet,2013-07-19,4,tied
+131,3392,SriLanka,South Africa,SriLanka,lost,1st,180.0,runs,,Colombo (RPS),2013-07-20,8,won
+133,3393,WestIndies,Pakistan,Pakistan,lost,1st,6.0,wickets,6.0,Gros Islet,2013-07-21,4,lost
+135,3394,SriLanka,South Africa,SriLanka,won,1st,17.0,runs,,Colombo (RPS),2013-07-23,8,won
+137,3395,India,Zimbabwe,India,won,2nd,6.0,wickets,31.0,Harare,2013-07-24,6,won
+138,3396,WestIndies,Pakistan,Pakistan,lost,1st,4.0,wickets,1.0,Gros Islet,2013-07-24,4,lost
+140,3397,India,Zimbabwe,India,lost,1st,58.0,runs,,Harare,2013-07-26,6,won
+141,3398,SriLanka,South Africa,South Africa,lost,2nd,56.0,runs,,Pallekele,2013-07-26,8,lost
+143,3399,India,Zimbabwe,India,won,2nd,7.0,wickets,87.0,Harare,2013-07-28,6,won
+144,3400,SriLanka,South Africa,SriLanka,lost,2nd,8.0,wickets,36.0,Pallekele,2013-07-28,8,won
+146,3401,SriLanka,South Africa,SriLanka,won,1st,128.0,runs,,Colombo (RPS),2013-07-31,8,won
+148,3402,India,Zimbabwe,India,won,2nd,9.0,wickets,115.0,Bulawayo,2013-08-01,6,won
+149,3403,India,Zimbabwe,India,won,2nd,7.0,wickets,96.0,Bulawayo,2013-08-03,6,won
+150,3404,Pakistan,Zimbabwe,Zimbabwe,won,1st,7.0,wickets,10.0,Harare,2013-08-27,7,lost
+151,3406,Pakistan,Zimbabwe,Pakistan,lost,1st,90.0,runs,,Harare,2013-08-29,7,won
+152,3408,Pakistan,Zimbabwe,Pakistan,lost,1st,108.0,runs,,Harare,2013-08-31,7,won
+153,3409,England,Ireland,England,won,2nd,6.0,wickets,42.0,Dublin (Malahide),2013-09-03,1,won
+154,3410,Australia,Scotland,Australia,lost,1st,200.0,runs,,Edinburgh,2013-09-03,2,won
+157,3412,England,Australia,Australia,won,2nd,88.0,runs,,Manchester,2013-09-08,1,lost
+159,3414,England,Australia,n/r,lost,1st,,,,Birmingham,2013-09-11,1,n/r
+161,3415,England,Australia,England,won,2nd,3.0,wickets,3.0,Cardiff,2013-09-14,1,won
+163,3416,England,Australia,Australia,lost,2nd,49.0,runs,,Southampton,2013-09-16,1,lost
+165,3417,Afghanistan,Kenya,Afghanistan,lost,2nd,8.0,wickets,193.0,Sharjah,2013-10-02,40,won
+166,3418,Afghanistan,Kenya,Afghanistan,won,2nd,7.0,wickets,175.0,Sharjah,2013-10-04,40,won
+167,3419,India,Australia,Australia,lost,2nd,72.0,runs,,Pune,2013-10-13,6,lost
+169,3420,India,Australia,India,lost,2nd,9.0,wickets,39.0,Jaipur,2013-10-16,6,won
+171,3421,India,Australia,Australia,lost,1st,4.0,wickets,3.0,Mohali,2013-10-19,6,lost
+173,3422,India,Australia,n/r,won,2nd,,,,Ranchi,2013-10-23,6,n/r
+177,3423,Newzealad,Bangladesh,Bangladesh,won,2nd,43.0,runs,,Dhaka,2013-10-29,5,lost
+179,3424,India,Australia,India,won,2nd,6.0,wickets,3.0,Nagpur,2013-10-30,6,won
+181,3425,SouthAfrica,Pakistan,SouthAfrica,won,1st,1.0,runs,,Sharjah,2013-10-30,3,won
+183,3426,Newzealad,Bangladesh,Bangladesh,lost,2nd,40.0,runs,,Dhaka,2013-10-31,5,lost
+185,3427,SouthAfrica,Pakistan,Pakistan,lost,2nd,66.0,runs,,Dubai (DSC),2013-11-01,3,lost
+187,3428,India,Australia,India,lost,1st,57.0,runs,,Bengaluru,2013-11-02,6,won
+189,3429,Newzealad,Bangladesh,Bangladesh,lost,1st,4.0,wickets,4.0,Fatullah,2013-11-03,5,lost
+191,3430,SouthAfrica,Pakistan,SouthAfrica,won,1st,68.0,runs,,Abu Dhabi,2013-11-06,3,won
+193,3431,SouthAfrica,Pakistan,SouthAfrica,won,1st,28.0,runs,,Abu Dhabi,2013-11-08,3,won
+195,3432,SriLanka,New Zealand,n/r,lost,1st,,,,Hambantota,2013-11-10,8,n/r
+197,3433,SouthAfrica,Pakistan,SouthAfrica,won,1st,117.0,runs,,Sharjah,2013-11-11,3,won
+199,3434,SriLanka,New Zealand,New Zealand,won,1st,4.0,wickets,0.0,Hambantota,2013-11-12,8,lost
+201,3435,SriLanka,New Zealand,SriLanka,lost,1st,36.0,runs,,Dambulla,2013-11-16,8,won
+203,3436,WestIndies,India,India,won,1st,6.0,wickets,88.0,Kochi,2013-11-21,4,lost
+205,3437,WestIndies,India,WestIndies,won,2nd,2.0,wickets,3.0,Visakhapatnam,2013-11-24,4,won
+207,3438,SouthAfrica,Pakistan,Pakistan,lost,2nd,23.0,runs,,Cape Town,2013-11-24,3,lost
+209,3439,WestIndies,India,India,lost,1st,5.0,wickets,23.0,Kanpur,2013-11-27,4,lost
+211,3440,SouthAfrica,Pakistan,Pakistan,won,2nd,1.0,runs,,Port Elizabeth,2013-11-27,3,lost
+213,3441,SouthAfrica,Pakistan,SouthAfrica,won,2nd,4.0,wickets,68.0,Centurion,2013-11-30,3,won
+215,3442,SouthAfrica,India,SouthAfrica,lost,1st,141.0,runs,,Johannesburg,2013-12-05,3,won
+217,3443,SouthAfrica,India,SouthAfrica,lost,1st,134.0,runs,,Durban,2013-12-08,3,won
+219,3444,SouthAfrica,India,n/r,won,1st,,,,Centurion,2013-12-11,3,n/r
+221,3445,SriLanka,Pakistan,Pakistan,lost,2nd,11.0,runs,,Sharjah,2013-12-18,8,lost
+223,3446,SriLanka,Pakistan,SriLanka,won,2nd,2.0,wickets,2.0,Dubai (DSC),2013-12-20,8,won
+225,3447,SriLanka,Pakistan,Pakistan,won,2nd,113.0,runs,,Sharjah,2013-12-22,8,lost
+227,3448,SriLanka,Pakistan,Pakistan,won,1st,8.0,wickets,53.0,Abu Dhabi,2013-12-25,8,lost
+229,3449,WestIndies,New Zealand,WestIndies,won,2nd,2.0,wickets,135.0,Auckland,2013-12-26,4,won
+231,3450,SriLanka,Pakistan,SriLanka,lost,2nd,2.0,wickets,2.0,Abu Dhabi,2013-12-27,8,won
+235,3451,WestIndies,New Zealand,New Zealand,won,2nd,159.0,runs,,Queenstown,2014-01-01,4,lost
+237,3452,WestIndies,New Zealand,New Zealand,lost,2nd,58.0,runs,,Nelson,2014-01-04,4,lost
+239,3453,WestIndies,New Zealand,WestIndies,lost,1st,203.0,runs,,Hamilton,2014-01-08,4,won
+241,3454,England,Australia,Australia,won,1st,6.0,wickets,26.0,Melbourne,2014-01-12,1,lost
+243,3455,England,Australia,Australia,won,1st,1.0,wickets,3.0,Brisbane,2014-01-17,1,lost
+245,3456,Newzealad,India,Newzealad,lost,1st,24.0,runs,,Napier,2014-01-19,5,won
+247,3457,England,Australia,Australia,won,1st,7.0,wickets,60.0,Sydney,2014-01-19,1,lost
+249,3458,Newzealad,India,Newzealad,lost,1st,15.0,runs,,Hamilton,2014-01-22,5,won
+251,3461,England,Australia,England,lost,1st,57.0,runs,,Perth,2014-01-24,1,won
+253,3462,Newzealad,India,tied,lost,1st,,,,Auckland,2014-01-25,5,tied
+255,3463,England,Australia,Australia,lost,2nd,5.0,runs,,Adelaide,2014-01-26,1,lost
+257,3465,Newzealad,India,Newzealad,lost,2nd,7.0,wickets,11.0,Hamilton,2014-01-28,5,won
+259,3467,Newzealad,India,Newzealad,lost,1st,87.0,runs,,Wellington,2014-01-31,5,won
+261,3469,SriLanka,Bangladesh,SriLanka,lost,1st,13.0,runs,,Dhaka,2014-02-17,8,won
+263,3470,SriLanka,Bangladesh,SriLanka,won,1st,61.0,runs,,Dhaka,2014-02-20,8,won
+265,3471,SriLanka,Bangladesh,SriLanka,won,2nd,6.0,wickets,15.0,Dhaka,2014-02-22,8,won
+267,3472,WestIndies,Ireland,WestIndies,lost,2nd,4.0,wickets,80.0,Kingston,2014-02-23,4,won
+268,3473,SriLanka,Pakistan,SriLanka,won,1st,12.0,runs,,Fatullah,2014-02-25,8,won
+270,3474,India,Bangladesh,India,won,2nd,6.0,wickets,6.0,Fatullah,2014-02-26,6,won
+272,3475,Pakistan,Afghanistan,Pakistan,lost,1st,72.0,runs,,Fatullah,2014-02-27,7,won
+274,3476,SriLanka,India,SriLanka,won,2nd,2.0,wickets,4.0,Fatullah,2014-02-28,8,won
+276,3477,WestIndies,England,WestIndies,lost,1st,15.0,runs,,North Sound,2014-02-28,4,won
+278,3478,Bangladesh,Afghanistan,Afghanistan,won,2nd,32.0,runs,,Fatullah,2014-03-01,25,lost
+280,3479,Pakistan,India,Pakistan,won,2nd,1.0,wickets,2.0,Dhaka,2014-03-02,7,won
+282,3480,WestIndies,England,England,lost,1st,3.0,wickets,31.0,North Sound,2014-03-02,4,lost
+284,3481,SriLanka,Afghanistan,SriLanka,won,1st,129.0,runs,,Dhaka,2014-03-03,8,won
+286,3482,Pakistan,Bangladesh,Pakistan,lost,2nd,3.0,wickets,1.0,Dhaka,2014-03-04,7,won
+288,3483,India,Afghanistan,India,won,2nd,8.0,wickets,106.0,Dhaka,2014-03-05,6,won
+290,3484,WestIndies,England,England,won,2nd,25.0,runs,,North Sound,2014-03-05,4,lost
+292,3485,SriLanka,Bangladesh,SriLanka,lost,2nd,3.0,wickets,6.0,Dhaka,2014-03-06,8,won
+294,3486,SriLanka,Pakistan,SriLanka,lost,2nd,5.0,wickets,22.0,Dhaka,2014-03-08,8,won
+296,3487,Afghanistan,Hong Kong,Afghanistan,won,2nd,6.0,wickets,41.0,Kuala Lumpur,2014-05-01,40,won
+297,3488,Afghanistan,U.A.E.,Afghanistan,lost,1st,70.0,runs,,Kuala Lumpur,2014-05-02,40,won
+298,3490,SriLanka,Ireland,SriLanka,lost,1st,79.0,runs,,Dublin,2014-05-06,8,won
+300,3491,England,Scotland,England,lost,1st,39.0,runs,,Aberdeen,2014-05-09,1,won
+301,3492,SriLanka,England,England,won,2nd,81.0,runs,,The Oval,2014-05-22,8,lost
+303,3493,SriLanka,England,SriLanka,lost,1st,157.0,runs,,Chester-le-Street,2014-05-25,8,won
+305,3494,SriLanka,England,England,lost,1st,10.0,wickets,227.0,Manchester,2014-05-28,8,lost
+307,3495,SriLanka,England,SriLanka,lost,1st,7.0,runs,,Lord's,2014-05-31,8,won
+309,3496,SriLanka,England,SriLanka,lost,2nd,6.0,wickets,10.0,Birmingham,2014-06-03,8,won
+311,3497,India,Bangladesh,India,lost,2nd,7.0,wickets,7.0,Dhaka,2014-06-15,6,won
+313,3498,India,Bangladesh,India,lost,1st,47.0,runs,,Dhaka,2014-06-17,6,won
+315,3499,India,Bangladesh,n/r,won,1st,,,,Dhaka,2014-06-19,6,n/r
+317,3500,SriLanka,South Africa,South Africa,lost,2nd,75.0,runs,,Colombo (RPS),2014-07-06,8,lost
+319,3501,SriLanka,South Africa,SriLanka,won,1st,87.0,runs,,Pallekele,2014-07-09,8,won
+321,3502,SriLanka,South Africa,South Africa,lost,2nd,82.0,runs,,Hambantota,2014-07-12,8,lost
+323,3503,Afghanistan,Zimbabwe,Zimbabwe,lost,1st,6.0,wickets,28.0,Bulawayo,2014-07-18,40,lost
+324,3504,Afghanistan,Zimbabwe,Zimbabwe,lost,1st,8.0,wickets,39.0,Bulawayo,2014-07-20,40,lost
+325,3505,Afghanistan,Zimbabwe,Afghanistan,won,2nd,2.0,wickets,2.0,Bulawayo,2014-07-22,40,won
+326,3506,Afghanistan,Zimbabwe,Afghanistan,lost,1st,100.0,runs,,Bulawayo,2014-07-24,40,won
+327,3507,SouthAfrica,Zimbabwe,SouthAfrica,lost,1st,93.0,runs,,Bulawayo,2014-08-17,3,won
+328,3508,SouthAfrica,Zimbabwe,SouthAfrica,lost,1st,61.0,runs,,Bulawayo,2014-08-19,3,won
+329,3509,WestIndies,Bangladesh,WestIndies,won,2nd,3.0,wickets,62.0,St George's,2014-08-20,4,won
+331,3510,SouthAfrica,Zimbabwe,SouthAfrica,won,2nd,7.0,wickets,136.0,Bulawayo,2014-08-21,3,won
+332,3511,WestIndies,Bangladesh,WestIndies,lost,1st,177.0,runs,,St George's,2014-08-22,4,won
+334,3512,SriLanka,Pakistan,Pakistan,lost,1st,4.0,wickets,1.0,Hambantota,2014-08-23,8,lost
+336,3513,Australia,Zimbabwe,Australia,lost,1st,198.0,runs,,Harare,2014-08-25,2,won
+339,3514,WestIndies,Bangladesh,WestIndies,won,1st,91.0,runs,,Basseterre,2014-08-25,4,won
+341,3515,SriLanka,Pakistan,SriLanka,won,1st,77.0,runs,,Hambantota,2014-08-26,8,won
+343,3516,SouthAfrica,Australia,SouthAfrica,won,2nd,7.0,wickets,20.0,Harare,2014-08-27,3,won
+345,3517,India,England,India,lost,1st,133.0,runs,,Cardiff,2014-08-27,6,won
+347,3518,SouthAfrica,Zimbabwe,SouthAfrica,lost,1st,61.0,runs,,Harare,2014-08-29,3,won
+348,3519,SriLanka,Pakistan,SriLanka,lost,2nd,7.0,wickets,178.0,Dambulla,2014-08-30,8,won
+350,3520,India,England,India,won,2nd,6.0,wickets,42.0,Nottingham,2014-08-30,6,won
+352,3521,Australia,Zimbabwe,Zimbabwe,won,1st,3.0,wickets,12.0,Harare,2014-08-31,2,lost
+353,3522,SouthAfrica,Australia,Australia,won,2nd,62.0,runs,,Harare,2014-09-02,3,lost
+355,3523,India,England,India,won,2nd,9.0,wickets,117.0,Birmingham,2014-09-02,6,won
+357,3524,SouthAfrica,Zimbabwe,SouthAfrica,lost,1st,63.0,runs,,Harare,2014-09-04,3,won
+358,3525,India,England,England,won,2nd,41.0,runs,,Leeds,2014-09-05,6,lost
+360,3526,SouthAfrica,Australia,SouthAfrica,won,2nd,6.0,wickets,55.0,Harare,2014-09-06,3,won
+362,3530,Pakistan,Australia,Australia,lost,2nd,93.0,runs,,Sharjah,2014-10-07,7,lost
+364,3531,WestIndies,India,WestIndies,lost,1st,124.0,runs,,Kochi,2014-10-08,4,won
+366,3532,Pakistan,Australia,Australia,won,1st,5.0,wickets,40.0,Dubai (DSC),2014-10-10,7,lost
+368,3533,WestIndies,India,India,lost,2nd,48.0,runs,,Delhi,2014-10-11,4,lost
+370,3534,Pakistan,Australia,Australia,lost,2nd,1.0,runs,,Abu Dhabi,2014-10-12,7,lost
+374,3535,WestIndies,India,India,won,2nd,59.0,runs,,Dharamsala,2014-10-17,4,lost
+378,3536,SouthAfrica,New Zealand,SouthAfrica,won,2nd,6.0,wickets,11.0,Mount Maunganui,2014-10-21,3,won
+380,3537,SouthAfrica,New Zealand,SouthAfrica,lost,1st,72.0,runs,,Mount Maunganui,2014-10-24,3,won
+382,3538,SouthAfrica,New Zealand,n/r,lost,1st,,,,Hamilton,2014-10-27,3,n/r
+384,3539,SriLanka,India,India,won,2nd,169.0,runs,,Cuttack,2014-11-02,8,lost
+386,3540,SriLanka,India,India,won,1st,6.0,wickets,33.0,Ahmedabad,2014-11-06,8,lost
+388,3543,SriLanka,India,India,won,1st,6.0,wickets,35.0,Hyderabad (Deccan),2014-11-09,8,lost
+390,3544,SriLanka,India,India,lost,2nd,153.0,runs,,Kolkata,2014-11-13,8,lost
+392,3545,SouthAfrica,Australia,Australia,won,2nd,32.0,runs,,Perth,2014-11-14,3,lost
+394,3546,SouthAfrica,Australia,SouthAfrica,lost,2nd,3.0,wickets,134.0,Perth,2014-11-16,3,won
+396,3547,SriLanka,India,India,won,1st,3.0,wickets,8.0,Ranchi,2014-11-16,8,lost
+398,3548,SouthAfrica,Australia,Australia,lost,2nd,73.0,runs,,Canberra,2014-11-19,3,lost
+400,3549,SouthAfrica,Australia,Australia,won,1st,3.0,wickets,6.0,Melbourne,2014-11-21,3,lost
+402,3550,Bangladesh,Zimbabwe,Bangladesh,lost,1st,87.0,runs,,Chattogram,2014-11-21,25,won
+403,3551,SouthAfrica,Australia,Australia,won,1st,2.0,wickets,5.0,Sydney,2014-11-23,3,lost
+405,3552,Bangladesh,Zimbabwe,Bangladesh,won,1st,68.0,runs,,Chattogram,2014-11-23,25,won
+406,3553,Bangladesh,Zimbabwe,Bangladesh,lost,1st,124.0,runs,,Dhaka,2014-11-26,25,won
+407,3554,SriLanka,England,SriLanka,lost,1st,25.0,runs,,Colombo (RPS),2014-11-26,8,won
+409,3555,Bangladesh,Zimbabwe,Bangladesh,won,1st,21.0,runs,,Dhaka,2014-11-28,25,won
+410,3556,Afghanistan,U.A.E.,U.A.E.,won,1st,5.0,wickets,8.0,ICCA Dubai,2014-11-28,40,lost
+411,3557,SriLanka,England,SriLanka,lost,2nd,8.0,wickets,64.0,Colombo (RPS),2014-11-29,8,won
+413,3558,Afghanistan,U.A.E.,U.A.E.,lost,1st,6.0,wickets,10.0,ICCA Dubai,2014-11-30,40,lost
+414,3559,Bangladesh,Zimbabwe,Bangladesh,lost,2nd,5.0,wickets,153.0,Dhaka,2014-12-01,25,won
+415,3560,Afghanistan,U.A.E.,Afghanistan,won,2nd,2.0,wickets,2.0,ICCA Dubai,2014-12-02,40,won
+416,3561,SriLanka,England,England,won,1st,5.0,wickets,8.0,Hambantota,2014-12-03,8,lost
+418,3562,Afghanistan,U.A.E.,U.A.E.,won,2nd,30.0,runs,,ICCA Dubai,2014-12-04,40,lost
+419,3563,SriLanka,England,SriLanka,lost,2nd,6.0,wickets,2.0,Colombo (RPS),2014-12-07,8,won
+421,3564,Pakistan,New Zealand,Pakistan,won,2nd,3.0,wickets,3.0,Dubai (DSC),2014-12-08,7,won
+423,3565,SriLanka,England,England,lost,1st,5.0,wickets,5.0,Pallekele,2014-12-10,8,lost
+425,3566,Pakistan,New Zealand,New Zealand,won,1st,4.0,wickets,24.0,Sharjah,2014-12-12,7,lost
+427,3567,SriLanka,England,SriLanka,won,1st,90.0,runs,,Pallekele,2014-12-13,8,won
+429,3568,Pakistan,New Zealand,Pakistan,won,1st,147.0,runs,,Sharjah,2014-12-14,7,won
+431,3569,SriLanka,England,SriLanka,won,1st,87.0,runs,,Colombo (RPS),2014-12-16,8,won
+433,3570,Pakistan,New Zealand,New Zealand,lost,2nd,7.0,runs,,Abu Dhabi,2014-12-17,7,lost
+435,3571,Pakistan,New Zealand,New Zealand,lost,2nd,68.0,runs,,Abu Dhabi,2014-12-19,7,lost
+437,3572,Afghanistan,Scotland,Afghanistan,won,2nd,8.0,wickets,42.0,ICCA Dubai,2015-01-08,40,won
+438,3573,Afghanistan,Ireland,Ireland,lost,1st,3.0,wickets,40.0,Dubai (DSC),2015-01-10,40,lost
+439,3574,SriLanka,New Zealand,New Zealand,won,1st,3.0,wickets,42.0,Christchurch,2015-01-11,8,lost
+441,3576,Afghanistan,Scotland,Scotland,lost,2nd,150.0,runs,,Abu Dhabi,2015-01-14,40,lost
+442,3577,SriLanka,New Zealand,SriLanka,lost,2nd,6.0,wickets,14.0,Hamilton,2015-01-15,8,won
+444,3578,England,Australia,Australia,won,1st,3.0,wickets,61.0,Sydney,2015-01-16,1,lost
+446,3579,WestIndies,South Africa,South Africa,lost,2nd,61.0,runs,,Durban,2015-01-16,4,lost
+448,3580,SriLanka,New Zealand,n/r,won,2nd,,,,Auckland,2015-01-17,8,n/r
+450,3581,Afghanistan,Ireland,Afghanistan,lost,1st,71.0,runs,,Dubai (DSC),2015-01-17,40,won
+451,3582,India,Australia,Australia,won,1st,4.0,wickets,6.0,Melbourne,2015-01-18,6,lost
+453,3583,WestIndies,South Africa,South Africa,won,2nd,148.0,runs,,Johannesburg,2015-01-18,4,lost
+455,3585,SriLanka,New Zealand,New Zealand,won,1st,4.0,wickets,11.0,Nelson,2015-01-20,8,lost
+457,3586,India,England,England,won,1st,9.0,wickets,135.0,Brisbane,2015-01-20,6,lost
+459,3587,WestIndies,South Africa,South Africa,won,1st,9.0,wickets,152.0,East London,2015-01-21,4,lost
+461,3588,SriLanka,New Zealand,New Zealand,won,2nd,108.0,runs,,Dunedin,2015-01-23,8,lost
+463,3589,England,Australia,Australia,lost,1st,3.0,wickets,1.0,Hobart,2015-01-23,1,lost
+465,3590,SriLanka,New Zealand,New Zealand,lost,2nd,120.0,runs,,Dunedin,2015-01-25,8,lost
+467,3591,WestIndies,South Africa,WestIndies,won,2nd,1.0,wickets,9.0,Port Elizabeth,2015-01-25,4,won
+469,3592,India,Australia,n/r,lost,1st,,,,Sydney,2015-01-26,6,n/r
+471,3593,WestIndies,South Africa,South Africa,won,2nd,131.0,runs,,Centurion,2015-01-28,4,lost
+473,3594,SriLanka,New Zealand,SriLanka,won,1st,34.0,runs,,Wellington,2015-01-29,8,won
+475,3595,India,England,England,lost,1st,3.0,wickets,19.0,Perth,2015-01-30,6,lost
+477,3596,Pakistan,New Zealand,New Zealand,lost,1st,7.0,wickets,63.0,Wellington,2015-01-31,7,lost
+479,3597,England,Australia,Australia,won,2nd,112.0,runs,,Perth,2015-02-01,1,lost
+481,3598,Pakistan,New Zealand,New Zealand,lost,2nd,119.0,runs,,Napier,2015-02-03,7,lost
+483,3599,SriLanka,New Zealand,New Zealand,won,2nd,98.0,runs,,Christchurch,2015-02-14,8,lost
+485,3600,England,Australia,Australia,won,2nd,111.0,runs,,Melbourne,2015-02-14,1,lost
+487,3601,SouthAfrica,Zimbabwe,SouthAfrica,lost,1st,62.0,runs,,Hamilton,2015-02-15,3,won
+488,3602,Pakistan,India,India,lost,2nd,76.0,runs,,Adelaide,2015-02-15,7,lost
+490,3603,WestIndies,Ireland,Ireland,lost,1st,4.0,wickets,25.0,Nelson,2015-02-16,4,lost
+491,3604,Newzealad,Scotland,Newzealad,won,2nd,3.0,wickets,151.0,Dunedin,2015-02-17,5,won
+492,3605,Bangladesh,Afghanistan,Bangladesh,won,1st,105.0,runs,,Canberra,2015-02-18,25,won
+494,3607,Newzealad,England,Newzealad,lost,2nd,8.0,wickets,226.0,Wellington,2015-02-20,5,won
+496,3608,WestIndies,Pakistan,WestIndies,lost,1st,150.0,runs,,Christchurch,2015-02-21,4,won
+500,3609,SriLanka,Afghanistan,SriLanka,won,2nd,4.0,wickets,10.0,Dunedin,2015-02-22,8,won
+502,3610,SouthAfrica,India,India,lost,2nd,130.0,runs,,Melbourne,2015-02-22,3,lost
+504,3611,England,Scotland,England,lost,1st,119.0,runs,,Christchurch,2015-02-23,1,won
+505,3612,WestIndies,Zimbabwe,WestIndies,won,1st,73.0,runs,,Canberra,2015-02-24,4,won
+506,3614,Afghanistan,Scotland,Afghanistan,won,2nd,1.0,wickets,3.0,Dunedin,2015-02-26,40,won
+507,3615,SriLanka,Bangladesh,SriLanka,won,1st,92.0,runs,,Melbourne,2015-02-26,8,won
+509,3616,WestIndies,South Africa,South Africa,lost,2nd,257.0,runs,,Sydney,2015-02-27,4,lost
+511,3617,Newzealad,Australia,Newzealad,lost,2nd,1.0,wickets,161.0,Auckland,2015-02-28,5,won
+513,3618,India,U.A.E.,India,lost,2nd,9.0,wickets,187.0,Perth,2015-02-28,6,won
+514,3619,SriLanka,England,SriLanka,lost,2nd,9.0,wickets,16.0,Wellington,2015-03-01,8,won
+516,3620,Pakistan,Zimbabwe,Pakistan,won,1st,20.0,runs,,Brisbane,2015-03-01,7,won
+517,3621,SouthAfrica,Ireland,SouthAfrica,won,1st,201.0,runs,,Canberra,2015-03-03,3,won
+518,3622,Pakistan,U.A.E.,Pakistan,lost,1st,129.0,runs,,Napier,2015-03-04,7,won
+519,3623,Australia,Afghanistan,Australia,lost,1st,275.0,runs,,Perth,2015-03-04,2,won
+521,3624,Bangladesh,Scotland,Bangladesh,won,2nd,6.0,wickets,11.0,Nelson,2015-03-05,25,won
+522,3625,WestIndies,India,India,won,1st,4.0,wickets,65.0,Perth,2015-03-06,4,lost
+524,3626,SouthAfrica,Pakistan,Pakistan,won,2nd,29.0,runs,,Auckland,2015-03-07,3,lost
+526,3628,Newzealad,Afghanistan,Newzealad,lost,2nd,6.0,wickets,83.0,Napier,2015-03-08,5,won
+528,3629,SriLanka,Australia,Australia,lost,2nd,64.0,runs,,Sydney,2015-03-08,8,lost
+530,3630,England,Bangladesh,Bangladesh,won,2nd,15.0,runs,,Adelaide,2015-03-09,1,lost
+532,3631,India,Ireland,India,lost,2nd,8.0,wickets,79.0,Hamilton,2015-03-10,6,won
+533,3632,SriLanka,Scotland,SriLanka,won,1st,148.0,runs,,Hobart,2015-03-11,8,won
+534,3633,SouthAfrica,U.A.E.,SouthAfrica,lost,1st,146.0,runs,,Wellington,2015-03-12,3,won
+535,3634,Newzealad,Bangladesh,Newzealad,won,2nd,3.0,wickets,7.0,Hamilton,2015-03-13,5,won
+537,3635,England,Afghanistan,England,won,2nd,9.0,wickets,41.0,Sydney,2015-03-13,1,won
+539,3636,India,Zimbabwe,India,won,2nd,6.0,wickets,8.0,Auckland,2015-03-14,6,won
+540,3637,Australia,Scotland,Australia,won,2nd,7.0,wickets,208.0,Hobart,2015-03-14,2,won
+541,3638,WestIndies,U.A.E.,WestIndies,won,2nd,6.0,wickets,117.0,Napier,2015-03-15,4,won
+542,3639,Pakistan,Ireland,Pakistan,lost,2nd,7.0,wickets,23.0,Adelaide,2015-03-15,7,won
+543,3640,SriLanka,South Africa,South Africa,won,1st,9.0,wickets,192.0,Sydney,2015-03-18,8,lost
+545,3641,India,Bangladesh,India,won,1st,109.0,runs,,Melbourne,2015-03-19,6,won
+547,3642,Pakistan,Australia,Australia,won,1st,6.0,wickets,97.0,Adelaide,2015-03-20,7,lost
+549,3643,WestIndies,New Zealand,New Zealand,lost,2nd,143.0,runs,,Wellington,2015-03-21,4,lost
+551,3644,SouthAfrica,New Zealand,New Zealand,won,1st,4.0,wickets,1.0,Auckland,2015-03-24,3,lost
+553,3645,India,Australia,Australia,lost,2nd,95.0,runs,,Sydney,2015-03-26,6,lost
+555,3646,Newzealad,Australia,Australia,won,1st,7.0,wickets,101.0,Melbourne,2015-03-29,5,lost
+557,3647,Pakistan,Bangladesh,Bangladesh,lost,2nd,79.0,runs,,Dhaka,2015-04-17,7,lost
+559,3648,Pakistan,Bangladesh,Bangladesh,won,1st,7.0,wickets,71.0,Dhaka,2015-04-19,7,lost
+561,3649,Pakistan,Bangladesh,Bangladesh,won,1st,8.0,wickets,63.0,Dhaka,2015-04-22,7,lost
+563,3650,England,Ireland,n/r,won,2nd,,,,Dublin (Malahide),2015-05-08,1,n/r
+564,3651,Pakistan,Zimbabwe,Pakistan,won,1st,41.0,runs,,Lahore,2015-05-26,7,won
+565,3652,Pakistan,Zimbabwe,Pakistan,won,2nd,6.0,wickets,16.0,Lahore,2015-05-29,7,won
+566,3653,Pakistan,Zimbabwe,n/r,won,1st,,,,Lahore,2015-05-31,7,n/r
+567,3654,Newzealad,England,England,won,2nd,210.0,runs,,Birmingham,2015-06-09,5,lost
+569,3655,Newzealad,England,Newzealad,won,1st,13.0,runs,,The Oval,2015-06-12,5,won
+571,3656,Newzealad,England,Newzealad,lost,2nd,3.0,wickets,6.0,Southampton,2015-06-14,5,won
+573,3657,Newzealad,England,England,won,1st,7.0,wickets,36.0,Nottingham,2015-06-17,5,lost
+575,3658,India,Bangladesh,Bangladesh,lost,2nd,79.0,runs,,Dhaka,2015-06-18,6,lost
+577,3659,Newzealad,England,England,lost,1st,3.0,wickets,6.0,Chester-le-Street,2015-06-20,5,lost
+579,3660,India,Bangladesh,Bangladesh,won,1st,6.0,wickets,54.0,Dhaka,2015-06-21,6,lost
+581,3661,India,Bangladesh,India,lost,1st,77.0,runs,,Dhaka,2015-06-24,6,won
+583,3662,India,Zimbabwe,India,lost,1st,4.0,runs,,Harare,2015-07-10,6,won
+584,3663,SouthAfrica,Bangladesh,SouthAfrica,lost,2nd,8.0,wickets,53.0,Dhaka,2015-07-10,3,won
+586,3664,SriLanka,Pakistan,Pakistan,lost,1st,6.0,wickets,28.0,Dambulla,2015-07-11,8,lost
+588,3665,India,Zimbabwe,India,lost,1st,62.0,runs,,Harare,2015-07-12,6,won
+589,3666,SouthAfrica,Bangladesh,Bangladesh,won,1st,7.0,wickets,134.0,Dhaka,2015-07-12,3,lost
+591,3667,India,Zimbabwe,India,lost,1st,83.0,runs,,Harare,2015-07-14,6,won
+592,3668,SouthAfrica,Bangladesh,Bangladesh,won,1st,9.0,wickets,83.0,Chattogram,2015-07-15,3,lost
+594,3669,SriLanka,Pakistan,SriLanka,lost,2nd,2.0,wickets,11.0,Pallekele,2015-07-15,8,won
+596,3670,SriLanka,Pakistan,Pakistan,lost,2nd,135.0,runs,,Colombo (RPS),2015-07-19,8,lost
+598,3671,SriLanka,Pakistan,Pakistan,won,1st,7.0,wickets,55.0,Colombo (RPS),2015-07-22,8,lost
+600,3672,SriLanka,Pakistan,SriLanka,won,1st,165.0,runs,,Hambantota,2015-07-26,8,won
+602,3673,Newzealad,Zimbabwe,Zimbabwe,lost,1st,7.0,wickets,6.0,Harare,2015-08-02,5,lost
+603,3674,Newzealad,Zimbabwe,Newzealad,lost,2nd,10.0,wickets,46.0,Harare,2015-08-04,5,won
+604,3675,Newzealad,Zimbabwe,Newzealad,lost,1st,38.0,runs,,Harare,2015-08-07,5,won
+605,3676,SouthAfrica,New Zealand,SouthAfrica,lost,1st,20.0,runs,,Centurion,2015-08-19,3,won
+607,3677,SouthAfrica,New Zealand,New Zealand,won,1st,8.0,wickets,33.0,Potchefstroom,2015-08-23,3,lost
+609,3678,SouthAfrica,New Zealand,SouthAfrica,won,1st,62.0,runs,,Durban,2015-08-26,3,won
+611,3679,Australia,Ireland,Australia,won,1st,23.0,runs,,Belfast,2015-08-27,2,won
+612,3680,England,Australia,Australia,lost,2nd,59.0,runs,,Southampton,2015-09-03,1,lost
+614,3681,England,Australia,Australia,won,2nd,64.0,runs,,Lord's,2015-09-05,1,lost
+616,3682,England,Australia,England,won,1st,93.0,runs,,Manchester,2015-09-08,1,won
+618,3683,England,Australia,England,lost,2nd,3.0,wickets,10.0,Leeds,2015-09-11,1,won
+620,3684,England,Australia,Australia,won,1st,8.0,wickets,154.0,Manchester,2015-09-13,1,lost
+622,3685,Pakistan,Zimbabwe,Pakistan,lost,1st,131.0,runs,,Harare,2015-10-01,7,won
+623,3686,Pakistan,Zimbabwe,Zimbabwe,won,2nd,5.0,runs,,Harare,2015-10-03,7,lost
+624,3687,Pakistan,Zimbabwe,Pakistan,won,2nd,7.0,wickets,96.0,Harare,2015-10-05,7,won
+625,3689,SouthAfrica,India,SouthAfrica,won,1st,5.0,runs,,Kanpur,2015-10-11,3,won
+627,3692,SouthAfrica,India,India,lost,2nd,22.0,runs,,Indore,2015-10-14,3,lost
+629,3693,Afghanistan,Zimbabwe,Zimbabwe,won,1st,8.0,wickets,160.0,Bulawayo,2015-10-16,40,lost
+630,3694,Afghanistan,Zimbabwe,Afghanistan,won,1st,58.0,runs,,Bulawayo,2015-10-18,40,won
+631,3695,SouthAfrica,India,SouthAfrica,won,1st,18.0,runs,,Rajkot,2015-10-18,3,won
+633,3696,Afghanistan,Zimbabwe,Zimbabwe,won,1st,6.0,wickets,2.0,Bulawayo,2015-10-20,40,lost
+634,3697,Afghanistan,Zimbabwe,Afghanistan,lost,2nd,3.0,wickets,20.0,Bulawayo,2015-10-22,40,won
+635,3698,SouthAfrica,India,India,lost,2nd,35.0,runs,,Chennai,2015-10-22,3,lost
+637,3699,Afghanistan,Zimbabwe,Afghanistan,lost,1st,73.0,runs,,Bulawayo,2015-10-24,40,won
+638,3700,SouthAfrica,India,SouthAfrica,won,1st,214.0,runs,,Mumbai,2015-10-25,3,won
+640,3701,WestIndies,Sri Lanka,Sri Lanka,lost,1st,1.0,wickets,7.0,Colombo (RPS),2015-11-01,4,lost
+642,3702,WestIndies,Sri Lanka,Sri Lanka,won,1st,8.0,wickets,9.0,Colombo (RPS),2015-11-04,4,lost
+644,3703,Bangladesh,Zimbabwe,Bangladesh,lost,1st,145.0,runs,,Dhaka,2015-11-07,25,won
+645,3704,WestIndies,Sri Lanka,Sri Lanka,lost,1st,19.0,runs,,Pallekele,2015-11-07,4,lost
+647,3705,Bangladesh,Zimbabwe,Bangladesh,lost,1st,58.0,runs,,Dhaka,2015-11-09,25,won
+648,3706,Bangladesh,Zimbabwe,Bangladesh,won,1st,61.0,runs,,Dhaka,2015-11-11,25,won
+649,3707,Pakistan,England,Pakistan,lost,2nd,6.0,wickets,38.0,Abu Dhabi,2015-11-11,7,won
+651,3708,Pakistan,England,England,lost,2nd,95.0,runs,,Abu Dhabi,2015-11-13,7,lost
+653,3710,Pakistan,England,England,won,1st,6.0,wickets,54.0,Sharjah,2015-11-17,7,lost
+655,3712,Pakistan,England,England,lost,2nd,84.0,runs,,Dubai (DSC),2015-11-20,7,lost
+657,3713,Afghanistan,Zimbabwe,Afghanistan,won,1st,49.0,runs,,Sharjah,2015-12-25,40,won
+658,3714,SriLanka,New Zealand,New Zealand,won,1st,7.0,wickets,174.0,Christchurch,2015-12-26,8,lost
+660,3715,SriLanka,New Zealand,New Zealand,won,1st,10.0,wickets,250.0,Christchurch,2015-12-28,8,lost
+662,3716,Afghanistan,Zimbabwe,Afghanistan,lost,2nd,4.0,wickets,14.0,Sharjah,2015-12-29,40,won
+663,3717,SriLanka,New Zealand,SriLanka,lost,2nd,8.0,wickets,22.0,Nelson,2015-12-31,8,won
+665,3718,SriLanka,New Zealand,n/r,won,2nd,,,,Nelson,2016-01-02,8,n/r
+667,3719,Afghanistan,Zimbabwe,Zimbabwe,lost,2nd,117.0,runs,,Sharjah,2016-01-02,40,lost
+668,3720,Afghanistan,Zimbabwe,Zimbabwe,lost,2nd,65.0,runs,,Sharjah,2016-01-04,40,lost
+669,3721,SriLanka,New Zealand,New Zealand,won,2nd,36.0,runs,,Mount Maunganui,2016-01-05,8,lost
+671,3722,Afghanistan,Zimbabwe,Afghanistan,lost,2nd,2.0,wickets,2.0,Sharjah,2016-01-06,40,won
+672,3723,India,Australia,Australia,won,1st,5.0,wickets,4.0,Perth,2016-01-12,6,lost
+674,3724,India,Australia,Australia,won,1st,7.0,wickets,6.0,Brisbane,2016-01-15,6,lost
+676,3725,India,Australia,Australia,lost,1st,3.0,wickets,7.0,Melbourne,2016-01-17,6,lost
+678,3726,India,Australia,Australia,lost,2nd,25.0,runs,,Canberra,2016-01-20,6,lost
+680,3727,India,Australia,India,won,2nd,6.0,wickets,2.0,Sydney,2016-01-23,6,won
+682,3728,Pakistan,New Zealand,New Zealand,won,2nd,70.0,runs,,Wellington,2016-01-25,7,lost
+684,3729,Pakistan,New Zealand,n/r,,,,,,Napier,2016-01-28,7,n/r
+686,3730,Pakistan,New Zealand,New Zealand,won,1st,3.0,wickets,2.0,Auckland,2016-01-31,7,lost
+688,3731,Newzealad,Australia,Newzealad,lost,1st,159.0,runs,,Auckland,2016-02-03,5,won
+690,3732,SouthAfrica,England,England,lost,2nd,39.0,runs,,Bloemfontein,2016-02-03,3,lost
+692,3733,Newzealad,Australia,Australia,won,1st,4.0,wickets,21.0,Wellington,2016-02-06,5,lost
+694,3734,SouthAfrica,England,England,won,1st,5.0,wickets,22.0,Port Elizabeth,2016-02-06,3,lost
+696,3735,Newzealad,Australia,Newzealad,lost,1st,55.0,runs,,Hamilton,2016-02-08,5,won
+698,3736,SouthAfrica,England,SouthAfrica,lost,2nd,7.0,wickets,22.0,Centurion,2016-02-09,3,won
+700,3737,SouthAfrica,England,SouthAfrica,won,2nd,1.0,wickets,16.0,Johannesburg,2016-02-12,3,won
+702,3738,SouthAfrica,England,SouthAfrica,won,2nd,5.0,wickets,36.0,Cape Town,2016-02-14,3,won
+704,3739,WestIndies,South Africa,WestIndies,lost,2nd,4.0,wickets,11.0,Providence,2016-06-03,4,won
+706,3740,WestIndies,Australia,Australia,lost,1st,6.0,wickets,146.0,Providence,2016-06-05,4,lost
+708,3741,SouthAfrica,Australia,SouthAfrica,won,1st,47.0,runs,,Providence,2016-06-07,3,won
+710,3742,India,Zimbabwe,India,won,2nd,9.0,wickets,45.0,Harare,2016-06-11,6,won
+711,3743,SouthAfrica,Australia,Australia,lost,2nd,36.0,runs,,Basseterre,2016-06-11,3,lost
+713,3744,India,Zimbabwe,India,won,2nd,8.0,wickets,139.0,Harare,2016-06-13,6,won
+714,3745,WestIndies,Australia,WestIndies,won,2nd,4.0,wickets,26.0,Basseterre,2016-06-13,4,won
+716,3746,India,Zimbabwe,India,lost,2nd,10.0,wickets,169.0,Harare,2016-06-15,6,won
+717,3747,WestIndies,South Africa,South Africa,won,2nd,139.0,runs,,Basseterre,2016-06-15,4,lost
+719,3748,SriLanka,Ireland,SriLanka,lost,1st,76.0,runs,,Dublin (Malahide),2016-06-16,8,won
+720,3749,SriLanka,Ireland,SriLanka,lost,1st,136.0,runs,,Dublin (Malahide),2016-06-18,8,won
+721,3750,SouthAfrica,Australia,n/r,lost,1st,,,,Bridgetown,2016-06-19,3,n/r
+723,3751,SriLanka,England,tied,lost,1st,,,,Nottingham,2016-06-21,8,tied
+725,3752,WestIndies,Australia,Australia,lost,1st,6.0,wickets,8.0,Bridgetown,2016-06-21,4,lost
+727,3753,SriLanka,England,England,won,1st,10.0,wickets,95.0,Birmingham,2016-06-24,8,lost
+729,3754,WestIndies,South Africa,WestIndies,lost,1st,100.0,runs,,Bridgetown,2016-06-24,4,won
+731,3755,SriLanka,England,n/r,lost,1st,,,,Bristol,2016-06-26,8,n/r
+733,3756,WestIndies,Australia,Australia,lost,2nd,58.0,runs,,Bridgetown,2016-06-26,4,lost
+735,3757,SriLanka,England,England,lost,1st,6.0,wickets,11.0,The Oval,2016-06-29,8,lost
+737,3758,SriLanka,England,England,won,2nd,122.0,runs,,Cardiff,2016-07-02,8,lost
+739,3759,Afghanistan,Scotland,n/r,lost,1st,,,,Edinburgh,2016-07-04,40,n/r
+740,3760,Afghanistan,Scotland,Afghanistan,won,1st,78.0,runs,,Edinburgh,2016-07-06,40,won
+742,3761,Afghanistan,Ireland,Afghanistan,lost,1st,39.0,runs,,Belfast,2016-07-12,40,won
+743,3762,Afghanistan,Ireland,Ireland,won,1st,6.0,wickets,15.0,Belfast,2016-07-14,40,lost
+744,3763,Afghanistan,Ireland,Afghanistan,won,1st,79.0,runs,,Belfast,2016-07-17,40,won
+745,3764,Afghanistan,Ireland,Ireland,won,2nd,12.0,runs,,Belfast,2016-07-19,40,lost
+746,3767,Pakistan,Ireland,Pakistan,lost,1st,255.0,runs,,Dublin (Malahide),2016-08-18,7,won
+748,3768,SriLanka,Australia,Australia,lost,1st,3.0,wickets,19.0,Colombo (RPS),2016-08-21,8,lost
+750,3769,SriLanka,Australia,SriLanka,won,1st,82.0,runs,,Colombo (RPS),2016-08-24,8,won
+752,3770,Pakistan,England,England,won,1st,44.0,runs,,Southampton,2016-08-24,7,lost
+754,3771,Pakistan,England,England,won,1st,4.0,wickets,15.0,Lord's,2016-08-27,7,lost
+756,3772,SriLanka,Australia,Australia,won,1st,2.0,wickets,24.0,Dambulla,2016-08-28,8,lost
+758,3773,Pakistan,England,England,lost,2nd,169.0,runs,,Nottingham,2016-08-30,7,lost
+760,3774,SriLanka,Australia,Australia,won,1st,6.0,wickets,114.0,Dambulla,2016-08-31,8,lost
+762,3775,Pakistan,England,England,won,1st,4.0,wickets,12.0,Leeds,2016-09-01,7,lost
+764,3776,SriLanka,Australia,Australia,won,1st,5.0,wickets,42.0,Pallekele,2016-09-04,8,lost
+766,3777,Pakistan,England,Pakistan,won,2nd,4.0,wickets,10.0,Cardiff,2016-09-04,7,won
+768,3780,SouthAfrica,Ireland,SouthAfrica,lost,1st,206.0,runs,,Benoni,2016-09-25,3,won
+769,3781,Bangladesh,Afghanistan,Bangladesh,won,1st,7.0,runs,,Dhaka,2016-09-25,25,won
+771,3782,Australia,Ireland,Australia,lost,2nd,9.0,wickets,119.0,Benoni,2016-09-27,2,won
+772,3783,Bangladesh,Afghanistan,Afghanistan,lost,1st,2.0,wickets,2.0,Dhaka,2016-09-28,25,lost
+774,3784,WestIndies,Pakistan,Pakistan,won,2nd,111.0,runs,,Sharjah,2016-09-30,4,lost
+776,3785,SouthAfrica,Australia,SouthAfrica,won,2nd,6.0,wickets,82.0,Centurion,2016-09-30,3,won
+778,3786,Bangladesh,Afghanistan,Bangladesh,won,1st,141.0,runs,,Dhaka,2016-10-01,25,won
+780,3787,SouthAfrica,Australia,SouthAfrica,lost,1st,142.0,runs,,Johannesburg,2016-10-02,3,won
+782,3788,WestIndies,Pakistan,Pakistan,lost,2nd,59.0,runs,,Sharjah,2016-10-02,4,lost
+784,3789,WestIndies,Pakistan,Pakistan,lost,2nd,136.0,runs,,Abu Dhabi,2016-10-05,4,lost
+786,3790,SouthAfrica,Australia,SouthAfrica,lost,2nd,4.0,wickets,4.0,Durban,2016-10-05,3,won
+788,3791,England,Bangladesh,England,won,1st,21.0,runs,,Dhaka,2016-10-07,1,won
+790,3792,SouthAfrica,Australia,SouthAfrica,lost,2nd,6.0,wickets,87.0,Port Elizabeth,2016-10-09,3,won
+792,3793,England,Bangladesh,Bangladesh,won,2nd,34.0,runs,,Dhaka,2016-10-09,1,lost
+794,3794,England,Bangladesh,England,won,2nd,4.0,wickets,13.0,Chattogram,2016-10-12,1,won
+796,3795,SouthAfrica,Australia,SouthAfrica,won,1st,31.0,runs,,Cape Town,2016-10-12,3,won
+798,3796,Newzealad,India,India,lost,1st,6.0,wickets,101.0,Dharamsala,2016-10-16,5,lost
+800,3797,Newzealad,India,Newzealad,lost,1st,6.0,runs,,Delhi,2016-10-20,5,won
+802,3798,Newzealad,India,India,lost,1st,7.0,wickets,10.0,Mohali,2016-10-23,5,lost
+804,3799,Newzealad,India,Newzealad,won,1st,19.0,runs,,Ranchi,2016-10-26,5,won
+806,3800,Newzealad,India,India,lost,2nd,190.0,runs,,Visakhapatnam,2016-10-29,5,lost
+808,3804,SriLanka,Zimbabwe,SriLanka,won,2nd,8.0,wickets,153.0,Harare,2016-11-14,8,won
+809,3805,WestIndies,Sri Lanka,WestIndies,lost,1st,62.0,runs,,Harare,2016-11-16,4,won
+811,3806,WestIndies,Zimbabwe,tied,lost,2nd,,,,Bulawayo,2016-11-19,4,tied
+812,3807,SriLanka,Zimbabwe,n/r,lost,2nd,,,,Bulawayo,2016-11-21,8,n/r
+813,3808,WestIndies,Sri Lanka,Sri Lanka,won,2nd,1.0,runs,,Bulawayo,2016-11-23,4,lost
+815,3809,WestIndies,Zimbabwe,Zimbabwe,lost,2nd,5.0,runs,,Bulawayo,2016-11-25,4,lost
+816,3810,SriLanka,Zimbabwe,SriLanka,lost,2nd,6.0,wickets,75.0,Bulawayo,2016-11-27,8,won
+817,3811,Newzealad,Australia,Australia,lost,2nd,68.0,runs,,Sydney,2016-12-04,5,lost
+819,3812,Newzealad,Australia,Australia,won,2nd,116.0,runs,,Canberra,2016-12-06,5,lost
+821,3813,Newzealad,Australia,Australia,lost,2nd,117.0,runs,,Melbourne,2016-12-09,5,lost
+823,3814,Newzealad,Bangladesh,Newzealad,won,1st,77.0,runs,,Christchurch,2016-12-26,5,won
+825,3815,Newzealad,Bangladesh,Newzealad,lost,1st,67.0,runs,,Nelson,2016-12-29,5,won
+827,3816,Newzealad,Bangladesh,Newzealad,lost,2nd,8.0,wickets,52.0,Nelson,2016-12-31,5,won
+829,3817,Pakistan,Australia,Australia,lost,2nd,92.0,runs,,Brisbane,2017-01-13,7,lost
+831,3818,Pakistan,Australia,Pakistan,lost,2nd,6.0,wickets,14.0,Melbourne,2017-01-15,7,won
+833,3819,India,England,India,won,2nd,3.0,wickets,11.0,Pune,2017-01-15,6,won
+835,3820,Pakistan,Australia,Australia,lost,1st,7.0,wickets,30.0,Perth,2017-01-19,7,lost
+837,3821,India,England,India,lost,1st,15.0,runs,,Cuttack,2017-01-19,6,won
+839,3822,Pakistan,Australia,Australia,lost,2nd,86.0,runs,,Sydney,2017-01-22,7,lost
+841,3824,India,England,England,won,2nd,5.0,runs,,Kolkata,2017-01-22,6,lost
+843,3826,Pakistan,Australia,Australia,lost,2nd,57.0,runs,,Adelaide,2017-01-26,7,lost
+845,3828,SriLanka,South Africa,South Africa,lost,1st,8.0,wickets,94.0,Port Elizabeth,2017-01-28,8,lost
+847,3829,Newzealad,Australia,Newzealad,lost,1st,6.0,runs,,Auckland,2017-01-30,5,won
+849,3830,SriLanka,South Africa,South Africa,won,2nd,121.0,runs,,Durban,2017-02-01,8,lost
+853,3831,SriLanka,South Africa,South Africa,lost,1st,7.0,wickets,108.0,Johannesburg,2017-02-04,8,lost
+855,3832,Newzealad,Australia,Newzealad,won,1st,24.0,runs,,Hamilton,2017-02-05,5,won
+857,3833,SriLanka,South Africa,South Africa,lost,2nd,40.0,runs,,Cape Town,2017-02-07,8,lost
+859,3834,SriLanka,South Africa,South Africa,won,2nd,88.0,runs,,Centurion,2017-02-10,8,lost
+861,3835,Afghanistan,Zimbabwe,Afghanistan,won,1st,12.0,runs,,Harare,2017-02-16,40,won
+862,3836,SouthAfrica,New Zealand,SouthAfrica,won,2nd,4.0,wickets,1.0,Hamilton,2017-02-19,3,won
+864,3837,Afghanistan,Zimbabwe,Afghanistan,won,1st,54.0,runs,,Harare,2017-02-19,40,won
+865,3838,Afghanistan,Zimbabwe,Zimbabwe,lost,2nd,3.0,runs,,Harare,2017-02-21,40,lost
+866,3839,SouthAfrica,New Zealand,New Zealand,won,2nd,6.0,runs,,Christchurch,2017-02-22,3,lost
+868,3840,Afghanistan,Zimbabwe,Zimbabwe,won,1st,7.0,wickets,118.0,Harare,2017-02-24,40,lost
+869,3841,SouthAfrica,New Zealand,SouthAfrica,won,1st,159.0,runs,,Wellington,2017-02-25,3,won
+871,3842,Afghanistan,Zimbabwe,Afghanistan,won,1st,106.0,runs,,Harare,2017-02-26,40,won
+872,3843,SouthAfrica,New Zealand,New Zealand,won,1st,7.0,wickets,30.0,Hamilton,2017-03-01,3,lost
+874,3845,WestIndies,England,England,won,2nd,45.0,runs,,North Sound,2017-03-03,4,lost
+876,3846,SouthAfrica,New Zealand,SouthAfrica,won,2nd,6.0,wickets,106.0,Auckland,2017-03-04,3,won
+878,3848,WestIndies,England,England,won,1st,4.0,wickets,10.0,North Sound,2017-03-05,4,lost
+880,3849,WestIndies,England,England,won,2nd,186.0,runs,,Bridgetown,2017-03-09,4,lost
+882,3850,Afghanistan,Ireland,Afghanistan,won,1st,30.0,runs,,Greater Noida,2017-03-15,40,won
+883,3851,Afghanistan,Ireland,Afghanistan,won,1st,34.0,runs,,Greater Noida,2017-03-17,40,won
+884,3852,Afghanistan,Ireland,Ireland,won,1st,6.0,wickets,9.0,Greater Noida,2017-03-19,40,lost
+885,3853,Afghanistan,Ireland,Ireland,won,1st,3.0,wickets,19.0,Greater Noida,2017-03-22,40,lost
+886,3854,Afghanistan,Ireland,Afghanistan,lost,2nd,7.0,wickets,8.0,Greater Noida,2017-03-24,40,won
+887,3855,SriLanka,Bangladesh,Bangladesh,won,2nd,90.0,runs,,Dambulla,2017-03-25,8,lost
+889,3856,SriLanka,Bangladesh,n/r,won,1st,,,,Dambulla,2017-03-28,8,n/r
+891,3858,SriLanka,Bangladesh,SriLanka,lost,1st,70.0,runs,,Colombo (SSC),2017-04-01,8,won
+893,3861,WestIndies,Pakistan,WestIndies,won,2nd,4.0,wickets,6.0,Providence,2017-04-07,4,won
+895,3862,WestIndies,Pakistan,Pakistan,won,2nd,74.0,runs,,Providence,2017-04-09,4,lost
+897,3863,WestIndies,Pakistan,Pakistan,won,1st,6.0,wickets,41.0,Providence,2017-04-11,4,lost
+899,3864,England,Ireland,England,lost,2nd,7.0,wickets,180.0,Bristol,2017-05-05,1,won
+900,3865,England,Ireland,England,lost,1st,85.0,runs,,Lord's,2017-05-07,1,won
+901,3866,Bangladesh,Ireland,n/r,lost,1st,,,,Dublin (Malahide),2017-05-12,25,n/r
+902,3867,Newzealad,Ireland,Newzealad,lost,1st,51.0,runs,,Dublin (Malahide),2017-05-14,5,won
+903,3868,Newzealad,Bangladesh,Newzealad,won,2nd,4.0,wickets,15.0,Dublin,2017-05-17,5,won
+905,3869,Bangladesh,Ireland,Bangladesh,won,2nd,8.0,wickets,137.0,Dublin (Malahide),2017-05-19,25,won
+906,3870,Newzealad,Ireland,Newzealad,lost,1st,190.0,runs,,Dublin (Malahide),2017-05-21,5,won
+907,3871,Newzealad,Bangladesh,Bangladesh,lost,1st,5.0,wickets,10.0,Dublin,2017-05-24,5,lost
+909,3872,SouthAfrica,England,England,won,2nd,72.0,runs,,Leeds,2017-05-24,3,lost
+911,3873,SouthAfrica,England,England,won,2nd,2.0,runs,,Southampton,2017-05-27,3,lost
+913,3874,SouthAfrica,England,SouthAfrica,won,2nd,7.0,wickets,127.0,Lord's,2017-05-29,3,won
+915,3875,England,Bangladesh,England,won,2nd,8.0,wickets,16.0,The Oval,2017-06-01,1,won
+917,3876,Newzealad,Australia,n/r,won,1st,,,,Birmingham,2017-06-02,5,n/r
+919,3877,SriLanka,South Africa,South Africa,won,2nd,96.0,runs,,The Oval,2017-06-03,8,lost
+921,3878,Pakistan,India,India,won,2nd,124.0,runs,,Birmingham,2017-06-04,7,lost
+923,3879,Bangladesh,Australia,n/r,won,1st,,,,The Oval,2017-06-05,25,n/r
+925,3880,Newzealad,England,England,won,2nd,87.0,runs,,Cardiff,2017-06-06,5,lost
+927,3881,SouthAfrica,Pakistan,Pakistan,won,1st,19.0,runs,,Birmingham,2017-06-07,3,lost
+929,3882,SriLanka,India,SriLanka,won,2nd,7.0,wickets,8.0,The Oval,2017-06-08,8,won
+931,3883,Newzealad,Bangladesh,Bangladesh,won,1st,5.0,wickets,16.0,Cardiff,2017-06-09,5,lost
+933,3884,WestIndies,Afghanistan,Afghanistan,lost,2nd,63.0,runs,,Gros Islet,2017-06-09,4,lost
+935,3885,England,Australia,England,won,2nd,40.0,runs,,Birmingham,2017-06-10,1,won
+937,3886,SouthAfrica,India,India,lost,1st,8.0,wickets,72.0,The Oval,2017-06-11,3,lost
+939,3887,WestIndies,Afghanistan,WestIndies,lost,2nd,4.0,wickets,64.0,Gros Islet,2017-06-11,4,won
+941,3888,SriLanka,Pakistan,Pakistan,lost,1st,3.0,wickets,31.0,Cardiff,2017-06-12,8,lost
+943,3889,Pakistan,England,Pakistan,won,2nd,8.0,wickets,77.0,Cardiff,2017-06-14,7,won
+945,3890,WestIndies,Afghanistan,n/r,lost,,,,,Gros Islet,2017-06-14,4,n/r
+947,3891,India,Bangladesh,India,won,2nd,9.0,wickets,59.0,Birmingham,2017-06-15,6,won
+949,3894,Pakistan,India,Pakistan,lost,1st,180.0,runs,,The Oval,2017-06-18,7,won
+951,3895,WestIndies,India,n/r,won,2nd,,,,Port of Spain,2017-06-23,4,n/r
+953,3896,WestIndies,India,India,won,2nd,105.0,runs,,Port of Spain,2017-06-25,4,lost
+955,3897,SriLanka,Zimbabwe,Zimbabwe,won,1st,6.0,wickets,14.0,Galle,2017-06-30,8,lost
+956,3898,WestIndies,India,India,won,2nd,93.0,runs,,North Sound,2017-06-30,4,lost
+958,3899,SriLanka,Zimbabwe,SriLanka,won,2nd,7.0,wickets,119.0,Galle,2017-07-02,8,won
+959,3900,WestIndies,India,WestIndies,won,1st,11.0,runs,,North Sound,2017-07-02,4,won
+961,3901,SriLanka,Zimbabwe,SriLanka,won,2nd,8.0,wickets,16.0,Hambantota,2017-07-06,8,won
+962,3902,WestIndies,India,India,won,1st,8.0,wickets,79.0,Kingston,2017-07-06,4,lost
+964,3903,SriLanka,Zimbabwe,Zimbabwe,won,1st,4.0,wickets,10.0,Hambantota,2017-07-08,8,lost
+965,3904,SriLanka,Zimbabwe,Zimbabwe,lost,1st,3.0,wickets,71.0,Hambantota,2017-07-10,8,lost
+966,3905,SriLanka,India,India,lost,1st,9.0,wickets,127.0,Dambulla,2017-08-20,8,lost
+968,3906,SriLanka,India,India,lost,1st,3.0,wickets,16.0,Pallekele,2017-08-24,8,lost
+970,3907,SriLanka,India,India,won,1st,6.0,wickets,29.0,Pallekele,2017-08-27,8,lost
+972,3908,SriLanka,India,India,lost,2nd,168.0,runs,,Colombo (RPS),2017-08-31,8,lost
+974,3909,SriLanka,India,India,won,1st,6.0,wickets,21.0,Colombo (RPS),2017-09-03,8,lost
+977,3910,India,Australia,India,won,1st,26.0,runs,,Chennai,2017-09-17,6,won
+979,3911,WestIndies,England,England,won,1st,7.0,wickets,67.0,Manchester,2017-09-19,4,lost
+981,3912,India,Australia,India,won,1st,50.0,runs,,Kolkata,2017-09-21,6,won
+983,3913,WestIndies,England,n/r,won,2nd,,,,Nottingham,2017-09-21,4,n/r
+985,3914,India,Australia,India,lost,2nd,5.0,wickets,13.0,Indore,2017-09-24,6,won
+987,3915,WestIndies,England,England,won,2nd,124.0,runs,,Bristol,2017-09-24,4,lost
+989,3916,WestIndies,England,England,lost,1st,6.0,runs,,The Oval,2017-09-27,4,lost
+991,3917,India,Australia,Australia,lost,2nd,21.0,runs,,Bengaluru,2017-09-28,6,lost
+993,3918,WestIndies,England,England,lost,1st,9.0,wickets,72.0,Southampton,2017-09-29,4,lost
+995,3919,India,Australia,India,lost,2nd,7.0,wickets,43.0,Nagpur,2017-10-01,6,won
+997,3922,SriLanka,Pakistan,Pakistan,won,2nd,83.0,runs,,Dubai (DSC),2017-10-13,8,lost
+999,3923,SouthAfrica,Bangladesh,SouthAfrica,lost,2nd,10.0,wickets,43.0,Kimberley,2017-10-15,3,won
+1001,3924,SriLanka,Pakistan,Pakistan,lost,2nd,32.0,runs,,Abu Dhabi,2017-10-16,8,lost
+1003,3925,SouthAfrica,Bangladesh,SouthAfrica,lost,1st,104.0,runs,,Paarl,2017-10-18,3,won
+1005,3926,SriLanka,Pakistan,Pakistan,won,1st,7.0,wickets,45.0,Abu Dhabi,2017-10-18,8,lost
+1007,3927,SriLanka,Pakistan,Pakistan,won,1st,7.0,wickets,66.0,Sharjah,2017-10-20,8,lost
+1009,3928,Newzealad,India,Newzealad,lost,2nd,6.0,wickets,6.0,Mumbai,2017-10-22,5,won
+1011,3929,SouthAfrica,Bangladesh,SouthAfrica,won,1st,200.0,runs,,East London,2017-10-22,3,won
+1013,3930,SriLanka,Pakistan,Pakistan,won,1st,9.0,wickets,178.0,Sharjah,2017-10-23,8,lost
+1015,3931,Newzealad,India,India,won,1st,6.0,wickets,24.0,Pune,2017-10-25,5,lost
+1017,3932,Newzealad,India,India,won,2nd,6.0,runs,,Kanpur,2017-10-29,5,lost
+1019,3935,Afghanistan,Ireland,Afghanistan,lost,1st,138.0,runs,,Sharjah,2017-12-05,40,won
+1020,3937,Afghanistan,Ireland,Ireland,lost,2nd,51.0,runs,,Sharjah,2017-12-07,40,lost
+1021,3939,SriLanka,India,SriLanka,won,2nd,7.0,wickets,176.0,Dharamsala,2017-12-10,8,won
+1023,3940,Afghanistan,Ireland,Ireland,won,1st,5.0,wickets,72.0,Sharjah,2017-12-10,40,lost
+1024,3941,SriLanka,India,India,won,2nd,141.0,runs,,Mohali,2017-12-13,8,lost
+1026,3942,SriLanka,India,India,lost,1st,8.0,wickets,107.0,Visakhapatnam,2017-12-17,8,lost
+1028,3943,WestIndies,New Zealand,New Zealand,lost,1st,5.0,wickets,24.0,Whangarei,2017-12-20,4,lost
+1030,3944,WestIndies,New Zealand,New Zealand,won,2nd,204.0,runs,,Christchurch,2017-12-23,4,lost
+1032,3945,WestIndies,New Zealand,New Zealand,lost,2nd,66.0,runs,,Christchurch,2017-12-26,4,lost
+1034,3946,Pakistan,New Zealand,New Zealand,won,2nd,61.0,runs,,Wellington,2018-01-06,7,lost
+1036,3947,Pakistan,New Zealand,New Zealand,won,1st,8.0,wickets,7.0,Nelson,2018-01-09,7,lost
+1038,3949,Pakistan,New Zealand,New Zealand,lost,2nd,183.0,runs,,Dunedin,2018-01-13,7,lost
+1040,3951,England,Australia,England,won,2nd,5.0,wickets,7.0,Melbourne,2018-01-14,1,won
+1042,3952,Bangladesh,Zimbabwe,Bangladesh,won,2nd,8.0,wickets,129.0,Dhaka,2018-01-15,25,won
+1043,3953,Pakistan,New Zealand,New Zealand,won,1st,5.0,wickets,25.0,Hamilton,2018-01-16,7,lost
+1045,3955,SriLanka,Zimbabwe,Zimbabwe,won,2nd,12.0,runs,,Dhaka,2018-01-17,8,lost
+1046,3957,Pakistan,New Zealand,New Zealand,lost,2nd,15.0,runs,,Wellington,2018-01-19,7,lost
+1048,3958,England,Australia,England,lost,2nd,4.0,wickets,34.0,Brisbane,2018-01-19,1,won
+1050,3959,SriLanka,Bangladesh,Bangladesh,lost,2nd,163.0,runs,,Dhaka,2018-01-19,8,lost
+1052,3960,England,Australia,England,lost,1st,16.0,runs,,Sydney,2018-01-21,1,won
+1054,3962,SriLanka,Zimbabwe,SriLanka,lost,2nd,5.0,wickets,31.0,Dhaka,2018-01-21,8,won
+1055,3964,Bangladesh,Zimbabwe,Bangladesh,won,1st,91.0,runs,,Dhaka,2018-01-23,25,won
+1056,3965,SriLanka,Bangladesh,SriLanka,lost,2nd,10.0,wickets,229.0,Dhaka,2018-01-25,8,won
+1058,3966,England,Australia,Australia,lost,1st,3.0,wickets,78.0,Adelaide,2018-01-26,1,lost
+1060,3967,SriLanka,Bangladesh,SriLanka,won,1st,79.0,runs,,Dhaka,2018-01-27,8,won
+1062,3968,England,Australia,England,lost,1st,12.0,runs,,Perth,2018-01-28,1,won
+1064,3969,SouthAfrica,India,India,won,1st,6.0,wickets,27.0,Durban,2018-02-01,3,lost
+1066,3970,SouthAfrica,India,India,lost,1st,9.0,wickets,177.0,Centurion,2018-02-04,3,lost
+1068,3971,SouthAfrica,India,India,won,2nd,124.0,runs,,Cape Town,2018-02-07,3,lost
+1070,3972,Afghanistan,Zimbabwe,Afghanistan,won,1st,154.0,runs,,Sharjah,2018-02-09,40,won
+1071,3973,SouthAfrica,India,SouthAfrica,lost,2nd,5.0,wickets,15.0,Johannesburg,2018-02-10,3,won
+1073,3974,Afghanistan,Zimbabwe,Zimbabwe,lost,2nd,154.0,runs,,Sharjah,2018-02-11,40,lost
+1074,3975,Afghanistan,Zimbabwe,Afghanistan,lost,2nd,6.0,wickets,135.0,Sharjah,2018-02-13,40,won
+1075,3976,SouthAfrica,India,India,won,2nd,73.0,runs,,Port Elizabeth,2018-02-13,3,lost
+1077,3977,Afghanistan,Zimbabwe,Afghanistan,lost,2nd,10.0,wickets,173.0,Sharjah,2018-02-16,40,won
+1078,3978,SouthAfrica,India,India,lost,1st,8.0,wickets,107.0,Centurion,2018-02-16,3,lost
+1080,3979,Afghanistan,Zimbabwe,Afghanistan,won,1st,146.0,runs,,Sharjah,2018-02-19,40,won
+1081,3980,Newzealad,England,Newzealad,won,2nd,3.0,wickets,4.0,Hamilton,2018-02-25,5,won
+1083,3981,Newzealad,England,England,lost,1st,6.0,wickets,73.0,Mount Maunganui,2018-02-28,5,lost
+1085,3982,Newzealad,England,England,won,2nd,4.0,runs,,Wellington,2018-03-03,5,lost
+1087,3983,Afghanistan,Scotland,Scotland,lost,1st,7.0,wickets,16.0,Bulawayo,2018-03-04,40,lost
+1088,3987,WestIndies,U.A.E.,WestIndies,won,1st,60.0,runs,,Harare,2018-03-06,4,won
+1089,3988,Afghanistan,Zimbabwe,Zimbabwe,lost,2nd,2.0,runs,,Bulawayo,2018-03-06,40,lost
+1090,3989,Newzealad,England,Newzealad,won,2nd,5.0,wickets,3.0,Dunedin,2018-03-07,5,won
+1092,3990,Afghanistan,Hong Kong,Hong Kong,won,2nd,30.0,runs,,Bulawayo,2018-03-08,40,lost
+1093,3991,WestIndies,P.N.G.,WestIndies,lost,2nd,6.0,wickets,42.0,Harare,2018-03-08,4,won
+1094,3992,Newzealad,England,England,lost,1st,7.0,wickets,104.0,Christchurch,2018-03-10,5,lost
+1096,3993,WestIndies,Ireland,WestIndies,lost,1st,52.0,runs,,Harare,2018-03-10,4,won
+1097,3997,WestIndies,Afghanistan,Afghanistan,won,1st,3.0,wickets,14.0,Harare,2018-03-15,4,lost
+1099,4002,WestIndies,Zimbabwe,WestIndies,lost,2nd,4.0,wickets,6.0,Harare,2018-03-19,4,won
+1100,4003,Afghanistan,U.A.E.,Afghanistan,lost,2nd,5.0,wickets,93.0,Harare,2018-03-20,40,won
+1101,4004,WestIndies,Scotland,WestIndies,lost,1st,5.0,runs,,Harare,2018-03-21,4,won
+1102,4006,Afghanistan,Ireland,Afghanistan,lost,2nd,5.0,wickets,5.0,Harare,2018-03-23,40,won
+1103,4007,WestIndies,Afghanistan,Afghanistan,won,1st,7.0,wickets,56.0,Harare,2018-03-25,4,lost
+1105,4008,England,Scotland,Scotland,won,2nd,6.0,runs,,Edinburgh,2018-06-10,1,lost
+1106,4009,England,Australia,England,lost,2nd,3.0,wickets,36.0,The Oval,2018-06-13,1,won
+1108,4010,England,Australia,England,lost,1st,38.0,runs,,Cardiff,2018-06-16,1,won
+1110,4011,England,Australia,England,lost,1st,242.0,runs,,Nottingham,2018-06-19,1,won
+1112,4012,England,Australia,England,lost,2nd,6.0,wickets,32.0,Chester-le-Street,2018-06-21,1,won
+1114,4013,England,Australia,England,lost,2nd,1.0,wickets,9.0,Manchester,2018-06-24,1,won
+1116,4014,India,England,India,won,2nd,8.0,wickets,59.0,Nottingham,2018-07-12,6,won
+1118,4015,Pakistan,Zimbabwe,Pakistan,lost,1st,201.0,runs,,Bulawayo,2018-07-13,7,won
+1119,4016,India,England,England,lost,2nd,86.0,runs,,Lord's,2018-07-14,6,lost
+1121,4017,Pakistan,Zimbabwe,Pakistan,lost,2nd,9.0,wickets,84.0,Bulawayo,2018-07-16,7,won
+1122,4018,India,England,England,lost,1st,8.0,wickets,33.0,Leeds,2018-07-17,6,lost
+1124,4019,Pakistan,Zimbabwe,Pakistan,lost,2nd,9.0,wickets,241.0,Bulawayo,2018-07-18,7,won
+1125,4020,Pakistan,Zimbabwe,Pakistan,won,1st,244.0,runs,,Bulawayo,2018-07-20,7,won
+1126,4021,Pakistan,Zimbabwe,Pakistan,won,1st,131.0,runs,,Bulawayo,2018-07-22,7,won
+1127,4022,WestIndies,Bangladesh,Bangladesh,lost,2nd,48.0,runs,,Providence,2018-07-22,4,lost
+1129,4023,WestIndies,Bangladesh,WestIndies,lost,1st,3.0,runs,,Providence,2018-07-25,4,won
+1131,4024,WestIndies,Bangladesh,Bangladesh,lost,2nd,18.0,runs,,Basseterre,2018-07-28,4,lost
+1133,4025,SriLanka,South Africa,South Africa,won,1st,5.0,wickets,114.0,Dambulla,2018-07-29,8,lost
+1135,4027,SriLanka,South Africa,South Africa,won,1st,4.0,wickets,43.0,Dambulla,2018-08-01,8,lost
+1137,4029,SriLanka,South Africa,South Africa,won,2nd,78.0,runs,,Pallekele,2018-08-05,8,lost
+1139,4030,SriLanka,South Africa,SriLanka,lost,1st,3.0,runs,,Pallekele,2018-08-08,8,won
+1141,4031,SriLanka,South Africa,SriLanka,won,1st,178.0,runs,,Colombo (RPS),2018-08-12,8,won
+1143,4032,Afghanistan,Ireland,Afghanistan,lost,1st,29.0,runs,,Belfast,2018-08-27,40,won
+1144,4033,Afghanistan,Ireland,Ireland,won,1st,3.0,wickets,37.0,Belfast,2018-08-29,40,lost
+1145,4035,Afghanistan,Ireland,Afghanistan,lost,2nd,8.0,wickets,157.0,Belfast,2018-08-31,40,won
+1146,4036,SriLanka,Bangladesh,Bangladesh,lost,2nd,137.0,runs,,Dubai (DSC),2018-09-15,8,lost
+1148,4037,Pakistan,Hong Kong,Pakistan,lost,2nd,8.0,wickets,158.0,Dubai (DSC),2018-09-16,7,won
+1149,4038,SriLanka,Afghanistan,Afghanistan,lost,2nd,91.0,runs,,Abu Dhabi,2018-09-17,8,lost
+1151,4039,India,Hong Kong,India,lost,1st,26.0,runs,,Dubai (DSC),2018-09-18,6,won
+1152,4040,Pakistan,India,India,won,1st,8.0,wickets,126.0,Dubai (DSC),2018-09-19,7,lost
+1154,4041,Bangladesh,Afghanistan,Afghanistan,lost,2nd,136.0,runs,,Abu Dhabi,2018-09-20,25,lost
+1156,4042,India,Bangladesh,India,won,2nd,7.0,wickets,82.0,Dubai (DSC),2018-09-21,6,won
+1158,4043,Pakistan,Afghanistan,Pakistan,lost,2nd,3.0,wickets,3.0,Abu Dhabi,2018-09-21,7,won
+1160,4044,Pakistan,India,India,won,1st,9.0,wickets,63.0,Dubai (DSC),2018-09-23,7,lost
+1162,4045,Bangladesh,Afghanistan,Bangladesh,won,1st,3.0,runs,,Abu Dhabi,2018-09-23,25,won
+1164,4046,India,Afghanistan,tied,lost,2nd,,,,Dubai (DSC),2018-09-25,6,tied
+1166,4047,Pakistan,Bangladesh,Bangladesh,lost,2nd,37.0,runs,,Abu Dhabi,2018-09-26,7,lost
+1168,4048,India,Bangladesh,India,won,2nd,3.0,wickets,0.0,Dubai (DSC),2018-09-28,6,won
+1170,4049,SouthAfrica,Zimbabwe,SouthAfrica,won,2nd,5.0,wickets,143.0,Kimberley,2018-09-30,3,won
+1171,4050,SouthAfrica,Zimbabwe,SouthAfrica,won,1st,120.0,runs,,Bloemfontein,2018-10-03,3,won
+1172,4051,SouthAfrica,Zimbabwe,SouthAfrica,lost,2nd,4.0,wickets,25.0,Paarl,2018-10-06,3,won
+1173,4052,SriLanka,England,n/r,won,2nd,,,,Dambulla,2018-10-10,8,n/r
+1175,4053,SriLanka,England,England,won,2nd,31.0,runs,,Dambulla,2018-10-13,8,lost
+1177,4054,SriLanka,England,England,lost,1st,7.0,wickets,15.0,Pallekele,2018-10-17,8,lost
+1179,4055,SriLanka,England,England,lost,1st,18.0,runs,,Pallekele,2018-10-20,8,lost
+1181,4056,WestIndies,India,India,lost,1st,8.0,wickets,47.0,Guwahati,2018-10-21,4,lost
+1183,4057,Bangladesh,Zimbabwe,Bangladesh,won,1st,28.0,runs,,Dhaka,2018-10-21,25,won
+1184,4058,SriLanka,England,SriLanka,won,1st,219.0,runs,,Colombo (RPS),2018-10-23,8,won
+1186,4059,WestIndies,India,tied,lost,2nd,,,,Visakhapatnam,2018-10-24,4,tied
+1188,4060,Bangladesh,Zimbabwe,Bangladesh,won,2nd,7.0,wickets,35.0,Chattogram,2018-10-24,25,won
+1189,4061,Bangladesh,Zimbabwe,Bangladesh,won,2nd,7.0,wickets,47.0,Chattogram,2018-10-26,25,won
+1190,4062,WestIndies,India,WestIndies,lost,1st,43.0,runs,,Pune,2018-10-27,4,won
+1192,4063,WestIndies,India,India,lost,2nd,224.0,runs,,Mumbai (BS),2018-10-29,4,lost
+1194,4064,WestIndies,India,India,won,1st,9.0,wickets,211.0,Thiruvananthapuram,2018-11-01,4,lost
+1196,4065,SouthAfrica,Australia,SouthAfrica,won,2nd,6.0,wickets,124.0,Perth,2018-11-04,3,won
+1198,4066,Pakistan,New Zealand,New Zealand,lost,2nd,47.0,runs,,Abu Dhabi,2018-11-07,7,lost
+1200,4067,SouthAfrica,Australia,Australia,won,2nd,7.0,runs,,Adelaide,2018-11-09,3,lost
+1202,4068,Pakistan,New Zealand,Pakistan,lost,2nd,6.0,wickets,57.0,Abu Dhabi,2018-11-09,7,won
+1204,4069,SouthAfrica,Australia,SouthAfrica,lost,1st,40.0,runs,,Hobart,2018-11-11,3,won
+1206,4070,Pakistan,New Zealand,n/r,won,1st,,,,Dubai (DSC),2018-11-11,7,n/r
+1208,4071,WestIndies,Bangladesh,Bangladesh,won,1st,5.0,wickets,89.0,Dhaka,2018-12-09,4,lost
+1210,4072,WestIndies,Bangladesh,WestIndies,won,2nd,4.0,wickets,2.0,Dhaka,2018-12-11,4,won
+1212,4073,WestIndies,Bangladesh,Bangladesh,lost,1st,8.0,wickets,69.0,Sylhet,2018-12-14,4,lost
+1214,4074,SriLanka,New Zealand,New Zealand,lost,2nd,45.0,runs,,Mount Maunganui,2019-01-03,8,lost
+1216,4075,SriLanka,New Zealand,New Zealand,lost,2nd,21.0,runs,,Mount Maunganui,2019-01-05,8,lost
+1218,4076,SriLanka,New Zealand,New Zealand,won,2nd,115.0,runs,,Nelson,2019-01-08,8,lost
+1220,4077,India,Australia,Australia,lost,2nd,34.0,runs,,Sydney,2019-01-12,6,lost
+1222,4078,India,Australia,India,lost,2nd,6.0,wickets,4.0,Adelaide,2019-01-15,6,won
+1224,4079,India,Australia,India,won,2nd,7.0,wickets,4.0,Melbourne,2019-01-18,6,won
+1226,4080,SouthAfrica,Pakistan,Pakistan,won,1st,5.0,wickets,5.0,Port Elizabeth,2019-01-19,3,lost
+1228,4081,SouthAfrica,Pakistan,SouthAfrica,won,2nd,5.0,wickets,48.0,Durban,2019-01-22,3,won
+1230,4082,Newzealad,India,India,won,1st,8.0,wickets,85.0,Napier,2019-01-23,5,lost
+1232,4084,SouthAfrica,Pakistan,SouthAfrica,lost,2nd,13.0,runs,,Centurion,2019-01-25,3,won
+1234,4085,Newzealad,India,India,lost,2nd,90.0,runs,,Mount Maunganui,2019-01-26,5,lost
+1236,4087,SouthAfrica,Pakistan,Pakistan,lost,1st,8.0,wickets,111.0,Johannesburg,2019-01-27,3,lost
+1238,4088,Newzealad,India,India,won,1st,7.0,wickets,42.0,Mount Maunganui,2019-01-28,5,lost
+1240,4090,SouthAfrica,Pakistan,SouthAfrica,won,2nd,7.0,wickets,60.0,Cape Town,2019-01-30,3,won
+1242,4091,Newzealad,India,Newzealad,won,2nd,8.0,wickets,212.0,Hamilton,2019-01-31,5,won
+1244,4092,Newzealad,India,India,lost,2nd,35.0,runs,,Wellington,2019-02-03,5,lost
+1246,4093,Newzealad,Bangladesh,Newzealad,lost,2nd,8.0,wickets,33.0,Napier,2019-02-13,5,won
+1248,4094,Newzealad,Bangladesh,Newzealad,won,2nd,8.0,wickets,83.0,Christchurch,2019-02-16,5,won
+1250,4095,Newzealad,Bangladesh,Newzealad,lost,1st,88.0,runs,,Dunedin,2019-02-20,5,won
+1252,4096,WestIndies,England,England,won,1st,6.0,wickets,8.0,Bridgetown,2019-02-20,4,lost
+1254,4097,WestIndies,England,WestIndies,lost,1st,26.0,runs,,Bridgetown,2019-02-22,4,won
+1256,4098,WestIndies,England,n/r,lost,,,,,St George's,2019-02-25,4,n/r
+1258,4099,WestIndies,England,England,won,2nd,29.0,runs,,St George's,2019-02-27,4,lost
+1260,4100,Afghanistan,Ireland,Afghanistan,lost,2nd,5.0,wickets,49.0,Dehradun,2019-02-28,40,won
+1261,4101,Afghanistan,Ireland,n/r,won,1st,,,,Dehradun,2019-03-02,40,n/r
+1262,4102,India,Australia,India,lost,2nd,6.0,wickets,10.0,Hyderabad (Deccan),2019-03-02,6,won
+1264,4103,WestIndies,England,WestIndies,won,2nd,7.0,wickets,227.0,Gros Islet,2019-03-02,4,won
+1266,4104,SriLanka,South Africa,South Africa,lost,1st,8.0,wickets,67.0,Johannesburg,2019-03-03,8,lost
+1268,4105,Afghanistan,Ireland,Ireland,won,1st,4.0,wickets,6.0,Dehradun,2019-03-05,40,lost
+1269,4106,India,Australia,India,lost,1st,8.0,runs,,Nagpur,2019-03-05,6,won
+1271,4107,SriLanka,South Africa,South Africa,won,2nd,113.0,runs,,Centurion,2019-03-06,8,lost
+1273,4108,Afghanistan,Ireland,Afghanistan,lost,1st,109.0,runs,,Dehradun,2019-03-08,40,won
+1274,4109,India,Australia,Australia,won,2nd,32.0,runs,,Ranchi,2019-03-08,6,lost
+1276,4110,Afghanistan,Ireland,Ireland,lost,1st,5.0,wickets,16.0,Dehradun,2019-03-10,40,lost
+1277,4111,India,Australia,Australia,won,1st,4.0,wickets,13.0,Mohali,2019-03-10,6,lost
+1279,4112,SriLanka,South Africa,South Africa,won,2nd,71.0,runs,,Durban,2019-03-10,8,lost
+1281,4113,India,Australia,Australia,lost,2nd,35.0,runs,,Delhi,2019-03-13,6,lost
+1283,4114,SriLanka,South Africa,South Africa,lost,1st,6.0,wickets,103.0,Port Elizabeth,2019-03-13,8,lost
+1285,4115,SriLanka,South Africa,South Africa,won,1st,41.0,runs,,Cape Town,2019-03-16,8,lost
+1287,4116,Pakistan,Australia,Australia,won,1st,8.0,wickets,6.0,Sharjah,2019-03-22,7,lost
+1289,4117,Pakistan,Australia,Australia,won,1st,8.0,wickets,13.0,Sharjah,2019-03-24,7,lost
+1291,4118,Pakistan,Australia,Australia,lost,2nd,80.0,runs,,Abu Dhabi,2019-03-27,7,lost
+1293,4119,Pakistan,Australia,Australia,won,2nd,6.0,runs,,Dubai (DSC),2019-03-29,7,lost
+1295,4120,Pakistan,Australia,Australia,won,2nd,20.0,runs,,Dubai (DSC),2019-03-31,7,lost
+1297,4127,England,Ireland,England,won,2nd,4.0,wickets,18.0,Dublin (Malahide),2019-05-03,1,won
+1298,4128,WestIndies,Ireland,WestIndies,lost,1st,196.0,runs,,Dublin,2019-05-05,4,won
+1299,4129,WestIndies,Bangladesh,Bangladesh,won,1st,8.0,wickets,30.0,Dublin,2019-05-07,4,lost
+1302,4130,Pakistan,England,n/r,lost,1st,,,,The Oval,2019-05-08,7,n/r
+1305,4131,Afghanistan,Scotland,Afghanistan,lost,2nd,2.0,runs,,Edinburgh,2019-05-10,40,won
+1306,4132,WestIndies,Ireland,WestIndies,lost,2nd,5.0,wickets,13.0,Dublin (Malahide),2019-05-11,4,won
+1307,4133,Pakistan,England,England,won,2nd,12.0,runs,,Southampton,2019-05-11,7,lost
+1309,4134,WestIndies,Bangladesh,Bangladesh,won,1st,5.0,wickets,16.0,Dublin (Malahide),2019-05-13,4,lost
+1311,4135,Pakistan,England,England,lost,1st,6.0,wickets,31.0,Bristol,2019-05-14,7,lost
+1313,4136,Bangladesh,Ireland,Bangladesh,lost,2nd,6.0,wickets,42.0,Dublin,2019-05-15,25,won
+1314,4137,WestIndies,Bangladesh,Bangladesh,lost,1st,5.0,wickets,7.0,Dublin (Malahide),2019-05-17,4,lost
+1316,4138,Pakistan,England,England,lost,1st,3.0,wickets,3.0,Nottingham,2019-05-17,7,lost
+1319,4139,Afghanistan,Ireland,Ireland,won,2nd,,,,Belfast,2019-05-19,40,
+1320,4140,Pakistan,England,England,lost,2nd,,,,Leeds,2019-05-19,7,
