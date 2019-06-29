@@ -69,3 +69,13 @@ def toFloat(df, col_list):
     '''
     for col in col_list:
         df[col] = df[col].astype(float)
+
+#Rename columns
+def renameCols2(df, old_name_list, new_name_list):
+    '''
+    Rename columns in old_name_list with names in new_name_list.
+    Pre-condition: len(old_name_list) == len(new_name_list)
+    '''
+    for i in range(len(old_name_list)):
+        df.rename(columns={old_name_list[i]:new_name_list[i]})
+    
