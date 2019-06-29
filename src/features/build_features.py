@@ -61,3 +61,11 @@ def dupIndex(df, col):
     the 1st instance.
     ''''
     return np.array(df[df[col].duplicated].index)
+
+# Change object types to float.
+def toFloat(df, col_list):
+    '''
+    Change data types in col_list to type float.
+    '''
+    for col in col_list:
+        df[col] = df[col].astype(float)
