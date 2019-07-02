@@ -16,6 +16,12 @@ def renameCols2(df, old_name_list, new_name_list):
     for i in range(len(old_name_list)):
         df.rename(columns={old_name_list[i]:new_name_list[i]})
 
+def renameCols3(df, suffix):
+    '''
+    Add suffix to every column name in df.
+    '''
+    df.rename(lambda c: c + suffix, axis=1, inplace=True)
+
 # Replace string type data with NaN
 def replaceNaN (df, col_list, str):
     ''' (df, list of str, str) -> df
