@@ -1,743 +1,743 @@
-,match_id,country1,country1_score,country2,country2_score,team_won,wickets,target,overs,run_rate,innings,ground,start_date,country_id,result
-0,3315,Pakistan,250.0,India,,Pakistan,,,48.3,5.15,1,Kolkata,2013-01-03,7,won
-2,3316,Pakistan,157.0,India,167.0,India,,168.0,48.5,3.21,2,Delhi,2013-01-06,7,lost
-4,3317,SriLanka,198.0,Australia,305.0,Australia,,306.0,40.0,4.95,2,Melbourne,2013-01-11,8,lost
-6,3318,India,316.0,England,325.0,England,9.0,326.0,50.0,6.32,2,Rajkot,2013-01-11,6,lost
-8,3319,SriLanka,172.0,Australia,170.0,SriLanka,2.0,171.0,40.1,4.28,2,Adelaide,2013-01-13,8,won
-10,3320,India,285.0,England,,India,6.0,,50.0,5.7,1,Kochi,2013-01-15,6,won
-12,3321,SriLanka,75.0,Australia,74.0,SriLanka,6.0,75.0,20.0,3.75,2,Brisbane,2013-01-18,8,won
-14,3322,India,157.0,England,155.0,India,3.0,156.0,28.1,5.57,2,Ranchi,2013-01-19,6,won
-16,3323,SouthAfrica,208.0,New Zealand,,New Zealand,,,46.2,4.48,1,Paarl,2013-01-19,3,lost
-18,3324,SriLanka,14.0,Australia,222.0,Australia,0.0,223.0,3.2,4.2,2,Sydney,2013-01-20,8,n/r
-20,3325,SouthAfrica,252.0,New Zealand,279.0,New Zealand,,280.0,49.1,5.12,2,Kimberley,2013-01-22,3,lost
-22,3326,SriLanka,215.0,Australia,247.0,Australia,,248.0,48.3,4.43,2,Hobart,2013-01-23,8,lost
-24,3327,India,258.0,England,257.0,India,5.0,258.0,47.3,5.43,2,Mohali,2013-01-23,6,won
-26,3328,SouthAfrica,264.0,New Zealand,260.0,SouthAfrica,9.0,261.0,50.0,5.28,2,Potchefstroom,2013-01-25,3,won
-28,3329,India,226.0,England,,England,,,49.4,4.55,1,Dharamsala,2013-01-27,6,lost
-30,3330,WestIndies,70.0,Australia,,Australia,,,23.5,2.93,1,Perth,2013-02-01,4,lost
-32,3331,WestIndies,212.0,Australia,266.0,Australia,,267.0,38.1,5.55,2,Perth,2013-02-03,4,lost
-34,3332,WestIndies,290.0,Australia,329.0,Australia,,330.0,47.3,6.1,2,Canberra,2013-02-06,4,lost
-36,3333,WestIndies,220.0,Australia,,Australia,,,49.4,4.42,1,Sydney,2013-02-08,4,lost
-38,3334,WestIndies,257.0,Australia,274.0,Australia,,275.0,49.5,5.15,2,Melbourne,2013-02-10,4,lost
-40,3335,Newzealad,259.0,England,258.0,Newzealad,7.0,259.0,48.5,5.3,2,Hamilton,2013-02-17,5,won
-42,3336,Newzealad,269.0,England,,England,,,48.5,5.5,1,Napier,2013-02-20,5,lost
-44,3337,WestIndies,337.0,Zimbabwe,,WestIndies,4.0,,50.0,6.74,1,St George's,2013-02-22,4,won
-45,3338,Newzealad,185.0,England,,England,,,43.5,4.22,1,Auckland,2013-02-23,5,lost
-47,3339,WestIndies,274.0,Zimbabwe,273.0,WestIndies,3.0,274.0,49.0,5.59,2,St George's,2013-02-24,4,won
-48,3340,WestIndies,215.0,Zimbabwe,211.0,WestIndies,5.0,212.0,46.2,4.64,2,St George's,2013-02-26,4,won
-49,3341,Afghanistan,203.0,Scotland,199.0,Afghanistan,3.0,200.0,33.5,6.0,2,Sharjah,2013-03-06,40,won
-50,3342,Afghanistan,261.0,Scotland,259.0,Afghanistan,5.0,260.0,48.4,5.36,2,Sharjah,2013-03-08,40,won
-51,3343,SouthAfrica,315.0,Pakistan,,SouthAfrica,4.0,,50.0,6.3,1,Bloemfontein,2013-03-10,3,won
-53,3346,SouthAfrica,191.0,Pakistan,,Pakistan,,,43.2,4.4,1,Centurion,2013-03-15,3,lost
-55,3347,SouthAfrica,343.0,Pakistan,,SouthAfrica,5.0,,50.0,6.86,1,Johannesburg,2013-03-17,3,won
-57,3348,SouthAfrica,234.0,Pakistan,,Pakistan,9.0,,50.0,4.68,1,Durban,2013-03-21,3,lost
-59,3349,SriLanka,238.0,Bangladesh,237.0,SriLanka,2.0,238.0,35.4,6.67,2,Hambantota,2013-03-23,8,won
-61,3350,SouthAfrica,208.0,Pakistan,205.0,SouthAfrica,4.0,206.0,44.0,4.72,2,Benoni,2013-03-24,3,won
-63,3351,SriLanka,33.0,Bangladesh,,Bangladesh,0.0,,5.0,6.6,1,Hambantota,2013-03-25,8,n/r
-65,3352,SriLanka,302.0,Bangladesh,,Bangladesh,9.0,,50.0,6.04,1,Pallekele,2013-03-28,8,lost
-67,3353,Bangladesh,269.0,Zimbabwe,,Bangladesh,8.0,,50.0,5.38,1,Bulawayo,2013-05-03,25,won
-68,3354,Bangladesh,252.0,Zimbabwe,,Zimbabwe,9.0,,50.0,5.04,1,Bulawayo,2013-05-05,25,lost
-69,3355,Bangladesh,247.0,Zimbabwe,,Zimbabwe,9.0,,50.0,4.94,1,Bulawayo,2013-05-08,25,lost
-70,3356,Pakistan,231.0,Scotland,,Pakistan,7.0,,50.0,4.62,1,Edinburgh,2013-05-17,7,won
-71,3357,Pakistan,266.0,Ireland,,Ireland,5.0,,47.0,5.65,1,Dublin,2013-05-23,7,tied
-72,3358,Pakistan,230.0,Ireland,229.0,Pakistan,8.0,230.0,48.4,4.72,2,Dublin,2013-05-26,7,won
-73,3359,SouthAfrica,341.0,Netherlands,,SouthAfrica,3.0,,50.0,6.82,1,Amstelveen,2013-05-31,3,won
-74,3360,Newzealad,231.0,England,227.0,Newzealad,5.0,228.0,46.5,4.93,2,Lord's,2013-05-31,5,won
-76,3361,Newzealad,359.0,England,,Newzealad,3.0,,50.0,7.18,1,Southampton,2013-06-02,5,won
-78,3362,Newzealad,253.0,England,287.0,England,,288.0,46.3,5.44,2,Nottingham,2013-06-05,5,lost
-80,3363,SouthAfrica,305.0,India,331.0,India,,332.0,50.0,6.1,2,Cardiff,2013-06-06,3,lost
-82,3364,WestIndies,172.0,Pakistan,170.0,WestIndies,8.0,171.0,40.4,4.22,2,The Oval,2013-06-07,4,won
-84,3365,England,269.0,Australia,,England,6.0,,50.0,5.38,1,Birmingham,2013-06-08,1,won
-86,3366,SriLanka,138.0,New Zealand,,New Zealand,,,37.5,3.64,1,Cardiff,2013-06-09,8,lost
-88,3367,SouthAfrica,234.0,Pakistan,,SouthAfrica,9.0,,50.0,4.68,1,Birmingham,2013-06-10,3,won
-90,3368,WestIndies,233.0,India,,India,9.0,,50.0,4.66,1,The Oval,2013-06-11,4,lost
-92,3369,Newzealad,51.0,Australia,243.0,Australia,2.0,244.0,15.0,3.4,2,Birmingham,2013-06-12,5,n/r
-94,3370,SriLanka,297.0,England,293.0,SriLanka,3.0,294.0,47.1,6.29,2,The Oval,2013-06-13,8,won
-96,3371,WestIndies,190.0,South Africa,190.0,South Africa,6.0,191.0,26.1,7.26,2,Cardiff,2013-06-14,4,tied
-98,3372,Pakistan,165.0,India,,India,,,39.4,4.15,1,Birmingham,2013-06-15,7,lost
-100,3373,Newzealad,159.0,England,169.0,England,8.0,170.0,24.0,6.62,2,Cardiff,2013-06-16,5,lost
-102,3374,SriLanka,253.0,Australia,,SriLanka,8.0,,50.0,5.06,1,The Oval,2013-06-17,8,won
-104,3375,SouthAfrica,175.0,England,,England,,,38.4,4.52,1,The Oval,2013-06-19,3,lost
-106,3376,SriLanka,181.0,India,,India,8.0,,50.0,3.62,1,Cardiff,2013-06-20,8,lost
-108,3377,India,129.0,England,,India,7.0,,20.0,6.45,1,Birmingham,2013-06-23,6,won
-110,3378,WestIndies,209.0,Sri Lanka,208.0,WestIndies,4.0,209.0,37.5,5.52,2,Kingston,2013-06-28,4,won
-112,3380,WestIndies,230.0,India,229.0,WestIndies,9.0,230.0,47.4,4.82,2,Kingston,2013-06-30,4,won
-114,3382,SriLanka,348.0,India,,SriLanka,1.0,,50.0,6.96,1,Kingston,2013-07-02,8,won
-116,3383,WestIndies,171.0,India,273.0,India,,274.0,34.0,5.02,2,Port of Spain,2013-07-05,4,lost
-118,3385,WestIndies,190.0,Sri Lanka,229.0,Sri Lanka,9.0,230.0,41.0,4.63,2,Port of Spain,2013-07-07,4,lost
-120,3387,SriLanka,96.0,India,177.0,India,,178.0,24.4,3.89,2,Port of Spain,2013-07-09,8,lost
-122,3388,SriLanka,201.0,India,,India,,,48.5,4.11,1,Port of Spain,2013-07-11,8,lost
-124,3389,WestIndies,98.0,Pakistan,224.0,Pakistan,,225.0,41.0,2.39,2,Providence,2013-07-14,4,lost
-126,3390,WestIndies,232.0,Pakistan,,WestIndies,8.0,,50.0,4.64,1,Providence,2013-07-16,4,won
-128,3391,WestIndies,229.0,Pakistan,229.0,Pakistan,9.0,230.0,50.0,4.58,2,Gros Islet,2013-07-19,4,tied
-130,3392,SriLanka,320.0,South Africa,,SriLanka,5.0,,50.0,6.4,1,Colombo (RPS),2013-07-20,8,won
-132,3393,WestIndies,261.0,Pakistan,,Pakistan,7.0,,49.0,5.32,1,Gros Islet,2013-07-21,4,lost
-134,3394,SriLanka,223.0,South Africa,,SriLanka,9.0,,49.2,4.52,1,Colombo (RPS),2013-07-23,8,won
-136,3395,India,230.0,Zimbabwe,228.0,India,4.0,229.0,44.5,5.13,2,Harare,2013-07-24,6,won
-137,3396,WestIndies,242.0,Pakistan,,Pakistan,7.0,,50.0,4.84,1,Gros Islet,2013-07-24,4,lost
-139,3397,India,294.0,Zimbabwe,,India,8.0,,50.0,5.88,1,Harare,2013-07-26,6,won
-140,3398,SriLanka,167.0,South Africa,223.0,South Africa,,224.0,43.2,3.85,2,Pallekele,2013-07-26,8,lost
-142,3399,India,187.0,Zimbabwe,183.0,India,3.0,184.0,35.3,5.26,2,Harare,2013-07-28,6,won
-143,3400,SriLanka,239.0,South Africa,238.0,SriLanka,2.0,239.0,44.0,5.43,2,Pallekele,2013-07-28,8,won
-145,3401,SriLanka,307.0,South Africa,,SriLanka,4.0,,50.0,6.14,1,Colombo (RPS),2013-07-31,8,won
-147,3402,India,145.0,Zimbabwe,144.0,India,1.0,145.0,30.5,4.7,2,Bulawayo,2013-08-01,6,won
-148,3403,India,167.0,Zimbabwe,163.0,India,3.0,164.0,34.0,4.91,2,Bulawayo,2013-08-03,6,won
-149,3404,Pakistan,244.0,Zimbabwe,,Zimbabwe,7.0,,50.0,4.88,1,Harare,2013-08-27,7,lost
-150,3406,Pakistan,299.0,Zimbabwe,,Pakistan,4.0,,50.0,5.98,1,Harare,2013-08-29,7,won
-151,3408,Pakistan,260.0,Zimbabwe,,Pakistan,6.0,,50.0,5.2,1,Harare,2013-08-31,7,won
-152,3409,England,274.0,Ireland,269.0,England,4.0,270.0,43.0,6.37,2,Dublin (Malahide),2013-09-03,1,won
-153,3410,Australia,362.0,Scotland,,Australia,3.0,,50.0,7.24,1,Edinburgh,2013-09-03,2,won
-154,3412,England,227.0,Australia,315.0,Australia,,316.0,44.2,5.12,2,Manchester,2013-09-08,1,lost
-156,3414,England,59.0,Australia,,Australia,3.0,,15.1,3.89,1,Birmingham,2013-09-11,1,n/r
-158,3415,England,231.0,Australia,227.0,England,7.0,228.0,49.3,4.66,2,Cardiff,2013-09-14,1,won
-160,3416,England,249.0,Australia,298.0,Australia,,299.0,48.0,5.18,2,Southampton,2013-09-16,1,lost
-162,3417,Afghanistan,95.0,Kenya,89.0,Afghanistan,2.0,90.0,17.5,5.32,2,Sharjah,2013-10-02,40,won
-163,3418,Afghanistan,96.0,Kenya,93.0,Afghanistan,3.0,94.0,20.5,4.6,2,Sharjah,2013-10-04,40,won
-164,3419,India,232.0,Australia,304.0,Australia,,305.0,49.4,4.67,2,Pune,2013-10-13,6,lost
-166,3420,India,362.0,Australia,359.0,India,1.0,360.0,43.3,8.32,2,Jaipur,2013-10-16,6,won
-168,3421,India,303.0,Australia,,Australia,9.0,,50.0,6.06,1,Mohali,2013-10-19,6,lost
-170,3422,India,27.0,Australia,295.0,Australia,0.0,296.0,4.1,6.48,2,Ranchi,2013-10-23,6,n/r
-172,3423,Newzealad,162.0,Bangladesh,205.0,Bangladesh,,206.0,29.5,5.43,2,Dhaka,2013-10-29,5,lost
-174,3424,India,351.0,Australia,350.0,India,4.0,351.0,49.3,7.09,2,Nagpur,2013-10-30,6,won
-176,3425,SouthAfrica,183.0,Pakistan,,SouthAfrica,,,49.5,3.67,1,Sharjah,2013-10-30,3,won
-178,3426,Newzealad,207.0,Bangladesh,247.0,Bangladesh,,248.0,46.4,4.43,2,Dhaka,2013-10-31,5,lost
-180,3427,SouthAfrica,143.0,Pakistan,209.0,Pakistan,,210.0,40.4,3.51,2,Dubai (DSC),2013-11-01,3,lost
-182,3428,India,383.0,Australia,,India,6.0,,50.0,7.66,1,Bengaluru,2013-11-02,6,won
-184,3429,Newzealad,307.0,Bangladesh,,Bangladesh,5.0,,50.0,6.14,1,Fatullah,2013-11-03,5,lost
-186,3430,SouthAfrica,259.0,Pakistan,,SouthAfrica,8.0,,50.0,5.18,1,Abu Dhabi,2013-11-06,3,won
-188,3431,SouthAfrica,266.0,Pakistan,,SouthAfrica,5.0,,50.0,5.32,1,Abu Dhabi,2013-11-08,3,won
-190,3432,SriLanka,288.0,New Zealand,,New Zealand,9.0,,50.0,5.76,1,Hambantota,2013-11-10,8,n/r
-192,3433,SouthAfrica,268.0,Pakistan,,SouthAfrica,7.0,,50.0,5.36,1,Sharjah,2013-11-11,3,won
-194,3434,SriLanka,138.0,New Zealand,,New Zealand,1.0,,23.0,6.0,1,Hambantota,2013-11-12,8,lost
-196,3435,SriLanka,211.0,New Zealand,,SriLanka,8.0,,33.0,6.39,1,Dambulla,2013-11-16,8,won
-198,3436,WestIndies,211.0,India,,India,,,48.5,4.32,1,Kochi,2013-11-21,4,lost
-200,3437,WestIndies,289.0,India,288.0,WestIndies,8.0,289.0,49.3,5.83,2,Visakhapatnam,2013-11-24,4,won
-202,3438,SouthAfrica,195.0,Pakistan,218.0,Pakistan,,219.0,48.1,4.04,2,Cape Town,2013-11-24,3,lost
-204,3439,WestIndies,263.0,India,,India,5.0,,50.0,5.26,1,Kanpur,2013-11-27,4,lost
-206,3440,SouthAfrica,261.0,Pakistan,262.0,Pakistan,6.0,263.0,45.0,5.8,2,Port Elizabeth,2013-11-27,3,lost
-208,3441,SouthAfrica,181.0,Pakistan,179.0,SouthAfrica,6.0,180.0,38.4,4.68,2,Centurion,2013-11-30,3,won
-210,3442,SouthAfrica,358.0,India,,SouthAfrica,4.0,,50.0,7.16,1,Johannesburg,2013-12-05,3,won
-212,3443,SouthAfrica,280.0,India,,SouthAfrica,6.0,,49.0,5.71,1,Durban,2013-12-08,3,won
-214,3444,SouthAfrica,301.0,India,,India,8.0,,50.0,6.02,1,Centurion,2013-12-11,3,n/r
-216,3445,SriLanka,311.0,Pakistan,322.0,Pakistan,,323.0,49.4,6.26,2,Sharjah,2013-12-18,8,lost
-218,3446,SriLanka,287.0,Pakistan,284.0,SriLanka,8.0,285.0,49.4,5.77,2,Dubai (DSC),2013-12-20,8,won
-220,3447,SriLanka,213.0,Pakistan,326.0,Pakistan,,327.0,44.4,4.76,2,Sharjah,2013-12-22,8,lost
-222,3448,SriLanka,225.0,Pakistan,,Pakistan,,,48.5,4.6,1,Abu Dhabi,2013-12-25,8,lost
-224,3449,WestIndies,157.0,New Zealand,156.0,WestIndies,8.0,157.0,27.3,5.7,2,Auckland,2013-12-26,4,won
-226,3450,SriLanka,235.0,Pakistan,232.0,SriLanka,8.0,233.0,49.4,4.73,2,Abu Dhabi,2013-12-27,8,won
-228,3451,WestIndies,124.0,New Zealand,283.0,New Zealand,5.0,284.0,21.0,5.9,2,Queenstown,2014-01-01,4,lost
-230,3452,WestIndies,134.0,New Zealand,192.0,New Zealand,5.0,193.0,33.4,3.98,2,Nelson,2014-01-04,4,lost
-232,3453,WestIndies,363.0,New Zealand,,WestIndies,4.0,,50.0,7.26,1,Hamilton,2014-01-08,4,won
-234,3454,England,269.0,Australia,,Australia,7.0,,50.0,5.38,1,Melbourne,2014-01-12,1,lost
-236,3455,England,300.0,Australia,,Australia,8.0,,50.0,6.0,1,Brisbane,2014-01-17,1,lost
-238,3456,Newzealad,292.0,India,,Newzealad,7.0,,50.0,5.84,1,Napier,2014-01-19,5,won
-240,3457,England,243.0,Australia,,Australia,9.0,,50.0,4.86,1,Sydney,2014-01-19,1,lost
-242,3458,Newzealad,271.0,India,,Newzealad,7.0,,42.0,6.45,1,Hamilton,2014-01-22,5,won
-244,3461,England,316.0,Australia,,England,8.0,,50.0,6.32,1,Perth,2014-01-24,1,won
-246,3462,Newzealad,314.0,India,,India,,,50.0,6.28,1,Auckland,2014-01-25,5,tied
-248,3463,England,212.0,Australia,217.0,Australia,,218.0,49.4,4.26,2,Adelaide,2014-01-26,1,lost
-250,3465,Newzealad,280.0,India,278.0,Newzealad,3.0,279.0,48.1,5.81,2,Hamilton,2014-01-28,5,won
-252,3467,Newzealad,303.0,India,,Newzealad,5.0,,50.0,6.06,1,Wellington,2014-01-31,5,won
-254,3469,SriLanka,180.0,Bangladesh,,SriLanka,,,40.0,4.5,1,Dhaka,2014-02-17,8,won
-256,3470,SriLanka,289.0,Bangladesh,,SriLanka,6.0,,50.0,5.78,1,Dhaka,2014-02-20,8,won
-258,3471,SriLanka,246.0,Bangladesh,240.0,SriLanka,4.0,241.0,47.3,5.17,2,Dhaka,2014-02-22,8,won
-260,3472,WestIndies,205.0,Ireland,202.0,WestIndies,6.0,203.0,36.4,5.59,2,Kingston,2014-02-23,4,won
-261,3473,SriLanka,296.0,Pakistan,,SriLanka,6.0,,50.0,5.92,1,Fatullah,2014-02-25,8,won
-263,3474,India,280.0,Bangladesh,279.0,India,4.0,280.0,49.0,5.71,2,Fatullah,2014-02-26,6,won
-265,3475,Pakistan,248.0,Afghanistan,,Pakistan,8.0,,50.0,4.96,1,Fatullah,2014-02-27,7,won
-267,3476,SriLanka,265.0,India,264.0,SriLanka,8.0,265.0,49.2,5.37,2,Fatullah,2014-02-28,8,won
-269,3477,WestIndies,269.0,England,,WestIndies,6.0,,50.0,5.38,1,North Sound,2014-02-28,4,won
-271,3478,Bangladesh,222.0,Afghanistan,254.0,Afghanistan,,255.0,47.5,4.64,2,Fatullah,2014-03-01,25,lost
-273,3479,Pakistan,249.0,India,245.0,Pakistan,9.0,246.0,49.4,5.01,2,Dhaka,2014-03-02,7,won
-275,3480,WestIndies,159.0,England,,England,,,44.2,3.58,1,North Sound,2014-03-02,4,lost
-277,3481,SriLanka,253.0,Afghanistan,,SriLanka,6.0,,50.0,5.06,1,Dhaka,2014-03-03,8,won
-279,3482,Pakistan,329.0,Bangladesh,326.0,Pakistan,7.0,327.0,49.5,6.6,2,Dhaka,2014-03-04,7,won
-281,3483,India,160.0,Afghanistan,159.0,India,2.0,160.0,32.2,4.94,2,Dhaka,2014-03-05,6,won
-283,3484,WestIndies,278.0,England,303.0,England,,304.0,47.4,5.83,2,North Sound,2014-03-05,4,lost
-285,3485,SriLanka,208.0,Bangladesh,204.0,SriLanka,7.0,205.0,49.0,4.24,2,Dhaka,2014-03-06,8,won
-287,3486,SriLanka,261.0,Pakistan,260.0,SriLanka,5.0,261.0,46.2,5.63,2,Dhaka,2014-03-08,8,won
-289,3487,Afghanistan,218.0,Hong Kong,216.0,Afghanistan,4.0,217.0,43.1,5.05,2,Kuala Lumpur,2014-05-01,40,won
-290,3488,Afghanistan,302.0,U.A.E.,,Afghanistan,5.0,,50.0,6.04,1,Kuala Lumpur,2014-05-02,40,won
-291,3490,SriLanka,219.0,Ireland,,SriLanka,8.0,,50.0,4.38,1,Dublin,2014-05-06,8,won
-292,3491,England,167.0,Scotland,,England,6.0,,20.0,8.35,1,Aberdeen,2014-05-09,1,won
-293,3492,SriLanka,144.0,England,225.0,England,,226.0,27.5,5.17,2,The Oval,2014-05-22,8,lost
-295,3493,SriLanka,256.0,England,,SriLanka,8.0,,50.0,5.12,1,Chester-le-Street,2014-05-25,8,won
-297,3494,SriLanka,67.0,England,,England,,,24.0,2.79,1,Manchester,2014-05-28,8,lost
-299,3495,SriLanka,300.0,England,,SriLanka,9.0,,50.0,6.0,1,Lord's,2014-05-31,8,won
-301,3496,SriLanka,222.0,England,219.0,SriLanka,4.0,220.0,48.2,4.59,2,Birmingham,2014-06-03,8,won
-303,3497,India,153.0,Bangladesh,149.0,India,3.0,150.0,24.5,6.16,2,Dhaka,2014-06-15,6,won
-305,3498,India,105.0,Bangladesh,,India,,,25.3,4.11,1,Dhaka,2014-06-17,6,won
-307,3499,India,119.0,Bangladesh,,Bangladesh,9.0,,34.2,3.46,1,Dhaka,2014-06-19,6,n/r
-309,3500,SriLanka,229.0,South Africa,304.0,South Africa,,305.0,40.3,5.65,2,Colombo (RPS),2014-07-06,8,lost
-311,3501,SriLanka,267.0,South Africa,,SriLanka,,,49.2,5.41,1,Pallekele,2014-07-09,8,won
-313,3502,SriLanka,257.0,South Africa,339.0,South Africa,,340.0,44.3,5.77,2,Hambantota,2014-07-12,8,lost
-315,3503,Afghanistan,223.0,Zimbabwe,,Zimbabwe,9.0,,50.0,4.46,1,Bulawayo,2014-07-18,40,lost
-316,3504,Afghanistan,256.0,Zimbabwe,,Zimbabwe,7.0,,50.0,5.12,1,Bulawayo,2014-07-20,40,lost
-317,3505,Afghanistan,264.0,Zimbabwe,261.0,Afghanistan,8.0,262.0,49.4,5.31,2,Bulawayo,2014-07-22,40,won
-318,3506,Afghanistan,259.0,Zimbabwe,,Afghanistan,,,49.1,5.26,1,Bulawayo,2014-07-24,40,won
-319,3507,SouthAfrica,309.0,Zimbabwe,,SouthAfrica,3.0,,50.0,6.18,1,Bulawayo,2014-08-17,3,won
-320,3508,SouthAfrica,257.0,Zimbabwe,,SouthAfrica,,,49.4,5.17,1,Bulawayo,2014-08-19,3,won
-321,3509,WestIndies,219.0,Bangladesh,217.0,WestIndies,7.0,218.0,39.4,5.52,2,St George's,2014-08-20,4,won
-323,3510,SouthAfrica,171.0,Zimbabwe,165.0,SouthAfrica,3.0,166.0,27.2,6.25,2,Bulawayo,2014-08-21,3,won
-324,3511,WestIndies,247.0,Bangladesh,,WestIndies,7.0,,50.0,4.94,1,St George's,2014-08-22,4,won
-326,3512,SriLanka,275.0,Pakistan,,Pakistan,7.0,,45.0,6.11,1,Hambantota,2014-08-23,8,lost
-328,3513,Australia,350.0,Zimbabwe,,Australia,6.0,,50.0,7.0,1,Harare,2014-08-25,2,won
-329,3514,WestIndies,338.0,Bangladesh,,WestIndies,7.0,,50.0,6.76,1,Basseterre,2014-08-25,4,won
-331,3515,SriLanka,310.0,Pakistan,,SriLanka,9.0,,50.0,6.2,1,Hambantota,2014-08-26,8,won
-333,3516,SouthAfrica,328.0,Australia,327.0,SouthAfrica,3.0,328.0,46.4,7.02,2,Harare,2014-08-27,3,won
-335,3517,India,304.0,England,,India,6.0,,50.0,6.08,1,Cardiff,2014-08-27,6,won
-337,3518,SouthAfrica,231.0,Zimbabwe,,SouthAfrica,,,49.5,4.63,1,Harare,2014-08-29,3,won
-338,3519,SriLanka,104.0,Pakistan,100.0,SriLanka,3.0,101.0,18.2,5.67,2,Dambulla,2014-08-30,8,won
-340,3520,India,228.0,England,227.0,India,4.0,228.0,43.0,5.3,2,Nottingham,2014-08-30,6,won
-342,3521,Australia,209.0,Zimbabwe,,Zimbabwe,9.0,,50.0,4.18,1,Harare,2014-08-31,2,lost
-343,3522,SouthAfrica,220.0,Australia,282.0,Australia,,283.0,44.0,5.0,2,Harare,2014-09-02,3,lost
-345,3523,India,212.0,England,206.0,India,1.0,207.0,30.3,6.95,2,Birmingham,2014-09-02,6,won
-347,3524,SouthAfrica,271.0,Zimbabwe,,SouthAfrica,6.0,,50.0,5.42,1,Harare,2014-09-04,3,won
-348,3525,India,253.0,England,294.0,England,,295.0,48.4,5.19,2,Leeds,2014-09-05,6,lost
-350,3526,SouthAfrica,221.0,Australia,217.0,SouthAfrica,4.0,218.0,40.5,5.41,2,Harare,2014-09-06,3,won
-352,3530,Pakistan,162.0,Australia,255.0,Australia,,256.0,36.3,4.43,2,Sharjah,2014-10-07,7,lost
-354,3531,WestIndies,321.0,India,,WestIndies,6.0,,50.0,6.42,1,Kochi,2014-10-08,4,won
-356,3532,Pakistan,215.0,Australia,,Australia,,,49.3,4.34,1,Dubai (DSC),2014-10-10,7,lost
-358,3533,WestIndies,215.0,India,263.0,India,,264.0,46.3,4.62,2,Delhi,2014-10-11,4,lost
-360,3534,Pakistan,230.0,Australia,231.0,Australia,,232.0,50.0,4.6,2,Abu Dhabi,2014-10-12,7,lost
-362,3535,WestIndies,271.0,India,330.0,India,,331.0,48.1,5.62,2,Dharamsala,2014-10-17,4,lost
-364,3536,SouthAfrica,236.0,New Zealand,230.0,SouthAfrica,4.0,231.0,48.1,4.89,2,Mount Maunganui,2014-10-21,3,won
-366,3537,SouthAfrica,282.0,New Zealand,,SouthAfrica,9.0,,50.0,5.64,1,Mount Maunganui,2014-10-24,3,won
-368,3538,SouthAfrica,157.0,New Zealand,,New Zealand,3.0,,30.4,5.11,1,Hamilton,2014-10-27,3,n/r
-370,3539,SriLanka,194.0,India,363.0,India,,364.0,39.2,4.93,2,Cuttack,2014-11-02,8,lost
-372,3540,SriLanka,274.0,India,,India,8.0,,50.0,5.48,1,Ahmedabad,2014-11-06,8,lost
-374,3543,SriLanka,242.0,India,,India,,,48.2,5.0,1,Hyderabad (Deccan),2014-11-09,8,lost
-376,3544,SriLanka,251.0,India,404.0,India,,405.0,43.1,5.81,2,Kolkata,2014-11-13,8,lost
-378,3545,SouthAfrica,268.0,Australia,300.0,Australia,,301.0,48.1,5.56,2,Perth,2014-11-14,3,lost
-380,3546,SouthAfrica,157.0,Australia,154.0,SouthAfrica,7.0,155.0,27.4,5.67,2,Perth,2014-11-16,3,won
-382,3547,SriLanka,286.0,India,,India,8.0,,50.0,5.72,1,Ranchi,2014-11-16,8,lost
-384,3548,SouthAfrica,256.0,Australia,329.0,Australia,,330.0,44.3,5.75,2,Canberra,2014-11-19,3,lost
-386,3549,SouthAfrica,267.0,Australia,,Australia,8.0,,50.0,5.34,1,Melbourne,2014-11-21,3,lost
-388,3550,Bangladesh,281.0,Zimbabwe,,Bangladesh,7.0,,50.0,5.62,1,Chattogram,2014-11-21,25,won
-389,3551,SouthAfrica,280.0,Australia,,Australia,6.0,,50.0,5.6,1,Sydney,2014-11-23,3,lost
-391,3552,Bangladesh,251.0,Zimbabwe,,Bangladesh,7.0,,50.0,5.02,1,Chattogram,2014-11-23,25,won
-392,3553,Bangladesh,297.0,Zimbabwe,,Bangladesh,6.0,,50.0,5.94,1,Dhaka,2014-11-26,25,won
-393,3554,SriLanka,317.0,England,,SriLanka,6.0,,50.0,6.34,1,Colombo (RPS),2014-11-26,8,won
-395,3555,Bangladesh,256.0,Zimbabwe,,Bangladesh,8.0,,50.0,5.12,1,Dhaka,2014-11-28,25,won
-396,3556,Afghanistan,248.0,U.A.E.,,U.A.E.,6.0,,50.0,4.96,1,ICCA Dubai,2014-11-28,40,lost
-397,3557,SriLanka,186.0,England,185.0,SriLanka,2.0,186.0,34.2,5.41,2,Colombo (RPS),2014-11-29,8,won
-399,3558,Afghanistan,280.0,U.A.E.,,U.A.E.,8.0,,50.0,5.6,1,ICCA Dubai,2014-11-30,40,lost
-400,3559,Bangladesh,130.0,Zimbabwe,128.0,Bangladesh,5.0,129.0,24.3,5.3,2,Dhaka,2014-12-01,25,won
-401,3560,Afghanistan,276.0,U.A.E.,273.0,Afghanistan,8.0,274.0,49.4,5.55,2,ICCA Dubai,2014-12-02,40,won
-402,3561,SriLanka,242.0,England,,England,8.0,,35.0,6.91,1,Hambantota,2014-12-03,8,lost
-404,3562,Afghanistan,228.0,U.A.E.,258.0,U.A.E.,,259.0,49.3,4.6,2,ICCA Dubai,2014-12-04,40,lost
-405,3563,SriLanka,267.0,England,265.0,SriLanka,4.0,266.0,49.4,5.37,2,Colombo (RPS),2014-12-07,8,won
-407,3564,Pakistan,250.0,New Zealand,246.0,Pakistan,7.0,247.0,49.3,5.05,2,Dubai (DSC),2014-12-08,7,won
-409,3565,SriLanka,239.0,England,,England,,,49.0,4.87,1,Pallekele,2014-12-10,8,lost
-411,3566,Pakistan,252.0,New Zealand,,New Zealand,,,48.3,5.19,1,Sharjah,2014-12-12,7,lost
-413,3567,SriLanka,292.0,England,,SriLanka,7.0,,50.0,5.84,1,Pallekele,2014-12-13,8,won
-415,3568,Pakistan,364.0,New Zealand,,Pakistan,7.0,,50.0,7.28,1,Sharjah,2014-12-14,7,won
-417,3569,SriLanka,302.0,England,,SriLanka,6.0,,50.0,6.04,1,Colombo (RPS),2014-12-16,8,won
-419,3570,Pakistan,292.0,New Zealand,299.0,New Zealand,8.0,300.0,50.0,5.84,2,Abu Dhabi,2014-12-17,7,lost
-421,3571,Pakistan,207.0,New Zealand,275.0,New Zealand,,276.0,43.3,4.75,2,Abu Dhabi,2014-12-19,7,lost
-423,3572,Afghanistan,240.0,Scotland,237.0,Afghanistan,2.0,238.0,38.0,6.31,2,ICCA Dubai,2015-01-08,40,won
-424,3573,Afghanistan,180.0,Ireland,,Ireland,,,44.2,4.06,1,Dubai (DSC),2015-01-10,40,lost
-425,3574,SriLanka,218.0,New Zealand,,New Zealand,9.0,,50.0,4.36,1,Christchurch,2015-01-11,8,lost
-427,3576,Afghanistan,63.0,Scotland,213.0,Scotland,,214.0,18.3,3.4,2,Abu Dhabi,2015-01-14,40,lost
-428,3577,SriLanka,252.0,New Zealand,248.0,SriLanka,4.0,249.0,47.4,5.28,2,Hamilton,2015-01-15,8,won
-430,3578,England,234.0,Australia,,Australia,,,47.5,4.89,1,Sydney,2015-01-16,1,lost
-432,3579,WestIndies,164.0,South Africa,225.0,South Africa,,226.0,28.2,5.78,2,Durban,2015-01-16,4,lost
-434,3580,SriLanka,,New Zealand,,New Zealand,,,0.0,,0,Auckland,2015-01-17,8,n/r
-436,3581,Afghanistan,246.0,Ireland,,Afghanistan,8.0,,50.0,4.92,1,Dubai (DSC),2015-01-17,40,won
-437,3582,India,267.0,Australia,,Australia,8.0,,50.0,5.34,1,Melbourne,2015-01-18,6,lost
-439,3583,WestIndies,291.0,South Africa,439.0,South Africa,7.0,440.0,50.0,5.82,2,Johannesburg,2015-01-18,4,lost
-441,3585,SriLanka,276.0,New Zealand,,New Zealand,,,49.3,5.57,1,Nelson,2015-01-20,8,lost
-443,3586,India,153.0,England,,England,,,39.3,3.87,1,Brisbane,2015-01-20,6,lost
-445,3587,WestIndies,122.0,South Africa,,South Africa,,,33.4,3.62,1,East London,2015-01-21,4,lost
-447,3588,SriLanka,252.0,New Zealand,360.0,New Zealand,,361.0,43.4,5.77,2,Dunedin,2015-01-23,8,lost
-449,3589,England,303.0,Australia,,Australia,8.0,,50.0,6.06,1,Hobart,2015-01-23,1,lost
-451,3590,SriLanka,195.0,New Zealand,315.0,New Zealand,,316.0,40.3,4.81,2,Dunedin,2015-01-25,8,lost
-453,3591,WestIndies,266.0,South Africa,262.0,WestIndies,9.0,263.0,48.3,5.48,2,Port Elizabeth,2015-01-25,4,won
-455,3592,India,69.0,Australia,,Australia,2.0,,16.0,4.31,1,Sydney,2015-01-26,6,n/r
-457,3593,WestIndies,230.0,South Africa,361.0,South Africa,,362.0,37.4,6.1,2,Centurion,2015-01-28,4,lost
-459,3594,SriLanka,287.0,New Zealand,,SriLanka,6.0,,50.0,5.74,1,Wellington,2015-01-29,8,won
-461,3595,India,200.0,England,,England,,,48.1,4.15,1,Perth,2015-01-30,6,lost
-463,3596,Pakistan,210.0,New Zealand,,New Zealand,,,45.3,4.61,1,Wellington,2015-01-31,7,lost
-465,3597,England,166.0,Australia,278.0,Australia,,279.0,39.1,4.23,2,Perth,2015-02-01,1,lost
-467,3598,Pakistan,250.0,New Zealand,369.0,New Zealand,,370.0,43.1,5.79,2,Napier,2015-02-03,7,lost
-469,3599,SriLanka,233.0,New Zealand,331.0,New Zealand,,332.0,46.1,5.04,2,Christchurch,2015-02-14,8,lost
-471,3600,England,231.0,Australia,342.0,Australia,,343.0,41.5,5.52,2,Melbourne,2015-02-14,1,lost
-473,3601,SouthAfrica,339.0,Zimbabwe,,SouthAfrica,4.0,,50.0,6.78,1,Hamilton,2015-02-15,3,won
-474,3602,Pakistan,224.0,India,300.0,India,,301.0,47.0,4.76,2,Adelaide,2015-02-15,7,lost
-476,3603,WestIndies,304.0,Ireland,,Ireland,7.0,,50.0,6.08,1,Nelson,2015-02-16,4,lost
-477,3604,Newzealad,146.0,Scotland,142.0,Newzealad,7.0,143.0,24.5,5.87,2,Dunedin,2015-02-17,5,won
-478,3605,Bangladesh,267.0,Afghanistan,,Bangladesh,,,50.0,5.34,1,Canberra,2015-02-18,25,won
-480,3607,Newzealad,125.0,England,123.0,Newzealad,2.0,124.0,12.2,10.13,2,Wellington,2015-02-20,5,won
-482,3608,WestIndies,310.0,Pakistan,,WestIndies,6.0,,50.0,6.2,1,Christchurch,2015-02-21,4,won
-484,3609,SriLanka,236.0,Afghanistan,232.0,SriLanka,6.0,233.0,48.2,4.88,2,Dunedin,2015-02-22,8,won
-486,3610,SouthAfrica,177.0,India,307.0,India,,308.0,40.2,4.38,2,Melbourne,2015-02-22,3,lost
-488,3611,England,303.0,Scotland,,England,8.0,,50.0,6.06,1,Christchurch,2015-02-23,1,won
-489,3612,WestIndies,372.0,Zimbabwe,,WestIndies,2.0,,50.0,7.44,1,Canberra,2015-02-24,4,won
-490,3614,Afghanistan,211.0,Scotland,210.0,Afghanistan,9.0,211.0,49.3,4.26,2,Dunedin,2015-02-26,40,won
-491,3615,SriLanka,332.0,Bangladesh,,SriLanka,1.0,,50.0,6.64,1,Melbourne,2015-02-26,8,won
-493,3616,WestIndies,151.0,South Africa,408.0,South Africa,,409.0,33.1,4.55,2,Sydney,2015-02-27,4,lost
-495,3617,Newzealad,152.0,Australia,151.0,Newzealad,9.0,152.0,23.1,6.56,2,Auckland,2015-02-28,5,won
-497,3618,India,104.0,U.A.E.,102.0,India,1.0,103.0,18.5,5.52,2,Perth,2015-02-28,6,won
-498,3619,SriLanka,312.0,England,309.0,SriLanka,1.0,310.0,47.2,6.59,2,Wellington,2015-03-01,8,won
-500,3620,Pakistan,235.0,Zimbabwe,,Pakistan,7.0,,50.0,4.7,1,Brisbane,2015-03-01,7,won
-501,3621,SouthAfrica,411.0,Ireland,,SouthAfrica,4.0,,50.0,8.22,1,Canberra,2015-03-03,3,won
-502,3622,Pakistan,339.0,U.A.E.,,Pakistan,6.0,,50.0,6.78,1,Napier,2015-03-04,7,won
-503,3623,Australia,417.0,Afghanistan,,Australia,6.0,,50.0,8.34,1,Perth,2015-03-04,2,won
-505,3624,Bangladesh,322.0,Scotland,318.0,Bangladesh,4.0,319.0,48.1,6.68,2,Nelson,2015-03-05,25,won
-506,3625,WestIndies,182.0,India,,India,,,44.2,4.1,1,Perth,2015-03-06,4,lost
-508,3626,SouthAfrica,202.0,Pakistan,231.0,Pakistan,,232.0,33.3,6.02,2,Auckland,2015-03-07,3,lost
-510,3628,Newzealad,188.0,Afghanistan,186.0,Newzealad,4.0,187.0,36.1,5.19,2,Napier,2015-03-08,5,won
-512,3629,SriLanka,312.0,Australia,376.0,Australia,,377.0,46.2,6.73,2,Sydney,2015-03-08,8,lost
-514,3630,England,260.0,Bangladesh,275.0,Bangladesh,,276.0,48.3,5.36,2,Adelaide,2015-03-09,1,lost
-516,3631,India,260.0,Ireland,259.0,India,2.0,260.0,36.5,7.05,2,Hamilton,2015-03-10,6,won
-517,3632,SriLanka,363.0,Scotland,,SriLanka,9.0,,50.0,7.26,1,Hobart,2015-03-11,8,won
-518,3633,SouthAfrica,341.0,U.A.E.,,SouthAfrica,6.0,,50.0,6.82,1,Wellington,2015-03-12,3,won
-519,3634,Newzealad,290.0,Bangladesh,288.0,Newzealad,7.0,289.0,48.5,5.93,2,Hamilton,2015-03-13,5,won
-521,3635,England,101.0,Afghanistan,100.0,England,1.0,101.0,18.1,5.55,2,Sydney,2015-03-13,1,won
-523,3636,India,288.0,Zimbabwe,287.0,India,4.0,288.0,48.4,5.91,2,Auckland,2015-03-14,6,won
-524,3637,Australia,133.0,Scotland,130.0,Australia,3.0,131.0,15.2,8.67,2,Hobart,2015-03-14,2,won
-525,3638,WestIndies,176.0,U.A.E.,175.0,WestIndies,4.0,176.0,30.3,5.77,2,Napier,2015-03-15,4,won
-526,3639,Pakistan,241.0,Ireland,237.0,Pakistan,3.0,238.0,46.1,5.22,2,Adelaide,2015-03-15,7,won
-527,3640,SriLanka,133.0,South Africa,,South Africa,,,37.2,3.56,1,Sydney,2015-03-18,8,lost
-529,3641,India,302.0,Bangladesh,,India,6.0,,50.0,6.04,1,Melbourne,2015-03-19,6,won
-531,3642,Pakistan,213.0,Australia,,Australia,,,49.5,4.27,1,Adelaide,2015-03-20,7,lost
-533,3643,WestIndies,250.0,New Zealand,393.0,New Zealand,,394.0,30.3,8.19,2,Wellington,2015-03-21,4,lost
-535,3644,SouthAfrica,281.0,New Zealand,,New Zealand,5.0,,43.0,6.53,1,Auckland,2015-03-24,3,lost
-537,3645,India,233.0,Australia,328.0,Australia,,329.0,46.5,4.97,2,Sydney,2015-03-26,6,lost
-539,3646,Newzealad,183.0,Australia,,Australia,,,45.0,4.06,1,Melbourne,2015-03-29,5,lost
-541,3647,Pakistan,250.0,Bangladesh,329.0,Bangladesh,,330.0,45.2,5.51,2,Dhaka,2015-04-17,7,lost
-543,3648,Pakistan,239.0,Bangladesh,,Bangladesh,6.0,,50.0,4.78,1,Dhaka,2015-04-19,7,lost
-545,3649,Pakistan,250.0,Bangladesh,,Bangladesh,,,49.0,5.1,1,Dhaka,2015-04-22,7,lost
-547,3650,England,,Ireland,,Ireland,,,0.0,,0,Dublin (Malahide),2015-05-08,1,n/r
-548,3651,Pakistan,375.0,Zimbabwe,,Pakistan,3.0,,50.0,7.5,1,Lahore,2015-05-26,7,won
-549,3652,Pakistan,269.0,Zimbabwe,268.0,Pakistan,4.0,269.0,47.2,5.68,2,Lahore,2015-05-29,7,won
-550,3653,Pakistan,296.0,Zimbabwe,,Zimbabwe,9.0,,50.0,5.92,1,Lahore,2015-05-31,7,n/r
-551,3654,Newzealad,198.0,England,408.0,England,,409.0,31.1,6.35,2,Birmingham,2015-06-09,5,lost
-553,3655,Newzealad,398.0,England,,Newzealad,5.0,,50.0,7.96,1,The Oval,2015-06-12,5,won
-555,3656,Newzealad,306.0,England,302.0,Newzealad,7.0,303.0,49.0,6.24,2,Southampton,2015-06-14,5,won
-557,3657,Newzealad,349.0,England,,England,7.0,,50.0,6.98,1,Nottingham,2015-06-17,5,lost
-559,3658,India,228.0,Bangladesh,307.0,Bangladesh,,308.0,46.0,4.95,2,Dhaka,2015-06-18,6,lost
-561,3659,Newzealad,283.0,England,,England,9.0,,50.0,5.66,1,Chester-le-Street,2015-06-20,5,lost
-563,3660,India,200.0,Bangladesh,,Bangladesh,,,45.0,4.44,1,Dhaka,2015-06-21,6,lost
-565,3661,India,317.0,Bangladesh,,India,6.0,,50.0,6.34,1,Dhaka,2015-06-24,6,won
-567,3662,India,255.0,Zimbabwe,,India,6.0,,50.0,5.1,1,Harare,2015-07-10,6,won
-568,3663,SouthAfrica,164.0,Bangladesh,160.0,SouthAfrica,2.0,161.0,31.1,5.26,2,Dhaka,2015-07-10,3,won
-570,3664,SriLanka,255.0,Pakistan,,Pakistan,8.0,,50.0,5.1,1,Dambulla,2015-07-11,8,lost
-572,3665,India,271.0,Zimbabwe,,India,8.0,,50.0,5.42,1,Harare,2015-07-12,6,won
-573,3666,SouthAfrica,162.0,Bangladesh,,Bangladesh,,,46.0,3.52,1,Dhaka,2015-07-12,3,lost
-575,3667,India,276.0,Zimbabwe,,India,5.0,,50.0,5.52,1,Harare,2015-07-14,6,won
-576,3668,SouthAfrica,168.0,Bangladesh,,Bangladesh,9.0,,40.0,4.2,1,Chattogram,2015-07-15,3,lost
-578,3669,SriLanka,288.0,Pakistan,287.0,SriLanka,8.0,288.0,48.1,5.97,2,Pallekele,2015-07-15,8,won
-580,3670,SriLanka,181.0,Pakistan,316.0,Pakistan,,317.0,41.1,4.39,2,Colombo (RPS),2015-07-19,8,lost
-582,3671,SriLanka,256.0,Pakistan,,Pakistan,9.0,,50.0,5.12,1,Colombo (RPS),2015-07-22,8,lost
-584,3672,SriLanka,368.0,Pakistan,,SriLanka,4.0,,50.0,7.36,1,Hambantota,2015-07-26,8,won
-586,3673,Newzealad,303.0,Zimbabwe,,Zimbabwe,4.0,,50.0,6.06,1,Harare,2015-08-02,5,lost
-587,3674,Newzealad,236.0,Zimbabwe,235.0,Newzealad,0.0,236.0,42.2,5.57,2,Harare,2015-08-04,5,won
-588,3675,Newzealad,273.0,Zimbabwe,,Newzealad,6.0,,50.0,5.46,1,Harare,2015-08-07,5,won
-589,3676,SouthAfrica,304.0,New Zealand,,SouthAfrica,7.0,,50.0,6.08,1,Centurion,2015-08-19,3,won
-591,3677,SouthAfrica,204.0,New Zealand,,New Zealand,,,49.3,4.12,1,Potchefstroom,2015-08-23,3,lost
-593,3678,SouthAfrica,283.0,New Zealand,,SouthAfrica,7.0,,50.0,5.66,1,Durban,2015-08-26,3,won
-595,3679,Australia,222.0,Ireland,,Australia,6.0,,40.2,5.5,1,Belfast,2015-08-27,2,won
-596,3680,England,246.0,Australia,305.0,Australia,,306.0,45.3,5.4,2,Southampton,2015-09-03,1,lost
-598,3681,England,245.0,Australia,309.0,Australia,,310.0,42.3,5.76,2,Lord's,2015-09-05,1,lost
-600,3682,England,300.0,Australia,,England,8.0,,50.0,6.0,1,Manchester,2015-09-08,1,won
-602,3683,England,304.0,Australia,299.0,England,7.0,300.0,48.2,6.28,2,Leeds,2015-09-11,1,won
-604,3684,England,138.0,Australia,,Australia,,,33.0,4.18,1,Manchester,2015-09-13,1,lost
-606,3685,Pakistan,259.0,Zimbabwe,,Pakistan,6.0,,50.0,5.18,1,Harare,2015-10-01,7,won
-607,3686,Pakistan,256.0,Zimbabwe,261.0,Zimbabwe,8.0,262.0,48.0,5.33,2,Harare,2015-10-03,7,lost
-608,3687,Pakistan,162.0,Zimbabwe,161.0,Pakistan,3.0,162.0,34.0,4.76,2,Harare,2015-10-05,7,won
-609,3689,SouthAfrica,303.0,India,,SouthAfrica,5.0,,50.0,6.06,1,Kanpur,2015-10-11,3,won
-611,3692,SouthAfrica,225.0,India,247.0,India,,248.0,43.4,5.15,2,Indore,2015-10-14,3,lost
-613,3693,Afghanistan,122.0,Zimbabwe,,Zimbabwe,,,34.1,3.57,1,Bulawayo,2015-10-16,40,lost
-614,3694,Afghanistan,271.0,Zimbabwe,,Afghanistan,6.0,,50.0,5.42,1,Bulawayo,2015-10-18,40,won
-615,3695,SouthAfrica,270.0,India,,SouthAfrica,7.0,,50.0,5.4,1,Rajkot,2015-10-18,3,won
-617,3696,Afghanistan,223.0,Zimbabwe,,Zimbabwe,8.0,,50.0,4.46,1,Bulawayo,2015-10-20,40,lost
-618,3697,Afghanistan,185.0,Zimbabwe,184.0,Afghanistan,7.0,185.0,46.4,3.96,2,Bulawayo,2015-10-22,40,won
-619,3698,SouthAfrica,264.0,India,299.0,India,9.0,300.0,50.0,5.28,2,Chennai,2015-10-22,3,lost
-621,3699,Afghanistan,245.0,Zimbabwe,,Afghanistan,9.0,,50.0,4.9,1,Bulawayo,2015-10-24,40,won
-622,3700,SouthAfrica,438.0,India,,SouthAfrica,4.0,,50.0,8.76,1,Mumbai,2015-10-25,3,won
-624,3701,WestIndies,159.0,Sri Lanka,,Sri Lanka,8.0,,26.0,6.11,1,Colombo (RPS),2015-11-01,4,lost
-626,3702,WestIndies,214.0,Sri Lanka,,Sri Lanka,,,37.4,5.68,1,Colombo (RPS),2015-11-04,4,lost
-628,3703,Bangladesh,273.0,Zimbabwe,,Bangladesh,9.0,,50.0,5.46,1,Dhaka,2015-11-07,25,won
-629,3704,WestIndies,206.0,Sri Lanka,,Sri Lanka,9.0,,36.0,5.72,1,Pallekele,2015-11-07,4,lost
-631,3705,Bangladesh,241.0,Zimbabwe,,Bangladesh,9.0,,50.0,4.82,1,Dhaka,2015-11-09,25,won
-632,3706,Bangladesh,276.0,Zimbabwe,,Bangladesh,9.0,,50.0,5.52,1,Dhaka,2015-11-11,25,won
-633,3707,Pakistan,217.0,England,216.0,Pakistan,4.0,217.0,43.4,4.96,2,Abu Dhabi,2015-11-11,7,won
-635,3708,Pakistan,188.0,England,283.0,England,,284.0,45.5,4.1,2,Abu Dhabi,2015-11-13,7,lost
-637,3710,Pakistan,208.0,England,,England,,,49.5,4.17,1,Sharjah,2015-11-17,7,lost
-639,3712,Pakistan,271.0,England,355.0,England,,356.0,40.4,6.66,2,Dubai (DSC),2015-11-20,7,lost
-641,3713,Afghanistan,131.0,Zimbabwe,,Afghanistan,,,38.5,3.37,1,Sharjah,2015-12-25,40,won
-642,3714,SriLanka,188.0,New Zealand,,New Zealand,,,47.0,4.0,1,Christchurch,2015-12-26,8,lost
-644,3715,SriLanka,117.0,New Zealand,,New Zealand,,,27.4,4.22,1,Christchurch,2015-12-28,8,lost
-646,3716,Afghanistan,254.0,Zimbabwe,253.0,Afghanistan,6.0,254.0,47.4,5.32,2,Sharjah,2015-12-29,40,won
-647,3717,SriLanka,277.0,New Zealand,276.0,SriLanka,2.0,277.0,46.2,5.97,2,Nelson,2015-12-31,8,won
-649,3718,SriLanka,,New Zealand,,New Zealand,,,0.0,,0,Nelson,2016-01-02,8,n/r
-651,3719,Afghanistan,58.0,Zimbabwe,175.0,Zimbabwe,,176.0,16.1,3.58,2,Sharjah,2016-01-02,40,lost
-652,3720,Afghanistan,161.0,Zimbabwe,226.0,Zimbabwe,,227.0,45.0,3.57,2,Sharjah,2016-01-04,40,lost
-653,3721,SriLanka,258.0,New Zealand,294.0,New Zealand,,295.0,47.1,5.46,2,Mount Maunganui,2016-01-05,8,lost
-655,3722,Afghanistan,254.0,Zimbabwe,248.0,Afghanistan,8.0,249.0,49.4,5.11,2,Sharjah,2016-01-06,40,won
-656,3723,India,309.0,Australia,,Australia,3.0,,50.0,6.18,1,Perth,2016-01-12,6,lost
-658,3724,India,308.0,Australia,,Australia,8.0,,50.0,6.16,1,Brisbane,2016-01-15,6,lost
-660,3725,India,295.0,Australia,,Australia,6.0,,50.0,5.9,1,Melbourne,2016-01-17,6,lost
-662,3726,India,323.0,Australia,348.0,Australia,,349.0,49.2,6.54,2,Canberra,2016-01-20,6,lost
-664,3727,India,331.0,Australia,330.0,India,4.0,331.0,49.4,6.66,2,Sydney,2016-01-23,6,won
-666,3728,Pakistan,210.0,New Zealand,280.0,New Zealand,,281.0,46.0,4.56,2,Wellington,2016-01-25,7,lost
-668,3730,Pakistan,290.0,New Zealand,,New Zealand,,,47.3,6.1,1,Auckland,2016-01-31,7,lost
-670,3731,Newzealad,307.0,Australia,,Newzealad,8.0,,50.0,6.14,1,Auckland,2016-02-03,5,won
-672,3732,SouthAfrica,250.0,England,289.0,England,5.0,290.0,33.3,7.46,2,Bloemfontein,2016-02-03,3,lost
-674,3733,Newzealad,281.0,Australia,,Australia,9.0,,50.0,5.62,1,Wellington,2016-02-06,5,lost
-676,3734,SouthAfrica,262.0,England,,England,7.0,,50.0,5.24,1,Port Elizabeth,2016-02-06,3,lost
-678,3735,Newzealad,246.0,Australia,,Newzealad,,,45.3,5.4,1,Hamilton,2016-02-08,5,won
-680,3736,SouthAfrica,319.0,England,318.0,SouthAfrica,3.0,319.0,46.2,6.88,2,Centurion,2016-02-09,3,won
-682,3737,SouthAfrica,266.0,England,262.0,SouthAfrica,9.0,263.0,47.2,5.61,2,Johannesburg,2016-02-12,3,won
-684,3738,SouthAfrica,237.0,England,236.0,SouthAfrica,5.0,237.0,44.0,5.38,2,Cape Town,2016-02-14,3,won
-686,3739,WestIndies,191.0,South Africa,188.0,WestIndies,6.0,189.0,48.1,3.96,2,Providence,2016-06-03,4,won
-688,3740,WestIndies,116.0,Australia,,Australia,,,32.3,3.56,1,Providence,2016-06-05,4,lost
-690,3741,SouthAfrica,189.0,Australia,,SouthAfrica,9.0,,50.0,3.78,1,Providence,2016-06-07,3,won
-692,3742,India,173.0,Zimbabwe,168.0,India,1.0,169.0,42.3,4.07,2,Harare,2016-06-11,6,won
-693,3743,SouthAfrica,252.0,Australia,288.0,Australia,,289.0,47.4,5.28,2,Basseterre,2016-06-11,3,lost
-695,3744,India,129.0,Zimbabwe,126.0,India,2.0,127.0,26.5,4.8,2,Harare,2016-06-13,6,won
-696,3745,WestIndies,266.0,Australia,265.0,WestIndies,6.0,266.0,45.4,5.82,2,Basseterre,2016-06-13,4,won
-698,3746,India,126.0,Zimbabwe,123.0,India,0.0,124.0,21.5,5.77,2,Harare,2016-06-15,6,won
-699,3747,WestIndies,204.0,South Africa,343.0,South Africa,,344.0,38.0,5.36,2,Basseterre,2016-06-15,4,lost
-701,3748,SriLanka,303.0,Ireland,,SriLanka,7.0,,50.0,6.06,1,Dublin (Malahide),2016-06-16,8,won
-702,3749,SriLanka,377.0,Ireland,,SriLanka,8.0,,50.0,7.54,1,Dublin (Malahide),2016-06-18,8,won
-703,3750,SouthAfrica,8.0,Australia,,Australia,0.0,,1.0,8.0,1,Bridgetown,2016-06-19,3,n/r
-705,3751,SriLanka,286.0,England,,England,9.0,,50.0,5.72,1,Nottingham,2016-06-21,8,tied
-707,3752,WestIndies,282.0,Australia,,Australia,8.0,,50.0,5.64,1,Bridgetown,2016-06-21,4,lost
-709,3753,SriLanka,254.0,England,,England,7.0,,50.0,5.08,1,Birmingham,2016-06-24,8,lost
-711,3754,WestIndies,285.0,South Africa,,WestIndies,,,49.5,5.71,1,Bridgetown,2016-06-24,4,won
-713,3755,SriLanka,248.0,England,,England,9.0,,50.0,4.96,1,Bristol,2016-06-26,8,n/r
-715,3756,WestIndies,212.0,Australia,270.0,Australia,,271.0,45.4,4.64,2,Bridgetown,2016-06-26,4,lost
-717,3757,SriLanka,305.0,England,,England,5.0,,42.0,7.26,1,The Oval,2016-06-29,8,lost
-719,3758,SriLanka,202.0,England,324.0,England,,325.0,42.4,4.73,2,Cardiff,2016-07-02,8,lost
-721,3759,Afghanistan,283.0,Scotland,,Scotland,4.0,,47.2,5.97,1,Edinburgh,2016-07-04,40,n/r
-722,3760,Afghanistan,178.0,Scotland,,Afghanistan,6.0,,37.2,4.76,1,Edinburgh,2016-07-06,40,won
-723,3761,Afghanistan,250.0,Ireland,,Afghanistan,,,49.2,5.06,1,Belfast,2016-07-12,40,won
-724,3762,Afghanistan,236.0,Ireland,,Ireland,,,49.1,4.8,1,Belfast,2016-07-14,40,lost
-725,3763,Afghanistan,229.0,Ireland,,Afghanistan,7.0,,50.0,4.58,1,Belfast,2016-07-17,40,won
-726,3764,Afghanistan,253.0,Ireland,265.0,Ireland,9.0,266.0,50.0,5.06,2,Belfast,2016-07-19,40,lost
-727,3767,Pakistan,337.0,Ireland,,Pakistan,6.0,,47.0,7.17,1,Dublin (Malahide),2016-08-18,7,won
-728,3768,SriLanka,227.0,Australia,,Australia,8.0,,50.0,4.54,1,Colombo (RPS),2016-08-21,8,lost
-730,3769,SriLanka,288.0,Australia,,SriLanka,,,48.5,5.89,1,Colombo (RPS),2016-08-24,8,won
-732,3770,Pakistan,260.0,England,,England,6.0,,50.0,5.2,1,Southampton,2016-08-24,7,lost
-734,3771,Pakistan,251.0,England,,England,,,49.5,5.03,1,Lord's,2016-08-27,7,lost
-736,3772,SriLanka,226.0,Australia,,Australia,,,49.2,4.58,1,Dambulla,2016-08-28,8,lost
-738,3773,Pakistan,275.0,England,444.0,England,,445.0,42.4,6.44,2,Nottingham,2016-08-30,7,lost
-740,3774,SriLanka,212.0,Australia,,Australia,,,50.0,4.24,1,Dambulla,2016-08-31,8,lost
-742,3775,Pakistan,247.0,England,,England,8.0,,50.0,4.94,1,Leeds,2016-09-01,7,lost
-744,3776,SriLanka,195.0,Australia,,Australia,,,40.2,4.83,1,Pallekele,2016-09-04,8,lost
-746,3777,Pakistan,304.0,England,302.0,Pakistan,6.0,303.0,48.2,6.28,2,Cardiff,2016-09-04,7,won
-748,3780,SouthAfrica,354.0,Ireland,,SouthAfrica,5.0,,50.0,7.08,1,Benoni,2016-09-25,3,won
-749,3781,Bangladesh,265.0,Afghanistan,,Bangladesh,,,50.0,5.3,1,Dhaka,2016-09-25,25,won
-751,3782,Australia,199.0,Ireland,198.0,Australia,1.0,199.0,30.1,6.59,2,Benoni,2016-09-27,2,won
-752,3783,Bangladesh,208.0,Afghanistan,,Afghanistan,,,49.2,4.21,1,Dhaka,2016-09-28,25,lost
-754,3784,WestIndies,175.0,Pakistan,286.0,Pakistan,,287.0,38.4,4.52,2,Sharjah,2016-09-30,4,lost
-756,3785,SouthAfrica,295.0,Australia,294.0,SouthAfrica,4.0,295.0,36.2,8.11,2,Centurion,2016-09-30,3,won
-758,3786,Bangladesh,279.0,Afghanistan,,Bangladesh,8.0,,50.0,5.58,1,Dhaka,2016-10-01,25,won
-760,3787,SouthAfrica,361.0,Australia,,SouthAfrica,6.0,,50.0,7.22,1,Johannesburg,2016-10-02,3,won
-762,3788,WestIndies,278.0,Pakistan,337.0,Pakistan,7.0,338.0,50.0,5.56,2,Sharjah,2016-10-02,4,lost
-764,3789,WestIndies,172.0,Pakistan,308.0,Pakistan,,309.0,44.0,3.9,2,Abu Dhabi,2016-10-05,4,lost
-766,3790,SouthAfrica,372.0,Australia,371.0,SouthAfrica,6.0,372.0,49.2,7.54,2,Durban,2016-10-05,3,won
-768,3791,England,309.0,Bangladesh,,England,8.0,,50.0,6.18,1,Dhaka,2016-10-07,1,won
-770,3792,SouthAfrica,168.0,Australia,167.0,SouthAfrica,4.0,168.0,35.3,4.73,2,Port Elizabeth,2016-10-09,3,won
-772,3793,England,204.0,Bangladesh,238.0,Bangladesh,,239.0,44.4,4.56,2,Dhaka,2016-10-09,1,lost
-774,3794,England,278.0,Bangladesh,277.0,England,6.0,278.0,47.5,5.81,2,Chattogram,2016-10-12,1,won
-776,3795,SouthAfrica,327.0,Australia,,SouthAfrica,8.0,,50.0,6.54,1,Cape Town,2016-10-12,3,won
-778,3796,Newzealad,190.0,India,,India,,,43.5,4.33,1,Dharamsala,2016-10-16,5,lost
-780,3797,Newzealad,242.0,India,,Newzealad,9.0,,50.0,4.84,1,Delhi,2016-10-20,5,won
-782,3798,Newzealad,285.0,India,,India,,,49.4,5.73,1,Mohali,2016-10-23,5,lost
-784,3799,Newzealad,260.0,India,,Newzealad,7.0,,50.0,5.2,1,Ranchi,2016-10-26,5,won
-786,3800,Newzealad,79.0,India,269.0,India,,270.0,23.1,3.41,2,Visakhapatnam,2016-10-29,5,lost
-788,3804,SriLanka,155.0,Zimbabwe,154.0,SriLanka,2.0,155.0,24.3,6.32,2,Harare,2016-11-14,8,won
-789,3805,WestIndies,227.0,Sri Lanka,,WestIndies,,,49.2,4.6,1,Harare,2016-11-16,4,won
-791,3806,WestIndies,257.0,Zimbabwe,257.0,Zimbabwe,8.0,258.0,50.0,5.14,2,Bulawayo,2016-11-19,4,tied
-792,3807,SriLanka,,Zimbabwe,,Zimbabwe,,,0.0,,0,Bulawayo,2016-11-21,8,n/r
-793,3808,WestIndies,329.0,Sri Lanka,330.0,Sri Lanka,9.0,331.0,50.0,6.58,2,Bulawayo,2016-11-23,4,lost
-795,3809,WestIndies,124.0,Zimbabwe,129.0,Zimbabwe,5.0,130.0,27.3,4.5,2,Bulawayo,2016-11-25,4,lost
-796,3810,SriLanka,166.0,Zimbabwe,160.0,SriLanka,4.0,161.0,37.3,4.42,2,Bulawayo,2016-11-27,8,won
-797,3811,Newzealad,256.0,Australia,324.0,Australia,,325.0,44.2,5.77,2,Sydney,2016-12-04,5,lost
-799,3812,Newzealad,262.0,Australia,378.0,Australia,,379.0,47.2,5.53,2,Canberra,2016-12-06,5,lost
-801,3813,Newzealad,147.0,Australia,264.0,Australia,,265.0,36.1,4.06,2,Melbourne,2016-12-09,5,lost
-803,3814,Newzealad,341.0,Bangladesh,,Newzealad,7.0,,50.0,6.82,1,Christchurch,2016-12-26,5,won
-805,3815,Newzealad,251.0,Bangladesh,,Newzealad,,,50.0,5.02,1,Nelson,2016-12-29,5,won
-807,3816,Newzealad,239.0,Bangladesh,236.0,Newzealad,2.0,237.0,41.2,5.78,2,Nelson,2016-12-31,5,won
-809,3817,Pakistan,176.0,Australia,268.0,Australia,,269.0,42.4,4.12,2,Brisbane,2017-01-13,7,lost
-811,3818,Pakistan,221.0,Australia,220.0,Pakistan,4.0,221.0,47.4,4.63,2,Melbourne,2017-01-15,7,won
-813,3819,India,356.0,England,350.0,India,7.0,351.0,48.1,7.39,2,Pune,2017-01-15,6,won
-815,3820,Pakistan,263.0,Australia,,Australia,7.0,,50.0,5.26,1,Perth,2017-01-19,7,lost
-817,3821,India,381.0,England,,India,6.0,,50.0,7.62,1,Cuttack,2017-01-19,6,won
-819,3822,Pakistan,267.0,Australia,353.0,Australia,,354.0,43.5,6.09,2,Sydney,2017-01-22,7,lost
-821,3824,India,316.0,England,321.0,England,9.0,322.0,50.0,6.32,2,Kolkata,2017-01-22,6,lost
-823,3826,Pakistan,312.0,Australia,369.0,Australia,,370.0,49.1,6.34,2,Adelaide,2017-01-26,7,lost
-825,3828,SriLanka,181.0,South Africa,,South Africa,,,48.3,3.73,1,Port Elizabeth,2017-01-28,8,lost
-827,3829,Newzealad,286.0,Australia,,Newzealad,9.0,,50.0,5.72,1,Auckland,2017-01-30,5,won
-829,3830,SriLanka,186.0,South Africa,307.0,South Africa,,308.0,37.5,4.91,2,Durban,2017-02-01,8,lost
-831,3831,SriLanka,163.0,South Africa,,South Africa,,,39.2,4.14,1,Johannesburg,2017-02-04,8,lost
-833,3832,Newzealad,281.0,Australia,,Newzealad,9.0,,50.0,5.62,1,Hamilton,2017-02-05,5,won
-835,3833,SriLanka,327.0,South Africa,367.0,South Africa,,368.0,48.1,6.78,2,Cape Town,2017-02-07,8,lost
-837,3834,SriLanka,296.0,South Africa,384.0,South Africa,8.0,385.0,50.0,5.92,2,Centurion,2017-02-10,8,lost
-839,3835,Afghanistan,215.0,Zimbabwe,,Afghanistan,,,49.2,4.35,1,Harare,2017-02-16,40,won
-840,3836,SouthAfrica,210.0,New Zealand,207.0,SouthAfrica,6.0,208.0,33.5,6.2,2,Hamilton,2017-02-19,3,won
-842,3837,Afghanistan,238.0,Zimbabwe,,Afghanistan,9.0,,50.0,4.76,1,Harare,2017-02-19,40,won
-843,3838,Afghanistan,126.0,Zimbabwe,129.0,Zimbabwe,,130.0,29.3,4.27,2,Harare,2017-02-21,40,lost
-844,3839,SouthAfrica,283.0,New Zealand,289.0,New Zealand,9.0,290.0,50.0,5.66,2,Christchurch,2017-02-22,3,lost
-846,3840,Afghanistan,111.0,Zimbabwe,,Zimbabwe,,,38.5,2.85,1,Harare,2017-02-24,40,lost
-847,3841,SouthAfrica,271.0,New Zealand,,SouthAfrica,8.0,,50.0,5.42,1,Wellington,2017-02-25,3,won
-849,3842,Afghanistan,253.0,Zimbabwe,,Afghanistan,9.0,,50.0,5.06,1,Harare,2017-02-26,40,won
-850,3843,SouthAfrica,279.0,New Zealand,,New Zealand,8.0,,50.0,5.58,1,Hamilton,2017-03-01,3,lost
-852,3845,WestIndies,251.0,England,296.0,England,,297.0,47.2,5.3,2,North Sound,2017-03-03,4,lost
-854,3846,SouthAfrica,150.0,New Zealand,149.0,SouthAfrica,4.0,150.0,32.2,4.63,2,Auckland,2017-03-04,3,won
-856,3848,WestIndies,225.0,England,,England,,,47.5,4.7,1,North Sound,2017-03-05,4,lost
-858,3849,WestIndies,142.0,England,328.0,England,,329.0,39.2,3.61,2,Bridgetown,2017-03-09,4,lost
-860,3850,Afghanistan,292.0,Ireland,,Afghanistan,7.0,,50.0,5.84,1,Greater Noida,2017-03-15,40,won
-861,3851,Afghanistan,338.0,Ireland,,Afghanistan,,,50.0,6.76,1,Greater Noida,2017-03-17,40,won
-862,3852,Afghanistan,264.0,Ireland,,Ireland,8.0,,50.0,5.28,1,Greater Noida,2017-03-19,40,lost
-863,3853,Afghanistan,220.0,Ireland,,Ireland,,,49.5,4.41,1,Greater Noida,2017-03-22,40,lost
-864,3854,Afghanistan,231.0,Ireland,229.0,Afghanistan,3.0,230.0,48.4,4.74,2,Greater Noida,2017-03-24,40,won
-865,3855,SriLanka,234.0,Bangladesh,324.0,Bangladesh,,325.0,45.1,5.18,2,Dambulla,2017-03-25,8,lost
-867,3856,SriLanka,311.0,Bangladesh,,Bangladesh,,,49.5,6.24,1,Dambulla,2017-03-28,8,n/r
-869,3858,SriLanka,280.0,Bangladesh,,SriLanka,9.0,,50.0,5.6,1,Colombo (SSC),2017-04-01,8,won
-871,3861,WestIndies,309.0,Pakistan,308.0,WestIndies,6.0,309.0,49.0,6.3,2,Providence,2017-04-07,4,won
-873,3862,WestIndies,208.0,Pakistan,282.0,Pakistan,,283.0,44.5,4.63,2,Providence,2017-04-09,4,lost
-875,3863,WestIndies,233.0,Pakistan,,Pakistan,9.0,,50.0,4.66,1,Providence,2017-04-11,4,lost
-877,3864,England,127.0,Ireland,126.0,England,3.0,127.0,20.0,6.35,2,Bristol,2017-05-05,1,won
-878,3865,England,328.0,Ireland,,England,6.0,,50.0,6.56,1,Lord's,2017-05-07,1,won
-879,3866,Bangladesh,157.0,Ireland,,Ireland,4.0,,31.1,5.03,1,Dublin (Malahide),2017-05-12,25,n/r
-880,3867,Newzealad,289.0,Ireland,,Newzealad,7.0,,50.0,5.78,1,Dublin (Malahide),2017-05-14,5,won
-881,3868,Newzealad,258.0,Bangladesh,257.0,Newzealad,6.0,258.0,47.3,5.43,2,Dublin,2017-05-17,5,won
-883,3869,Bangladesh,182.0,Ireland,181.0,Bangladesh,2.0,182.0,27.1,6.69,2,Dublin (Malahide),2017-05-19,25,won
-884,3870,Newzealad,344.0,Ireland,,Newzealad,6.0,,50.0,6.88,1,Dublin (Malahide),2017-05-21,5,won
-885,3871,Newzealad,270.0,Bangladesh,,Bangladesh,8.0,,50.0,5.4,1,Dublin,2017-05-24,5,lost
-887,3872,SouthAfrica,267.0,England,339.0,England,,340.0,45.0,5.93,2,Leeds,2017-05-24,3,lost
-889,3873,SouthAfrica,328.0,England,330.0,England,5.0,331.0,50.0,6.56,2,Southampton,2017-05-27,3,lost
-891,3874,SouthAfrica,156.0,England,153.0,SouthAfrica,3.0,154.0,28.5,5.41,2,Lord's,2017-05-29,3,won
-893,3875,England,308.0,Bangladesh,305.0,England,2.0,306.0,47.2,6.5,2,The Oval,2017-06-01,1,won
-895,3876,Newzealad,291.0,Australia,,Australia,,,45.0,6.46,1,Birmingham,2017-06-02,5,n/r
-897,3877,SriLanka,203.0,South Africa,299.0,South Africa,,300.0,41.3,4.89,2,The Oval,2017-06-03,8,lost
-899,3878,Pakistan,164.0,India,288.0,India,,289.0,33.4,4.87,2,Birmingham,2017-06-04,7,lost
-901,3879,Bangladesh,182.0,Australia,,Australia,,,44.3,4.08,1,The Oval,2017-06-05,25,n/r
-903,3880,Newzealad,223.0,England,310.0,England,,311.0,44.3,5.01,2,Cardiff,2017-06-06,5,lost
-905,3881,SouthAfrica,219.0,Pakistan,,Pakistan,8.0,,50.0,4.38,1,Birmingham,2017-06-07,3,lost
-907,3882,SriLanka,322.0,India,321.0,SriLanka,3.0,322.0,48.4,6.61,2,The Oval,2017-06-08,8,won
-909,3883,Newzealad,265.0,Bangladesh,,Bangladesh,8.0,,50.0,5.3,1,Cardiff,2017-06-09,5,lost
-911,3884,WestIndies,149.0,Afghanistan,212.0,Afghanistan,,213.0,44.4,3.33,2,Gros Islet,2017-06-09,4,lost
-913,3885,England,240.0,Australia,200.0,England,4.0,201.0,40.2,5.95,2,Birmingham,2017-06-10,1,won
-915,3886,SouthAfrica,191.0,India,,India,,,44.3,4.29,1,The Oval,2017-06-11,3,lost
-917,3887,WestIndies,138.0,Afghanistan,135.0,WestIndies,6.0,136.0,39.2,3.5,2,Gros Islet,2017-06-11,4,won
-919,3888,SriLanka,236.0,Pakistan,,Pakistan,,,49.2,4.78,1,Cardiff,2017-06-12,8,lost
-921,3889,Pakistan,215.0,England,211.0,Pakistan,2.0,212.0,37.1,5.78,2,Cardiff,2017-06-14,7,won
-923,3890,WestIndies,,Afghanistan,,Afghanistan,,,0.0,,0,Gros Islet,2017-06-14,4,n/r
-925,3891,India,265.0,Bangladesh,264.0,India,1.0,265.0,40.1,6.59,2,Birmingham,2017-06-15,6,won
-927,3894,Pakistan,338.0,India,,Pakistan,4.0,,50.0,6.76,1,The Oval,2017-06-18,7,won
-929,3895,WestIndies,,India,,India,,,0.0,,0,Port of Spain,2017-06-23,4,n/r
-931,3896,WestIndies,205.0,India,310.0,India,6.0,311.0,43.0,4.76,2,Port of Spain,2017-06-25,4,lost
-933,3897,SriLanka,316.0,Zimbabwe,,Zimbabwe,5.0,,50.0,6.32,1,Galle,2017-06-30,8,lost
-934,3898,WestIndies,158.0,India,251.0,India,,252.0,38.1,4.13,2,North Sound,2017-06-30,4,lost
-936,3899,SriLanka,158.0,Zimbabwe,155.0,SriLanka,3.0,156.0,30.1,5.23,2,Galle,2017-07-02,8,won
-937,3900,WestIndies,189.0,India,,WestIndies,9.0,,50.0,3.78,1,North Sound,2017-07-02,4,won
-939,3901,SriLanka,312.0,Zimbabwe,310.0,SriLanka,2.0,311.0,47.2,6.59,2,Hambantota,2017-07-06,8,won
-940,3902,WestIndies,205.0,India,,India,9.0,,50.0,4.1,1,Kingston,2017-07-06,4,lost
-942,3903,SriLanka,300.0,Zimbabwe,,Zimbabwe,6.0,,50.0,6.0,1,Hambantota,2017-07-08,8,lost
-943,3904,SriLanka,203.0,Zimbabwe,,Zimbabwe,8.0,,50.0,4.06,1,Hambantota,2017-07-10,8,lost
-944,3905,SriLanka,216.0,India,,India,,,43.2,4.98,1,Dambulla,2017-08-20,8,lost
-946,3906,SriLanka,236.0,India,,India,8.0,,50.0,4.72,1,Pallekele,2017-08-24,8,lost
-948,3907,SriLanka,217.0,India,,India,9.0,,50.0,4.34,1,Pallekele,2017-08-27,8,lost
-950,3908,SriLanka,207.0,India,375.0,India,,376.0,42.4,4.85,2,Colombo (RPS),2017-08-31,8,lost
-952,3909,SriLanka,238.0,India,,India,,,49.4,4.79,1,Colombo (RPS),2017-09-03,8,lost
-954,3910,India,281.0,Australia,,India,7.0,,50.0,5.62,1,Chennai,2017-09-17,6,won
-956,3911,WestIndies,204.0,England,,England,9.0,,42.0,4.85,1,Manchester,2017-09-19,4,lost
-958,3912,India,252.0,Australia,,India,,,50.0,5.04,1,Kolkata,2017-09-21,6,won
-960,3913,WestIndies,,England,,England,,,0.0,,0,Nottingham,2017-09-21,4,n/r
-962,3914,India,294.0,Australia,293.0,India,5.0,294.0,47.5,6.14,2,Indore,2017-09-24,6,won
-964,3915,WestIndies,245.0,England,369.0,England,,370.0,39.1,6.25,2,Bristol,2017-09-24,4,lost
-966,3916,WestIndies,356.0,England,,England,5.0,,50.0,7.12,1,The Oval,2017-09-27,4,lost
-968,3917,India,313.0,Australia,334.0,Australia,8.0,335.0,50.0,6.26,2,Bengaluru,2017-09-28,6,lost
-970,3918,WestIndies,288.0,England,,England,6.0,,50.0,5.76,1,Southampton,2017-09-29,4,lost
-972,3919,India,243.0,Australia,242.0,India,3.0,243.0,42.5,5.67,2,Nagpur,2017-10-01,6,won
-974,3922,SriLanka,209.0,Pakistan,292.0,Pakistan,8.0,293.0,50.0,4.18,2,Dubai (DSC),2017-10-13,8,lost
-976,3923,SouthAfrica,282.0,Bangladesh,278.0,SouthAfrica,0.0,279.0,42.5,6.58,2,Kimberley,2017-10-15,3,won
-978,3924,SriLanka,187.0,Pakistan,219.0,Pakistan,,220.0,48.0,3.89,2,Abu Dhabi,2017-10-16,8,lost
-980,3925,SouthAfrica,353.0,Bangladesh,,SouthAfrica,6.0,,50.0,7.06,1,Paarl,2017-10-18,3,won
-982,3926,SriLanka,208.0,Pakistan,,Pakistan,,,48.2,4.3,1,Abu Dhabi,2017-10-18,8,lost
-984,3927,SriLanka,173.0,Pakistan,,Pakistan,,,43.4,3.96,1,Sharjah,2017-10-20,8,lost
-986,3928,Newzealad,284.0,India,280.0,Newzealad,4.0,281.0,49.0,5.79,2,Mumbai,2017-10-22,5,won
-988,3929,SouthAfrica,369.0,Bangladesh,,SouthAfrica,6.0,,50.0,7.38,1,East London,2017-10-22,3,won
-990,3930,SriLanka,103.0,Pakistan,,Pakistan,,,26.2,3.91,1,Sharjah,2017-10-23,8,lost
-992,3931,Newzealad,230.0,India,,India,9.0,,50.0,4.6,1,Pune,2017-10-25,5,lost
-994,3932,Newzealad,331.0,India,337.0,India,7.0,338.0,50.0,6.62,2,Kanpur,2017-10-29,5,lost
-996,3935,Afghanistan,238.0,Ireland,,Afghanistan,9.0,,50.0,4.76,1,Sharjah,2017-12-05,40,won
-997,3937,Afghanistan,220.0,Ireland,271.0,Ireland,,272.0,45.2,4.85,2,Sharjah,2017-12-07,40,lost
-998,3939,SriLanka,114.0,India,112.0,SriLanka,3.0,113.0,20.4,5.51,2,Dharamsala,2017-12-10,8,won
-1000,3940,Afghanistan,177.0,Ireland,,Ireland,,,48.2,3.66,1,Sharjah,2017-12-10,40,lost
-1001,3941,SriLanka,251.0,India,392.0,India,8.0,393.0,50.0,5.02,2,Mohali,2017-12-13,8,lost
-1003,3942,SriLanka,215.0,India,,India,,,44.5,4.79,1,Visakhapatnam,2017-12-17,8,lost
-1005,3943,WestIndies,248.0,New Zealand,,New Zealand,9.0,,50.0,4.96,1,Whangarei,2017-12-20,4,lost
-1007,3944,WestIndies,121.0,New Zealand,325.0,New Zealand,,326.0,28.0,4.32,2,Christchurch,2017-12-23,4,lost
-1009,3945,WestIndies,99.0,New Zealand,165.0,New Zealand,9.0,166.0,23.0,4.3,2,Christchurch,2017-12-26,4,lost
-1011,3946,Pakistan,166.0,New Zealand,227.0,New Zealand,6.0,228.0,30.1,5.5,2,Wellington,2018-01-06,7,lost
-1013,3947,Pakistan,246.0,New Zealand,,New Zealand,9.0,,50.0,4.92,1,Nelson,2018-01-09,7,lost
-1015,3949,Pakistan,74.0,New Zealand,257.0,New Zealand,,258.0,27.2,2.7,2,Dunedin,2018-01-13,7,lost
-1017,3951,England,308.0,Australia,304.0,England,5.0,305.0,48.5,6.3,2,Melbourne,2018-01-14,1,won
-1019,3952,Bangladesh,171.0,Zimbabwe,170.0,Bangladesh,2.0,171.0,28.3,6.0,2,Dhaka,2018-01-15,25,won
-1020,3953,Pakistan,262.0,New Zealand,,New Zealand,8.0,,50.0,5.24,1,Hamilton,2018-01-16,7,lost
-1022,3955,SriLanka,278.0,Zimbabwe,290.0,Zimbabwe,,291.0,48.1,5.77,2,Dhaka,2018-01-17,8,lost
-1023,3957,Pakistan,256.0,New Zealand,271.0,New Zealand,,272.0,49.0,5.22,2,Wellington,2018-01-19,7,lost
-1025,3958,England,274.0,Australia,270.0,England,6.0,271.0,44.2,6.18,2,Brisbane,2018-01-19,1,won
-1027,3959,SriLanka,157.0,Bangladesh,320.0,Bangladesh,,321.0,32.2,4.85,2,Dhaka,2018-01-19,8,lost
-1029,3960,England,302.0,Australia,,England,6.0,,50.0,6.04,1,Sydney,2018-01-21,1,won
-1031,3962,SriLanka,202.0,Zimbabwe,198.0,SriLanka,5.0,199.0,44.5,4.5,2,Dhaka,2018-01-21,8,won
-1032,3964,Bangladesh,216.0,Zimbabwe,,Bangladesh,9.0,,50.0,4.32,1,Dhaka,2018-01-23,25,won
-1033,3965,SriLanka,83.0,Bangladesh,82.0,SriLanka,0.0,83.0,11.5,7.01,2,Dhaka,2018-01-25,8,won
-1035,3966,England,196.0,Australia,,Australia,,,44.5,4.37,1,Adelaide,2018-01-26,1,lost
-1037,3967,SriLanka,221.0,Bangladesh,,SriLanka,,,50.0,4.42,1,Dhaka,2018-01-27,8,won
-1039,3968,England,259.0,Australia,,England,,,47.4,5.43,1,Perth,2018-01-28,1,won
-1041,3969,SouthAfrica,269.0,India,,India,8.0,,50.0,5.38,1,Durban,2018-02-01,3,lost
-1043,3970,SouthAfrica,118.0,India,,India,,,32.2,3.64,1,Centurion,2018-02-04,3,lost
-1045,3971,SouthAfrica,179.0,India,303.0,India,,304.0,40.0,4.47,2,Cape Town,2018-02-07,3,lost
-1047,3972,Afghanistan,333.0,Zimbabwe,,Afghanistan,5.0,,50.0,6.66,1,Sharjah,2018-02-09,40,won
-1048,3973,SouthAfrica,207.0,India,201.0,SouthAfrica,5.0,202.0,25.3,8.11,2,Johannesburg,2018-02-10,3,won
-1050,3974,Afghanistan,179.0,Zimbabwe,333.0,Zimbabwe,,334.0,30.1,5.93,2,Sharjah,2018-02-11,40,lost
-1051,3975,Afghanistan,158.0,Zimbabwe,154.0,Afghanistan,4.0,155.0,27.3,5.74,2,Sharjah,2018-02-13,40,won
-1052,3976,SouthAfrica,201.0,India,274.0,India,,275.0,42.2,4.74,2,Port Elizabeth,2018-02-13,3,lost
-1054,3977,Afghanistan,135.0,Zimbabwe,134.0,Afghanistan,0.0,135.0,21.1,6.37,2,Sharjah,2018-02-16,40,won
-1055,3978,SouthAfrica,204.0,India,,India,,,46.5,4.35,1,Centurion,2018-02-16,3,lost
-1057,3979,Afghanistan,241.0,Zimbabwe,,Afghanistan,9.0,,50.0,4.82,1,Sharjah,2018-02-19,40,won
-1058,3980,Newzealad,287.0,England,284.0,Newzealad,7.0,285.0,49.2,5.81,2,Hamilton,2018-02-25,5,won
-1060,3981,Newzealad,223.0,England,,England,,,49.4,4.48,1,Mount Maunganui,2018-02-28,5,lost
-1062,3982,Newzealad,230.0,England,234.0,England,8.0,235.0,50.0,4.6,2,Wellington,2018-03-03,5,lost
-1064,3983,Afghanistan,255.0,Scotland,,Scotland,,,49.4,5.13,1,Bulawayo,2018-03-04,40,lost
-1065,3987,WestIndies,357.0,U.A.E.,,WestIndies,4.0,,50.0,7.14,1,Harare,2018-03-06,4,won
-1066,3988,Afghanistan,194.0,Zimbabwe,196.0,Zimbabwe,,197.0,49.3,3.91,2,Bulawayo,2018-03-06,40,lost
-1067,3989,Newzealad,339.0,England,335.0,Newzealad,5.0,336.0,49.3,6.84,2,Dunedin,2018-03-07,5,won
-1069,3990,Afghanistan,195.0,Hong Kong,225.0,Hong Kong,9.0,226.0,46.0,4.23,2,Bulawayo,2018-03-08,40,lost
-1070,3991,WestIndies,201.0,P.N.G.,200.0,WestIndies,4.0,201.0,43.0,4.67,2,Harare,2018-03-08,4,won
-1071,3992,Newzealad,223.0,England,,England,,,49.5,4.47,1,Christchurch,2018-03-10,5,lost
-1073,3993,WestIndies,257.0,Ireland,,WestIndies,8.0,,50.0,5.14,1,Harare,2018-03-10,4,won
-1074,3997,WestIndies,197.0,Afghanistan,,Afghanistan,8.0,,50.0,3.94,1,Harare,2018-03-15,4,lost
-1076,4002,WestIndies,290.0,Zimbabwe,289.0,WestIndies,6.0,290.0,49.0,5.91,2,Harare,2018-03-19,4,won
-1077,4003,Afghanistan,178.0,U.A.E.,177.0,Afghanistan,5.0,178.0,34.3,5.15,2,Harare,2018-03-20,40,won
-1078,4004,WestIndies,198.0,Scotland,,WestIndies,,,48.4,4.06,1,Harare,2018-03-21,4,won
-1079,4006,Afghanistan,213.0,Ireland,209.0,Afghanistan,5.0,210.0,49.1,4.33,2,Harare,2018-03-23,40,won
-1080,4007,WestIndies,204.0,Afghanistan,,Afghanistan,,,46.5,4.35,1,Harare,2018-03-25,4,lost
-1082,4008,England,365.0,Scotland,371.0,Scotland,,372.0,48.5,7.47,2,Edinburgh,2018-06-10,1,lost
-1083,4009,England,218.0,Australia,214.0,England,7.0,215.0,44.0,4.95,2,The Oval,2018-06-13,1,won
-1085,4010,England,342.0,Australia,,England,8.0,,50.0,6.84,1,Cardiff,2018-06-16,1,won
-1087,4011,England,481.0,Australia,,England,6.0,,50.0,9.62,1,Nottingham,2018-06-19,1,won
-1089,4012,England,314.0,Australia,310.0,England,4.0,311.0,44.4,7.02,2,Chester-le-Street,2018-06-21,1,won
-1091,4013,England,208.0,Australia,205.0,England,9.0,206.0,48.3,4.28,2,Manchester,2018-06-24,1,won
-1093,4014,India,269.0,England,268.0,India,2.0,269.0,40.1,6.69,2,Nottingham,2018-07-12,6,won
-1095,4015,Pakistan,308.0,Zimbabwe,,Pakistan,7.0,,50.0,6.16,1,Bulawayo,2018-07-13,7,won
-1096,4016,India,236.0,England,322.0,England,,323.0,50.0,4.72,2,Lord's,2018-07-14,6,lost
-1098,4017,Pakistan,195.0,Zimbabwe,194.0,Pakistan,1.0,195.0,36.0,5.41,2,Bulawayo,2018-07-16,7,won
-1099,4018,India,256.0,England,,England,8.0,,50.0,5.12,1,Leeds,2018-07-17,6,lost
-1101,4019,Pakistan,69.0,Zimbabwe,67.0,Pakistan,1.0,68.0,9.5,7.01,2,Bulawayo,2018-07-18,7,won
-1102,4020,Pakistan,399.0,Zimbabwe,,Pakistan,1.0,,50.0,7.98,1,Bulawayo,2018-07-20,7,won
-1103,4021,Pakistan,364.0,Zimbabwe,,Pakistan,4.0,,50.0,7.28,1,Bulawayo,2018-07-22,7,won
-1104,4022,WestIndies,231.0,Bangladesh,279.0,Bangladesh,9.0,280.0,50.0,4.62,2,Providence,2018-07-22,4,lost
-1106,4023,WestIndies,271.0,Bangladesh,,WestIndies,,,49.3,5.47,1,Providence,2018-07-25,4,won
-1108,4024,WestIndies,283.0,Bangladesh,301.0,Bangladesh,6.0,302.0,50.0,5.66,2,Basseterre,2018-07-28,4,lost
-1110,4025,SriLanka,193.0,South Africa,,South Africa,,,34.3,5.59,1,Dambulla,2018-07-29,8,lost
-1112,4027,SriLanka,244.0,South Africa,,South Africa,8.0,,50.0,4.88,1,Dambulla,2018-08-01,8,lost
-1114,4029,SriLanka,285.0,South Africa,363.0,South Africa,,364.0,45.2,6.28,2,Pallekele,2018-08-05,8,lost
-1116,4030,SriLanka,306.0,South Africa,,SriLanka,7.0,,39.0,7.84,1,Pallekele,2018-08-08,8,won
-1118,4031,SriLanka,299.0,South Africa,,SriLanka,8.0,,50.0,5.98,1,Colombo (RPS),2018-08-12,8,won
-1120,4032,Afghanistan,227.0,Ireland,,Afghanistan,9.0,,50.0,4.54,1,Belfast,2018-08-27,40,won
-1121,4033,Afghanistan,182.0,Ireland,,Ireland,9.0,,50.0,3.64,1,Belfast,2018-08-29,40,lost
-1122,4035,Afghanistan,127.0,Ireland,124.0,Afghanistan,2.0,125.0,23.5,5.32,2,Belfast,2018-08-31,40,won
-1123,4036,SriLanka,124.0,Bangladesh,261.0,Bangladesh,,262.0,35.2,3.5,2,Dubai (DSC),2018-09-15,8,lost
-1125,4037,Pakistan,120.0,Hong Kong,116.0,Pakistan,2.0,117.0,23.4,5.07,2,Dubai (DSC),2018-09-16,7,won
-1126,4038,SriLanka,158.0,Afghanistan,249.0,Afghanistan,,250.0,41.2,3.82,2,Abu Dhabi,2018-09-17,8,lost
-1128,4039,India,285.0,Hong Kong,,India,7.0,,50.0,5.7,1,Dubai (DSC),2018-09-18,6,won
-1129,4040,Pakistan,162.0,India,,India,,,43.1,3.75,1,Dubai (DSC),2018-09-19,7,lost
-1131,4041,Bangladesh,119.0,Afghanistan,255.0,Afghanistan,,256.0,42.1,2.82,2,Abu Dhabi,2018-09-20,25,lost
-1133,4042,India,174.0,Bangladesh,173.0,India,3.0,174.0,36.2,4.78,2,Dubai (DSC),2018-09-21,6,won
-1135,4043,Pakistan,258.0,Afghanistan,257.0,Pakistan,7.0,258.0,49.3,5.21,2,Abu Dhabi,2018-09-21,7,won
-1137,4044,Pakistan,237.0,India,,India,7.0,,50.0,4.74,1,Dubai (DSC),2018-09-23,7,lost
-1139,4045,Bangladesh,249.0,Afghanistan,,Bangladesh,7.0,,50.0,4.98,1,Abu Dhabi,2018-09-23,25,won
-1141,4046,India,252.0,Afghanistan,252.0,Afghanistan,,253.0,49.5,5.05,2,Dubai (DSC),2018-09-25,6,tied
-1143,4047,Pakistan,202.0,Bangladesh,239.0,Bangladesh,9.0,240.0,50.0,4.04,2,Abu Dhabi,2018-09-26,7,lost
-1145,4048,India,223.0,Bangladesh,222.0,India,7.0,223.0,50.0,4.46,2,Dubai (DSC),2018-09-28,6,won
-1147,4049,SouthAfrica,119.0,Zimbabwe,117.0,SouthAfrica,5.0,118.0,26.1,4.54,2,Kimberley,2018-09-30,3,won
-1148,4050,SouthAfrica,198.0,Zimbabwe,,SouthAfrica,,,47.3,4.16,1,Bloemfontein,2018-10-03,3,won
-1149,4051,SouthAfrica,231.0,Zimbabwe,228.0,SouthAfrica,6.0,229.0,45.5,5.04,2,Paarl,2018-10-06,3,won
-1150,4052,SriLanka,,England,,England,,,0.0,,0,Dambulla,2018-10-10,8,n/r
-1152,4053,SriLanka,140.0,England,171.0,England,5.0,172.0,29.0,4.82,2,Dambulla,2018-10-13,8,lost
-1154,4054,SriLanka,150.0,England,,England,9.0,,21.0,7.14,1,Pallekele,2018-10-17,8,lost
-1156,4055,SriLanka,273.0,England,,England,7.0,,50.0,5.46,1,Pallekele,2018-10-20,8,lost
-1158,4056,WestIndies,322.0,India,,India,8.0,,50.0,6.44,1,Guwahati,2018-10-21,4,lost
-1160,4057,Bangladesh,271.0,Zimbabwe,,Bangladesh,8.0,,50.0,5.42,1,Dhaka,2018-10-21,25,won
-1161,4058,SriLanka,366.0,England,,SriLanka,6.0,,50.0,7.32,1,Colombo (RPS),2018-10-23,8,won
-1163,4059,WestIndies,321.0,India,321.0,India,7.0,322.0,50.0,6.42,2,Visakhapatnam,2018-10-24,4,tied
-1165,4060,Bangladesh,250.0,Zimbabwe,246.0,Bangladesh,3.0,247.0,44.1,5.66,2,Chattogram,2018-10-24,25,won
-1166,4061,Bangladesh,288.0,Zimbabwe,286.0,Bangladesh,3.0,287.0,42.1,6.83,2,Chattogram,2018-10-26,25,won
-1167,4062,WestIndies,283.0,India,,WestIndies,9.0,,50.0,5.66,1,Pune,2018-10-27,4,won
-1169,4063,WestIndies,153.0,India,377.0,India,,378.0,36.2,4.21,2,Mumbai (BS),2018-10-29,4,lost
-1171,4064,WestIndies,104.0,India,,India,,,31.5,3.26,1,Thiruvananthapuram,2018-11-01,4,lost
-1173,4065,SouthAfrica,153.0,Australia,152.0,SouthAfrica,4.0,153.0,29.2,5.21,2,Perth,2018-11-04,3,won
-1175,4066,Pakistan,219.0,New Zealand,266.0,New Zealand,,267.0,47.2,4.62,2,Abu Dhabi,2018-11-07,7,lost
-1177,4067,SouthAfrica,224.0,Australia,231.0,Australia,9.0,232.0,50.0,4.48,2,Adelaide,2018-11-09,3,lost
-1179,4068,Pakistan,212.0,New Zealand,209.0,Pakistan,4.0,210.0,40.3,5.23,2,Abu Dhabi,2018-11-09,7,won
-1181,4069,SouthAfrica,320.0,Australia,,SouthAfrica,5.0,,50.0,6.4,1,Hobart,2018-11-11,3,won
-1183,4070,Pakistan,279.0,New Zealand,,New Zealand,8.0,,50.0,5.58,1,Dubai (DSC),2018-11-11,7,n/r
-1185,4071,WestIndies,195.0,Bangladesh,,Bangladesh,9.0,,50.0,3.9,1,Dhaka,2018-12-09,4,lost
-1187,4072,WestIndies,256.0,Bangladesh,255.0,WestIndies,6.0,256.0,49.4,5.15,2,Dhaka,2018-12-11,4,won
-1189,4073,WestIndies,198.0,Bangladesh,,Bangladesh,9.0,,50.0,3.96,1,Sylhet,2018-12-14,4,lost
-1191,4074,SriLanka,326.0,New Zealand,371.0,New Zealand,,372.0,49.0,6.65,2,Mount Maunganui,2019-01-03,8,lost
-1193,4075,SriLanka,298.0,New Zealand,319.0,New Zealand,,320.0,46.2,6.43,2,Mount Maunganui,2019-01-05,8,lost
-1195,4076,SriLanka,249.0,New Zealand,364.0,New Zealand,,365.0,41.4,5.97,2,Nelson,2019-01-08,8,lost
-1197,4077,India,254.0,Australia,288.0,Australia,9.0,289.0,50.0,5.08,2,Sydney,2019-01-12,6,lost
-1199,4078,India,299.0,Australia,298.0,India,4.0,299.0,49.2,6.06,2,Adelaide,2019-01-15,6,won
-1201,4079,India,234.0,Australia,230.0,India,3.0,231.0,49.2,4.74,2,Melbourne,2019-01-18,6,won
-1203,4080,SouthAfrica,266.0,Pakistan,,Pakistan,2.0,,50.0,5.32,1,Port Elizabeth,2019-01-19,3,lost
-1205,4081,SouthAfrica,207.0,Pakistan,203.0,SouthAfrica,5.0,204.0,42.0,4.92,2,Durban,2019-01-22,3,won
-1207,4082,Newzealad,157.0,India,,India,,,38.0,4.13,1,Napier,2019-01-23,5,lost
-1209,4084,SouthAfrica,187.0,Pakistan,174.0,SouthAfrica,2.0,175.0,33.0,5.66,2,Centurion,2019-01-25,3,won
-1211,4085,Newzealad,234.0,India,324.0,India,,325.0,40.2,5.8,2,Mount Maunganui,2019-01-26,5,lost
-1213,4087,SouthAfrica,164.0,Pakistan,,Pakistan,,,41.0,4.0,1,Johannesburg,2019-01-27,3,lost
-1215,4088,Newzealad,243.0,India,,India,,,49.0,4.95,1,Mount Maunganui,2019-01-28,5,lost
-1217,4090,SouthAfrica,241.0,Pakistan,240.0,SouthAfrica,3.0,241.0,40.0,6.02,2,Cape Town,2019-01-30,3,won
-1219,4091,Newzealad,93.0,India,92.0,Newzealad,2.0,93.0,14.4,6.34,2,Hamilton,2019-01-31,5,won
-1221,4092,Newzealad,217.0,India,252.0,India,,253.0,44.1,4.91,2,Wellington,2019-02-03,5,lost
-1223,4093,Newzealad,233.0,Bangladesh,232.0,Newzealad,2.0,233.0,44.3,5.23,2,Napier,2019-02-13,5,won
-1225,4094,Newzealad,229.0,Bangladesh,226.0,Newzealad,2.0,227.0,36.1,6.33,2,Christchurch,2019-02-16,5,won
-1227,4095,Newzealad,330.0,Bangladesh,,Newzealad,6.0,,50.0,6.6,1,Dunedin,2019-02-20,5,won
-1229,4096,WestIndies,360.0,England,,England,8.0,,50.0,7.2,1,Bridgetown,2019-02-20,4,lost
-1231,4097,WestIndies,289.0,England,,WestIndies,6.0,,50.0,5.78,1,Bridgetown,2019-02-22,4,won
-1233,4098,WestIndies,,England,,England,,,0.0,,0,St George's,2019-02-25,4,n/r
-1235,4099,WestIndies,389.0,England,418.0,England,,419.0,48.0,8.1,2,St George's,2019-02-27,4,lost
-1237,4100,Afghanistan,165.0,Ireland,161.0,Afghanistan,5.0,162.0,41.5,3.94,2,Dehradun,2019-02-28,40,won
-1238,4101,Afghanistan,250.0,Ireland,,Ireland,7.0,,48.3,5.15,1,Dehradun,2019-03-02,40,n/r
-1239,4102,India,240.0,Australia,236.0,India,4.0,237.0,48.2,4.96,2,Hyderabad (Deccan),2019-03-02,6,won
-1241,4103,WestIndies,115.0,England,113.0,WestIndies,3.0,114.0,12.1,9.45,2,Gros Islet,2019-03-02,4,won
-1243,4104,SriLanka,231.0,South Africa,,South Africa,,,47.0,4.91,1,Johannesburg,2019-03-03,8,lost
-1245,4105,Afghanistan,256.0,Ireland,,Ireland,8.0,,50.0,5.12,1,Dehradun,2019-03-05,40,lost
-1246,4106,India,250.0,Australia,,India,,,48.2,5.17,1,Nagpur,2019-03-05,6,won
-1248,4107,SriLanka,138.0,South Africa,251.0,South Africa,,252.0,32.2,4.26,2,Centurion,2019-03-06,8,lost
-1250,4108,Afghanistan,223.0,Ireland,,Afghanistan,,,49.1,4.53,1,Dehradun,2019-03-08,40,won
-1251,4109,India,281.0,Australia,313.0,Australia,,314.0,48.2,5.81,2,Ranchi,2019-03-08,6,lost
-1253,4110,Afghanistan,216.0,Ireland,,Ireland,6.0,,50.0,4.32,1,Dehradun,2019-03-10,40,lost
-1254,4111,India,358.0,Australia,,Australia,9.0,,50.0,7.16,1,Mohali,2019-03-10,6,lost
-1256,4112,SriLanka,121.0,South Africa,192.0,South Africa,5.0,193.0,24.0,5.04,2,Durban,2019-03-10,8,lost
-1258,4113,India,237.0,Australia,272.0,Australia,,273.0,50.0,4.74,2,Delhi,2019-03-13,6,lost
-1260,4114,SriLanka,189.0,South Africa,,South Africa,,,39.2,4.8,1,Port Elizabeth,2019-03-13,8,lost
-1262,4115,SriLanka,225.0,South Africa,,South Africa,,,49.3,4.54,1,Cape Town,2019-03-16,8,lost
-1264,4116,Pakistan,280.0,Australia,,Australia,5.0,,50.0,5.6,1,Sharjah,2019-03-22,7,lost
-1266,4117,Pakistan,284.0,Australia,,Australia,7.0,,50.0,5.68,1,Sharjah,2019-03-24,7,lost
-1268,4118,Pakistan,186.0,Australia,266.0,Australia,,267.0,44.4,4.16,2,Abu Dhabi,2019-03-27,7,lost
-1270,4119,Pakistan,271.0,Australia,277.0,Australia,8.0,278.0,50.0,5.42,2,Dubai (DSC),2019-03-29,7,lost
-1272,4120,Pakistan,307.0,Australia,327.0,Australia,7.0,328.0,50.0,6.14,2,Dubai (DSC),2019-03-31,7,lost
-1274,4127,England,199.0,Ireland,198.0,England,6.0,199.0,42.0,4.73,2,Dublin (Malahide),2019-05-03,1,won
-1275,4128,WestIndies,381.0,Ireland,,WestIndies,3.0,,50.0,7.62,1,Dublin,2019-05-05,4,won
-1276,4129,WestIndies,261.0,Bangladesh,,Bangladesh,9.0,,50.0,5.22,1,Dublin,2019-05-07,4,lost
-1278,4130,Pakistan,80.0,England,,England,2.0,,19.0,4.21,1,The Oval,2019-05-08,7,n/r
-1280,4131,Afghanistan,269.0,Scotland,267.0,Afghanistan,3.0,268.0,44.5,6.0,2,Edinburgh,2019-05-10,40,won
-1281,4132,WestIndies,331.0,Ireland,327.0,WestIndies,5.0,328.0,47.5,6.91,2,Dublin (Malahide),2019-05-11,4,won
-1282,4133,Pakistan,361.0,England,373.0,England,7.0,374.0,50.0,7.22,2,Southampton,2019-05-11,7,lost
-1284,4134,WestIndies,247.0,Bangladesh,,Bangladesh,9.0,,50.0,4.94,1,Dublin (Malahide),2019-05-13,4,lost
-1286,4135,Pakistan,358.0,England,,England,9.0,,50.0,7.16,1,Bristol,2019-05-14,7,lost
-1288,4136,Bangladesh,294.0,Ireland,292.0,Bangladesh,4.0,293.0,43.0,6.83,2,Dublin,2019-05-15,25,won
-1289,4137,WestIndies,152.0,Bangladesh,,Bangladesh,1.0,,24.0,6.33,1,Dublin (Malahide),2019-05-17,4,lost
-1291,4138,Pakistan,340.0,England,,England,7.0,,50.0,6.8,1,Nottingham,2019-05-17,7,lost
-1293,4139,Afghanistan,120.0,Ireland,210.0,Ireland,8.0,211.0,33.0,3.63,2,Belfast,2019-05-19,40,
-1294,4140,Pakistan,193.0,England,351.0,England,6.0,352.0,31.5,6.06,2,Leeds,2019-05-19,7,
+match_id,country1,country1_score,country2,country2_score,team_won,wickets,target,overs,run_rate,innings,ground,start_date,country_id,result
+3315,Pakistan,250.0,India,,Pakistan,,,48.3,5.15,1,Kolkata,2013-01-03,7,won
+3316,Pakistan,157.0,India,167.0,India,,168.0,48.5,3.21,2,Delhi,2013-01-06,7,lost
+3317,SriLanka,198.0,Australia,305.0,Australia,,306.0,40.0,4.95,2,Melbourne,2013-01-11,8,lost
+3318,India,316.0,England,325.0,England,9.0,326.0,50.0,6.32,2,Rajkot,2013-01-11,6,lost
+3319,SriLanka,172.0,Australia,170.0,SriLanka,2.0,171.0,40.1,4.28,2,Adelaide,2013-01-13,8,won
+3320,India,285.0,England,,India,6.0,,50.0,5.7,1,Kochi,2013-01-15,6,won
+3321,SriLanka,75.0,Australia,74.0,SriLanka,6.0,75.0,20.0,3.75,2,Brisbane,2013-01-18,8,won
+3322,India,157.0,England,155.0,India,3.0,156.0,28.1,5.57,2,Ranchi,2013-01-19,6,won
+3323,SouthAfrica,208.0,New Zealand,,New Zealand,,,46.2,4.48,1,Paarl,2013-01-19,3,lost
+3324,SriLanka,14.0,Australia,222.0,n/r,0.0,223.0,3.2,4.2,2,Sydney,2013-01-20,8,n/r
+3325,SouthAfrica,252.0,New Zealand,279.0,New Zealand,,280.0,49.1,5.12,2,Kimberley,2013-01-22,3,lost
+3326,SriLanka,215.0,Australia,247.0,Australia,,248.0,48.3,4.43,2,Hobart,2013-01-23,8,lost
+3327,India,258.0,England,257.0,India,5.0,258.0,47.3,5.43,2,Mohali,2013-01-23,6,won
+3328,SouthAfrica,264.0,New Zealand,260.0,SouthAfrica,9.0,261.0,50.0,5.28,2,Potchefstroom,2013-01-25,3,won
+3329,India,226.0,England,,England,,,49.4,4.55,1,Dharamsala,2013-01-27,6,lost
+3330,WestIndies,70.0,Australia,,Australia,,,23.5,2.93,1,Perth,2013-02-01,4,lost
+3331,WestIndies,212.0,Australia,266.0,Australia,,267.0,38.1,5.55,2,Perth,2013-02-03,4,lost
+3332,WestIndies,290.0,Australia,329.0,Australia,,330.0,47.3,6.1,2,Canberra,2013-02-06,4,lost
+3333,WestIndies,220.0,Australia,,Australia,,,49.4,4.42,1,Sydney,2013-02-08,4,lost
+3334,WestIndies,257.0,Australia,274.0,Australia,,275.0,49.5,5.15,2,Melbourne,2013-02-10,4,lost
+3335,Newzealad,259.0,England,258.0,Newzealad,7.0,259.0,48.5,5.3,2,Hamilton,2013-02-17,5,won
+3336,Newzealad,269.0,England,,England,,,48.5,5.5,1,Napier,2013-02-20,5,lost
+3337,WestIndies,337.0,Zimbabwe,,WestIndies,4.0,,50.0,6.74,1,St George's,2013-02-22,4,won
+3338,Newzealad,185.0,England,,England,,,43.5,4.22,1,Auckland,2013-02-23,5,lost
+3339,WestIndies,274.0,Zimbabwe,273.0,WestIndies,3.0,274.0,49.0,5.59,2,St George's,2013-02-24,4,won
+3340,WestIndies,215.0,Zimbabwe,211.0,WestIndies,5.0,212.0,46.2,4.64,2,St George's,2013-02-26,4,won
+3341,Afghanistan,203.0,Scotland,199.0,Afghanistan,3.0,200.0,33.5,6.0,2,Sharjah,2013-03-06,40,won
+3342,Afghanistan,261.0,Scotland,259.0,Afghanistan,5.0,260.0,48.4,5.36,2,Sharjah,2013-03-08,40,won
+3343,SouthAfrica,315.0,Pakistan,,SouthAfrica,4.0,,50.0,6.3,1,Bloemfontein,2013-03-10,3,won
+3346,SouthAfrica,191.0,Pakistan,,Pakistan,,,43.2,4.4,1,Centurion,2013-03-15,3,lost
+3347,SouthAfrica,343.0,Pakistan,,SouthAfrica,5.0,,50.0,6.86,1,Johannesburg,2013-03-17,3,won
+3348,SouthAfrica,234.0,Pakistan,,Pakistan,9.0,,50.0,4.68,1,Durban,2013-03-21,3,lost
+3349,SriLanka,238.0,Bangladesh,237.0,SriLanka,2.0,238.0,35.4,6.67,2,Hambantota,2013-03-23,8,won
+3350,SouthAfrica,208.0,Pakistan,205.0,SouthAfrica,4.0,206.0,44.0,4.72,2,Benoni,2013-03-24,3,won
+3351,SriLanka,33.0,Bangladesh,,n/r,0.0,,5.0,6.6,1,Hambantota,2013-03-25,8,n/r
+3352,SriLanka,302.0,Bangladesh,,Bangladesh,9.0,,50.0,6.04,1,Pallekele,2013-03-28,8,lost
+3353,Bangladesh,269.0,Zimbabwe,,Bangladesh,8.0,,50.0,5.38,1,Bulawayo,2013-05-03,25,won
+3354,Bangladesh,252.0,Zimbabwe,,Zimbabwe,9.0,,50.0,5.04,1,Bulawayo,2013-05-05,25,lost
+3355,Bangladesh,247.0,Zimbabwe,,Zimbabwe,9.0,,50.0,4.94,1,Bulawayo,2013-05-08,25,lost
+3356,Pakistan,231.0,Scotland,,Pakistan,7.0,,50.0,4.62,1,Edinburgh,2013-05-17,7,won
+3357,Pakistan,266.0,Ireland,,tied,5.0,,47.0,5.65,1,Dublin,2013-05-23,7,tied
+3358,Pakistan,230.0,Ireland,229.0,Pakistan,8.0,230.0,48.4,4.72,2,Dublin,2013-05-26,7,won
+3359,SouthAfrica,341.0,Netherlands,,SouthAfrica,3.0,,50.0,6.82,1,Amstelveen,2013-05-31,3,won
+3360,Newzealad,231.0,England,227.0,Newzealad,5.0,228.0,46.5,4.93,2,Lord's,2013-05-31,5,won
+3361,Newzealad,359.0,England,,Newzealad,3.0,,50.0,7.18,1,Southampton,2013-06-02,5,won
+3362,Newzealad,253.0,England,287.0,England,,288.0,46.3,5.44,2,Nottingham,2013-06-05,5,lost
+3363,SouthAfrica,305.0,India,331.0,India,,332.0,50.0,6.1,2,Cardiff,2013-06-06,3,lost
+3364,WestIndies,172.0,Pakistan,170.0,WestIndies,8.0,171.0,40.4,4.22,2,The Oval,2013-06-07,4,won
+3365,England,269.0,Australia,,England,6.0,,50.0,5.38,1,Birmingham,2013-06-08,1,won
+3366,SriLanka,138.0,New Zealand,,New Zealand,,,37.5,3.64,1,Cardiff,2013-06-09,8,lost
+3367,SouthAfrica,234.0,Pakistan,,SouthAfrica,9.0,,50.0,4.68,1,Birmingham,2013-06-10,3,won
+3368,WestIndies,233.0,India,,India,9.0,,50.0,4.66,1,The Oval,2013-06-11,4,lost
+3369,Newzealad,51.0,Australia,243.0,n/r,2.0,244.0,15.0,3.4,2,Birmingham,2013-06-12,5,n/r
+3370,SriLanka,297.0,England,293.0,SriLanka,3.0,294.0,47.1,6.29,2,The Oval,2013-06-13,8,won
+3371,WestIndies,190.0,South Africa,190.0,tied,6.0,191.0,26.1,7.26,2,Cardiff,2013-06-14,4,tied
+3372,Pakistan,165.0,India,,India,,,39.4,4.15,1,Birmingham,2013-06-15,7,lost
+3373,Newzealad,159.0,England,169.0,England,8.0,170.0,24.0,6.62,2,Cardiff,2013-06-16,5,lost
+3374,SriLanka,253.0,Australia,,SriLanka,8.0,,50.0,5.06,1,The Oval,2013-06-17,8,won
+3375,SouthAfrica,175.0,England,,England,,,38.4,4.52,1,The Oval,2013-06-19,3,lost
+3376,SriLanka,181.0,India,,India,8.0,,50.0,3.62,1,Cardiff,2013-06-20,8,lost
+3377,India,129.0,England,,India,7.0,,20.0,6.45,1,Birmingham,2013-06-23,6,won
+3378,WestIndies,209.0,Sri Lanka,208.0,WestIndies,4.0,209.0,37.5,5.52,2,Kingston,2013-06-28,4,won
+3380,WestIndies,230.0,India,229.0,WestIndies,9.0,230.0,47.4,4.82,2,Kingston,2013-06-30,4,won
+3382,SriLanka,348.0,India,,SriLanka,1.0,,50.0,6.96,1,Kingston,2013-07-02,8,won
+3383,WestIndies,171.0,India,273.0,India,,274.0,34.0,5.02,2,Port of Spain,2013-07-05,4,lost
+3385,WestIndies,190.0,Sri Lanka,229.0,Sri Lanka,9.0,230.0,41.0,4.63,2,Port of Spain,2013-07-07,4,lost
+3387,SriLanka,96.0,India,177.0,India,,178.0,24.4,3.89,2,Port of Spain,2013-07-09,8,lost
+3388,SriLanka,201.0,India,,India,,,48.5,4.11,1,Port of Spain,2013-07-11,8,lost
+3389,WestIndies,98.0,Pakistan,224.0,Pakistan,,225.0,41.0,2.39,2,Providence,2013-07-14,4,lost
+3390,WestIndies,232.0,Pakistan,,WestIndies,8.0,,50.0,4.64,1,Providence,2013-07-16,4,won
+3391,WestIndies,229.0,Pakistan,229.0,tied,9.0,230.0,50.0,4.58,2,Gros Islet,2013-07-19,4,tied
+3392,SriLanka,320.0,South Africa,,SriLanka,5.0,,50.0,6.4,1,Colombo (RPS),2013-07-20,8,won
+3393,WestIndies,261.0,Pakistan,,Pakistan,7.0,,49.0,5.32,1,Gros Islet,2013-07-21,4,lost
+3394,SriLanka,223.0,South Africa,,SriLanka,9.0,,49.2,4.52,1,Colombo (RPS),2013-07-23,8,won
+3395,India,230.0,Zimbabwe,228.0,India,4.0,229.0,44.5,5.13,2,Harare,2013-07-24,6,won
+3396,WestIndies,242.0,Pakistan,,Pakistan,7.0,,50.0,4.84,1,Gros Islet,2013-07-24,4,lost
+3397,India,294.0,Zimbabwe,,India,8.0,,50.0,5.88,1,Harare,2013-07-26,6,won
+3398,SriLanka,167.0,South Africa,223.0,South Africa,,224.0,43.2,3.85,2,Pallekele,2013-07-26,8,lost
+3399,India,187.0,Zimbabwe,183.0,India,3.0,184.0,35.3,5.26,2,Harare,2013-07-28,6,won
+3400,SriLanka,239.0,South Africa,238.0,SriLanka,2.0,239.0,44.0,5.43,2,Pallekele,2013-07-28,8,won
+3401,SriLanka,307.0,South Africa,,SriLanka,4.0,,50.0,6.14,1,Colombo (RPS),2013-07-31,8,won
+3402,India,145.0,Zimbabwe,144.0,India,1.0,145.0,30.5,4.7,2,Bulawayo,2013-08-01,6,won
+3403,India,167.0,Zimbabwe,163.0,India,3.0,164.0,34.0,4.91,2,Bulawayo,2013-08-03,6,won
+3404,Pakistan,244.0,Zimbabwe,,Zimbabwe,7.0,,50.0,4.88,1,Harare,2013-08-27,7,lost
+3406,Pakistan,299.0,Zimbabwe,,Pakistan,4.0,,50.0,5.98,1,Harare,2013-08-29,7,won
+3408,Pakistan,260.0,Zimbabwe,,Pakistan,6.0,,50.0,5.2,1,Harare,2013-08-31,7,won
+3409,England,274.0,Ireland,269.0,England,4.0,270.0,43.0,6.37,2,Dublin (Malahide),2013-09-03,1,won
+3410,Australia,362.0,Scotland,,Australia,3.0,,50.0,7.24,1,Edinburgh,2013-09-03,2,won
+3412,England,227.0,Australia,315.0,Australia,,316.0,44.2,5.12,2,Manchester,2013-09-08,1,lost
+3414,England,59.0,Australia,,n/r,3.0,,15.1,3.89,1,Birmingham,2013-09-11,1,n/r
+3415,England,231.0,Australia,227.0,England,7.0,228.0,49.3,4.66,2,Cardiff,2013-09-14,1,won
+3416,England,249.0,Australia,298.0,Australia,,299.0,48.0,5.18,2,Southampton,2013-09-16,1,lost
+3417,Afghanistan,95.0,Kenya,89.0,Afghanistan,2.0,90.0,17.5,5.32,2,Sharjah,2013-10-02,40,won
+3418,Afghanistan,96.0,Kenya,93.0,Afghanistan,3.0,94.0,20.5,4.6,2,Sharjah,2013-10-04,40,won
+3419,India,232.0,Australia,304.0,Australia,,305.0,49.4,4.67,2,Pune,2013-10-13,6,lost
+3420,India,362.0,Australia,359.0,India,1.0,360.0,43.3,8.32,2,Jaipur,2013-10-16,6,won
+3421,India,303.0,Australia,,Australia,9.0,,50.0,6.06,1,Mohali,2013-10-19,6,lost
+3422,India,27.0,Australia,295.0,n/r,0.0,296.0,4.1,6.48,2,Ranchi,2013-10-23,6,n/r
+3423,Newzealad,162.0,Bangladesh,205.0,Bangladesh,,206.0,29.5,5.43,2,Dhaka,2013-10-29,5,lost
+3424,India,351.0,Australia,350.0,India,4.0,351.0,49.3,7.09,2,Nagpur,2013-10-30,6,won
+3425,SouthAfrica,183.0,Pakistan,,SouthAfrica,,,49.5,3.67,1,Sharjah,2013-10-30,3,won
+3426,Newzealad,207.0,Bangladesh,247.0,Bangladesh,,248.0,46.4,4.43,2,Dhaka,2013-10-31,5,lost
+3427,SouthAfrica,143.0,Pakistan,209.0,Pakistan,,210.0,40.4,3.51,2,Dubai (DSC),2013-11-01,3,lost
+3428,India,383.0,Australia,,India,6.0,,50.0,7.66,1,Bengaluru,2013-11-02,6,won
+3429,Newzealad,307.0,Bangladesh,,Bangladesh,5.0,,50.0,6.14,1,Fatullah,2013-11-03,5,lost
+3430,SouthAfrica,259.0,Pakistan,,SouthAfrica,8.0,,50.0,5.18,1,Abu Dhabi,2013-11-06,3,won
+3431,SouthAfrica,266.0,Pakistan,,SouthAfrica,5.0,,50.0,5.32,1,Abu Dhabi,2013-11-08,3,won
+3432,SriLanka,288.0,New Zealand,,n/r,9.0,,50.0,5.76,1,Hambantota,2013-11-10,8,n/r
+3433,SouthAfrica,268.0,Pakistan,,SouthAfrica,7.0,,50.0,5.36,1,Sharjah,2013-11-11,3,won
+3434,SriLanka,138.0,New Zealand,,New Zealand,1.0,,23.0,6.0,1,Hambantota,2013-11-12,8,lost
+3435,SriLanka,211.0,New Zealand,,SriLanka,8.0,,33.0,6.39,1,Dambulla,2013-11-16,8,won
+3436,WestIndies,211.0,India,,India,,,48.5,4.32,1,Kochi,2013-11-21,4,lost
+3437,WestIndies,289.0,India,288.0,WestIndies,8.0,289.0,49.3,5.83,2,Visakhapatnam,2013-11-24,4,won
+3438,SouthAfrica,195.0,Pakistan,218.0,Pakistan,,219.0,48.1,4.04,2,Cape Town,2013-11-24,3,lost
+3439,WestIndies,263.0,India,,India,5.0,,50.0,5.26,1,Kanpur,2013-11-27,4,lost
+3440,SouthAfrica,261.0,Pakistan,262.0,Pakistan,6.0,263.0,45.0,5.8,2,Port Elizabeth,2013-11-27,3,lost
+3441,SouthAfrica,181.0,Pakistan,179.0,SouthAfrica,6.0,180.0,38.4,4.68,2,Centurion,2013-11-30,3,won
+3442,SouthAfrica,358.0,India,,SouthAfrica,4.0,,50.0,7.16,1,Johannesburg,2013-12-05,3,won
+3443,SouthAfrica,280.0,India,,SouthAfrica,6.0,,49.0,5.71,1,Durban,2013-12-08,3,won
+3444,SouthAfrica,301.0,India,,n/r,8.0,,50.0,6.02,1,Centurion,2013-12-11,3,n/r
+3445,SriLanka,311.0,Pakistan,322.0,Pakistan,,323.0,49.4,6.26,2,Sharjah,2013-12-18,8,lost
+3446,SriLanka,287.0,Pakistan,284.0,SriLanka,8.0,285.0,49.4,5.77,2,Dubai (DSC),2013-12-20,8,won
+3447,SriLanka,213.0,Pakistan,326.0,Pakistan,,327.0,44.4,4.76,2,Sharjah,2013-12-22,8,lost
+3448,SriLanka,225.0,Pakistan,,Pakistan,,,48.5,4.6,1,Abu Dhabi,2013-12-25,8,lost
+3449,WestIndies,157.0,New Zealand,156.0,WestIndies,8.0,157.0,27.3,5.7,2,Auckland,2013-12-26,4,won
+3450,SriLanka,235.0,Pakistan,232.0,SriLanka,8.0,233.0,49.4,4.73,2,Abu Dhabi,2013-12-27,8,won
+3451,WestIndies,124.0,New Zealand,283.0,New Zealand,5.0,284.0,21.0,5.9,2,Queenstown,2014-01-01,4,lost
+3452,WestIndies,134.0,New Zealand,192.0,New Zealand,5.0,193.0,33.4,3.98,2,Nelson,2014-01-04,4,lost
+3453,WestIndies,363.0,New Zealand,,WestIndies,4.0,,50.0,7.26,1,Hamilton,2014-01-08,4,won
+3454,England,269.0,Australia,,Australia,7.0,,50.0,5.38,1,Melbourne,2014-01-12,1,lost
+3455,England,300.0,Australia,,Australia,8.0,,50.0,6.0,1,Brisbane,2014-01-17,1,lost
+3456,Newzealad,292.0,India,,Newzealad,7.0,,50.0,5.84,1,Napier,2014-01-19,5,won
+3457,England,243.0,Australia,,Australia,9.0,,50.0,4.86,1,Sydney,2014-01-19,1,lost
+3458,Newzealad,271.0,India,,Newzealad,7.0,,42.0,6.45,1,Hamilton,2014-01-22,5,won
+3461,England,316.0,Australia,,England,8.0,,50.0,6.32,1,Perth,2014-01-24,1,won
+3462,Newzealad,314.0,India,,tied,,,50.0,6.28,1,Auckland,2014-01-25,5,tied
+3463,England,212.0,Australia,217.0,Australia,,218.0,49.4,4.26,2,Adelaide,2014-01-26,1,lost
+3465,Newzealad,280.0,India,278.0,Newzealad,3.0,279.0,48.1,5.81,2,Hamilton,2014-01-28,5,won
+3467,Newzealad,303.0,India,,Newzealad,5.0,,50.0,6.06,1,Wellington,2014-01-31,5,won
+3469,SriLanka,180.0,Bangladesh,,SriLanka,,,40.0,4.5,1,Dhaka,2014-02-17,8,won
+3470,SriLanka,289.0,Bangladesh,,SriLanka,6.0,,50.0,5.78,1,Dhaka,2014-02-20,8,won
+3471,SriLanka,246.0,Bangladesh,240.0,SriLanka,4.0,241.0,47.3,5.17,2,Dhaka,2014-02-22,8,won
+3472,WestIndies,205.0,Ireland,202.0,WestIndies,6.0,203.0,36.4,5.59,2,Kingston,2014-02-23,4,won
+3473,SriLanka,296.0,Pakistan,,SriLanka,6.0,,50.0,5.92,1,Fatullah,2014-02-25,8,won
+3474,India,280.0,Bangladesh,279.0,India,4.0,280.0,49.0,5.71,2,Fatullah,2014-02-26,6,won
+3475,Pakistan,248.0,Afghanistan,,Pakistan,8.0,,50.0,4.96,1,Fatullah,2014-02-27,7,won
+3476,SriLanka,265.0,India,264.0,SriLanka,8.0,265.0,49.2,5.37,2,Fatullah,2014-02-28,8,won
+3477,WestIndies,269.0,England,,WestIndies,6.0,,50.0,5.38,1,North Sound,2014-02-28,4,won
+3478,Bangladesh,222.0,Afghanistan,254.0,Afghanistan,,255.0,47.5,4.64,2,Fatullah,2014-03-01,25,lost
+3479,Pakistan,249.0,India,245.0,Pakistan,9.0,246.0,49.4,5.01,2,Dhaka,2014-03-02,7,won
+3480,WestIndies,159.0,England,,England,,,44.2,3.58,1,North Sound,2014-03-02,4,lost
+3481,SriLanka,253.0,Afghanistan,,SriLanka,6.0,,50.0,5.06,1,Dhaka,2014-03-03,8,won
+3482,Pakistan,329.0,Bangladesh,326.0,Pakistan,7.0,327.0,49.5,6.6,2,Dhaka,2014-03-04,7,won
+3483,India,160.0,Afghanistan,159.0,India,2.0,160.0,32.2,4.94,2,Dhaka,2014-03-05,6,won
+3484,WestIndies,278.0,England,303.0,England,,304.0,47.4,5.83,2,North Sound,2014-03-05,4,lost
+3485,SriLanka,208.0,Bangladesh,204.0,SriLanka,7.0,205.0,49.0,4.24,2,Dhaka,2014-03-06,8,won
+3486,SriLanka,261.0,Pakistan,260.0,SriLanka,5.0,261.0,46.2,5.63,2,Dhaka,2014-03-08,8,won
+3487,Afghanistan,218.0,Hong Kong,216.0,Afghanistan,4.0,217.0,43.1,5.05,2,Kuala Lumpur,2014-05-01,40,won
+3488,Afghanistan,302.0,U.A.E.,,Afghanistan,5.0,,50.0,6.04,1,Kuala Lumpur,2014-05-02,40,won
+3490,SriLanka,219.0,Ireland,,SriLanka,8.0,,50.0,4.38,1,Dublin,2014-05-06,8,won
+3491,England,167.0,Scotland,,England,6.0,,20.0,8.35,1,Aberdeen,2014-05-09,1,won
+3492,SriLanka,144.0,England,225.0,England,,226.0,27.5,5.17,2,The Oval,2014-05-22,8,lost
+3493,SriLanka,256.0,England,,SriLanka,8.0,,50.0,5.12,1,Chester-le-Street,2014-05-25,8,won
+3494,SriLanka,67.0,England,,England,,,24.0,2.79,1,Manchester,2014-05-28,8,lost
+3495,SriLanka,300.0,England,,SriLanka,9.0,,50.0,6.0,1,Lord's,2014-05-31,8,won
+3496,SriLanka,222.0,England,219.0,SriLanka,4.0,220.0,48.2,4.59,2,Birmingham,2014-06-03,8,won
+3497,India,153.0,Bangladesh,149.0,India,3.0,150.0,24.5,6.16,2,Dhaka,2014-06-15,6,won
+3498,India,105.0,Bangladesh,,India,,,25.3,4.11,1,Dhaka,2014-06-17,6,won
+3499,India,119.0,Bangladesh,,n/r,9.0,,34.2,3.46,1,Dhaka,2014-06-19,6,n/r
+3500,SriLanka,229.0,South Africa,304.0,South Africa,,305.0,40.3,5.65,2,Colombo (RPS),2014-07-06,8,lost
+3501,SriLanka,267.0,South Africa,,SriLanka,,,49.2,5.41,1,Pallekele,2014-07-09,8,won
+3502,SriLanka,257.0,South Africa,339.0,South Africa,,340.0,44.3,5.77,2,Hambantota,2014-07-12,8,lost
+3503,Afghanistan,223.0,Zimbabwe,,Zimbabwe,9.0,,50.0,4.46,1,Bulawayo,2014-07-18,40,lost
+3504,Afghanistan,256.0,Zimbabwe,,Zimbabwe,7.0,,50.0,5.12,1,Bulawayo,2014-07-20,40,lost
+3505,Afghanistan,264.0,Zimbabwe,261.0,Afghanistan,8.0,262.0,49.4,5.31,2,Bulawayo,2014-07-22,40,won
+3506,Afghanistan,259.0,Zimbabwe,,Afghanistan,,,49.1,5.26,1,Bulawayo,2014-07-24,40,won
+3507,SouthAfrica,309.0,Zimbabwe,,SouthAfrica,3.0,,50.0,6.18,1,Bulawayo,2014-08-17,3,won
+3508,SouthAfrica,257.0,Zimbabwe,,SouthAfrica,,,49.4,5.17,1,Bulawayo,2014-08-19,3,won
+3509,WestIndies,219.0,Bangladesh,217.0,WestIndies,7.0,218.0,39.4,5.52,2,St George's,2014-08-20,4,won
+3510,SouthAfrica,171.0,Zimbabwe,165.0,SouthAfrica,3.0,166.0,27.2,6.25,2,Bulawayo,2014-08-21,3,won
+3511,WestIndies,247.0,Bangladesh,,WestIndies,7.0,,50.0,4.94,1,St George's,2014-08-22,4,won
+3512,SriLanka,275.0,Pakistan,,Pakistan,7.0,,45.0,6.11,1,Hambantota,2014-08-23,8,lost
+3513,Australia,350.0,Zimbabwe,,Australia,6.0,,50.0,7.0,1,Harare,2014-08-25,2,won
+3514,WestIndies,338.0,Bangladesh,,WestIndies,7.0,,50.0,6.76,1,Basseterre,2014-08-25,4,won
+3515,SriLanka,310.0,Pakistan,,SriLanka,9.0,,50.0,6.2,1,Hambantota,2014-08-26,8,won
+3516,SouthAfrica,328.0,Australia,327.0,SouthAfrica,3.0,328.0,46.4,7.02,2,Harare,2014-08-27,3,won
+3517,India,304.0,England,,India,6.0,,50.0,6.08,1,Cardiff,2014-08-27,6,won
+3518,SouthAfrica,231.0,Zimbabwe,,SouthAfrica,,,49.5,4.63,1,Harare,2014-08-29,3,won
+3519,SriLanka,104.0,Pakistan,100.0,SriLanka,3.0,101.0,18.2,5.67,2,Dambulla,2014-08-30,8,won
+3520,India,228.0,England,227.0,India,4.0,228.0,43.0,5.3,2,Nottingham,2014-08-30,6,won
+3521,Australia,209.0,Zimbabwe,,Zimbabwe,9.0,,50.0,4.18,1,Harare,2014-08-31,2,lost
+3522,SouthAfrica,220.0,Australia,282.0,Australia,,283.0,44.0,5.0,2,Harare,2014-09-02,3,lost
+3523,India,212.0,England,206.0,India,1.0,207.0,30.3,6.95,2,Birmingham,2014-09-02,6,won
+3524,SouthAfrica,271.0,Zimbabwe,,SouthAfrica,6.0,,50.0,5.42,1,Harare,2014-09-04,3,won
+3525,India,253.0,England,294.0,England,,295.0,48.4,5.19,2,Leeds,2014-09-05,6,lost
+3526,SouthAfrica,221.0,Australia,217.0,SouthAfrica,4.0,218.0,40.5,5.41,2,Harare,2014-09-06,3,won
+3530,Pakistan,162.0,Australia,255.0,Australia,,256.0,36.3,4.43,2,Sharjah,2014-10-07,7,lost
+3531,WestIndies,321.0,India,,WestIndies,6.0,,50.0,6.42,1,Kochi,2014-10-08,4,won
+3532,Pakistan,215.0,Australia,,Australia,,,49.3,4.34,1,Dubai (DSC),2014-10-10,7,lost
+3533,WestIndies,215.0,India,263.0,India,,264.0,46.3,4.62,2,Delhi,2014-10-11,4,lost
+3534,Pakistan,230.0,Australia,231.0,Australia,,232.0,50.0,4.6,2,Abu Dhabi,2014-10-12,7,lost
+3535,WestIndies,271.0,India,330.0,India,,331.0,48.1,5.62,2,Dharamsala,2014-10-17,4,lost
+3536,SouthAfrica,236.0,New Zealand,230.0,SouthAfrica,4.0,231.0,48.1,4.89,2,Mount Maunganui,2014-10-21,3,won
+3537,SouthAfrica,282.0,New Zealand,,SouthAfrica,9.0,,50.0,5.64,1,Mount Maunganui,2014-10-24,3,won
+3538,SouthAfrica,157.0,New Zealand,,n/r,3.0,,30.4,5.11,1,Hamilton,2014-10-27,3,n/r
+3539,SriLanka,194.0,India,363.0,India,,364.0,39.2,4.93,2,Cuttack,2014-11-02,8,lost
+3540,SriLanka,274.0,India,,India,8.0,,50.0,5.48,1,Ahmedabad,2014-11-06,8,lost
+3543,SriLanka,242.0,India,,India,,,48.2,5.0,1,Hyderabad (Deccan),2014-11-09,8,lost
+3544,SriLanka,251.0,India,404.0,India,,405.0,43.1,5.81,2,Kolkata,2014-11-13,8,lost
+3545,SouthAfrica,268.0,Australia,300.0,Australia,,301.0,48.1,5.56,2,Perth,2014-11-14,3,lost
+3546,SouthAfrica,157.0,Australia,154.0,SouthAfrica,7.0,155.0,27.4,5.67,2,Perth,2014-11-16,3,won
+3547,SriLanka,286.0,India,,India,8.0,,50.0,5.72,1,Ranchi,2014-11-16,8,lost
+3548,SouthAfrica,256.0,Australia,329.0,Australia,,330.0,44.3,5.75,2,Canberra,2014-11-19,3,lost
+3549,SouthAfrica,267.0,Australia,,Australia,8.0,,50.0,5.34,1,Melbourne,2014-11-21,3,lost
+3550,Bangladesh,281.0,Zimbabwe,,Bangladesh,7.0,,50.0,5.62,1,Chattogram,2014-11-21,25,won
+3551,SouthAfrica,280.0,Australia,,Australia,6.0,,50.0,5.6,1,Sydney,2014-11-23,3,lost
+3552,Bangladesh,251.0,Zimbabwe,,Bangladesh,7.0,,50.0,5.02,1,Chattogram,2014-11-23,25,won
+3553,Bangladesh,297.0,Zimbabwe,,Bangladesh,6.0,,50.0,5.94,1,Dhaka,2014-11-26,25,won
+3554,SriLanka,317.0,England,,SriLanka,6.0,,50.0,6.34,1,Colombo (RPS),2014-11-26,8,won
+3555,Bangladesh,256.0,Zimbabwe,,Bangladesh,8.0,,50.0,5.12,1,Dhaka,2014-11-28,25,won
+3556,Afghanistan,248.0,U.A.E.,,U.A.E.,6.0,,50.0,4.96,1,ICCA Dubai,2014-11-28,40,lost
+3557,SriLanka,186.0,England,185.0,SriLanka,2.0,186.0,34.2,5.41,2,Colombo (RPS),2014-11-29,8,won
+3558,Afghanistan,280.0,U.A.E.,,U.A.E.,8.0,,50.0,5.6,1,ICCA Dubai,2014-11-30,40,lost
+3559,Bangladesh,130.0,Zimbabwe,128.0,Bangladesh,5.0,129.0,24.3,5.3,2,Dhaka,2014-12-01,25,won
+3560,Afghanistan,276.0,U.A.E.,273.0,Afghanistan,8.0,274.0,49.4,5.55,2,ICCA Dubai,2014-12-02,40,won
+3561,SriLanka,242.0,England,,England,8.0,,35.0,6.91,1,Hambantota,2014-12-03,8,lost
+3562,Afghanistan,228.0,U.A.E.,258.0,U.A.E.,,259.0,49.3,4.6,2,ICCA Dubai,2014-12-04,40,lost
+3563,SriLanka,267.0,England,265.0,SriLanka,4.0,266.0,49.4,5.37,2,Colombo (RPS),2014-12-07,8,won
+3564,Pakistan,250.0,New Zealand,246.0,Pakistan,7.0,247.0,49.3,5.05,2,Dubai (DSC),2014-12-08,7,won
+3565,SriLanka,239.0,England,,England,,,49.0,4.87,1,Pallekele,2014-12-10,8,lost
+3566,Pakistan,252.0,New Zealand,,New Zealand,,,48.3,5.19,1,Sharjah,2014-12-12,7,lost
+3567,SriLanka,292.0,England,,SriLanka,7.0,,50.0,5.84,1,Pallekele,2014-12-13,8,won
+3568,Pakistan,364.0,New Zealand,,Pakistan,7.0,,50.0,7.28,1,Sharjah,2014-12-14,7,won
+3569,SriLanka,302.0,England,,SriLanka,6.0,,50.0,6.04,1,Colombo (RPS),2014-12-16,8,won
+3570,Pakistan,292.0,New Zealand,299.0,New Zealand,8.0,300.0,50.0,5.84,2,Abu Dhabi,2014-12-17,7,lost
+3571,Pakistan,207.0,New Zealand,275.0,New Zealand,,276.0,43.3,4.75,2,Abu Dhabi,2014-12-19,7,lost
+3572,Afghanistan,240.0,Scotland,237.0,Afghanistan,2.0,238.0,38.0,6.31,2,ICCA Dubai,2015-01-08,40,won
+3573,Afghanistan,180.0,Ireland,,Ireland,,,44.2,4.06,1,Dubai (DSC),2015-01-10,40,lost
+3574,SriLanka,218.0,New Zealand,,New Zealand,9.0,,50.0,4.36,1,Christchurch,2015-01-11,8,lost
+3576,Afghanistan,63.0,Scotland,213.0,Scotland,,214.0,18.3,3.4,2,Abu Dhabi,2015-01-14,40,lost
+3577,SriLanka,252.0,New Zealand,248.0,SriLanka,4.0,249.0,47.4,5.28,2,Hamilton,2015-01-15,8,won
+3578,England,234.0,Australia,,Australia,,,47.5,4.89,1,Sydney,2015-01-16,1,lost
+3579,WestIndies,164.0,South Africa,225.0,South Africa,,226.0,28.2,5.78,2,Durban,2015-01-16,4,lost
+3580,SriLanka,,New Zealand,,n/r,,,0.0,,0,Auckland,2015-01-17,8,n/r
+3581,Afghanistan,246.0,Ireland,,Afghanistan,8.0,,50.0,4.92,1,Dubai (DSC),2015-01-17,40,won
+3582,India,267.0,Australia,,Australia,8.0,,50.0,5.34,1,Melbourne,2015-01-18,6,lost
+3583,WestIndies,291.0,South Africa,439.0,South Africa,7.0,440.0,50.0,5.82,2,Johannesburg,2015-01-18,4,lost
+3585,SriLanka,276.0,New Zealand,,New Zealand,,,49.3,5.57,1,Nelson,2015-01-20,8,lost
+3586,India,153.0,England,,England,,,39.3,3.87,1,Brisbane,2015-01-20,6,lost
+3587,WestIndies,122.0,South Africa,,South Africa,,,33.4,3.62,1,East London,2015-01-21,4,lost
+3588,SriLanka,252.0,New Zealand,360.0,New Zealand,,361.0,43.4,5.77,2,Dunedin,2015-01-23,8,lost
+3589,England,303.0,Australia,,Australia,8.0,,50.0,6.06,1,Hobart,2015-01-23,1,lost
+3590,SriLanka,195.0,New Zealand,315.0,New Zealand,,316.0,40.3,4.81,2,Dunedin,2015-01-25,8,lost
+3591,WestIndies,266.0,South Africa,262.0,WestIndies,9.0,263.0,48.3,5.48,2,Port Elizabeth,2015-01-25,4,won
+3592,India,69.0,Australia,,n/r,2.0,,16.0,4.31,1,Sydney,2015-01-26,6,n/r
+3593,WestIndies,230.0,South Africa,361.0,South Africa,,362.0,37.4,6.1,2,Centurion,2015-01-28,4,lost
+3594,SriLanka,287.0,New Zealand,,SriLanka,6.0,,50.0,5.74,1,Wellington,2015-01-29,8,won
+3595,India,200.0,England,,England,,,48.1,4.15,1,Perth,2015-01-30,6,lost
+3596,Pakistan,210.0,New Zealand,,New Zealand,,,45.3,4.61,1,Wellington,2015-01-31,7,lost
+3597,England,166.0,Australia,278.0,Australia,,279.0,39.1,4.23,2,Perth,2015-02-01,1,lost
+3598,Pakistan,250.0,New Zealand,369.0,New Zealand,,370.0,43.1,5.79,2,Napier,2015-02-03,7,lost
+3599,SriLanka,233.0,New Zealand,331.0,New Zealand,,332.0,46.1,5.04,2,Christchurch,2015-02-14,8,lost
+3600,England,231.0,Australia,342.0,Australia,,343.0,41.5,5.52,2,Melbourne,2015-02-14,1,lost
+3601,SouthAfrica,339.0,Zimbabwe,,SouthAfrica,4.0,,50.0,6.78,1,Hamilton,2015-02-15,3,won
+3602,Pakistan,224.0,India,300.0,India,,301.0,47.0,4.76,2,Adelaide,2015-02-15,7,lost
+3603,WestIndies,304.0,Ireland,,Ireland,7.0,,50.0,6.08,1,Nelson,2015-02-16,4,lost
+3604,Newzealad,146.0,Scotland,142.0,Newzealad,7.0,143.0,24.5,5.87,2,Dunedin,2015-02-17,5,won
+3605,Bangladesh,267.0,Afghanistan,,Bangladesh,,,50.0,5.34,1,Canberra,2015-02-18,25,won
+3607,Newzealad,125.0,England,123.0,Newzealad,2.0,124.0,12.2,10.13,2,Wellington,2015-02-20,5,won
+3608,WestIndies,310.0,Pakistan,,WestIndies,6.0,,50.0,6.2,1,Christchurch,2015-02-21,4,won
+3609,SriLanka,236.0,Afghanistan,232.0,SriLanka,6.0,233.0,48.2,4.88,2,Dunedin,2015-02-22,8,won
+3610,SouthAfrica,177.0,India,307.0,India,,308.0,40.2,4.38,2,Melbourne,2015-02-22,3,lost
+3611,England,303.0,Scotland,,England,8.0,,50.0,6.06,1,Christchurch,2015-02-23,1,won
+3612,WestIndies,372.0,Zimbabwe,,WestIndies,2.0,,50.0,7.44,1,Canberra,2015-02-24,4,won
+3614,Afghanistan,211.0,Scotland,210.0,Afghanistan,9.0,211.0,49.3,4.26,2,Dunedin,2015-02-26,40,won
+3615,SriLanka,332.0,Bangladesh,,SriLanka,1.0,,50.0,6.64,1,Melbourne,2015-02-26,8,won
+3616,WestIndies,151.0,South Africa,408.0,South Africa,,409.0,33.1,4.55,2,Sydney,2015-02-27,4,lost
+3617,Newzealad,152.0,Australia,151.0,Newzealad,9.0,152.0,23.1,6.56,2,Auckland,2015-02-28,5,won
+3618,India,104.0,U.A.E.,102.0,India,1.0,103.0,18.5,5.52,2,Perth,2015-02-28,6,won
+3619,SriLanka,312.0,England,309.0,SriLanka,1.0,310.0,47.2,6.59,2,Wellington,2015-03-01,8,won
+3620,Pakistan,235.0,Zimbabwe,,Pakistan,7.0,,50.0,4.7,1,Brisbane,2015-03-01,7,won
+3621,SouthAfrica,411.0,Ireland,,SouthAfrica,4.0,,50.0,8.22,1,Canberra,2015-03-03,3,won
+3622,Pakistan,339.0,U.A.E.,,Pakistan,6.0,,50.0,6.78,1,Napier,2015-03-04,7,won
+3623,Australia,417.0,Afghanistan,,Australia,6.0,,50.0,8.34,1,Perth,2015-03-04,2,won
+3624,Bangladesh,322.0,Scotland,318.0,Bangladesh,4.0,319.0,48.1,6.68,2,Nelson,2015-03-05,25,won
+3625,WestIndies,182.0,India,,India,,,44.2,4.1,1,Perth,2015-03-06,4,lost
+3626,SouthAfrica,202.0,Pakistan,231.0,Pakistan,,232.0,33.3,6.02,2,Auckland,2015-03-07,3,lost
+3628,Newzealad,188.0,Afghanistan,186.0,Newzealad,4.0,187.0,36.1,5.19,2,Napier,2015-03-08,5,won
+3629,SriLanka,312.0,Australia,376.0,Australia,,377.0,46.2,6.73,2,Sydney,2015-03-08,8,lost
+3630,England,260.0,Bangladesh,275.0,Bangladesh,,276.0,48.3,5.36,2,Adelaide,2015-03-09,1,lost
+3631,India,260.0,Ireland,259.0,India,2.0,260.0,36.5,7.05,2,Hamilton,2015-03-10,6,won
+3632,SriLanka,363.0,Scotland,,SriLanka,9.0,,50.0,7.26,1,Hobart,2015-03-11,8,won
+3633,SouthAfrica,341.0,U.A.E.,,SouthAfrica,6.0,,50.0,6.82,1,Wellington,2015-03-12,3,won
+3634,Newzealad,290.0,Bangladesh,288.0,Newzealad,7.0,289.0,48.5,5.93,2,Hamilton,2015-03-13,5,won
+3635,England,101.0,Afghanistan,100.0,England,1.0,101.0,18.1,5.55,2,Sydney,2015-03-13,1,won
+3636,India,288.0,Zimbabwe,287.0,India,4.0,288.0,48.4,5.91,2,Auckland,2015-03-14,6,won
+3637,Australia,133.0,Scotland,130.0,Australia,3.0,131.0,15.2,8.67,2,Hobart,2015-03-14,2,won
+3638,WestIndies,176.0,U.A.E.,175.0,WestIndies,4.0,176.0,30.3,5.77,2,Napier,2015-03-15,4,won
+3639,Pakistan,241.0,Ireland,237.0,Pakistan,3.0,238.0,46.1,5.22,2,Adelaide,2015-03-15,7,won
+3640,SriLanka,133.0,South Africa,,South Africa,,,37.2,3.56,1,Sydney,2015-03-18,8,lost
+3641,India,302.0,Bangladesh,,India,6.0,,50.0,6.04,1,Melbourne,2015-03-19,6,won
+3642,Pakistan,213.0,Australia,,Australia,,,49.5,4.27,1,Adelaide,2015-03-20,7,lost
+3643,WestIndies,250.0,New Zealand,393.0,New Zealand,,394.0,30.3,8.19,2,Wellington,2015-03-21,4,lost
+3644,SouthAfrica,281.0,New Zealand,,New Zealand,5.0,,43.0,6.53,1,Auckland,2015-03-24,3,lost
+3645,India,233.0,Australia,328.0,Australia,,329.0,46.5,4.97,2,Sydney,2015-03-26,6,lost
+3646,Newzealad,183.0,Australia,,Australia,,,45.0,4.06,1,Melbourne,2015-03-29,5,lost
+3647,Pakistan,250.0,Bangladesh,329.0,Bangladesh,,330.0,45.2,5.51,2,Dhaka,2015-04-17,7,lost
+3648,Pakistan,239.0,Bangladesh,,Bangladesh,6.0,,50.0,4.78,1,Dhaka,2015-04-19,7,lost
+3649,Pakistan,250.0,Bangladesh,,Bangladesh,,,49.0,5.1,1,Dhaka,2015-04-22,7,lost
+3650,England,,Ireland,,n/r,,,0.0,,0,Dublin (Malahide),2015-05-08,1,n/r
+3651,Pakistan,375.0,Zimbabwe,,Pakistan,3.0,,50.0,7.5,1,Lahore,2015-05-26,7,won
+3652,Pakistan,269.0,Zimbabwe,268.0,Pakistan,4.0,269.0,47.2,5.68,2,Lahore,2015-05-29,7,won
+3653,Pakistan,296.0,Zimbabwe,,n/r,9.0,,50.0,5.92,1,Lahore,2015-05-31,7,n/r
+3654,Newzealad,198.0,England,408.0,England,,409.0,31.1,6.35,2,Birmingham,2015-06-09,5,lost
+3655,Newzealad,398.0,England,,Newzealad,5.0,,50.0,7.96,1,The Oval,2015-06-12,5,won
+3656,Newzealad,306.0,England,302.0,Newzealad,7.0,303.0,49.0,6.24,2,Southampton,2015-06-14,5,won
+3657,Newzealad,349.0,England,,England,7.0,,50.0,6.98,1,Nottingham,2015-06-17,5,lost
+3658,India,228.0,Bangladesh,307.0,Bangladesh,,308.0,46.0,4.95,2,Dhaka,2015-06-18,6,lost
+3659,Newzealad,283.0,England,,England,9.0,,50.0,5.66,1,Chester-le-Street,2015-06-20,5,lost
+3660,India,200.0,Bangladesh,,Bangladesh,,,45.0,4.44,1,Dhaka,2015-06-21,6,lost
+3661,India,317.0,Bangladesh,,India,6.0,,50.0,6.34,1,Dhaka,2015-06-24,6,won
+3662,India,255.0,Zimbabwe,,India,6.0,,50.0,5.1,1,Harare,2015-07-10,6,won
+3663,SouthAfrica,164.0,Bangladesh,160.0,SouthAfrica,2.0,161.0,31.1,5.26,2,Dhaka,2015-07-10,3,won
+3664,SriLanka,255.0,Pakistan,,Pakistan,8.0,,50.0,5.1,1,Dambulla,2015-07-11,8,lost
+3665,India,271.0,Zimbabwe,,India,8.0,,50.0,5.42,1,Harare,2015-07-12,6,won
+3666,SouthAfrica,162.0,Bangladesh,,Bangladesh,,,46.0,3.52,1,Dhaka,2015-07-12,3,lost
+3667,India,276.0,Zimbabwe,,India,5.0,,50.0,5.52,1,Harare,2015-07-14,6,won
+3668,SouthAfrica,168.0,Bangladesh,,Bangladesh,9.0,,40.0,4.2,1,Chattogram,2015-07-15,3,lost
+3669,SriLanka,288.0,Pakistan,287.0,SriLanka,8.0,288.0,48.1,5.97,2,Pallekele,2015-07-15,8,won
+3670,SriLanka,181.0,Pakistan,316.0,Pakistan,,317.0,41.1,4.39,2,Colombo (RPS),2015-07-19,8,lost
+3671,SriLanka,256.0,Pakistan,,Pakistan,9.0,,50.0,5.12,1,Colombo (RPS),2015-07-22,8,lost
+3672,SriLanka,368.0,Pakistan,,SriLanka,4.0,,50.0,7.36,1,Hambantota,2015-07-26,8,won
+3673,Newzealad,303.0,Zimbabwe,,Zimbabwe,4.0,,50.0,6.06,1,Harare,2015-08-02,5,lost
+3674,Newzealad,236.0,Zimbabwe,235.0,Newzealad,0.0,236.0,42.2,5.57,2,Harare,2015-08-04,5,won
+3675,Newzealad,273.0,Zimbabwe,,Newzealad,6.0,,50.0,5.46,1,Harare,2015-08-07,5,won
+3676,SouthAfrica,304.0,New Zealand,,SouthAfrica,7.0,,50.0,6.08,1,Centurion,2015-08-19,3,won
+3677,SouthAfrica,204.0,New Zealand,,New Zealand,,,49.3,4.12,1,Potchefstroom,2015-08-23,3,lost
+3678,SouthAfrica,283.0,New Zealand,,SouthAfrica,7.0,,50.0,5.66,1,Durban,2015-08-26,3,won
+3679,Australia,222.0,Ireland,,Australia,6.0,,40.2,5.5,1,Belfast,2015-08-27,2,won
+3680,England,246.0,Australia,305.0,Australia,,306.0,45.3,5.4,2,Southampton,2015-09-03,1,lost
+3681,England,245.0,Australia,309.0,Australia,,310.0,42.3,5.76,2,Lord's,2015-09-05,1,lost
+3682,England,300.0,Australia,,England,8.0,,50.0,6.0,1,Manchester,2015-09-08,1,won
+3683,England,304.0,Australia,299.0,England,7.0,300.0,48.2,6.28,2,Leeds,2015-09-11,1,won
+3684,England,138.0,Australia,,Australia,,,33.0,4.18,1,Manchester,2015-09-13,1,lost
+3685,Pakistan,259.0,Zimbabwe,,Pakistan,6.0,,50.0,5.18,1,Harare,2015-10-01,7,won
+3686,Pakistan,256.0,Zimbabwe,261.0,Zimbabwe,8.0,262.0,48.0,5.33,2,Harare,2015-10-03,7,lost
+3687,Pakistan,162.0,Zimbabwe,161.0,Pakistan,3.0,162.0,34.0,4.76,2,Harare,2015-10-05,7,won
+3689,SouthAfrica,303.0,India,,SouthAfrica,5.0,,50.0,6.06,1,Kanpur,2015-10-11,3,won
+3692,SouthAfrica,225.0,India,247.0,India,,248.0,43.4,5.15,2,Indore,2015-10-14,3,lost
+3693,Afghanistan,122.0,Zimbabwe,,Zimbabwe,,,34.1,3.57,1,Bulawayo,2015-10-16,40,lost
+3694,Afghanistan,271.0,Zimbabwe,,Afghanistan,6.0,,50.0,5.42,1,Bulawayo,2015-10-18,40,won
+3695,SouthAfrica,270.0,India,,SouthAfrica,7.0,,50.0,5.4,1,Rajkot,2015-10-18,3,won
+3696,Afghanistan,223.0,Zimbabwe,,Zimbabwe,8.0,,50.0,4.46,1,Bulawayo,2015-10-20,40,lost
+3697,Afghanistan,185.0,Zimbabwe,184.0,Afghanistan,7.0,185.0,46.4,3.96,2,Bulawayo,2015-10-22,40,won
+3698,SouthAfrica,264.0,India,299.0,India,9.0,300.0,50.0,5.28,2,Chennai,2015-10-22,3,lost
+3699,Afghanistan,245.0,Zimbabwe,,Afghanistan,9.0,,50.0,4.9,1,Bulawayo,2015-10-24,40,won
+3700,SouthAfrica,438.0,India,,SouthAfrica,4.0,,50.0,8.76,1,Mumbai,2015-10-25,3,won
+3701,WestIndies,159.0,Sri Lanka,,Sri Lanka,8.0,,26.0,6.11,1,Colombo (RPS),2015-11-01,4,lost
+3702,WestIndies,214.0,Sri Lanka,,Sri Lanka,,,37.4,5.68,1,Colombo (RPS),2015-11-04,4,lost
+3703,Bangladesh,273.0,Zimbabwe,,Bangladesh,9.0,,50.0,5.46,1,Dhaka,2015-11-07,25,won
+3704,WestIndies,206.0,Sri Lanka,,Sri Lanka,9.0,,36.0,5.72,1,Pallekele,2015-11-07,4,lost
+3705,Bangladesh,241.0,Zimbabwe,,Bangladesh,9.0,,50.0,4.82,1,Dhaka,2015-11-09,25,won
+3706,Bangladesh,276.0,Zimbabwe,,Bangladesh,9.0,,50.0,5.52,1,Dhaka,2015-11-11,25,won
+3707,Pakistan,217.0,England,216.0,Pakistan,4.0,217.0,43.4,4.96,2,Abu Dhabi,2015-11-11,7,won
+3708,Pakistan,188.0,England,283.0,England,,284.0,45.5,4.1,2,Abu Dhabi,2015-11-13,7,lost
+3710,Pakistan,208.0,England,,England,,,49.5,4.17,1,Sharjah,2015-11-17,7,lost
+3712,Pakistan,271.0,England,355.0,England,,356.0,40.4,6.66,2,Dubai (DSC),2015-11-20,7,lost
+3713,Afghanistan,131.0,Zimbabwe,,Afghanistan,,,38.5,3.37,1,Sharjah,2015-12-25,40,won
+3714,SriLanka,188.0,New Zealand,,New Zealand,,,47.0,4.0,1,Christchurch,2015-12-26,8,lost
+3715,SriLanka,117.0,New Zealand,,New Zealand,,,27.4,4.22,1,Christchurch,2015-12-28,8,lost
+3716,Afghanistan,254.0,Zimbabwe,253.0,Afghanistan,6.0,254.0,47.4,5.32,2,Sharjah,2015-12-29,40,won
+3717,SriLanka,277.0,New Zealand,276.0,SriLanka,2.0,277.0,46.2,5.97,2,Nelson,2015-12-31,8,won
+3718,SriLanka,,New Zealand,,n/r,,,0.0,,0,Nelson,2016-01-02,8,n/r
+3719,Afghanistan,58.0,Zimbabwe,175.0,Zimbabwe,,176.0,16.1,3.58,2,Sharjah,2016-01-02,40,lost
+3720,Afghanistan,161.0,Zimbabwe,226.0,Zimbabwe,,227.0,45.0,3.57,2,Sharjah,2016-01-04,40,lost
+3721,SriLanka,258.0,New Zealand,294.0,New Zealand,,295.0,47.1,5.46,2,Mount Maunganui,2016-01-05,8,lost
+3722,Afghanistan,254.0,Zimbabwe,248.0,Afghanistan,8.0,249.0,49.4,5.11,2,Sharjah,2016-01-06,40,won
+3723,India,309.0,Australia,,Australia,3.0,,50.0,6.18,1,Perth,2016-01-12,6,lost
+3724,India,308.0,Australia,,Australia,8.0,,50.0,6.16,1,Brisbane,2016-01-15,6,lost
+3725,India,295.0,Australia,,Australia,6.0,,50.0,5.9,1,Melbourne,2016-01-17,6,lost
+3726,India,323.0,Australia,348.0,Australia,,349.0,49.2,6.54,2,Canberra,2016-01-20,6,lost
+3727,India,331.0,Australia,330.0,India,4.0,331.0,49.4,6.66,2,Sydney,2016-01-23,6,won
+3728,Pakistan,210.0,New Zealand,280.0,New Zealand,,281.0,46.0,4.56,2,Wellington,2016-01-25,7,lost
+3730,Pakistan,290.0,New Zealand,,New Zealand,,,47.3,6.1,1,Auckland,2016-01-31,7,lost
+3731,Newzealad,307.0,Australia,,Newzealad,8.0,,50.0,6.14,1,Auckland,2016-02-03,5,won
+3732,SouthAfrica,250.0,England,289.0,England,5.0,290.0,33.3,7.46,2,Bloemfontein,2016-02-03,3,lost
+3733,Newzealad,281.0,Australia,,Australia,9.0,,50.0,5.62,1,Wellington,2016-02-06,5,lost
+3734,SouthAfrica,262.0,England,,England,7.0,,50.0,5.24,1,Port Elizabeth,2016-02-06,3,lost
+3735,Newzealad,246.0,Australia,,Newzealad,,,45.3,5.4,1,Hamilton,2016-02-08,5,won
+3736,SouthAfrica,319.0,England,318.0,SouthAfrica,3.0,319.0,46.2,6.88,2,Centurion,2016-02-09,3,won
+3737,SouthAfrica,266.0,England,262.0,SouthAfrica,9.0,263.0,47.2,5.61,2,Johannesburg,2016-02-12,3,won
+3738,SouthAfrica,237.0,England,236.0,SouthAfrica,5.0,237.0,44.0,5.38,2,Cape Town,2016-02-14,3,won
+3739,WestIndies,191.0,South Africa,188.0,WestIndies,6.0,189.0,48.1,3.96,2,Providence,2016-06-03,4,won
+3740,WestIndies,116.0,Australia,,Australia,,,32.3,3.56,1,Providence,2016-06-05,4,lost
+3741,SouthAfrica,189.0,Australia,,SouthAfrica,9.0,,50.0,3.78,1,Providence,2016-06-07,3,won
+3742,India,173.0,Zimbabwe,168.0,India,1.0,169.0,42.3,4.07,2,Harare,2016-06-11,6,won
+3743,SouthAfrica,252.0,Australia,288.0,Australia,,289.0,47.4,5.28,2,Basseterre,2016-06-11,3,lost
+3744,India,129.0,Zimbabwe,126.0,India,2.0,127.0,26.5,4.8,2,Harare,2016-06-13,6,won
+3745,WestIndies,266.0,Australia,265.0,WestIndies,6.0,266.0,45.4,5.82,2,Basseterre,2016-06-13,4,won
+3746,India,126.0,Zimbabwe,123.0,India,0.0,124.0,21.5,5.77,2,Harare,2016-06-15,6,won
+3747,WestIndies,204.0,South Africa,343.0,South Africa,,344.0,38.0,5.36,2,Basseterre,2016-06-15,4,lost
+3748,SriLanka,303.0,Ireland,,SriLanka,7.0,,50.0,6.06,1,Dublin (Malahide),2016-06-16,8,won
+3749,SriLanka,377.0,Ireland,,SriLanka,8.0,,50.0,7.54,1,Dublin (Malahide),2016-06-18,8,won
+3750,SouthAfrica,8.0,Australia,,n/r,0.0,,1.0,8.0,1,Bridgetown,2016-06-19,3,n/r
+3751,SriLanka,286.0,England,,tied,9.0,,50.0,5.72,1,Nottingham,2016-06-21,8,tied
+3752,WestIndies,282.0,Australia,,Australia,8.0,,50.0,5.64,1,Bridgetown,2016-06-21,4,lost
+3753,SriLanka,254.0,England,,England,7.0,,50.0,5.08,1,Birmingham,2016-06-24,8,lost
+3754,WestIndies,285.0,South Africa,,WestIndies,,,49.5,5.71,1,Bridgetown,2016-06-24,4,won
+3755,SriLanka,248.0,England,,n/r,9.0,,50.0,4.96,1,Bristol,2016-06-26,8,n/r
+3756,WestIndies,212.0,Australia,270.0,Australia,,271.0,45.4,4.64,2,Bridgetown,2016-06-26,4,lost
+3757,SriLanka,305.0,England,,England,5.0,,42.0,7.26,1,The Oval,2016-06-29,8,lost
+3758,SriLanka,202.0,England,324.0,England,,325.0,42.4,4.73,2,Cardiff,2016-07-02,8,lost
+3759,Afghanistan,283.0,Scotland,,n/r,4.0,,47.2,5.97,1,Edinburgh,2016-07-04,40,n/r
+3760,Afghanistan,178.0,Scotland,,Afghanistan,6.0,,37.2,4.76,1,Edinburgh,2016-07-06,40,won
+3761,Afghanistan,250.0,Ireland,,Afghanistan,,,49.2,5.06,1,Belfast,2016-07-12,40,won
+3762,Afghanistan,236.0,Ireland,,Ireland,,,49.1,4.8,1,Belfast,2016-07-14,40,lost
+3763,Afghanistan,229.0,Ireland,,Afghanistan,7.0,,50.0,4.58,1,Belfast,2016-07-17,40,won
+3764,Afghanistan,253.0,Ireland,265.0,Ireland,9.0,266.0,50.0,5.06,2,Belfast,2016-07-19,40,lost
+3767,Pakistan,337.0,Ireland,,Pakistan,6.0,,47.0,7.17,1,Dublin (Malahide),2016-08-18,7,won
+3768,SriLanka,227.0,Australia,,Australia,8.0,,50.0,4.54,1,Colombo (RPS),2016-08-21,8,lost
+3769,SriLanka,288.0,Australia,,SriLanka,,,48.5,5.89,1,Colombo (RPS),2016-08-24,8,won
+3770,Pakistan,260.0,England,,England,6.0,,50.0,5.2,1,Southampton,2016-08-24,7,lost
+3771,Pakistan,251.0,England,,England,,,49.5,5.03,1,Lord's,2016-08-27,7,lost
+3772,SriLanka,226.0,Australia,,Australia,,,49.2,4.58,1,Dambulla,2016-08-28,8,lost
+3773,Pakistan,275.0,England,444.0,England,,445.0,42.4,6.44,2,Nottingham,2016-08-30,7,lost
+3774,SriLanka,212.0,Australia,,Australia,,,50.0,4.24,1,Dambulla,2016-08-31,8,lost
+3775,Pakistan,247.0,England,,England,8.0,,50.0,4.94,1,Leeds,2016-09-01,7,lost
+3776,SriLanka,195.0,Australia,,Australia,,,40.2,4.83,1,Pallekele,2016-09-04,8,lost
+3777,Pakistan,304.0,England,302.0,Pakistan,6.0,303.0,48.2,6.28,2,Cardiff,2016-09-04,7,won
+3780,SouthAfrica,354.0,Ireland,,SouthAfrica,5.0,,50.0,7.08,1,Benoni,2016-09-25,3,won
+3781,Bangladesh,265.0,Afghanistan,,Bangladesh,,,50.0,5.3,1,Dhaka,2016-09-25,25,won
+3782,Australia,199.0,Ireland,198.0,Australia,1.0,199.0,30.1,6.59,2,Benoni,2016-09-27,2,won
+3783,Bangladesh,208.0,Afghanistan,,Afghanistan,,,49.2,4.21,1,Dhaka,2016-09-28,25,lost
+3784,WestIndies,175.0,Pakistan,286.0,Pakistan,,287.0,38.4,4.52,2,Sharjah,2016-09-30,4,lost
+3785,SouthAfrica,295.0,Australia,294.0,SouthAfrica,4.0,295.0,36.2,8.11,2,Centurion,2016-09-30,3,won
+3786,Bangladesh,279.0,Afghanistan,,Bangladesh,8.0,,50.0,5.58,1,Dhaka,2016-10-01,25,won
+3787,SouthAfrica,361.0,Australia,,SouthAfrica,6.0,,50.0,7.22,1,Johannesburg,2016-10-02,3,won
+3788,WestIndies,278.0,Pakistan,337.0,Pakistan,7.0,338.0,50.0,5.56,2,Sharjah,2016-10-02,4,lost
+3789,WestIndies,172.0,Pakistan,308.0,Pakistan,,309.0,44.0,3.9,2,Abu Dhabi,2016-10-05,4,lost
+3790,SouthAfrica,372.0,Australia,371.0,SouthAfrica,6.0,372.0,49.2,7.54,2,Durban,2016-10-05,3,won
+3791,England,309.0,Bangladesh,,England,8.0,,50.0,6.18,1,Dhaka,2016-10-07,1,won
+3792,SouthAfrica,168.0,Australia,167.0,SouthAfrica,4.0,168.0,35.3,4.73,2,Port Elizabeth,2016-10-09,3,won
+3793,England,204.0,Bangladesh,238.0,Bangladesh,,239.0,44.4,4.56,2,Dhaka,2016-10-09,1,lost
+3794,England,278.0,Bangladesh,277.0,England,6.0,278.0,47.5,5.81,2,Chattogram,2016-10-12,1,won
+3795,SouthAfrica,327.0,Australia,,SouthAfrica,8.0,,50.0,6.54,1,Cape Town,2016-10-12,3,won
+3796,Newzealad,190.0,India,,India,,,43.5,4.33,1,Dharamsala,2016-10-16,5,lost
+3797,Newzealad,242.0,India,,Newzealad,9.0,,50.0,4.84,1,Delhi,2016-10-20,5,won
+3798,Newzealad,285.0,India,,India,,,49.4,5.73,1,Mohali,2016-10-23,5,lost
+3799,Newzealad,260.0,India,,Newzealad,7.0,,50.0,5.2,1,Ranchi,2016-10-26,5,won
+3800,Newzealad,79.0,India,269.0,India,,270.0,23.1,3.41,2,Visakhapatnam,2016-10-29,5,lost
+3804,SriLanka,155.0,Zimbabwe,154.0,SriLanka,2.0,155.0,24.3,6.32,2,Harare,2016-11-14,8,won
+3805,WestIndies,227.0,Sri Lanka,,WestIndies,,,49.2,4.6,1,Harare,2016-11-16,4,won
+3806,WestIndies,257.0,Zimbabwe,257.0,tied,8.0,258.0,50.0,5.14,2,Bulawayo,2016-11-19,4,tied
+3807,SriLanka,,Zimbabwe,,n/r,,,0.0,,0,Bulawayo,2016-11-21,8,n/r
+3808,WestIndies,329.0,Sri Lanka,330.0,Sri Lanka,9.0,331.0,50.0,6.58,2,Bulawayo,2016-11-23,4,lost
+3809,WestIndies,124.0,Zimbabwe,129.0,Zimbabwe,5.0,130.0,27.3,4.5,2,Bulawayo,2016-11-25,4,lost
+3810,SriLanka,166.0,Zimbabwe,160.0,SriLanka,4.0,161.0,37.3,4.42,2,Bulawayo,2016-11-27,8,won
+3811,Newzealad,256.0,Australia,324.0,Australia,,325.0,44.2,5.77,2,Sydney,2016-12-04,5,lost
+3812,Newzealad,262.0,Australia,378.0,Australia,,379.0,47.2,5.53,2,Canberra,2016-12-06,5,lost
+3813,Newzealad,147.0,Australia,264.0,Australia,,265.0,36.1,4.06,2,Melbourne,2016-12-09,5,lost
+3814,Newzealad,341.0,Bangladesh,,Newzealad,7.0,,50.0,6.82,1,Christchurch,2016-12-26,5,won
+3815,Newzealad,251.0,Bangladesh,,Newzealad,,,50.0,5.02,1,Nelson,2016-12-29,5,won
+3816,Newzealad,239.0,Bangladesh,236.0,Newzealad,2.0,237.0,41.2,5.78,2,Nelson,2016-12-31,5,won
+3817,Pakistan,176.0,Australia,268.0,Australia,,269.0,42.4,4.12,2,Brisbane,2017-01-13,7,lost
+3818,Pakistan,221.0,Australia,220.0,Pakistan,4.0,221.0,47.4,4.63,2,Melbourne,2017-01-15,7,won
+3819,India,356.0,England,350.0,India,7.0,351.0,48.1,7.39,2,Pune,2017-01-15,6,won
+3820,Pakistan,263.0,Australia,,Australia,7.0,,50.0,5.26,1,Perth,2017-01-19,7,lost
+3821,India,381.0,England,,India,6.0,,50.0,7.62,1,Cuttack,2017-01-19,6,won
+3822,Pakistan,267.0,Australia,353.0,Australia,,354.0,43.5,6.09,2,Sydney,2017-01-22,7,lost
+3824,India,316.0,England,321.0,England,9.0,322.0,50.0,6.32,2,Kolkata,2017-01-22,6,lost
+3826,Pakistan,312.0,Australia,369.0,Australia,,370.0,49.1,6.34,2,Adelaide,2017-01-26,7,lost
+3828,SriLanka,181.0,South Africa,,South Africa,,,48.3,3.73,1,Port Elizabeth,2017-01-28,8,lost
+3829,Newzealad,286.0,Australia,,Newzealad,9.0,,50.0,5.72,1,Auckland,2017-01-30,5,won
+3830,SriLanka,186.0,South Africa,307.0,South Africa,,308.0,37.5,4.91,2,Durban,2017-02-01,8,lost
+3831,SriLanka,163.0,South Africa,,South Africa,,,39.2,4.14,1,Johannesburg,2017-02-04,8,lost
+3832,Newzealad,281.0,Australia,,Newzealad,9.0,,50.0,5.62,1,Hamilton,2017-02-05,5,won
+3833,SriLanka,327.0,South Africa,367.0,South Africa,,368.0,48.1,6.78,2,Cape Town,2017-02-07,8,lost
+3834,SriLanka,296.0,South Africa,384.0,South Africa,8.0,385.0,50.0,5.92,2,Centurion,2017-02-10,8,lost
+3835,Afghanistan,215.0,Zimbabwe,,Afghanistan,,,49.2,4.35,1,Harare,2017-02-16,40,won
+3836,SouthAfrica,210.0,New Zealand,207.0,SouthAfrica,6.0,208.0,33.5,6.2,2,Hamilton,2017-02-19,3,won
+3837,Afghanistan,238.0,Zimbabwe,,Afghanistan,9.0,,50.0,4.76,1,Harare,2017-02-19,40,won
+3838,Afghanistan,126.0,Zimbabwe,129.0,Zimbabwe,,130.0,29.3,4.27,2,Harare,2017-02-21,40,lost
+3839,SouthAfrica,283.0,New Zealand,289.0,New Zealand,9.0,290.0,50.0,5.66,2,Christchurch,2017-02-22,3,lost
+3840,Afghanistan,111.0,Zimbabwe,,Zimbabwe,,,38.5,2.85,1,Harare,2017-02-24,40,lost
+3841,SouthAfrica,271.0,New Zealand,,SouthAfrica,8.0,,50.0,5.42,1,Wellington,2017-02-25,3,won
+3842,Afghanistan,253.0,Zimbabwe,,Afghanistan,9.0,,50.0,5.06,1,Harare,2017-02-26,40,won
+3843,SouthAfrica,279.0,New Zealand,,New Zealand,8.0,,50.0,5.58,1,Hamilton,2017-03-01,3,lost
+3845,WestIndies,251.0,England,296.0,England,,297.0,47.2,5.3,2,North Sound,2017-03-03,4,lost
+3846,SouthAfrica,150.0,New Zealand,149.0,SouthAfrica,4.0,150.0,32.2,4.63,2,Auckland,2017-03-04,3,won
+3848,WestIndies,225.0,England,,England,,,47.5,4.7,1,North Sound,2017-03-05,4,lost
+3849,WestIndies,142.0,England,328.0,England,,329.0,39.2,3.61,2,Bridgetown,2017-03-09,4,lost
+3850,Afghanistan,292.0,Ireland,,Afghanistan,7.0,,50.0,5.84,1,Greater Noida,2017-03-15,40,won
+3851,Afghanistan,338.0,Ireland,,Afghanistan,,,50.0,6.76,1,Greater Noida,2017-03-17,40,won
+3852,Afghanistan,264.0,Ireland,,Ireland,8.0,,50.0,5.28,1,Greater Noida,2017-03-19,40,lost
+3853,Afghanistan,220.0,Ireland,,Ireland,,,49.5,4.41,1,Greater Noida,2017-03-22,40,lost
+3854,Afghanistan,231.0,Ireland,229.0,Afghanistan,3.0,230.0,48.4,4.74,2,Greater Noida,2017-03-24,40,won
+3855,SriLanka,234.0,Bangladesh,324.0,Bangladesh,,325.0,45.1,5.18,2,Dambulla,2017-03-25,8,lost
+3856,SriLanka,311.0,Bangladesh,,n/r,,,49.5,6.24,1,Dambulla,2017-03-28,8,n/r
+3858,SriLanka,280.0,Bangladesh,,SriLanka,9.0,,50.0,5.6,1,Colombo (SSC),2017-04-01,8,won
+3861,WestIndies,309.0,Pakistan,308.0,WestIndies,6.0,309.0,49.0,6.3,2,Providence,2017-04-07,4,won
+3862,WestIndies,208.0,Pakistan,282.0,Pakistan,,283.0,44.5,4.63,2,Providence,2017-04-09,4,lost
+3863,WestIndies,233.0,Pakistan,,Pakistan,9.0,,50.0,4.66,1,Providence,2017-04-11,4,lost
+3864,England,127.0,Ireland,126.0,England,3.0,127.0,20.0,6.35,2,Bristol,2017-05-05,1,won
+3865,England,328.0,Ireland,,England,6.0,,50.0,6.56,1,Lord's,2017-05-07,1,won
+3866,Bangladesh,157.0,Ireland,,n/r,4.0,,31.1,5.03,1,Dublin (Malahide),2017-05-12,25,n/r
+3867,Newzealad,289.0,Ireland,,Newzealad,7.0,,50.0,5.78,1,Dublin (Malahide),2017-05-14,5,won
+3868,Newzealad,258.0,Bangladesh,257.0,Newzealad,6.0,258.0,47.3,5.43,2,Dublin,2017-05-17,5,won
+3869,Bangladesh,182.0,Ireland,181.0,Bangladesh,2.0,182.0,27.1,6.69,2,Dublin (Malahide),2017-05-19,25,won
+3870,Newzealad,344.0,Ireland,,Newzealad,6.0,,50.0,6.88,1,Dublin (Malahide),2017-05-21,5,won
+3871,Newzealad,270.0,Bangladesh,,Bangladesh,8.0,,50.0,5.4,1,Dublin,2017-05-24,5,lost
+3872,SouthAfrica,267.0,England,339.0,England,,340.0,45.0,5.93,2,Leeds,2017-05-24,3,lost
+3873,SouthAfrica,328.0,England,330.0,England,5.0,331.0,50.0,6.56,2,Southampton,2017-05-27,3,lost
+3874,SouthAfrica,156.0,England,153.0,SouthAfrica,3.0,154.0,28.5,5.41,2,Lord's,2017-05-29,3,won
+3875,England,308.0,Bangladesh,305.0,England,2.0,306.0,47.2,6.5,2,The Oval,2017-06-01,1,won
+3876,Newzealad,291.0,Australia,,n/r,,,45.0,6.46,1,Birmingham,2017-06-02,5,n/r
+3877,SriLanka,203.0,South Africa,299.0,South Africa,,300.0,41.3,4.89,2,The Oval,2017-06-03,8,lost
+3878,Pakistan,164.0,India,288.0,India,,289.0,33.4,4.87,2,Birmingham,2017-06-04,7,lost
+3879,Bangladesh,182.0,Australia,,n/r,,,44.3,4.08,1,The Oval,2017-06-05,25,n/r
+3880,Newzealad,223.0,England,310.0,England,,311.0,44.3,5.01,2,Cardiff,2017-06-06,5,lost
+3881,SouthAfrica,219.0,Pakistan,,Pakistan,8.0,,50.0,4.38,1,Birmingham,2017-06-07,3,lost
+3882,SriLanka,322.0,India,321.0,SriLanka,3.0,322.0,48.4,6.61,2,The Oval,2017-06-08,8,won
+3883,Newzealad,265.0,Bangladesh,,Bangladesh,8.0,,50.0,5.3,1,Cardiff,2017-06-09,5,lost
+3884,WestIndies,149.0,Afghanistan,212.0,Afghanistan,,213.0,44.4,3.33,2,Gros Islet,2017-06-09,4,lost
+3885,England,240.0,Australia,200.0,England,4.0,201.0,40.2,5.95,2,Birmingham,2017-06-10,1,won
+3886,SouthAfrica,191.0,India,,India,,,44.3,4.29,1,The Oval,2017-06-11,3,lost
+3887,WestIndies,138.0,Afghanistan,135.0,WestIndies,6.0,136.0,39.2,3.5,2,Gros Islet,2017-06-11,4,won
+3888,SriLanka,236.0,Pakistan,,Pakistan,,,49.2,4.78,1,Cardiff,2017-06-12,8,lost
+3889,Pakistan,215.0,England,211.0,Pakistan,2.0,212.0,37.1,5.78,2,Cardiff,2017-06-14,7,won
+3890,WestIndies,,Afghanistan,,n/r,,,0.0,,0,Gros Islet,2017-06-14,4,n/r
+3891,India,265.0,Bangladesh,264.0,India,1.0,265.0,40.1,6.59,2,Birmingham,2017-06-15,6,won
+3894,Pakistan,338.0,India,,Pakistan,4.0,,50.0,6.76,1,The Oval,2017-06-18,7,won
+3895,WestIndies,,India,,n/r,,,0.0,,0,Port of Spain,2017-06-23,4,n/r
+3896,WestIndies,205.0,India,310.0,India,6.0,311.0,43.0,4.76,2,Port of Spain,2017-06-25,4,lost
+3897,SriLanka,316.0,Zimbabwe,,Zimbabwe,5.0,,50.0,6.32,1,Galle,2017-06-30,8,lost
+3898,WestIndies,158.0,India,251.0,India,,252.0,38.1,4.13,2,North Sound,2017-06-30,4,lost
+3899,SriLanka,158.0,Zimbabwe,155.0,SriLanka,3.0,156.0,30.1,5.23,2,Galle,2017-07-02,8,won
+3900,WestIndies,189.0,India,,WestIndies,9.0,,50.0,3.78,1,North Sound,2017-07-02,4,won
+3901,SriLanka,312.0,Zimbabwe,310.0,SriLanka,2.0,311.0,47.2,6.59,2,Hambantota,2017-07-06,8,won
+3902,WestIndies,205.0,India,,India,9.0,,50.0,4.1,1,Kingston,2017-07-06,4,lost
+3903,SriLanka,300.0,Zimbabwe,,Zimbabwe,6.0,,50.0,6.0,1,Hambantota,2017-07-08,8,lost
+3904,SriLanka,203.0,Zimbabwe,,Zimbabwe,8.0,,50.0,4.06,1,Hambantota,2017-07-10,8,lost
+3905,SriLanka,216.0,India,,India,,,43.2,4.98,1,Dambulla,2017-08-20,8,lost
+3906,SriLanka,236.0,India,,India,8.0,,50.0,4.72,1,Pallekele,2017-08-24,8,lost
+3907,SriLanka,217.0,India,,India,9.0,,50.0,4.34,1,Pallekele,2017-08-27,8,lost
+3908,SriLanka,207.0,India,375.0,India,,376.0,42.4,4.85,2,Colombo (RPS),2017-08-31,8,lost
+3909,SriLanka,238.0,India,,India,,,49.4,4.79,1,Colombo (RPS),2017-09-03,8,lost
+3910,India,281.0,Australia,,India,7.0,,50.0,5.62,1,Chennai,2017-09-17,6,won
+3911,WestIndies,204.0,England,,England,9.0,,42.0,4.85,1,Manchester,2017-09-19,4,lost
+3912,India,252.0,Australia,,India,,,50.0,5.04,1,Kolkata,2017-09-21,6,won
+3913,WestIndies,,England,,n/r,,,0.0,,0,Nottingham,2017-09-21,4,n/r
+3914,India,294.0,Australia,293.0,India,5.0,294.0,47.5,6.14,2,Indore,2017-09-24,6,won
+3915,WestIndies,245.0,England,369.0,England,,370.0,39.1,6.25,2,Bristol,2017-09-24,4,lost
+3916,WestIndies,356.0,England,,England,5.0,,50.0,7.12,1,The Oval,2017-09-27,4,lost
+3917,India,313.0,Australia,334.0,Australia,8.0,335.0,50.0,6.26,2,Bengaluru,2017-09-28,6,lost
+3918,WestIndies,288.0,England,,England,6.0,,50.0,5.76,1,Southampton,2017-09-29,4,lost
+3919,India,243.0,Australia,242.0,India,3.0,243.0,42.5,5.67,2,Nagpur,2017-10-01,6,won
+3922,SriLanka,209.0,Pakistan,292.0,Pakistan,8.0,293.0,50.0,4.18,2,Dubai (DSC),2017-10-13,8,lost
+3923,SouthAfrica,282.0,Bangladesh,278.0,SouthAfrica,0.0,279.0,42.5,6.58,2,Kimberley,2017-10-15,3,won
+3924,SriLanka,187.0,Pakistan,219.0,Pakistan,,220.0,48.0,3.89,2,Abu Dhabi,2017-10-16,8,lost
+3925,SouthAfrica,353.0,Bangladesh,,SouthAfrica,6.0,,50.0,7.06,1,Paarl,2017-10-18,3,won
+3926,SriLanka,208.0,Pakistan,,Pakistan,,,48.2,4.3,1,Abu Dhabi,2017-10-18,8,lost
+3927,SriLanka,173.0,Pakistan,,Pakistan,,,43.4,3.96,1,Sharjah,2017-10-20,8,lost
+3928,Newzealad,284.0,India,280.0,Newzealad,4.0,281.0,49.0,5.79,2,Mumbai,2017-10-22,5,won
+3929,SouthAfrica,369.0,Bangladesh,,SouthAfrica,6.0,,50.0,7.38,1,East London,2017-10-22,3,won
+3930,SriLanka,103.0,Pakistan,,Pakistan,,,26.2,3.91,1,Sharjah,2017-10-23,8,lost
+3931,Newzealad,230.0,India,,India,9.0,,50.0,4.6,1,Pune,2017-10-25,5,lost
+3932,Newzealad,331.0,India,337.0,India,7.0,338.0,50.0,6.62,2,Kanpur,2017-10-29,5,lost
+3935,Afghanistan,238.0,Ireland,,Afghanistan,9.0,,50.0,4.76,1,Sharjah,2017-12-05,40,won
+3937,Afghanistan,220.0,Ireland,271.0,Ireland,,272.0,45.2,4.85,2,Sharjah,2017-12-07,40,lost
+3939,SriLanka,114.0,India,112.0,SriLanka,3.0,113.0,20.4,5.51,2,Dharamsala,2017-12-10,8,won
+3940,Afghanistan,177.0,Ireland,,Ireland,,,48.2,3.66,1,Sharjah,2017-12-10,40,lost
+3941,SriLanka,251.0,India,392.0,India,8.0,393.0,50.0,5.02,2,Mohali,2017-12-13,8,lost
+3942,SriLanka,215.0,India,,India,,,44.5,4.79,1,Visakhapatnam,2017-12-17,8,lost
+3943,WestIndies,248.0,New Zealand,,New Zealand,9.0,,50.0,4.96,1,Whangarei,2017-12-20,4,lost
+3944,WestIndies,121.0,New Zealand,325.0,New Zealand,,326.0,28.0,4.32,2,Christchurch,2017-12-23,4,lost
+3945,WestIndies,99.0,New Zealand,165.0,New Zealand,9.0,166.0,23.0,4.3,2,Christchurch,2017-12-26,4,lost
+3946,Pakistan,166.0,New Zealand,227.0,New Zealand,6.0,228.0,30.1,5.5,2,Wellington,2018-01-06,7,lost
+3947,Pakistan,246.0,New Zealand,,New Zealand,9.0,,50.0,4.92,1,Nelson,2018-01-09,7,lost
+3949,Pakistan,74.0,New Zealand,257.0,New Zealand,,258.0,27.2,2.7,2,Dunedin,2018-01-13,7,lost
+3951,England,308.0,Australia,304.0,England,5.0,305.0,48.5,6.3,2,Melbourne,2018-01-14,1,won
+3952,Bangladesh,171.0,Zimbabwe,170.0,Bangladesh,2.0,171.0,28.3,6.0,2,Dhaka,2018-01-15,25,won
+3953,Pakistan,262.0,New Zealand,,New Zealand,8.0,,50.0,5.24,1,Hamilton,2018-01-16,7,lost
+3955,SriLanka,278.0,Zimbabwe,290.0,Zimbabwe,,291.0,48.1,5.77,2,Dhaka,2018-01-17,8,lost
+3957,Pakistan,256.0,New Zealand,271.0,New Zealand,,272.0,49.0,5.22,2,Wellington,2018-01-19,7,lost
+3958,England,274.0,Australia,270.0,England,6.0,271.0,44.2,6.18,2,Brisbane,2018-01-19,1,won
+3959,SriLanka,157.0,Bangladesh,320.0,Bangladesh,,321.0,32.2,4.85,2,Dhaka,2018-01-19,8,lost
+3960,England,302.0,Australia,,England,6.0,,50.0,6.04,1,Sydney,2018-01-21,1,won
+3962,SriLanka,202.0,Zimbabwe,198.0,SriLanka,5.0,199.0,44.5,4.5,2,Dhaka,2018-01-21,8,won
+3964,Bangladesh,216.0,Zimbabwe,,Bangladesh,9.0,,50.0,4.32,1,Dhaka,2018-01-23,25,won
+3965,SriLanka,83.0,Bangladesh,82.0,SriLanka,0.0,83.0,11.5,7.01,2,Dhaka,2018-01-25,8,won
+3966,England,196.0,Australia,,Australia,,,44.5,4.37,1,Adelaide,2018-01-26,1,lost
+3967,SriLanka,221.0,Bangladesh,,SriLanka,,,50.0,4.42,1,Dhaka,2018-01-27,8,won
+3968,England,259.0,Australia,,England,,,47.4,5.43,1,Perth,2018-01-28,1,won
+3969,SouthAfrica,269.0,India,,India,8.0,,50.0,5.38,1,Durban,2018-02-01,3,lost
+3970,SouthAfrica,118.0,India,,India,,,32.2,3.64,1,Centurion,2018-02-04,3,lost
+3971,SouthAfrica,179.0,India,303.0,India,,304.0,40.0,4.47,2,Cape Town,2018-02-07,3,lost
+3972,Afghanistan,333.0,Zimbabwe,,Afghanistan,5.0,,50.0,6.66,1,Sharjah,2018-02-09,40,won
+3973,SouthAfrica,207.0,India,201.0,SouthAfrica,5.0,202.0,25.3,8.11,2,Johannesburg,2018-02-10,3,won
+3974,Afghanistan,179.0,Zimbabwe,333.0,Zimbabwe,,334.0,30.1,5.93,2,Sharjah,2018-02-11,40,lost
+3975,Afghanistan,158.0,Zimbabwe,154.0,Afghanistan,4.0,155.0,27.3,5.74,2,Sharjah,2018-02-13,40,won
+3976,SouthAfrica,201.0,India,274.0,India,,275.0,42.2,4.74,2,Port Elizabeth,2018-02-13,3,lost
+3977,Afghanistan,135.0,Zimbabwe,134.0,Afghanistan,0.0,135.0,21.1,6.37,2,Sharjah,2018-02-16,40,won
+3978,SouthAfrica,204.0,India,,India,,,46.5,4.35,1,Centurion,2018-02-16,3,lost
+3979,Afghanistan,241.0,Zimbabwe,,Afghanistan,9.0,,50.0,4.82,1,Sharjah,2018-02-19,40,won
+3980,Newzealad,287.0,England,284.0,Newzealad,7.0,285.0,49.2,5.81,2,Hamilton,2018-02-25,5,won
+3981,Newzealad,223.0,England,,England,,,49.4,4.48,1,Mount Maunganui,2018-02-28,5,lost
+3982,Newzealad,230.0,England,234.0,England,8.0,235.0,50.0,4.6,2,Wellington,2018-03-03,5,lost
+3983,Afghanistan,255.0,Scotland,,Scotland,,,49.4,5.13,1,Bulawayo,2018-03-04,40,lost
+3987,WestIndies,357.0,U.A.E.,,WestIndies,4.0,,50.0,7.14,1,Harare,2018-03-06,4,won
+3988,Afghanistan,194.0,Zimbabwe,196.0,Zimbabwe,,197.0,49.3,3.91,2,Bulawayo,2018-03-06,40,lost
+3989,Newzealad,339.0,England,335.0,Newzealad,5.0,336.0,49.3,6.84,2,Dunedin,2018-03-07,5,won
+3990,Afghanistan,195.0,Hong Kong,225.0,Hong Kong,9.0,226.0,46.0,4.23,2,Bulawayo,2018-03-08,40,lost
+3991,WestIndies,201.0,P.N.G.,200.0,WestIndies,4.0,201.0,43.0,4.67,2,Harare,2018-03-08,4,won
+3992,Newzealad,223.0,England,,England,,,49.5,4.47,1,Christchurch,2018-03-10,5,lost
+3993,WestIndies,257.0,Ireland,,WestIndies,8.0,,50.0,5.14,1,Harare,2018-03-10,4,won
+3997,WestIndies,197.0,Afghanistan,,Afghanistan,8.0,,50.0,3.94,1,Harare,2018-03-15,4,lost
+4002,WestIndies,290.0,Zimbabwe,289.0,WestIndies,6.0,290.0,49.0,5.91,2,Harare,2018-03-19,4,won
+4003,Afghanistan,178.0,U.A.E.,177.0,Afghanistan,5.0,178.0,34.3,5.15,2,Harare,2018-03-20,40,won
+4004,WestIndies,198.0,Scotland,,WestIndies,,,48.4,4.06,1,Harare,2018-03-21,4,won
+4006,Afghanistan,213.0,Ireland,209.0,Afghanistan,5.0,210.0,49.1,4.33,2,Harare,2018-03-23,40,won
+4007,WestIndies,204.0,Afghanistan,,Afghanistan,,,46.5,4.35,1,Harare,2018-03-25,4,lost
+4008,England,365.0,Scotland,371.0,Scotland,,372.0,48.5,7.47,2,Edinburgh,2018-06-10,1,lost
+4009,England,218.0,Australia,214.0,England,7.0,215.0,44.0,4.95,2,The Oval,2018-06-13,1,won
+4010,England,342.0,Australia,,England,8.0,,50.0,6.84,1,Cardiff,2018-06-16,1,won
+4011,England,481.0,Australia,,England,6.0,,50.0,9.62,1,Nottingham,2018-06-19,1,won
+4012,England,314.0,Australia,310.0,England,4.0,311.0,44.4,7.02,2,Chester-le-Street,2018-06-21,1,won
+4013,England,208.0,Australia,205.0,England,9.0,206.0,48.3,4.28,2,Manchester,2018-06-24,1,won
+4014,India,269.0,England,268.0,India,2.0,269.0,40.1,6.69,2,Nottingham,2018-07-12,6,won
+4015,Pakistan,308.0,Zimbabwe,,Pakistan,7.0,,50.0,6.16,1,Bulawayo,2018-07-13,7,won
+4016,India,236.0,England,322.0,England,,323.0,50.0,4.72,2,Lord's,2018-07-14,6,lost
+4017,Pakistan,195.0,Zimbabwe,194.0,Pakistan,1.0,195.0,36.0,5.41,2,Bulawayo,2018-07-16,7,won
+4018,India,256.0,England,,England,8.0,,50.0,5.12,1,Leeds,2018-07-17,6,lost
+4019,Pakistan,69.0,Zimbabwe,67.0,Pakistan,1.0,68.0,9.5,7.01,2,Bulawayo,2018-07-18,7,won
+4020,Pakistan,399.0,Zimbabwe,,Pakistan,1.0,,50.0,7.98,1,Bulawayo,2018-07-20,7,won
+4021,Pakistan,364.0,Zimbabwe,,Pakistan,4.0,,50.0,7.28,1,Bulawayo,2018-07-22,7,won
+4022,WestIndies,231.0,Bangladesh,279.0,Bangladesh,9.0,280.0,50.0,4.62,2,Providence,2018-07-22,4,lost
+4023,WestIndies,271.0,Bangladesh,,WestIndies,,,49.3,5.47,1,Providence,2018-07-25,4,won
+4024,WestIndies,283.0,Bangladesh,301.0,Bangladesh,6.0,302.0,50.0,5.66,2,Basseterre,2018-07-28,4,lost
+4025,SriLanka,193.0,South Africa,,South Africa,,,34.3,5.59,1,Dambulla,2018-07-29,8,lost
+4027,SriLanka,244.0,South Africa,,South Africa,8.0,,50.0,4.88,1,Dambulla,2018-08-01,8,lost
+4029,SriLanka,285.0,South Africa,363.0,South Africa,,364.0,45.2,6.28,2,Pallekele,2018-08-05,8,lost
+4030,SriLanka,306.0,South Africa,,SriLanka,7.0,,39.0,7.84,1,Pallekele,2018-08-08,8,won
+4031,SriLanka,299.0,South Africa,,SriLanka,8.0,,50.0,5.98,1,Colombo (RPS),2018-08-12,8,won
+4032,Afghanistan,227.0,Ireland,,Afghanistan,9.0,,50.0,4.54,1,Belfast,2018-08-27,40,won
+4033,Afghanistan,182.0,Ireland,,Ireland,9.0,,50.0,3.64,1,Belfast,2018-08-29,40,lost
+4035,Afghanistan,127.0,Ireland,124.0,Afghanistan,2.0,125.0,23.5,5.32,2,Belfast,2018-08-31,40,won
+4036,SriLanka,124.0,Bangladesh,261.0,Bangladesh,,262.0,35.2,3.5,2,Dubai (DSC),2018-09-15,8,lost
+4037,Pakistan,120.0,Hong Kong,116.0,Pakistan,2.0,117.0,23.4,5.07,2,Dubai (DSC),2018-09-16,7,won
+4038,SriLanka,158.0,Afghanistan,249.0,Afghanistan,,250.0,41.2,3.82,2,Abu Dhabi,2018-09-17,8,lost
+4039,India,285.0,Hong Kong,,India,7.0,,50.0,5.7,1,Dubai (DSC),2018-09-18,6,won
+4040,Pakistan,162.0,India,,India,,,43.1,3.75,1,Dubai (DSC),2018-09-19,7,lost
+4041,Bangladesh,119.0,Afghanistan,255.0,Afghanistan,,256.0,42.1,2.82,2,Abu Dhabi,2018-09-20,25,lost
+4042,India,174.0,Bangladesh,173.0,India,3.0,174.0,36.2,4.78,2,Dubai (DSC),2018-09-21,6,won
+4043,Pakistan,258.0,Afghanistan,257.0,Pakistan,7.0,258.0,49.3,5.21,2,Abu Dhabi,2018-09-21,7,won
+4044,Pakistan,237.0,India,,India,7.0,,50.0,4.74,1,Dubai (DSC),2018-09-23,7,lost
+4045,Bangladesh,249.0,Afghanistan,,Bangladesh,7.0,,50.0,4.98,1,Abu Dhabi,2018-09-23,25,won
+4046,India,252.0,Afghanistan,252.0,tied,,253.0,49.5,5.05,2,Dubai (DSC),2018-09-25,6,tied
+4047,Pakistan,202.0,Bangladesh,239.0,Bangladesh,9.0,240.0,50.0,4.04,2,Abu Dhabi,2018-09-26,7,lost
+4048,India,223.0,Bangladesh,222.0,India,7.0,223.0,50.0,4.46,2,Dubai (DSC),2018-09-28,6,won
+4049,SouthAfrica,119.0,Zimbabwe,117.0,SouthAfrica,5.0,118.0,26.1,4.54,2,Kimberley,2018-09-30,3,won
+4050,SouthAfrica,198.0,Zimbabwe,,SouthAfrica,,,47.3,4.16,1,Bloemfontein,2018-10-03,3,won
+4051,SouthAfrica,231.0,Zimbabwe,228.0,SouthAfrica,6.0,229.0,45.5,5.04,2,Paarl,2018-10-06,3,won
+4052,SriLanka,,England,,n/r,,,0.0,,0,Dambulla,2018-10-10,8,n/r
+4053,SriLanka,140.0,England,171.0,England,5.0,172.0,29.0,4.82,2,Dambulla,2018-10-13,8,lost
+4054,SriLanka,150.0,England,,England,9.0,,21.0,7.14,1,Pallekele,2018-10-17,8,lost
+4055,SriLanka,273.0,England,,England,7.0,,50.0,5.46,1,Pallekele,2018-10-20,8,lost
+4056,WestIndies,322.0,India,,India,8.0,,50.0,6.44,1,Guwahati,2018-10-21,4,lost
+4057,Bangladesh,271.0,Zimbabwe,,Bangladesh,8.0,,50.0,5.42,1,Dhaka,2018-10-21,25,won
+4058,SriLanka,366.0,England,,SriLanka,6.0,,50.0,7.32,1,Colombo (RPS),2018-10-23,8,won
+4059,WestIndies,321.0,India,321.0,tied,7.0,322.0,50.0,6.42,2,Visakhapatnam,2018-10-24,4,tied
+4060,Bangladesh,250.0,Zimbabwe,246.0,Bangladesh,3.0,247.0,44.1,5.66,2,Chattogram,2018-10-24,25,won
+4061,Bangladesh,288.0,Zimbabwe,286.0,Bangladesh,3.0,287.0,42.1,6.83,2,Chattogram,2018-10-26,25,won
+4062,WestIndies,283.0,India,,WestIndies,9.0,,50.0,5.66,1,Pune,2018-10-27,4,won
+4063,WestIndies,153.0,India,377.0,India,,378.0,36.2,4.21,2,Mumbai (BS),2018-10-29,4,lost
+4064,WestIndies,104.0,India,,India,,,31.5,3.26,1,Thiruvananthapuram,2018-11-01,4,lost
+4065,SouthAfrica,153.0,Australia,152.0,SouthAfrica,4.0,153.0,29.2,5.21,2,Perth,2018-11-04,3,won
+4066,Pakistan,219.0,New Zealand,266.0,New Zealand,,267.0,47.2,4.62,2,Abu Dhabi,2018-11-07,7,lost
+4067,SouthAfrica,224.0,Australia,231.0,Australia,9.0,232.0,50.0,4.48,2,Adelaide,2018-11-09,3,lost
+4068,Pakistan,212.0,New Zealand,209.0,Pakistan,4.0,210.0,40.3,5.23,2,Abu Dhabi,2018-11-09,7,won
+4069,SouthAfrica,320.0,Australia,,SouthAfrica,5.0,,50.0,6.4,1,Hobart,2018-11-11,3,won
+4070,Pakistan,279.0,New Zealand,,n/r,8.0,,50.0,5.58,1,Dubai (DSC),2018-11-11,7,n/r
+4071,WestIndies,195.0,Bangladesh,,Bangladesh,9.0,,50.0,3.9,1,Dhaka,2018-12-09,4,lost
+4072,WestIndies,256.0,Bangladesh,255.0,WestIndies,6.0,256.0,49.4,5.15,2,Dhaka,2018-12-11,4,won
+4073,WestIndies,198.0,Bangladesh,,Bangladesh,9.0,,50.0,3.96,1,Sylhet,2018-12-14,4,lost
+4074,SriLanka,326.0,New Zealand,371.0,New Zealand,,372.0,49.0,6.65,2,Mount Maunganui,2019-01-03,8,lost
+4075,SriLanka,298.0,New Zealand,319.0,New Zealand,,320.0,46.2,6.43,2,Mount Maunganui,2019-01-05,8,lost
+4076,SriLanka,249.0,New Zealand,364.0,New Zealand,,365.0,41.4,5.97,2,Nelson,2019-01-08,8,lost
+4077,India,254.0,Australia,288.0,Australia,9.0,289.0,50.0,5.08,2,Sydney,2019-01-12,6,lost
+4078,India,299.0,Australia,298.0,India,4.0,299.0,49.2,6.06,2,Adelaide,2019-01-15,6,won
+4079,India,234.0,Australia,230.0,India,3.0,231.0,49.2,4.74,2,Melbourne,2019-01-18,6,won
+4080,SouthAfrica,266.0,Pakistan,,Pakistan,2.0,,50.0,5.32,1,Port Elizabeth,2019-01-19,3,lost
+4081,SouthAfrica,207.0,Pakistan,203.0,SouthAfrica,5.0,204.0,42.0,4.92,2,Durban,2019-01-22,3,won
+4082,Newzealad,157.0,India,,India,,,38.0,4.13,1,Napier,2019-01-23,5,lost
+4084,SouthAfrica,187.0,Pakistan,174.0,SouthAfrica,2.0,175.0,33.0,5.66,2,Centurion,2019-01-25,3,won
+4085,Newzealad,234.0,India,324.0,India,,325.0,40.2,5.8,2,Mount Maunganui,2019-01-26,5,lost
+4087,SouthAfrica,164.0,Pakistan,,Pakistan,,,41.0,4.0,1,Johannesburg,2019-01-27,3,lost
+4088,Newzealad,243.0,India,,India,,,49.0,4.95,1,Mount Maunganui,2019-01-28,5,lost
+4090,SouthAfrica,241.0,Pakistan,240.0,SouthAfrica,3.0,241.0,40.0,6.02,2,Cape Town,2019-01-30,3,won
+4091,Newzealad,93.0,India,92.0,Newzealad,2.0,93.0,14.4,6.34,2,Hamilton,2019-01-31,5,won
+4092,Newzealad,217.0,India,252.0,India,,253.0,44.1,4.91,2,Wellington,2019-02-03,5,lost
+4093,Newzealad,233.0,Bangladesh,232.0,Newzealad,2.0,233.0,44.3,5.23,2,Napier,2019-02-13,5,won
+4094,Newzealad,229.0,Bangladesh,226.0,Newzealad,2.0,227.0,36.1,6.33,2,Christchurch,2019-02-16,5,won
+4095,Newzealad,330.0,Bangladesh,,Newzealad,6.0,,50.0,6.6,1,Dunedin,2019-02-20,5,won
+4096,WestIndies,360.0,England,,England,8.0,,50.0,7.2,1,Bridgetown,2019-02-20,4,lost
+4097,WestIndies,289.0,England,,WestIndies,6.0,,50.0,5.78,1,Bridgetown,2019-02-22,4,won
+4098,WestIndies,,England,,n/r,,,0.0,,0,St George's,2019-02-25,4,n/r
+4099,WestIndies,389.0,England,418.0,England,,419.0,48.0,8.1,2,St George's,2019-02-27,4,lost
+4100,Afghanistan,165.0,Ireland,161.0,Afghanistan,5.0,162.0,41.5,3.94,2,Dehradun,2019-02-28,40,won
+4101,Afghanistan,250.0,Ireland,,n/r,7.0,,48.3,5.15,1,Dehradun,2019-03-02,40,n/r
+4102,India,240.0,Australia,236.0,India,4.0,237.0,48.2,4.96,2,Hyderabad (Deccan),2019-03-02,6,won
+4103,WestIndies,115.0,England,113.0,WestIndies,3.0,114.0,12.1,9.45,2,Gros Islet,2019-03-02,4,won
+4104,SriLanka,231.0,South Africa,,South Africa,,,47.0,4.91,1,Johannesburg,2019-03-03,8,lost
+4105,Afghanistan,256.0,Ireland,,Ireland,8.0,,50.0,5.12,1,Dehradun,2019-03-05,40,lost
+4106,India,250.0,Australia,,India,,,48.2,5.17,1,Nagpur,2019-03-05,6,won
+4107,SriLanka,138.0,South Africa,251.0,South Africa,,252.0,32.2,4.26,2,Centurion,2019-03-06,8,lost
+4108,Afghanistan,223.0,Ireland,,Afghanistan,,,49.1,4.53,1,Dehradun,2019-03-08,40,won
+4109,India,281.0,Australia,313.0,Australia,,314.0,48.2,5.81,2,Ranchi,2019-03-08,6,lost
+4110,Afghanistan,216.0,Ireland,,Ireland,6.0,,50.0,4.32,1,Dehradun,2019-03-10,40,lost
+4111,India,358.0,Australia,,Australia,9.0,,50.0,7.16,1,Mohali,2019-03-10,6,lost
+4112,SriLanka,121.0,South Africa,192.0,South Africa,5.0,193.0,24.0,5.04,2,Durban,2019-03-10,8,lost
+4113,India,237.0,Australia,272.0,Australia,,273.0,50.0,4.74,2,Delhi,2019-03-13,6,lost
+4114,SriLanka,189.0,South Africa,,South Africa,,,39.2,4.8,1,Port Elizabeth,2019-03-13,8,lost
+4115,SriLanka,225.0,South Africa,,South Africa,,,49.3,4.54,1,Cape Town,2019-03-16,8,lost
+4116,Pakistan,280.0,Australia,,Australia,5.0,,50.0,5.6,1,Sharjah,2019-03-22,7,lost
+4117,Pakistan,284.0,Australia,,Australia,7.0,,50.0,5.68,1,Sharjah,2019-03-24,7,lost
+4118,Pakistan,186.0,Australia,266.0,Australia,,267.0,44.4,4.16,2,Abu Dhabi,2019-03-27,7,lost
+4119,Pakistan,271.0,Australia,277.0,Australia,8.0,278.0,50.0,5.42,2,Dubai (DSC),2019-03-29,7,lost
+4120,Pakistan,307.0,Australia,327.0,Australia,7.0,328.0,50.0,6.14,2,Dubai (DSC),2019-03-31,7,lost
+4127,England,199.0,Ireland,198.0,England,6.0,199.0,42.0,4.73,2,Dublin (Malahide),2019-05-03,1,won
+4128,WestIndies,381.0,Ireland,,WestIndies,3.0,,50.0,7.62,1,Dublin,2019-05-05,4,won
+4129,WestIndies,261.0,Bangladesh,,Bangladesh,9.0,,50.0,5.22,1,Dublin,2019-05-07,4,lost
+4130,Pakistan,80.0,England,,n/r,2.0,,19.0,4.21,1,The Oval,2019-05-08,7,n/r
+4131,Afghanistan,269.0,Scotland,267.0,Afghanistan,3.0,268.0,44.5,6.0,2,Edinburgh,2019-05-10,40,won
+4132,WestIndies,331.0,Ireland,327.0,WestIndies,5.0,328.0,47.5,6.91,2,Dublin (Malahide),2019-05-11,4,won
+4133,Pakistan,361.0,England,373.0,England,7.0,374.0,50.0,7.22,2,Southampton,2019-05-11,7,lost
+4134,WestIndies,247.0,Bangladesh,,Bangladesh,9.0,,50.0,4.94,1,Dublin (Malahide),2019-05-13,4,lost
+4135,Pakistan,358.0,England,,England,9.0,,50.0,7.16,1,Bristol,2019-05-14,7,lost
+4136,Bangladesh,294.0,Ireland,292.0,Bangladesh,4.0,293.0,43.0,6.83,2,Dublin,2019-05-15,25,won
+4137,WestIndies,152.0,Bangladesh,,Bangladesh,1.0,,24.0,6.33,1,Dublin (Malahide),2019-05-17,4,lost
+4138,Pakistan,340.0,England,,England,7.0,,50.0,6.8,1,Nottingham,2019-05-17,7,lost
+4139,Afghanistan,120.0,Ireland,210.0,,8.0,211.0,33.0,3.63,2,Belfast,2019-05-19,40,
+4140,Pakistan,193.0,England,351.0,,6.0,352.0,31.5,6.06,2,Leeds,2019-05-19,7,
