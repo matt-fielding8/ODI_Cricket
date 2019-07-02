@@ -92,4 +92,7 @@ def checkMerge(df, col_list1, col_list2):
     Precondition: len(col_list1) == len(col_list2)
     '''
     for i in range(len(col_list1)):
-        print(col_list1[i], (df[col_list1[i]] == df[col_list2[i]]).sum())
+        try:
+            assert((df[col_list1[i]] != df[col_list2[i]]).sum() == 0)
+        except:
+            print("AssertionError:", col_list1[i], "!=", col_list2[i])
