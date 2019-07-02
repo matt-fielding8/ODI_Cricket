@@ -7,6 +7,15 @@ def renameCols(df):
     '''
     df.rename(lambda c: c.lower().replace(' ', '_'), axis=1, inplace=True)
 
+#Rename columns
+def renameCols2(df, old_name_list, new_name_list):
+    '''
+    Rename columns in old_name_list with names in new_name_list.
+    Pre-condition: len(old_name_list) == len(new_name_list)
+    '''
+    for i in range(len(old_name_list)):
+        df.rename(columns={old_name_list[i]:new_name_list[i]})
+
 # Replace string type data with NaN
 def replaceNaN (df, col_list, str):
     ''' (df, list of str, str) -> df
@@ -70,12 +79,11 @@ def toFloat(df, col_list):
     for col in col_list:
         df[col] = df[col].astype(float)
 
-#Rename columns
-def renameCols2(df, old_name_list, new_name_list):
+# Merge validation
+def checkMerge(df, col_list1, col_list2):
     '''
-    Rename columns in old_name_list with names in new_name_list.
-    Pre-condition: len(old_name_list) == len(new_name_list)
+    Checks equality between columns in col_list1 and col_list2 in df.
+    Precondition: len(col_list1) == len(col_list2)
     '''
-    for i in range(len(old_name_list)):
-        df.rename(columns={old_name_list[i]:new_name_list[i]})
-    
+    for i in range(len(col_list1)):
+        print(col_list1[i], (df[col_list1[i]] == df[col_list2[i]]).sum())
