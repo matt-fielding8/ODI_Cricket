@@ -1,760 +1,760 @@
 match_id,start_date,team1,team2,ground,result
-3315,3 Jan 2013,Pakistan,India,Kolkata,Pakistan
-3316,6 Jan 2013,Pakistan,India,Delhi,India
-3317,11 Jan 2013,SriLanka,Australia,Melbourne,Australia
-3318,11 Jan 2013,India,England,Rajkot,England
-3319,13 Jan 2013,SriLanka,Australia,Adelaide,SriLanka
-3320,15 Jan 2013,India,England,Kochi,India
-3321,18 Jan 2013,SriLanka,Australia,Brisbane,SriLanka
-3322,19 Jan 2013,India,England,Ranchi,India
-3323,19 Jan 2013,SouthAfrica,New Zealand,Paarl,New Zealand
-3324,20 Jan 2013,SriLanka,Australia,Sydney,n/r
-3325,22 Jan 2013,SouthAfrica,New Zealand,Kimberley,New Zealand
-3326,23 Jan 2013,SriLanka,Australia,Hobart,Australia
-3327,23 Jan 2013,India,England,Mohali,India
-3328,25 Jan 2013,SouthAfrica,New Zealand,Potchefstroom,SouthAfrica
-3329,27 Jan 2013,India,England,Dharamsala,England
-3330,1 Feb 2013,WestIndies,Australia,Perth,Australia
-3331,3 Feb 2013,WestIndies,Australia,Perth,Australia
-3332,6 Feb 2013,WestIndies,Australia,Canberra,Australia
-3333,8 Feb 2013,WestIndies,Australia,Sydney,Australia
-3334,10 Feb 2013,WestIndies,Australia,Melbourne,Australia
-3335,17 Feb 2013,Newzealad,England,Hamilton,Newzealad
-3336,20 Feb 2013,Newzealad,England,Napier,England
-3337,22 Feb 2013,WestIndies,Zimbabwe,St George's,WestIndies
-3338,23 Feb 2013,Newzealad,England,Auckland,England
-3339,24 Feb 2013,WestIndies,Zimbabwe,St George's,WestIndies
-3340,26 Feb 2013,WestIndies,Zimbabwe,St George's,WestIndies
-3341,6 Mar 2013,Afghanistan,Scotland,Sharjah,Afghanistan
-3342,8 Mar 2013,Afghanistan,Scotland,Sharjah,Afghanistan
-3343,10 Mar 2013,SouthAfrica,Pakistan,Bloemfontein,SouthAfrica
-3346,15 Mar 2013,SouthAfrica,Pakistan,Centurion,Pakistan
-3347,17 Mar 2013,SouthAfrica,Pakistan,Johannesburg,SouthAfrica
-3348,21 Mar 2013,SouthAfrica,Pakistan,Durban,Pakistan
-3349,23 Mar 2013,SriLanka,Bangladesh,Hambantota,SriLanka
-3350,24 Mar 2013,SouthAfrica,Pakistan,Benoni,SouthAfrica
-3351,25 Mar 2013,SriLanka,Bangladesh,Hambantota,n/r
-3352,28 Mar 2013,SriLanka,Bangladesh,Pallekele,Bangladesh
-3353,3 May 2013,Bangladesh,Zimbabwe,Bulawayo,Bangladesh
-3354,5 May 2013,Bangladesh,Zimbabwe,Bulawayo,Zimbabwe
-3355,8 May 2013,Bangladesh,Zimbabwe,Bulawayo,Zimbabwe
-3356,17 May 2013,Pakistan,Scotland,Edinburgh,Pakistan
-3356,19 May 2013,Pakistan,Scotland,Edinburgh,n/r
-3357,23 May 2013,Pakistan,Ireland,Dublin,tied
-3358,26 May 2013,Pakistan,Ireland,Dublin,Pakistan
-3359,31 May 2013,SouthAfrica,Netherlands,Amstelveen,SouthAfrica
-3360,31 May 2013,Newzealad,England,Lord's,Newzealad
-3361,2 Jun 2013,Newzealad,England,Southampton,Newzealad
-3362,5 Jun 2013,Newzealad,England,Nottingham,England
-3363,6 Jun 2013,SouthAfrica,India,Cardiff,India
-3364,7 Jun 2013,WestIndies,Pakistan,The Oval,WestIndies
-3365,8 Jun 2013,England,Australia,Birmingham,England
-3366,9 Jun 2013,SriLanka,New Zealand,Cardiff,New Zealand
-3367,10 Jun 2013,SouthAfrica,Pakistan,Birmingham,SouthAfrica
-3368,11 Jun 2013,WestIndies,India,The Oval,India
-3369,12 Jun 2013,Newzealad,Australia,Birmingham,n/r
-3370,13 Jun 2013,SriLanka,England,The Oval,SriLanka
-3371,14 Jun 2013,WestIndies,South Africa,Cardiff,tied
-3372,15 Jun 2013,Pakistan,India,Birmingham,India
-3373,16 Jun 2013,Newzealad,England,Cardiff,England
-3374,17 Jun 2013,SriLanka,Australia,The Oval,SriLanka
-3375,19 Jun 2013,SouthAfrica,England,The Oval,England
-3376,20 Jun 2013,SriLanka,India,Cardiff,India
-3377,23 Jun 2013,India,England,Birmingham,India
-3378,28 Jun 2013,WestIndies,Sri Lanka,Kingston,WestIndies
-3380,30 Jun 2013,WestIndies,India,Kingston,WestIndies
-3382,2 Jul 2013,SriLanka,India,Kingston,SriLanka
-3383,5 Jul 2013,WestIndies,India,Port of Spain,India
-3385,7 Jul 2013,WestIndies,Sri Lanka,Port of Spain,Sri Lanka
-3387,9 Jul 2013,SriLanka,India,Port of Spain,India
-3388,11 Jul 2013,SriLanka,India,Port of Spain,India
-3389,14 Jul 2013,WestIndies,Pakistan,Providence,Pakistan
-3390,16 Jul 2013,WestIndies,Pakistan,Providence,WestIndies
-3391,19 Jul 2013,WestIndies,Pakistan,Gros Islet,tied
-3392,20 Jul 2013,SriLanka,South Africa,Colombo (RPS),SriLanka
-3393,21 Jul 2013,WestIndies,Pakistan,Gros Islet,Pakistan
-3394,23 Jul 2013,SriLanka,South Africa,Colombo (RPS),SriLanka
-3395,24 Jul 2013,India,Zimbabwe,Harare,India
-3396,24 Jul 2013,WestIndies,Pakistan,Gros Islet,Pakistan
-3397,26 Jul 2013,India,Zimbabwe,Harare,India
-3398,26 Jul 2013,SriLanka,South Africa,Pallekele,South Africa
-3399,28 Jul 2013,India,Zimbabwe,Harare,India
-3400,28 Jul 2013,SriLanka,South Africa,Pallekele,SriLanka
-3401,31 Jul 2013,SriLanka,South Africa,Colombo (RPS),SriLanka
-3402,1 Aug 2013,India,Zimbabwe,Bulawayo,India
-3403,3 Aug 2013,India,Zimbabwe,Bulawayo,India
-3404,27 Aug 2013,Pakistan,Zimbabwe,Harare,Zimbabwe
-3406,29 Aug 2013,Pakistan,Zimbabwe,Harare,Pakistan
-3408,31 Aug 2013,Pakistan,Zimbabwe,Harare,Pakistan
-3409,3 Sep 2013,England,Ireland,Dublin (Malahide),England
-3410,3 Sep 2013,Australia,Scotland,Edinburgh,Australia
-3410,6 Sep 2013,England,Australia,Leeds,n/r
-3412,8 Sep 2013,England,Australia,Manchester,Australia
-3414,11 Sep 2013,England,Australia,Birmingham,n/r
-3415,14 Sep 2013,England,Australia,Cardiff,England
-3416,16 Sep 2013,England,Australia,Southampton,Australia
-3417,2 Oct 2013,Afghanistan,Kenya,Sharjah,Afghanistan
-3418,4 Oct 2013,Afghanistan,Kenya,Sharjah,Afghanistan
-3419,13 Oct 2013,India,Australia,Pune,Australia
-3420,16 Oct 2013,India,Australia,Jaipur,India
-3421,19 Oct 2013,India,Australia,Mohali,Australia
-3422,23 Oct 2013,India,Australia,Ranchi,n/r
-3422,26 Oct 2013,India,Australia,Cuttack,n/r
-3423,29 Oct 2013,Newzealad,Bangladesh,Dhaka,Bangladesh
-3424,30 Oct 2013,India,Australia,Nagpur,India
-3425,30 Oct 2013,SouthAfrica,Pakistan,Sharjah,SouthAfrica
-3426,31 Oct 2013,Newzealad,Bangladesh,Dhaka,Bangladesh
-3427,1 Nov 2013,SouthAfrica,Pakistan,Dubai (DSC),Pakistan
-3428,2 Nov 2013,India,Australia,Bengaluru,India
-3429,3 Nov 2013,Newzealad,Bangladesh,Fatullah,Bangladesh
-3430,6 Nov 2013,SouthAfrica,Pakistan,Abu Dhabi,SouthAfrica
-3431,8 Nov 2013,SouthAfrica,Pakistan,Abu Dhabi,SouthAfrica
-3432,10 Nov 2013,SriLanka,New Zealand,Hambantota,n/r
-3433,11 Nov 2013,SouthAfrica,Pakistan,Sharjah,SouthAfrica
-3434,12 Nov 2013,SriLanka,New Zealand,Hambantota,New Zealand
-3435,16 Nov 2013,SriLanka,New Zealand,Dambulla,SriLanka
-3436,21 Nov 2013,WestIndies,India,Kochi,India
-3437,24 Nov 2013,WestIndies,India,Visakhapatnam,WestIndies
-3438,24 Nov 2013,SouthAfrica,Pakistan,Cape Town,Pakistan
-3439,27 Nov 2013,WestIndies,India,Kanpur,India
-3440,27 Nov 2013,SouthAfrica,Pakistan,Port Elizabeth,Pakistan
-3441,30 Nov 2013,SouthAfrica,Pakistan,Centurion,SouthAfrica
-3442,5 Dec 2013,SouthAfrica,India,Johannesburg,SouthAfrica
-3443,8 Dec 2013,SouthAfrica,India,Durban,SouthAfrica
-3444,11 Dec 2013,SouthAfrica,India,Centurion,n/r
-3445,18 Dec 2013,SriLanka,Pakistan,Sharjah,Pakistan
-3446,20 Dec 2013,SriLanka,Pakistan,Dubai (DSC),SriLanka
-3447,22 Dec 2013,SriLanka,Pakistan,Sharjah,Pakistan
-3448,25 Dec 2013,SriLanka,Pakistan,Abu Dhabi,Pakistan
-3449,26 Dec 2013,WestIndies,New Zealand,Auckland,WestIndies
-3450,27 Dec 2013,SriLanka,Pakistan,Abu Dhabi,SriLanka
-3450,29 Dec 2013,WestIndies,New Zealand,Napier,n/r
-3451,1 Jan 2014,WestIndies,New Zealand,Queenstown,New Zealand
-3452,4 Jan 2014,WestIndies,New Zealand,Nelson,New Zealand
-3453,8 Jan 2014,WestIndies,New Zealand,Hamilton,WestIndies
-3454,12 Jan 2014,England,Australia,Melbourne,Australia
-3455,17 Jan 2014,England,Australia,Brisbane,Australia
-3456,19 Jan 2014,Newzealad,India,Napier,Newzealad
-3457,19 Jan 2014,England,Australia,Sydney,Australia
-3458,22 Jan 2014,Newzealad,India,Hamilton,Newzealad
-3461,24 Jan 2014,England,Australia,Perth,England
-3462,25 Jan 2014,Newzealad,India,Auckland,tied
-3463,26 Jan 2014,England,Australia,Adelaide,Australia
-3465,28 Jan 2014,Newzealad,India,Hamilton,Newzealad
-3467,31 Jan 2014,Newzealad,India,Wellington,Newzealad
-3469,17 Feb 2014,SriLanka,Bangladesh,Dhaka,SriLanka
-3470,20 Feb 2014,SriLanka,Bangladesh,Dhaka,SriLanka
-3471,22 Feb 2014,SriLanka,Bangladesh,Dhaka,SriLanka
-3472,23 Feb 2014,WestIndies,Ireland,Kingston,WestIndies
-3473,25 Feb 2014,SriLanka,Pakistan,Fatullah,SriLanka
-3474,26 Feb 2014,India,Bangladesh,Fatullah,India
-3475,27 Feb 2014,Pakistan,Afghanistan,Fatullah,Pakistan
-3476,28 Feb 2014,SriLanka,India,Fatullah,SriLanka
-3477,28 Feb 2014,WestIndies,England,North Sound,WestIndies
-3478,1 Mar 2014,Bangladesh,Afghanistan,Fatullah,Afghanistan
-3479,2 Mar 2014,Pakistan,India,Dhaka,Pakistan
-3480,2 Mar 2014,WestIndies,England,North Sound,England
-3481,3 Mar 2014,SriLanka,Afghanistan,Dhaka,SriLanka
-3482,4 Mar 2014,Pakistan,Bangladesh,Dhaka,Pakistan
-3483,5 Mar 2014,India,Afghanistan,Dhaka,India
-3484,5 Mar 2014,WestIndies,England,North Sound,England
-3485,6 Mar 2014,SriLanka,Bangladesh,Dhaka,SriLanka
-3486,8 Mar 2014,SriLanka,Pakistan,Dhaka,SriLanka
-3487,1 May 2014,Afghanistan,Hong Kong,Kuala Lumpur,Afghanistan
-3488,2 May 2014,Afghanistan,U.A.E.,Kuala Lumpur,Afghanistan
-3490,6 May 2014,SriLanka,Ireland,Dublin,SriLanka
-3490,8 May 2014,SriLanka,Ireland,Dublin,n/r
-3491,9 May 2014,England,Scotland,Aberdeen,England
-3492,22 May 2014,SriLanka,England,The Oval,England
-3493,25 May 2014,SriLanka,England,Chester-le-Street,SriLanka
-3494,28 May 2014,SriLanka,England,Manchester,England
-3495,31 May 2014,SriLanka,England,Lord's,SriLanka
-3496,3 Jun 2014,SriLanka,England,Birmingham,SriLanka
-3497,15 Jun 2014,India,Bangladesh,Dhaka,India
-3498,17 Jun 2014,India,Bangladesh,Dhaka,India
-3499,19 Jun 2014,India,Bangladesh,Dhaka,n/r
-3500,6 Jul 2014,SriLanka,South Africa,Colombo (RPS),South Africa
-3501,9 Jul 2014,SriLanka,South Africa,Pallekele,SriLanka
-3502,12 Jul 2014,SriLanka,South Africa,Hambantota,South Africa
-3503,18 Jul 2014,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
-3504,20 Jul 2014,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
-3505,22 Jul 2014,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
-3506,24 Jul 2014,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
-3507,17 Aug 2014,SouthAfrica,Zimbabwe,Bulawayo,SouthAfrica
-3508,19 Aug 2014,SouthAfrica,Zimbabwe,Bulawayo,SouthAfrica
-3509,20 Aug 2014,WestIndies,Bangladesh,St George's,WestIndies
-3510,21 Aug 2014,SouthAfrica,Zimbabwe,Bulawayo,SouthAfrica
-3511,22 Aug 2014,WestIndies,Bangladesh,St George's,WestIndies
-3512,23 Aug 2014,SriLanka,Pakistan,Hambantota,Pakistan
-3513,25 Aug 2014,Australia,Zimbabwe,Harare,Australia
-3513,25 Aug 2014,India,England,Bristol,n/r
-3514,25 Aug 2014,WestIndies,Bangladesh,Basseterre,WestIndies
-3515,26 Aug 2014,SriLanka,Pakistan,Hambantota,SriLanka
-3516,27 Aug 2014,SouthAfrica,Australia,Harare,SouthAfrica
-3517,27 Aug 2014,India,England,Cardiff,India
-3518,29 Aug 2014,SouthAfrica,Zimbabwe,Harare,SouthAfrica
-3519,30 Aug 2014,SriLanka,Pakistan,Dambulla,SriLanka
-3520,30 Aug 2014,India,England,Nottingham,India
-3521,31 Aug 2014,Australia,Zimbabwe,Harare,Zimbabwe
-3522,2 Sep 2014,SouthAfrica,Australia,Harare,Australia
-3523,2 Sep 2014,India,England,Birmingham,India
-3524,4 Sep 2014,SouthAfrica,Zimbabwe,Harare,SouthAfrica
-3525,5 Sep 2014,India,England,Leeds,England
-3526,6 Sep 2014,SouthAfrica,Australia,Harare,SouthAfrica
-3530,7 Oct 2014,Pakistan,Australia,Sharjah,Australia
-3531,8 Oct 2014,WestIndies,India,Kochi,WestIndies
-3532,10 Oct 2014,Pakistan,Australia,Dubai (DSC),Australia
-3533,11 Oct 2014,WestIndies,India,Delhi,India
-3534,12 Oct 2014,Pakistan,Australia,Abu Dhabi,Australia
-3534,14 Oct 2014,WestIndies,India,Visakhapatnam,n/r
-3535,17 Oct 2014,WestIndies,India,Dharamsala,India
-3535,20 Oct 2014,WestIndies,India,Kolkata,n/r
-3536,21 Oct 2014,SouthAfrica,New Zealand,Mount Maunganui,SouthAfrica
-3537,24 Oct 2014,SouthAfrica,New Zealand,Mount Maunganui,SouthAfrica
-3538,27 Oct 2014,SouthAfrica,New Zealand,Hamilton,n/r
-3539,2 Nov 2014,SriLanka,India,Cuttack,India
-3540,6 Nov 2014,SriLanka,India,Ahmedabad,India
-3543,9 Nov 2014,SriLanka,India,Hyderabad (Deccan),India
-3544,13 Nov 2014,SriLanka,India,Kolkata,India
-3545,14 Nov 2014,SouthAfrica,Australia,Perth,Australia
-3546,16 Nov 2014,SouthAfrica,Australia,Perth,SouthAfrica
-3547,16 Nov 2014,SriLanka,India,Ranchi,India
-3548,19 Nov 2014,SouthAfrica,Australia,Canberra,Australia
-3549,21 Nov 2014,SouthAfrica,Australia,Melbourne,Australia
-3550,21 Nov 2014,Bangladesh,Zimbabwe,Chattogram,Bangladesh
-3551,23 Nov 2014,SouthAfrica,Australia,Sydney,Australia
-3552,23 Nov 2014,Bangladesh,Zimbabwe,Chattogram,Bangladesh
-3553,26 Nov 2014,Bangladesh,Zimbabwe,Dhaka,Bangladesh
-3554,26 Nov 2014,SriLanka,England,Colombo (RPS),SriLanka
-3555,28 Nov 2014,Bangladesh,Zimbabwe,Dhaka,Bangladesh
-3556,28 Nov 2014,Afghanistan,U.A.E.,ICCA Dubai,U.A.E.
-3557,29 Nov 2014,SriLanka,England,Colombo (RPS),SriLanka
-3558,30 Nov 2014,Afghanistan,U.A.E.,ICCA Dubai,U.A.E.
-3559,1 Dec 2014,Bangladesh,Zimbabwe,Dhaka,Bangladesh
-3560,2 Dec 2014,Afghanistan,U.A.E.,ICCA Dubai,Afghanistan
-3561,3 Dec 2014,SriLanka,England,Hambantota,England
-3562,4 Dec 2014,Afghanistan,U.A.E.,ICCA Dubai,U.A.E.
-3563,7 Dec 2014,SriLanka,England,Colombo (RPS),SriLanka
-3564,8 Dec 2014,Pakistan,New Zealand,Dubai (DSC),Pakistan
-3565,10 Dec 2014,SriLanka,England,Pallekele,England
-3566,12 Dec 2014,Pakistan,New Zealand,Sharjah,New Zealand
-3567,13 Dec 2014,SriLanka,England,Pallekele,SriLanka
-3568,14 Dec 2014,Pakistan,New Zealand,Sharjah,Pakistan
-3569,16 Dec 2014,SriLanka,England,Colombo (RPS),SriLanka
-3570,17 Dec 2014,Pakistan,New Zealand,Abu Dhabi,New Zealand
-3571,19 Dec 2014,Pakistan,New Zealand,Abu Dhabi,New Zealand
-3572,8 Jan 2015,Afghanistan,Scotland,ICCA Dubai,Afghanistan
-3573,10 Jan 2015,Afghanistan,Ireland,Dubai (DSC),Ireland
-3574,11 Jan 2015,SriLanka,New Zealand,Christchurch,New Zealand
-3576,14 Jan 2015,Afghanistan,Scotland,Abu Dhabi,Scotland
-3577,15 Jan 2015,SriLanka,New Zealand,Hamilton,SriLanka
-3578,16 Jan 2015,England,Australia,Sydney,Australia
-3579,16 Jan 2015,WestIndies,South Africa,Durban,South Africa
-3580,17 Jan 2015,SriLanka,New Zealand,Auckland,n/r
-3581,17 Jan 2015,Afghanistan,Ireland,Dubai (DSC),Afghanistan
-3582,18 Jan 2015,India,Australia,Melbourne,Australia
-3583,18 Jan 2015,WestIndies,South Africa,Johannesburg,South Africa
-3585,20 Jan 2015,SriLanka,New Zealand,Nelson,New Zealand
-3586,20 Jan 2015,India,England,Brisbane,England
-3587,21 Jan 2015,WestIndies,South Africa,East London,South Africa
-3588,23 Jan 2015,SriLanka,New Zealand,Dunedin,New Zealand
-3589,23 Jan 2015,England,Australia,Hobart,Australia
-3590,25 Jan 2015,SriLanka,New Zealand,Dunedin,New Zealand
-3591,25 Jan 2015,WestIndies,South Africa,Port Elizabeth,WestIndies
-3592,26 Jan 2015,India,Australia,Sydney,n/r
-3593,28 Jan 2015,WestIndies,South Africa,Centurion,South Africa
-3594,29 Jan 2015,SriLanka,New Zealand,Wellington,SriLanka
-3595,30 Jan 2015,India,England,Perth,England
-3596,31 Jan 2015,Pakistan,New Zealand,Wellington,New Zealand
-3597,1 Feb 2015,England,Australia,Perth,Australia
-3598,3 Feb 2015,Pakistan,New Zealand,Napier,New Zealand
-3599,14 Feb 2015,SriLanka,New Zealand,Christchurch,New Zealand
-3600,14 Feb 2015,England,Australia,Melbourne,Australia
-3601,15 Feb 2015,SouthAfrica,Zimbabwe,Hamilton,SouthAfrica
-3602,15 Feb 2015,Pakistan,India,Adelaide,India
-3603,16 Feb 2015,WestIndies,Ireland,Nelson,Ireland
-3604,17 Feb 2015,Newzealad,Scotland,Dunedin,Newzealad
-3605,18 Feb 2015,Bangladesh,Afghanistan,Canberra,Bangladesh
-3607,20 Feb 2015,Newzealad,England,Wellington,Newzealad
-3608,21 Feb 2015,WestIndies,Pakistan,Christchurch,WestIndies
-3608,21 Feb 2015,Bangladesh,Australia,Brisbane,n/r
-3609,22 Feb 2015,SriLanka,Afghanistan,Dunedin,SriLanka
-3610,22 Feb 2015,SouthAfrica,India,Melbourne,India
-3611,23 Feb 2015,England,Scotland,Christchurch,England
-3612,24 Feb 2015,WestIndies,Zimbabwe,Canberra,WestIndies
-3614,26 Feb 2015,Afghanistan,Scotland,Dunedin,Afghanistan
-3615,26 Feb 2015,SriLanka,Bangladesh,Melbourne,SriLanka
-3616,27 Feb 2015,WestIndies,South Africa,Sydney,South Africa
-3617,28 Feb 2015,Newzealad,Australia,Auckland,Newzealad
-3618,28 Feb 2015,India,U.A.E.,Perth,India
-3619,1 Mar 2015,SriLanka,England,Wellington,SriLanka
-3620,1 Mar 2015,Pakistan,Zimbabwe,Brisbane,Pakistan
-3621,3 Mar 2015,SouthAfrica,Ireland,Canberra,SouthAfrica
-3622,4 Mar 2015,Pakistan,U.A.E.,Napier,Pakistan
-3623,4 Mar 2015,Australia,Afghanistan,Perth,Australia
-3624,5 Mar 2015,Bangladesh,Scotland,Nelson,Bangladesh
-3625,6 Mar 2015,WestIndies,India,Perth,India
-3626,7 Mar 2015,SouthAfrica,Pakistan,Auckland,Pakistan
-3628,8 Mar 2015,Newzealad,Afghanistan,Napier,Newzealad
-3629,8 Mar 2015,SriLanka,Australia,Sydney,Australia
-3630,9 Mar 2015,England,Bangladesh,Adelaide,Bangladesh
-3631,10 Mar 2015,India,Ireland,Hamilton,India
-3632,11 Mar 2015,SriLanka,Scotland,Hobart,SriLanka
-3633,12 Mar 2015,SouthAfrica,U.A.E.,Wellington,SouthAfrica
-3634,13 Mar 2015,Newzealad,Bangladesh,Hamilton,Newzealad
-3635,13 Mar 2015,England,Afghanistan,Sydney,England
-3636,14 Mar 2015,India,Zimbabwe,Auckland,India
-3637,14 Mar 2015,Australia,Scotland,Hobart,Australia
-3638,15 Mar 2015,WestIndies,U.A.E.,Napier,WestIndies
-3639,15 Mar 2015,Pakistan,Ireland,Adelaide,Pakistan
-3640,18 Mar 2015,SriLanka,South Africa,Sydney,South Africa
-3641,19 Mar 2015,India,Bangladesh,Melbourne,India
-3642,20 Mar 2015,Pakistan,Australia,Adelaide,Australia
-3643,21 Mar 2015,WestIndies,New Zealand,Wellington,New Zealand
-3644,24 Mar 2015,SouthAfrica,New Zealand,Auckland,New Zealand
-3645,26 Mar 2015,India,Australia,Sydney,Australia
-3646,29 Mar 2015,Newzealad,Australia,Melbourne,Australia
-3647,17 Apr 2015,Pakistan,Bangladesh,Dhaka,Bangladesh
-3648,19 Apr 2015,Pakistan,Bangladesh,Dhaka,Bangladesh
-3649,22 Apr 2015,Pakistan,Bangladesh,Dhaka,Bangladesh
-3650,8 May 2015,England,Ireland,Dublin (Malahide),n/r
-3651,26 May 2015,Pakistan,Zimbabwe,Lahore,Pakistan
-3652,29 May 2015,Pakistan,Zimbabwe,Lahore,Pakistan
-3653,31 May 2015,Pakistan,Zimbabwe,Lahore,n/r
-3654,9 Jun 2015,Newzealad,England,Birmingham,England
-3655,12 Jun 2015,Newzealad,England,The Oval,Newzealad
-3656,14 Jun 2015,Newzealad,England,Southampton,Newzealad
-3657,17 Jun 2015,Newzealad,England,Nottingham,England
-3658,18 Jun 2015,India,Bangladesh,Dhaka,Bangladesh
-3659,20 Jun 2015,Newzealad,England,Chester-le-Street,England
-3660,21 Jun 2015,India,Bangladesh,Dhaka,Bangladesh
-3661,24 Jun 2015,India,Bangladesh,Dhaka,India
-3662,10 Jul 2015,India,Zimbabwe,Harare,India
-3663,10 Jul 2015,SouthAfrica,Bangladesh,Dhaka,SouthAfrica
-3664,11 Jul 2015,SriLanka,Pakistan,Dambulla,Pakistan
-3665,12 Jul 2015,India,Zimbabwe,Harare,India
-3666,12 Jul 2015,SouthAfrica,Bangladesh,Dhaka,Bangladesh
-3667,14 Jul 2015,India,Zimbabwe,Harare,India
-3668,15 Jul 2015,SouthAfrica,Bangladesh,Chattogram,Bangladesh
-3669,15 Jul 2015,SriLanka,Pakistan,Pallekele,SriLanka
-3670,19 Jul 2015,SriLanka,Pakistan,Colombo (RPS),Pakistan
-3671,22 Jul 2015,SriLanka,Pakistan,Colombo (RPS),Pakistan
-3672,26 Jul 2015,SriLanka,Pakistan,Hambantota,SriLanka
-3673,2 Aug 2015,Newzealad,Zimbabwe,Harare,Zimbabwe
-3674,4 Aug 2015,Newzealad,Zimbabwe,Harare,Newzealad
-3675,7 Aug 2015,Newzealad,Zimbabwe,Harare,Newzealad
-3676,19 Aug 2015,SouthAfrica,New Zealand,Centurion,SouthAfrica
-3677,23 Aug 2015,SouthAfrica,New Zealand,Potchefstroom,New Zealand
-3678,26 Aug 2015,SouthAfrica,New Zealand,Durban,SouthAfrica
-3679,27 Aug 2015,Australia,Ireland,Belfast,Australia
-3680,3 Sep 2015,England,Australia,Southampton,Australia
-3681,5 Sep 2015,England,Australia,Lord's,Australia
-3682,8 Sep 2015,England,Australia,Manchester,England
-3683,11 Sep 2015,England,Australia,Leeds,England
-3684,13 Sep 2015,England,Australia,Manchester,Australia
-3685,1 Oct 2015,Pakistan,Zimbabwe,Harare,Pakistan
-3686,3 Oct 2015,Pakistan,Zimbabwe,Harare,Zimbabwe
-3687,5 Oct 2015,Pakistan,Zimbabwe,Harare,Pakistan
-3689,11 Oct 2015,SouthAfrica,India,Kanpur,SouthAfrica
-3692,14 Oct 2015,SouthAfrica,India,Indore,India
-3693,16 Oct 2015,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
-3694,18 Oct 2015,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
-3695,18 Oct 2015,SouthAfrica,India,Rajkot,SouthAfrica
-3696,20 Oct 2015,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
-3697,22 Oct 2015,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
-3698,22 Oct 2015,SouthAfrica,India,Chennai,India
-3699,24 Oct 2015,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
-3700,25 Oct 2015,SouthAfrica,India,Mumbai,SouthAfrica
-3701,1 Nov 2015,WestIndies,Sri Lanka,Colombo (RPS),Sri Lanka
-3702,4 Nov 2015,WestIndies,Sri Lanka,Colombo (RPS),Sri Lanka
-3703,7 Nov 2015,Bangladesh,Zimbabwe,Dhaka,Bangladesh
-3704,7 Nov 2015,WestIndies,Sri Lanka,Pallekele,Sri Lanka
-3705,9 Nov 2015,Bangladesh,Zimbabwe,Dhaka,Bangladesh
-3706,11 Nov 2015,Bangladesh,Zimbabwe,Dhaka,Bangladesh
-3707,11 Nov 2015,Pakistan,England,Abu Dhabi,Pakistan
-3708,13 Nov 2015,Pakistan,England,Abu Dhabi,England
-3710,17 Nov 2015,Pakistan,England,Sharjah,England
-3712,20 Nov 2015,Pakistan,England,Dubai (DSC),England
-3713,25 Dec 2015,Afghanistan,Zimbabwe,Sharjah,Afghanistan
-3714,26 Dec 2015,SriLanka,New Zealand,Christchurch,New Zealand
-3715,28 Dec 2015,SriLanka,New Zealand,Christchurch,New Zealand
-3716,29 Dec 2015,Afghanistan,Zimbabwe,Sharjah,Afghanistan
-3717,31 Dec 2015,SriLanka,New Zealand,Nelson,SriLanka
-3718,2 Jan 2016,SriLanka,New Zealand,Nelson,n/r
-3719,2 Jan 2016,Afghanistan,Zimbabwe,Sharjah,Zimbabwe
-3720,4 Jan 2016,Afghanistan,Zimbabwe,Sharjah,Zimbabwe
-3721,5 Jan 2016,SriLanka,New Zealand,Mount Maunganui,New Zealand
-3722,6 Jan 2016,Afghanistan,Zimbabwe,Sharjah,Afghanistan
-3723,12 Jan 2016,India,Australia,Perth,Australia
-3724,15 Jan 2016,India,Australia,Brisbane,Australia
-3725,17 Jan 2016,India,Australia,Melbourne,Australia
-3726,20 Jan 2016,India,Australia,Canberra,Australia
-3727,23 Jan 2016,India,Australia,Sydney,India
-3728,25 Jan 2016,Pakistan,New Zealand,Wellington,New Zealand
-3729,28 Jan 2016,Pakistan,New Zealand,Napier,n/r
-3730,31 Jan 2016,Pakistan,New Zealand,Auckland,New Zealand
-3731,3 Feb 2016,Newzealad,Australia,Auckland,Newzealad
-3732,3 Feb 2016,SouthAfrica,England,Bloemfontein,England
-3733,6 Feb 2016,Newzealad,Australia,Wellington,Australia
-3734,6 Feb 2016,SouthAfrica,England,Port Elizabeth,England
-3735,8 Feb 2016,Newzealad,Australia,Hamilton,Newzealad
-3736,9 Feb 2016,SouthAfrica,England,Centurion,SouthAfrica
-3737,12 Feb 2016,SouthAfrica,England,Johannesburg,SouthAfrica
-3738,14 Feb 2016,SouthAfrica,England,Cape Town,SouthAfrica
-3739,3 Jun 2016,WestIndies,South Africa,Providence,WestIndies
-3740,5 Jun 2016,WestIndies,Australia,Providence,Australia
-3741,7 Jun 2016,SouthAfrica,Australia,Providence,SouthAfrica
-3742,11 Jun 2016,India,Zimbabwe,Harare,India
-3743,11 Jun 2016,SouthAfrica,Australia,Basseterre,Australia
-3744,13 Jun 2016,India,Zimbabwe,Harare,India
-3745,13 Jun 2016,WestIndies,Australia,Basseterre,WestIndies
-3746,15 Jun 2016,India,Zimbabwe,Harare,India
-3747,15 Jun 2016,WestIndies,South Africa,Basseterre,South Africa
-3748,16 Jun 2016,SriLanka,Ireland,Dublin (Malahide),SriLanka
-3749,18 Jun 2016,SriLanka,Ireland,Dublin (Malahide),SriLanka
-3750,19 Jun 2016,SouthAfrica,Australia,Bridgetown,n/r
-3751,21 Jun 2016,SriLanka,England,Nottingham,tied
-3752,21 Jun 2016,WestIndies,Australia,Bridgetown,Australia
-3753,24 Jun 2016,SriLanka,England,Birmingham,England
-3754,24 Jun 2016,WestIndies,South Africa,Bridgetown,WestIndies
-3755,26 Jun 2016,SriLanka,England,Bristol,n/r
-3756,26 Jun 2016,WestIndies,Australia,Bridgetown,Australia
-3757,29 Jun 2016,SriLanka,England,The Oval,England
-3758,2 Jul 2016,SriLanka,England,Cardiff,England
-3759,4 Jul 2016,Afghanistan,Scotland,Edinburgh,n/r
-3760,6 Jul 2016,Afghanistan,Scotland,Edinburgh,Afghanistan
-3760,10 Jul 2016,Afghanistan,Ireland,Belfast,n/r
-3761,12 Jul 2016,Afghanistan,Ireland,Belfast,Afghanistan
-3762,14 Jul 2016,Afghanistan,Ireland,Belfast,Ireland
-3763,17 Jul 2016,Afghanistan,Ireland,Belfast,Afghanistan
-3764,19 Jul 2016,Afghanistan,Ireland,Belfast,Ireland
-3767,18 Aug 2016,Pakistan,Ireland,Dublin (Malahide),Pakistan
-3767,20 Aug 2016,Pakistan,Ireland,Dublin (Malahide),n/r
-3768,21 Aug 2016,SriLanka,Australia,Colombo (RPS),Australia
-3769,24 Aug 2016,SriLanka,Australia,Colombo (RPS),SriLanka
-3770,24 Aug 2016,Pakistan,England,Southampton,England
-3771,27 Aug 2016,Pakistan,England,Lord's,England
-3772,28 Aug 2016,SriLanka,Australia,Dambulla,Australia
-3773,30 Aug 2016,Pakistan,England,Nottingham,England
-3774,31 Aug 2016,SriLanka,Australia,Dambulla,Australia
-3775,1 Sep 2016,Pakistan,England,Leeds,England
-3776,4 Sep 2016,SriLanka,Australia,Pallekele,Australia
-3777,4 Sep 2016,Pakistan,England,Cardiff,Pakistan
-3780,25 Sep 2016,SouthAfrica,Ireland,Benoni,SouthAfrica
-3781,25 Sep 2016,Bangladesh,Afghanistan,Dhaka,Bangladesh
-3782,27 Sep 2016,Australia,Ireland,Benoni,Australia
-3783,28 Sep 2016,Bangladesh,Afghanistan,Dhaka,Afghanistan
-3784,30 Sep 2016,WestIndies,Pakistan,Sharjah,Pakistan
-3785,30 Sep 2016,SouthAfrica,Australia,Centurion,SouthAfrica
-3786,1 Oct 2016,Bangladesh,Afghanistan,Dhaka,Bangladesh
-3787,2 Oct 2016,SouthAfrica,Australia,Johannesburg,SouthAfrica
-3788,2 Oct 2016,WestIndies,Pakistan,Sharjah,Pakistan
-3789,5 Oct 2016,WestIndies,Pakistan,Abu Dhabi,Pakistan
-3790,5 Oct 2016,SouthAfrica,Australia,Durban,SouthAfrica
-3791,7 Oct 2016,England,Bangladesh,Dhaka,England
-3792,9 Oct 2016,SouthAfrica,Australia,Port Elizabeth,SouthAfrica
-3793,9 Oct 2016,England,Bangladesh,Dhaka,Bangladesh
-3794,12 Oct 2016,England,Bangladesh,Chattogram,England
-3795,12 Oct 2016,SouthAfrica,Australia,Cape Town,SouthAfrica
-3796,16 Oct 2016,Newzealad,India,Dharamsala,India
-3797,20 Oct 2016,Newzealad,India,Delhi,Newzealad
-3798,23 Oct 2016,Newzealad,India,Mohali,India
-3799,26 Oct 2016,Newzealad,India,Ranchi,Newzealad
-3800,29 Oct 2016,Newzealad,India,Visakhapatnam,India
-3804,14 Nov 2016,SriLanka,Zimbabwe,Harare,SriLanka
-3805,16 Nov 2016,WestIndies,Sri Lanka,Harare,WestIndies
-3806,19 Nov 2016,WestIndies,Zimbabwe,Bulawayo,tied
-3807,21 Nov 2016,SriLanka,Zimbabwe,Bulawayo,n/r
-3808,23 Nov 2016,WestIndies,Sri Lanka,Bulawayo,Sri Lanka
-3809,25 Nov 2016,WestIndies,Zimbabwe,Bulawayo,Zimbabwe
-3810,27 Nov 2016,SriLanka,Zimbabwe,Bulawayo,SriLanka
-3811,4 Dec 2016,Newzealad,Australia,Sydney,Australia
-3812,6 Dec 2016,Newzealad,Australia,Canberra,Australia
-3813,9 Dec 2016,Newzealad,Australia,Melbourne,Australia
-3814,26 Dec 2016,Newzealad,Bangladesh,Christchurch,Newzealad
-3815,29 Dec 2016,Newzealad,Bangladesh,Nelson,Newzealad
-3816,31 Dec 2016,Newzealad,Bangladesh,Nelson,Newzealad
-3817,13 Jan 2017,Pakistan,Australia,Brisbane,Australia
-3818,15 Jan 2017,Pakistan,Australia,Melbourne,Pakistan
-3819,15 Jan 2017,India,England,Pune,India
-3820,19 Jan 2017,Pakistan,Australia,Perth,Australia
-3821,19 Jan 2017,India,England,Cuttack,India
-3822,22 Jan 2017,Pakistan,Australia,Sydney,Australia
-3824,22 Jan 2017,India,England,Kolkata,England
-3826,26 Jan 2017,Pakistan,Australia,Adelaide,Australia
-3828,28 Jan 2017,SriLanka,South Africa,Port Elizabeth,South Africa
-3829,30 Jan 2017,Newzealad,Australia,Auckland,Newzealad
-3830,1 Feb 2017,SriLanka,South Africa,Durban,South Africa
-3830,2 Feb 2017,Newzealad,Australia,Napier,n/r
-3831,4 Feb 2017,SriLanka,South Africa,Johannesburg,South Africa
-3832,5 Feb 2017,Newzealad,Australia,Hamilton,Newzealad
-3833,7 Feb 2017,SriLanka,South Africa,Cape Town,South Africa
-3834,10 Feb 2017,SriLanka,South Africa,Centurion,South Africa
-3835,16 Feb 2017,Afghanistan,Zimbabwe,Harare,Afghanistan
-3836,19 Feb 2017,SouthAfrica,New Zealand,Hamilton,SouthAfrica
-3837,19 Feb 2017,Afghanistan,Zimbabwe,Harare,Afghanistan
-3838,21 Feb 2017,Afghanistan,Zimbabwe,Harare,Zimbabwe
-3839,22 Feb 2017,SouthAfrica,New Zealand,Christchurch,New Zealand
-3840,24 Feb 2017,Afghanistan,Zimbabwe,Harare,Zimbabwe
-3841,25 Feb 2017,SouthAfrica,New Zealand,Wellington,SouthAfrica
-3842,26 Feb 2017,Afghanistan,Zimbabwe,Harare,Afghanistan
-3843,1 Mar 2017,SouthAfrica,New Zealand,Hamilton,New Zealand
-3845,3 Mar 2017,WestIndies,England,North Sound,England
-3846,4 Mar 2017,SouthAfrica,New Zealand,Auckland,SouthAfrica
-3848,5 Mar 2017,WestIndies,England,North Sound,England
-3849,9 Mar 2017,WestIndies,England,Bridgetown,England
-3850,15 Mar 2017,Afghanistan,Ireland,Greater Noida,Afghanistan
-3851,17 Mar 2017,Afghanistan,Ireland,Greater Noida,Afghanistan
-3852,19 Mar 2017,Afghanistan,Ireland,Greater Noida,Ireland
-3853,22 Mar 2017,Afghanistan,Ireland,Greater Noida,Ireland
-3854,24 Mar 2017,Afghanistan,Ireland,Greater Noida,Afghanistan
-3855,25 Mar 2017,SriLanka,Bangladesh,Dambulla,Bangladesh
-3856,28 Mar 2017,SriLanka,Bangladesh,Dambulla,n/r
-3858,1 Apr 2017,SriLanka,Bangladesh,Colombo (SSC),SriLanka
-3861,7 Apr 2017,WestIndies,Pakistan,Providence,WestIndies
-3862,9 Apr 2017,WestIndies,Pakistan,Providence,Pakistan
-3863,11 Apr 2017,WestIndies,Pakistan,Providence,Pakistan
-3864,5 May 2017,England,Ireland,Bristol,England
-3865,7 May 2017,England,Ireland,Lord's,England
-3866,12 May 2017,Bangladesh,Ireland,Dublin (Malahide),n/r
-3867,14 May 2017,Newzealad,Ireland,Dublin (Malahide),Newzealad
-3868,17 May 2017,Newzealad,Bangladesh,Dublin,Newzealad
-3869,19 May 2017,Bangladesh,Ireland,Dublin (Malahide),Bangladesh
-3870,21 May 2017,Newzealad,Ireland,Dublin (Malahide),Newzealad
-3871,24 May 2017,Newzealad,Bangladesh,Dublin,Bangladesh
-3872,24 May 2017,SouthAfrica,England,Leeds,England
-3873,27 May 2017,SouthAfrica,England,Southampton,England
-3874,29 May 2017,SouthAfrica,England,Lord's,SouthAfrica
-3875,1 Jun 2017,England,Bangladesh,The Oval,England
-3876,2 Jun 2017,Newzealad,Australia,Birmingham,n/r
-3877,3 Jun 2017,SriLanka,South Africa,The Oval,South Africa
-3878,4 Jun 2017,Pakistan,India,Birmingham,India
-3879,5 Jun 2017,Bangladesh,Australia,The Oval,n/r
-3880,6 Jun 2017,Newzealad,England,Cardiff,England
-3881,7 Jun 2017,SouthAfrica,Pakistan,Birmingham,Pakistan
-3882,8 Jun 2017,SriLanka,India,The Oval,SriLanka
-3883,9 Jun 2017,Newzealad,Bangladesh,Cardiff,Bangladesh
-3884,9 Jun 2017,WestIndies,Afghanistan,Gros Islet,Afghanistan
-3885,10 Jun 2017,England,Australia,Birmingham,England
-3886,11 Jun 2017,SouthAfrica,India,The Oval,India
-3887,11 Jun 2017,WestIndies,Afghanistan,Gros Islet,WestIndies
-3888,12 Jun 2017,SriLanka,Pakistan,Cardiff,Pakistan
-3889,14 Jun 2017,Pakistan,England,Cardiff,Pakistan
-3890,14 Jun 2017,WestIndies,Afghanistan,Gros Islet,n/r
-3891,15 Jun 2017,India,Bangladesh,Birmingham,India
-3894,18 Jun 2017,Pakistan,India,The Oval,Pakistan
-3895,23 Jun 2017,WestIndies,India,Port of Spain,n/r
-3896,25 Jun 2017,WestIndies,India,Port of Spain,India
-3897,30 Jun 2017,SriLanka,Zimbabwe,Galle,Zimbabwe
-3898,30 Jun 2017,WestIndies,India,North Sound,India
-3899,2 Jul 2017,SriLanka,Zimbabwe,Galle,SriLanka
-3900,2 Jul 2017,WestIndies,India,North Sound,WestIndies
-3901,6 Jul 2017,SriLanka,Zimbabwe,Hambantota,SriLanka
-3902,6 Jul 2017,WestIndies,India,Kingston,India
-3903,8 Jul 2017,SriLanka,Zimbabwe,Hambantota,Zimbabwe
-3904,10 Jul 2017,SriLanka,Zimbabwe,Hambantota,Zimbabwe
-3905,20 Aug 2017,SriLanka,India,Dambulla,India
-3906,24 Aug 2017,SriLanka,India,Pallekele,India
-3907,27 Aug 2017,SriLanka,India,Pallekele,India
-3908,31 Aug 2017,SriLanka,India,Colombo (RPS),India
-3909,3 Sep 2017,SriLanka,India,Colombo (RPS),India
-3909,13 Sep 2017,WestIndies,Ireland,Belfast,n/r
-3910,17 Sep 2017,India,Australia,Chennai,India
-3911,19 Sep 2017,WestIndies,England,Manchester,England
-3912,21 Sep 2017,India,Australia,Kolkata,India
-3913,21 Sep 2017,WestIndies,England,Nottingham,n/r
-3914,24 Sep 2017,India,Australia,Indore,India
-3915,24 Sep 2017,WestIndies,England,Bristol,England
-3916,27 Sep 2017,WestIndies,England,The Oval,England
-3917,28 Sep 2017,India,Australia,Bengaluru,Australia
-3918,29 Sep 2017,WestIndies,England,Southampton,England
-3919,1 Oct 2017,India,Australia,Nagpur,India
-3922,13 Oct 2017,SriLanka,Pakistan,Dubai (DSC),Pakistan
-3923,15 Oct 2017,SouthAfrica,Bangladesh,Kimberley,SouthAfrica
-3924,16 Oct 2017,SriLanka,Pakistan,Abu Dhabi,Pakistan
-3925,18 Oct 2017,SouthAfrica,Bangladesh,Paarl,SouthAfrica
-3926,18 Oct 2017,SriLanka,Pakistan,Abu Dhabi,Pakistan
-3927,20 Oct 2017,SriLanka,Pakistan,Sharjah,Pakistan
-3928,22 Oct 2017,Newzealad,India,Mumbai,Newzealad
-3929,22 Oct 2017,SouthAfrica,Bangladesh,East London,SouthAfrica
-3930,23 Oct 2017,SriLanka,Pakistan,Sharjah,Pakistan
-3931,25 Oct 2017,Newzealad,India,Pune,India
-3932,29 Oct 2017,Newzealad,India,Kanpur,India
-3935,5 Dec 2017,Afghanistan,Ireland,Sharjah,Afghanistan
-3937,7 Dec 2017,Afghanistan,Ireland,Sharjah,Ireland
-3939,10 Dec 2017,SriLanka,India,Dharamsala,SriLanka
-3940,10 Dec 2017,Afghanistan,Ireland,Sharjah,Ireland
-3941,13 Dec 2017,SriLanka,India,Mohali,India
-3942,17 Dec 2017,SriLanka,India,Visakhapatnam,India
-3943,20 Dec 2017,WestIndies,New Zealand,Whangarei,New Zealand
-3944,23 Dec 2017,WestIndies,New Zealand,Christchurch,New Zealand
-3945,26 Dec 2017,WestIndies,New Zealand,Christchurch,New Zealand
-3946,6 Jan 2018,Pakistan,New Zealand,Wellington,New Zealand
-3947,9 Jan 2018,Pakistan,New Zealand,Nelson,New Zealand
-3949,13 Jan 2018,Pakistan,New Zealand,Dunedin,New Zealand
-3951,14 Jan 2018,England,Australia,Melbourne,England
-3952,15 Jan 2018,Bangladesh,Zimbabwe,Dhaka,Bangladesh
-3953,16 Jan 2018,Pakistan,New Zealand,Hamilton,New Zealand
-3955,17 Jan 2018,SriLanka,Zimbabwe,Dhaka,Zimbabwe
-3957,19 Jan 2018,Pakistan,New Zealand,Wellington,New Zealand
-3958,19 Jan 2018,England,Australia,Brisbane,England
-3959,19 Jan 2018,SriLanka,Bangladesh,Dhaka,Bangladesh
-3960,21 Jan 2018,England,Australia,Sydney,England
-3962,21 Jan 2018,SriLanka,Zimbabwe,Dhaka,SriLanka
-3964,23 Jan 2018,Bangladesh,Zimbabwe,Dhaka,Bangladesh
-3965,25 Jan 2018,SriLanka,Bangladesh,Dhaka,SriLanka
-3966,26 Jan 2018,England,Australia,Adelaide,Australia
-3967,27 Jan 2018,SriLanka,Bangladesh,Dhaka,SriLanka
-3968,28 Jan 2018,England,Australia,Perth,England
-3969,1 Feb 2018,SouthAfrica,India,Durban,India
-3970,4 Feb 2018,SouthAfrica,India,Centurion,India
-3971,7 Feb 2018,SouthAfrica,India,Cape Town,India
-3972,9 Feb 2018,Afghanistan,Zimbabwe,Sharjah,Afghanistan
-3973,10 Feb 2018,SouthAfrica,India,Johannesburg,SouthAfrica
-3974,11 Feb 2018,Afghanistan,Zimbabwe,Sharjah,Zimbabwe
-3975,13 Feb 2018,Afghanistan,Zimbabwe,Sharjah,Afghanistan
-3976,13 Feb 2018,SouthAfrica,India,Port Elizabeth,India
-3977,16 Feb 2018,Afghanistan,Zimbabwe,Sharjah,Afghanistan
-3978,16 Feb 2018,SouthAfrica,India,Centurion,India
-3979,19 Feb 2018,Afghanistan,Zimbabwe,Sharjah,Afghanistan
-3980,25 Feb 2018,Newzealad,England,Hamilton,Newzealad
-3981,28 Feb 2018,Newzealad,England,Mount Maunganui,England
-3982,3 Mar 2018,Newzealad,England,Wellington,England
-3983,4 Mar 2018,Afghanistan,Scotland,Bulawayo,Scotland
-3987,6 Mar 2018,WestIndies,U.A.E.,Harare,WestIndies
-3988,6 Mar 2018,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
-3989,7 Mar 2018,Newzealad,England,Dunedin,Newzealad
-3990,8 Mar 2018,Afghanistan,Hong Kong,Bulawayo,Hong Kong
-3991,8 Mar 2018,WestIndies,P.N.G.,Harare,WestIndies
-3992,10 Mar 2018,Newzealad,England,Christchurch,England
-3993,10 Mar 2018,WestIndies,Ireland,Harare,WestIndies
-3997,15 Mar 2018,WestIndies,Afghanistan,Harare,Afghanistan
-4002,19 Mar 2018,WestIndies,Zimbabwe,Harare,WestIndies
-4003,20 Mar 2018,Afghanistan,U.A.E.,Harare,Afghanistan
-4004,21 Mar 2018,WestIndies,Scotland,Harare,WestIndies
-4006,23 Mar 2018,Afghanistan,Ireland,Harare,Afghanistan
-4007,25 Mar 2018,WestIndies,Afghanistan,Harare,Afghanistan
-4008,10 Jun 2018,England,Scotland,Edinburgh,Scotland
-4009,13 Jun 2018,England,Australia,The Oval,England
-4010,16 Jun 2018,England,Australia,Cardiff,England
-4011,19 Jun 2018,England,Australia,Nottingham,England
-4012,21 Jun 2018,England,Australia,Chester-le-Street,England
-4013,24 Jun 2018,England,Australia,Manchester,England
-4014,12 Jul 2018,India,England,Nottingham,India
-4015,13 Jul 2018,Pakistan,Zimbabwe,Bulawayo,Pakistan
-4016,14 Jul 2018,India,England,Lord's,England
-4017,16 Jul 2018,Pakistan,Zimbabwe,Bulawayo,Pakistan
-4018,17 Jul 2018,India,England,Leeds,England
-4019,18 Jul 2018,Pakistan,Zimbabwe,Bulawayo,Pakistan
-4020,20 Jul 2018,Pakistan,Zimbabwe,Bulawayo,Pakistan
-4021,22 Jul 2018,Pakistan,Zimbabwe,Bulawayo,Pakistan
-4022,22 Jul 2018,WestIndies,Bangladesh,Providence,Bangladesh
-4023,25 Jul 2018,WestIndies,Bangladesh,Providence,WestIndies
-4024,28 Jul 2018,WestIndies,Bangladesh,Basseterre,Bangladesh
-4025,29 Jul 2018,SriLanka,South Africa,Dambulla,South Africa
-4027,1 Aug 2018,SriLanka,South Africa,Dambulla,South Africa
-4029,5 Aug 2018,SriLanka,South Africa,Pallekele,South Africa
-4030,8 Aug 2018,SriLanka,South Africa,Pallekele,SriLanka
-4031,12 Aug 2018,SriLanka,South Africa,Colombo (RPS),SriLanka
-4032,27 Aug 2018,Afghanistan,Ireland,Belfast,Afghanistan
-4033,29 Aug 2018,Afghanistan,Ireland,Belfast,Ireland
-4035,31 Aug 2018,Afghanistan,Ireland,Belfast,Afghanistan
-4036,15 Sep 2018,SriLanka,Bangladesh,Dubai (DSC),Bangladesh
-4037,16 Sep 2018,Pakistan,Hong Kong,Dubai (DSC),Pakistan
-4038,17 Sep 2018,SriLanka,Afghanistan,Abu Dhabi,Afghanistan
-4039,18 Sep 2018,India,Hong Kong,Dubai (DSC),India
-4040,19 Sep 2018,Pakistan,India,Dubai (DSC),India
-4041,20 Sep 2018,Bangladesh,Afghanistan,Abu Dhabi,Afghanistan
-4042,21 Sep 2018,India,Bangladesh,Dubai (DSC),India
-4043,21 Sep 2018,Pakistan,Afghanistan,Abu Dhabi,Pakistan
-4044,23 Sep 2018,Pakistan,India,Dubai (DSC),India
-4045,23 Sep 2018,Bangladesh,Afghanistan,Abu Dhabi,Bangladesh
-4046,25 Sep 2018,India,Afghanistan,Dubai (DSC),tied
-4047,26 Sep 2018,Pakistan,Bangladesh,Abu Dhabi,Bangladesh
-4048,28 Sep 2018,India,Bangladesh,Dubai (DSC),India
-4049,30 Sep 2018,SouthAfrica,Zimbabwe,Kimberley,SouthAfrica
-4050,3 Oct 2018,SouthAfrica,Zimbabwe,Bloemfontein,SouthAfrica
-4051,6 Oct 2018,SouthAfrica,Zimbabwe,Paarl,SouthAfrica
-4052,10 Oct 2018,SriLanka,England,Dambulla,n/r
-4053,13 Oct 2018,SriLanka,England,Dambulla,England
-4054,17 Oct 2018,SriLanka,England,Pallekele,England
-4055,20 Oct 2018,SriLanka,England,Pallekele,England
-4056,21 Oct 2018,WestIndies,India,Guwahati,India
-4057,21 Oct 2018,Bangladesh,Zimbabwe,Dhaka,Bangladesh
-4058,23 Oct 2018,SriLanka,England,Colombo (RPS),SriLanka
-4059,24 Oct 2018,WestIndies,India,Visakhapatnam,tied
-4060,24 Oct 2018,Bangladesh,Zimbabwe,Chattogram,Bangladesh
-4061,26 Oct 2018,Bangladesh,Zimbabwe,Chattogram,Bangladesh
-4062,27 Oct 2018,WestIndies,India,Pune,WestIndies
-4063,29 Oct 2018,WestIndies,India,Mumbai (BS),India
-4064,1 Nov 2018,WestIndies,India,Thiruvananthapuram,India
-4065,4 Nov 2018,SouthAfrica,Australia,Perth,SouthAfrica
-4066,7 Nov 2018,Pakistan,New Zealand,Abu Dhabi,New Zealand
-4067,9 Nov 2018,SouthAfrica,Australia,Adelaide,Australia
-4068,9 Nov 2018,Pakistan,New Zealand,Abu Dhabi,Pakistan
-4069,11 Nov 2018,SouthAfrica,Australia,Hobart,SouthAfrica
-4070,11 Nov 2018,Pakistan,New Zealand,Dubai (DSC),n/r
-4071,9 Dec 2018,WestIndies,Bangladesh,Dhaka,Bangladesh
-4072,11 Dec 2018,WestIndies,Bangladesh,Dhaka,WestIndies
-4073,14 Dec 2018,WestIndies,Bangladesh,Sylhet,Bangladesh
-4074,3 Jan 2019,SriLanka,New Zealand,Mount Maunganui,New Zealand
-4075,5 Jan 2019,SriLanka,New Zealand,Mount Maunganui,New Zealand
-4076,8 Jan 2019,SriLanka,New Zealand,Nelson,New Zealand
-4077,12 Jan 2019,India,Australia,Sydney,Australia
-4078,15 Jan 2019,India,Australia,Adelaide,India
-4079,18 Jan 2019,India,Australia,Melbourne,India
-4080,19 Jan 2019,SouthAfrica,Pakistan,Port Elizabeth,Pakistan
-4081,22 Jan 2019,SouthAfrica,Pakistan,Durban,SouthAfrica
-4082,23 Jan 2019,Newzealad,India,Napier,India
-4084,25 Jan 2019,SouthAfrica,Pakistan,Centurion,SouthAfrica
-4085,26 Jan 2019,Newzealad,India,Mount Maunganui,India
-4087,27 Jan 2019,SouthAfrica,Pakistan,Johannesburg,Pakistan
-4088,28 Jan 2019,Newzealad,India,Mount Maunganui,India
-4090,30 Jan 2019,SouthAfrica,Pakistan,Cape Town,SouthAfrica
-4091,31 Jan 2019,Newzealad,India,Hamilton,Newzealad
-4092,3 Feb 2019,Newzealad,India,Wellington,India
-4093,13 Feb 2019,Newzealad,Bangladesh,Napier,Newzealad
-4094,16 Feb 2019,Newzealad,Bangladesh,Christchurch,Newzealad
-4095,20 Feb 2019,Newzealad,Bangladesh,Dunedin,Newzealad
-4096,20 Feb 2019,WestIndies,England,Bridgetown,England
-4097,22 Feb 2019,WestIndies,England,Bridgetown,WestIndies
-4098,25 Feb 2019,WestIndies,England,St George's,n/r
-4099,27 Feb 2019,WestIndies,England,St George's,England
-4100,28 Feb 2019,Afghanistan,Ireland,Dehradun,Afghanistan
-4101,2 Mar 2019,Afghanistan,Ireland,Dehradun,n/r
-4102,2 Mar 2019,India,Australia,Hyderabad (Deccan),India
-4103,2 Mar 2019,WestIndies,England,Gros Islet,WestIndies
-4104,3 Mar 2019,SriLanka,South Africa,Johannesburg,South Africa
-4105,5 Mar 2019,Afghanistan,Ireland,Dehradun,Ireland
-4106,5 Mar 2019,India,Australia,Nagpur,India
-4107,6 Mar 2019,SriLanka,South Africa,Centurion,South Africa
-4108,8 Mar 2019,Afghanistan,Ireland,Dehradun,Afghanistan
-4109,8 Mar 2019,India,Australia,Ranchi,Australia
-4110,10 Mar 2019,Afghanistan,Ireland,Dehradun,Ireland
-4111,10 Mar 2019,India,Australia,Mohali,Australia
-4112,10 Mar 2019,SriLanka,South Africa,Durban,South Africa
-4113,13 Mar 2019,India,Australia,Delhi,Australia
-4114,13 Mar 2019,SriLanka,South Africa,Port Elizabeth,South Africa
-4115,16 Mar 2019,SriLanka,South Africa,Cape Town,South Africa
-4116,22 Mar 2019,Pakistan,Australia,Sharjah,Australia
-4117,24 Mar 2019,Pakistan,Australia,Sharjah,Australia
-4118,27 Mar 2019,Pakistan,Australia,Abu Dhabi,Australia
-4119,29 Mar 2019,Pakistan,Australia,Dubai (DSC),Australia
-4120,31 Mar 2019,Pakistan,Australia,Dubai (DSC),Australia
-4127,3 May 2019,England,Ireland,Dublin (Malahide),England
-4128,5 May 2019,WestIndies,Ireland,Dublin,WestIndies
-4129,7 May 2019,WestIndies,Bangladesh,Dublin,Bangladesh
-4129,8 May 2019,Afghanistan,Scotland,Edinburgh,n/r
-4130,8 May 2019,Pakistan,England,The Oval,n/r
-4130,9 May 2019,Bangladesh,Ireland,Dublin (Malahide),n/r
-4131,10 May 2019,Afghanistan,Scotland,Edinburgh,Afghanistan
-4132,11 May 2019,WestIndies,Ireland,Dublin (Malahide),WestIndies
-4133,11 May 2019,Pakistan,England,Southampton,England
-4134,13 May 2019,WestIndies,Bangladesh,Dublin (Malahide),Bangladesh
-4135,14 May 2019,Pakistan,England,Bristol,England
-4136,15 May 2019,Bangladesh,Ireland,Dublin,Bangladesh
-4137,17 May 2019,WestIndies,Bangladesh,Dublin (Malahide),Bangladesh
-4138,17 May 2019,Pakistan,England,Nottingham,England
-4138,18 May 2019,SriLanka,Scotland,Edinburgh,n/r
-4139,19 May 2019,Afghanistan,Ireland,Belfast,
-4140,19 May 2019,Pakistan,England,Leeds,
+3315,2013-01-03,Pakistan,India,Kolkata,Pakistan
+3316,2013-01-06,Pakistan,India,Delhi,India
+3317,2013-01-11,SriLanka,Australia,Melbourne,Australia
+3318,2013-01-11,India,England,Rajkot,England
+3319,2013-01-13,SriLanka,Australia,Adelaide,SriLanka
+3320,2013-01-15,India,England,Kochi,India
+3321,2013-01-18,SriLanka,Australia,Brisbane,SriLanka
+3322,2013-01-19,India,England,Ranchi,India
+3323,2013-01-19,SouthAfrica,New Zealand,Paarl,New Zealand
+3324,2013-01-20,SriLanka,Australia,Sydney,n/r
+3325,2013-01-22,SouthAfrica,New Zealand,Kimberley,New Zealand
+3326,2013-01-23,SriLanka,Australia,Hobart,Australia
+3327,2013-01-23,India,England,Mohali,India
+3328,2013-01-25,SouthAfrica,New Zealand,Potchefstroom,SouthAfrica
+3329,2013-01-27,India,England,Dharamsala,England
+3330,2013-02-01,WestIndies,Australia,Perth,Australia
+3331,2013-02-03,WestIndies,Australia,Perth,Australia
+3332,2013-02-06,WestIndies,Australia,Canberra,Australia
+3333,2013-02-08,WestIndies,Australia,Sydney,Australia
+3334,2013-02-10,WestIndies,Australia,Melbourne,Australia
+3335,2013-02-17,Newzealad,England,Hamilton,Newzealad
+3336,2013-02-20,Newzealad,England,Napier,England
+3337,2013-02-22,WestIndies,Zimbabwe,St George's,WestIndies
+3338,2013-02-23,Newzealad,England,Auckland,England
+3339,2013-02-24,WestIndies,Zimbabwe,St George's,WestIndies
+3340,2013-02-26,WestIndies,Zimbabwe,St George's,WestIndies
+3341,2013-03-06,Afghanistan,Scotland,Sharjah,Afghanistan
+3342,2013-03-08,Afghanistan,Scotland,Sharjah,Afghanistan
+3343,2013-03-10,SouthAfrica,Pakistan,Bloemfontein,SouthAfrica
+3346,2013-03-15,SouthAfrica,Pakistan,Centurion,Pakistan
+3347,2013-03-17,SouthAfrica,Pakistan,Johannesburg,SouthAfrica
+3348,2013-03-21,SouthAfrica,Pakistan,Durban,Pakistan
+3349,2013-03-23,SriLanka,Bangladesh,Hambantota,SriLanka
+3350,2013-03-24,SouthAfrica,Pakistan,Benoni,SouthAfrica
+3351,2013-03-25,SriLanka,Bangladesh,Hambantota,n/r
+3352,2013-03-28,SriLanka,Bangladesh,Pallekele,Bangladesh
+3353,2013-05-03,Bangladesh,Zimbabwe,Bulawayo,Bangladesh
+3354,2013-05-05,Bangladesh,Zimbabwe,Bulawayo,Zimbabwe
+3355,2013-05-08,Bangladesh,Zimbabwe,Bulawayo,Zimbabwe
+3356,2013-05-17,Pakistan,Scotland,Edinburgh,Pakistan
+3356,2013-05-19,Pakistan,Scotland,Edinburgh,n/r
+3357,2013-05-23,Pakistan,Ireland,Dublin,tied
+3358,2013-05-26,Pakistan,Ireland,Dublin,Pakistan
+3359,2013-05-31,SouthAfrica,Netherlands,Amstelveen,SouthAfrica
+3360,2013-05-31,Newzealad,England,Lord's,Newzealad
+3361,2013-06-02,Newzealad,England,Southampton,Newzealad
+3362,2013-06-05,Newzealad,England,Nottingham,England
+3363,2013-06-06,SouthAfrica,India,Cardiff,India
+3364,2013-06-07,WestIndies,Pakistan,The Oval,WestIndies
+3365,2013-06-08,England,Australia,Birmingham,England
+3366,2013-06-09,SriLanka,New Zealand,Cardiff,New Zealand
+3367,2013-06-10,SouthAfrica,Pakistan,Birmingham,SouthAfrica
+3368,2013-06-11,WestIndies,India,The Oval,India
+3369,2013-06-12,Newzealad,Australia,Birmingham,n/r
+3370,2013-06-13,SriLanka,England,The Oval,SriLanka
+3371,2013-06-14,WestIndies,South Africa,Cardiff,tied
+3372,2013-06-15,Pakistan,India,Birmingham,India
+3373,2013-06-16,Newzealad,England,Cardiff,England
+3374,2013-06-17,SriLanka,Australia,The Oval,SriLanka
+3375,2013-06-19,SouthAfrica,England,The Oval,England
+3376,2013-06-20,SriLanka,India,Cardiff,India
+3377,2013-06-23,India,England,Birmingham,India
+3378,2013-06-28,WestIndies,Sri Lanka,Kingston,WestIndies
+3380,2013-06-30,WestIndies,India,Kingston,WestIndies
+3382,2013-07-02,SriLanka,India,Kingston,SriLanka
+3383,2013-07-05,WestIndies,India,Port of Spain,India
+3385,2013-07-07,WestIndies,Sri Lanka,Port of Spain,Sri Lanka
+3387,2013-07-09,SriLanka,India,Port of Spain,India
+3388,2013-07-11,SriLanka,India,Port of Spain,India
+3389,2013-07-14,WestIndies,Pakistan,Providence,Pakistan
+3390,2013-07-16,WestIndies,Pakistan,Providence,WestIndies
+3391,2013-07-19,WestIndies,Pakistan,Gros Islet,tied
+3392,2013-07-20,SriLanka,South Africa,Colombo (RPS),SriLanka
+3393,2013-07-21,WestIndies,Pakistan,Gros Islet,Pakistan
+3394,2013-07-23,SriLanka,South Africa,Colombo (RPS),SriLanka
+3395,2013-07-24,India,Zimbabwe,Harare,India
+3396,2013-07-24,WestIndies,Pakistan,Gros Islet,Pakistan
+3397,2013-07-26,India,Zimbabwe,Harare,India
+3398,2013-07-26,SriLanka,South Africa,Pallekele,South Africa
+3399,2013-07-28,India,Zimbabwe,Harare,India
+3400,2013-07-28,SriLanka,South Africa,Pallekele,SriLanka
+3401,2013-07-31,SriLanka,South Africa,Colombo (RPS),SriLanka
+3402,2013-08-01,India,Zimbabwe,Bulawayo,India
+3403,2013-08-03,India,Zimbabwe,Bulawayo,India
+3404,2013-08-27,Pakistan,Zimbabwe,Harare,Zimbabwe
+3406,2013-08-29,Pakistan,Zimbabwe,Harare,Pakistan
+3408,2013-08-31,Pakistan,Zimbabwe,Harare,Pakistan
+3409,2013-09-03,England,Ireland,Dublin (Malahide),England
+3410,2013-09-03,Australia,Scotland,Edinburgh,Australia
+3410,2013-09-06,England,Australia,Leeds,n/r
+3412,2013-09-08,England,Australia,Manchester,Australia
+3414,2013-09-11,England,Australia,Birmingham,n/r
+3415,2013-09-14,England,Australia,Cardiff,England
+3416,2013-09-16,England,Australia,Southampton,Australia
+3417,2013-10-02,Afghanistan,Kenya,Sharjah,Afghanistan
+3418,2013-10-04,Afghanistan,Kenya,Sharjah,Afghanistan
+3419,2013-10-13,India,Australia,Pune,Australia
+3420,2013-10-16,India,Australia,Jaipur,India
+3421,2013-10-19,India,Australia,Mohali,Australia
+3422,2013-10-23,India,Australia,Ranchi,n/r
+3422,2013-10-26,India,Australia,Cuttack,n/r
+3423,2013-10-29,Newzealad,Bangladesh,Dhaka,Bangladesh
+3424,2013-10-30,India,Australia,Nagpur,India
+3425,2013-10-30,SouthAfrica,Pakistan,Sharjah,SouthAfrica
+3426,2013-10-31,Newzealad,Bangladesh,Dhaka,Bangladesh
+3427,2013-11-01,SouthAfrica,Pakistan,Dubai (DSC),Pakistan
+3428,2013-11-02,India,Australia,Bengaluru,India
+3429,2013-11-03,Newzealad,Bangladesh,Fatullah,Bangladesh
+3430,2013-11-06,SouthAfrica,Pakistan,Abu Dhabi,SouthAfrica
+3431,2013-11-08,SouthAfrica,Pakistan,Abu Dhabi,SouthAfrica
+3432,2013-11-10,SriLanka,New Zealand,Hambantota,n/r
+3433,2013-11-11,SouthAfrica,Pakistan,Sharjah,SouthAfrica
+3434,2013-11-12,SriLanka,New Zealand,Hambantota,New Zealand
+3435,2013-11-16,SriLanka,New Zealand,Dambulla,SriLanka
+3436,2013-11-21,WestIndies,India,Kochi,India
+3437,2013-11-24,WestIndies,India,Visakhapatnam,WestIndies
+3438,2013-11-24,SouthAfrica,Pakistan,Cape Town,Pakistan
+3439,2013-11-27,WestIndies,India,Kanpur,India
+3440,2013-11-27,SouthAfrica,Pakistan,Port Elizabeth,Pakistan
+3441,2013-11-30,SouthAfrica,Pakistan,Centurion,SouthAfrica
+3442,2013-12-05,SouthAfrica,India,Johannesburg,SouthAfrica
+3443,2013-12-08,SouthAfrica,India,Durban,SouthAfrica
+3444,2013-12-11,SouthAfrica,India,Centurion,n/r
+3445,2013-12-18,SriLanka,Pakistan,Sharjah,Pakistan
+3446,2013-12-20,SriLanka,Pakistan,Dubai (DSC),SriLanka
+3447,2013-12-22,SriLanka,Pakistan,Sharjah,Pakistan
+3448,2013-12-25,SriLanka,Pakistan,Abu Dhabi,Pakistan
+3449,2013-12-26,WestIndies,New Zealand,Auckland,WestIndies
+3450,2013-12-27,SriLanka,Pakistan,Abu Dhabi,SriLanka
+3450,2013-12-29,WestIndies,New Zealand,Napier,n/r
+3451,2014-01-01,WestIndies,New Zealand,Queenstown,New Zealand
+3452,2014-01-04,WestIndies,New Zealand,Nelson,New Zealand
+3453,2014-01-08,WestIndies,New Zealand,Hamilton,WestIndies
+3454,2014-01-12,England,Australia,Melbourne,Australia
+3455,2014-01-17,England,Australia,Brisbane,Australia
+3456,2014-01-19,Newzealad,India,Napier,Newzealad
+3457,2014-01-19,England,Australia,Sydney,Australia
+3458,2014-01-22,Newzealad,India,Hamilton,Newzealad
+3461,2014-01-24,England,Australia,Perth,England
+3462,2014-01-25,Newzealad,India,Auckland,tied
+3463,2014-01-26,England,Australia,Adelaide,Australia
+3465,2014-01-28,Newzealad,India,Hamilton,Newzealad
+3467,2014-01-31,Newzealad,India,Wellington,Newzealad
+3469,2014-02-17,SriLanka,Bangladesh,Dhaka,SriLanka
+3470,2014-02-20,SriLanka,Bangladesh,Dhaka,SriLanka
+3471,2014-02-22,SriLanka,Bangladesh,Dhaka,SriLanka
+3472,2014-02-23,WestIndies,Ireland,Kingston,WestIndies
+3473,2014-02-25,SriLanka,Pakistan,Fatullah,SriLanka
+3474,2014-02-26,India,Bangladesh,Fatullah,India
+3475,2014-02-27,Pakistan,Afghanistan,Fatullah,Pakistan
+3476,2014-02-28,SriLanka,India,Fatullah,SriLanka
+3477,2014-02-28,WestIndies,England,North Sound,WestIndies
+3478,2014-03-01,Bangladesh,Afghanistan,Fatullah,Afghanistan
+3479,2014-03-02,Pakistan,India,Dhaka,Pakistan
+3480,2014-03-02,WestIndies,England,North Sound,England
+3481,2014-03-03,SriLanka,Afghanistan,Dhaka,SriLanka
+3482,2014-03-04,Pakistan,Bangladesh,Dhaka,Pakistan
+3483,2014-03-05,India,Afghanistan,Dhaka,India
+3484,2014-03-05,WestIndies,England,North Sound,England
+3485,2014-03-06,SriLanka,Bangladesh,Dhaka,SriLanka
+3486,2014-03-08,SriLanka,Pakistan,Dhaka,SriLanka
+3487,2014-05-01,Afghanistan,Hong Kong,Kuala Lumpur,Afghanistan
+3488,2014-05-02,Afghanistan,U.A.E.,Kuala Lumpur,Afghanistan
+3490,2014-05-06,SriLanka,Ireland,Dublin,SriLanka
+3490,2014-05-08,SriLanka,Ireland,Dublin,n/r
+3491,2014-05-09,England,Scotland,Aberdeen,England
+3492,2014-05-22,SriLanka,England,The Oval,England
+3493,2014-05-25,SriLanka,England,Chester-le-Street,SriLanka
+3494,2014-05-28,SriLanka,England,Manchester,England
+3495,2014-05-31,SriLanka,England,Lord's,SriLanka
+3496,2014-06-03,SriLanka,England,Birmingham,SriLanka
+3497,2014-06-15,India,Bangladesh,Dhaka,India
+3498,2014-06-17,India,Bangladesh,Dhaka,India
+3499,2014-06-19,India,Bangladesh,Dhaka,n/r
+3500,2014-07-06,SriLanka,South Africa,Colombo (RPS),South Africa
+3501,2014-07-09,SriLanka,South Africa,Pallekele,SriLanka
+3502,2014-07-12,SriLanka,South Africa,Hambantota,South Africa
+3503,2014-07-18,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
+3504,2014-07-20,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
+3505,2014-07-22,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
+3506,2014-07-24,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
+3507,2014-08-17,SouthAfrica,Zimbabwe,Bulawayo,SouthAfrica
+3508,2014-08-19,SouthAfrica,Zimbabwe,Bulawayo,SouthAfrica
+3509,2014-08-20,WestIndies,Bangladesh,St George's,WestIndies
+3510,2014-08-21,SouthAfrica,Zimbabwe,Bulawayo,SouthAfrica
+3511,2014-08-22,WestIndies,Bangladesh,St George's,WestIndies
+3512,2014-08-23,SriLanka,Pakistan,Hambantota,Pakistan
+3513,2014-08-25,Australia,Zimbabwe,Harare,Australia
+3513,2014-08-25,India,England,Bristol,n/r
+3514,2014-08-25,WestIndies,Bangladesh,Basseterre,WestIndies
+3515,2014-08-26,SriLanka,Pakistan,Hambantota,SriLanka
+3516,2014-08-27,SouthAfrica,Australia,Harare,SouthAfrica
+3517,2014-08-27,India,England,Cardiff,India
+3518,2014-08-29,SouthAfrica,Zimbabwe,Harare,SouthAfrica
+3519,2014-08-30,SriLanka,Pakistan,Dambulla,SriLanka
+3520,2014-08-30,India,England,Nottingham,India
+3521,2014-08-31,Australia,Zimbabwe,Harare,Zimbabwe
+3522,2014-09-02,SouthAfrica,Australia,Harare,Australia
+3523,2014-09-02,India,England,Birmingham,India
+3524,2014-09-04,SouthAfrica,Zimbabwe,Harare,SouthAfrica
+3525,2014-09-05,India,England,Leeds,England
+3526,2014-09-06,SouthAfrica,Australia,Harare,SouthAfrica
+3530,2014-10-07,Pakistan,Australia,Sharjah,Australia
+3531,2014-10-08,WestIndies,India,Kochi,WestIndies
+3532,2014-10-10,Pakistan,Australia,Dubai (DSC),Australia
+3533,2014-10-11,WestIndies,India,Delhi,India
+3534,2014-10-12,Pakistan,Australia,Abu Dhabi,Australia
+3534,2014-10-14,WestIndies,India,Visakhapatnam,n/r
+3535,2014-10-17,WestIndies,India,Dharamsala,India
+3535,2014-10-20,WestIndies,India,Kolkata,n/r
+3536,2014-10-21,SouthAfrica,New Zealand,Mount Maunganui,SouthAfrica
+3537,2014-10-24,SouthAfrica,New Zealand,Mount Maunganui,SouthAfrica
+3538,2014-10-27,SouthAfrica,New Zealand,Hamilton,n/r
+3539,2014-11-02,SriLanka,India,Cuttack,India
+3540,2014-11-06,SriLanka,India,Ahmedabad,India
+3543,2014-11-09,SriLanka,India,Hyderabad (Deccan),India
+3544,2014-11-13,SriLanka,India,Kolkata,India
+3545,2014-11-14,SouthAfrica,Australia,Perth,Australia
+3546,2014-11-16,SouthAfrica,Australia,Perth,SouthAfrica
+3547,2014-11-16,SriLanka,India,Ranchi,India
+3548,2014-11-19,SouthAfrica,Australia,Canberra,Australia
+3549,2014-11-21,SouthAfrica,Australia,Melbourne,Australia
+3550,2014-11-21,Bangladesh,Zimbabwe,Chattogram,Bangladesh
+3551,2014-11-23,SouthAfrica,Australia,Sydney,Australia
+3552,2014-11-23,Bangladesh,Zimbabwe,Chattogram,Bangladesh
+3553,2014-11-26,Bangladesh,Zimbabwe,Dhaka,Bangladesh
+3554,2014-11-26,SriLanka,England,Colombo (RPS),SriLanka
+3555,2014-11-28,Bangladesh,Zimbabwe,Dhaka,Bangladesh
+3556,2014-11-28,Afghanistan,U.A.E.,ICCA Dubai,U.A.E.
+3557,2014-11-29,SriLanka,England,Colombo (RPS),SriLanka
+3558,2014-11-30,Afghanistan,U.A.E.,ICCA Dubai,U.A.E.
+3559,2014-12-01,Bangladesh,Zimbabwe,Dhaka,Bangladesh
+3560,2014-12-02,Afghanistan,U.A.E.,ICCA Dubai,Afghanistan
+3561,2014-12-03,SriLanka,England,Hambantota,England
+3562,2014-12-04,Afghanistan,U.A.E.,ICCA Dubai,U.A.E.
+3563,2014-12-07,SriLanka,England,Colombo (RPS),SriLanka
+3564,2014-12-08,Pakistan,New Zealand,Dubai (DSC),Pakistan
+3565,2014-12-10,SriLanka,England,Pallekele,England
+3566,2014-12-12,Pakistan,New Zealand,Sharjah,New Zealand
+3567,2014-12-13,SriLanka,England,Pallekele,SriLanka
+3568,2014-12-14,Pakistan,New Zealand,Sharjah,Pakistan
+3569,2014-12-16,SriLanka,England,Colombo (RPS),SriLanka
+3570,2014-12-17,Pakistan,New Zealand,Abu Dhabi,New Zealand
+3571,2014-12-19,Pakistan,New Zealand,Abu Dhabi,New Zealand
+3572,2015-01-08,Afghanistan,Scotland,ICCA Dubai,Afghanistan
+3573,2015-01-10,Afghanistan,Ireland,Dubai (DSC),Ireland
+3574,2015-01-11,SriLanka,New Zealand,Christchurch,New Zealand
+3576,2015-01-14,Afghanistan,Scotland,Abu Dhabi,Scotland
+3577,2015-01-15,SriLanka,New Zealand,Hamilton,SriLanka
+3578,2015-01-16,England,Australia,Sydney,Australia
+3579,2015-01-16,WestIndies,South Africa,Durban,South Africa
+3580,2015-01-17,SriLanka,New Zealand,Auckland,n/r
+3581,2015-01-17,Afghanistan,Ireland,Dubai (DSC),Afghanistan
+3582,2015-01-18,India,Australia,Melbourne,Australia
+3583,2015-01-18,WestIndies,South Africa,Johannesburg,South Africa
+3585,2015-01-20,SriLanka,New Zealand,Nelson,New Zealand
+3586,2015-01-20,India,England,Brisbane,England
+3587,2015-01-21,WestIndies,South Africa,East London,South Africa
+3588,2015-01-23,SriLanka,New Zealand,Dunedin,New Zealand
+3589,2015-01-23,England,Australia,Hobart,Australia
+3590,2015-01-25,SriLanka,New Zealand,Dunedin,New Zealand
+3591,2015-01-25,WestIndies,South Africa,Port Elizabeth,WestIndies
+3592,2015-01-26,India,Australia,Sydney,n/r
+3593,2015-01-28,WestIndies,South Africa,Centurion,South Africa
+3594,2015-01-29,SriLanka,New Zealand,Wellington,SriLanka
+3595,2015-01-30,India,England,Perth,England
+3596,2015-01-31,Pakistan,New Zealand,Wellington,New Zealand
+3597,2015-02-01,England,Australia,Perth,Australia
+3598,2015-02-03,Pakistan,New Zealand,Napier,New Zealand
+3599,2015-02-14,SriLanka,New Zealand,Christchurch,New Zealand
+3600,2015-02-14,England,Australia,Melbourne,Australia
+3601,2015-02-15,SouthAfrica,Zimbabwe,Hamilton,SouthAfrica
+3602,2015-02-15,Pakistan,India,Adelaide,India
+3603,2015-02-16,WestIndies,Ireland,Nelson,Ireland
+3604,2015-02-17,Newzealad,Scotland,Dunedin,Newzealad
+3605,2015-02-18,Bangladesh,Afghanistan,Canberra,Bangladesh
+3607,2015-02-20,Newzealad,England,Wellington,Newzealad
+3608,2015-02-21,WestIndies,Pakistan,Christchurch,WestIndies
+3608,2015-02-21,Bangladesh,Australia,Brisbane,n/r
+3609,2015-02-22,SriLanka,Afghanistan,Dunedin,SriLanka
+3610,2015-02-22,SouthAfrica,India,Melbourne,India
+3611,2015-02-23,England,Scotland,Christchurch,England
+3612,2015-02-24,WestIndies,Zimbabwe,Canberra,WestIndies
+3614,2015-02-26,Afghanistan,Scotland,Dunedin,Afghanistan
+3615,2015-02-26,SriLanka,Bangladesh,Melbourne,SriLanka
+3616,2015-02-27,WestIndies,South Africa,Sydney,South Africa
+3617,2015-02-28,Newzealad,Australia,Auckland,Newzealad
+3618,2015-02-28,India,U.A.E.,Perth,India
+3619,2015-03-01,SriLanka,England,Wellington,SriLanka
+3620,2015-03-01,Pakistan,Zimbabwe,Brisbane,Pakistan
+3621,2015-03-03,SouthAfrica,Ireland,Canberra,SouthAfrica
+3622,2015-03-04,Pakistan,U.A.E.,Napier,Pakistan
+3623,2015-03-04,Australia,Afghanistan,Perth,Australia
+3624,2015-03-05,Bangladesh,Scotland,Nelson,Bangladesh
+3625,2015-03-06,WestIndies,India,Perth,India
+3626,2015-03-07,SouthAfrica,Pakistan,Auckland,Pakistan
+3628,2015-03-08,Newzealad,Afghanistan,Napier,Newzealad
+3629,2015-03-08,SriLanka,Australia,Sydney,Australia
+3630,2015-03-09,England,Bangladesh,Adelaide,Bangladesh
+3631,2015-03-10,India,Ireland,Hamilton,India
+3632,2015-03-11,SriLanka,Scotland,Hobart,SriLanka
+3633,2015-03-12,SouthAfrica,U.A.E.,Wellington,SouthAfrica
+3634,2015-03-13,Newzealad,Bangladesh,Hamilton,Newzealad
+3635,2015-03-13,England,Afghanistan,Sydney,England
+3636,2015-03-14,India,Zimbabwe,Auckland,India
+3637,2015-03-14,Australia,Scotland,Hobart,Australia
+3638,2015-03-15,WestIndies,U.A.E.,Napier,WestIndies
+3639,2015-03-15,Pakistan,Ireland,Adelaide,Pakistan
+3640,2015-03-18,SriLanka,South Africa,Sydney,South Africa
+3641,2015-03-19,India,Bangladesh,Melbourne,India
+3642,2015-03-20,Pakistan,Australia,Adelaide,Australia
+3643,2015-03-21,WestIndies,New Zealand,Wellington,New Zealand
+3644,2015-03-24,SouthAfrica,New Zealand,Auckland,New Zealand
+3645,2015-03-26,India,Australia,Sydney,Australia
+3646,2015-03-29,Newzealad,Australia,Melbourne,Australia
+3647,2015-04-17,Pakistan,Bangladesh,Dhaka,Bangladesh
+3648,2015-04-19,Pakistan,Bangladesh,Dhaka,Bangladesh
+3649,2015-04-22,Pakistan,Bangladesh,Dhaka,Bangladesh
+3650,2015-05-08,England,Ireland,Dublin (Malahide),n/r
+3651,2015-05-26,Pakistan,Zimbabwe,Lahore,Pakistan
+3652,2015-05-29,Pakistan,Zimbabwe,Lahore,Pakistan
+3653,2015-05-31,Pakistan,Zimbabwe,Lahore,n/r
+3654,2015-06-09,Newzealad,England,Birmingham,England
+3655,2015-06-12,Newzealad,England,The Oval,Newzealad
+3656,2015-06-14,Newzealad,England,Southampton,Newzealad
+3657,2015-06-17,Newzealad,England,Nottingham,England
+3658,2015-06-18,India,Bangladesh,Dhaka,Bangladesh
+3659,2015-06-20,Newzealad,England,Chester-le-Street,England
+3660,2015-06-21,India,Bangladesh,Dhaka,Bangladesh
+3661,2015-06-24,India,Bangladesh,Dhaka,India
+3662,2015-07-10,India,Zimbabwe,Harare,India
+3663,2015-07-10,SouthAfrica,Bangladesh,Dhaka,SouthAfrica
+3664,2015-07-11,SriLanka,Pakistan,Dambulla,Pakistan
+3665,2015-07-12,India,Zimbabwe,Harare,India
+3666,2015-07-12,SouthAfrica,Bangladesh,Dhaka,Bangladesh
+3667,2015-07-14,India,Zimbabwe,Harare,India
+3668,2015-07-15,SouthAfrica,Bangladesh,Chattogram,Bangladesh
+3669,2015-07-15,SriLanka,Pakistan,Pallekele,SriLanka
+3670,2015-07-19,SriLanka,Pakistan,Colombo (RPS),Pakistan
+3671,2015-07-22,SriLanka,Pakistan,Colombo (RPS),Pakistan
+3672,2015-07-26,SriLanka,Pakistan,Hambantota,SriLanka
+3673,2015-08-02,Newzealad,Zimbabwe,Harare,Zimbabwe
+3674,2015-08-04,Newzealad,Zimbabwe,Harare,Newzealad
+3675,2015-08-07,Newzealad,Zimbabwe,Harare,Newzealad
+3676,2015-08-19,SouthAfrica,New Zealand,Centurion,SouthAfrica
+3677,2015-08-23,SouthAfrica,New Zealand,Potchefstroom,New Zealand
+3678,2015-08-26,SouthAfrica,New Zealand,Durban,SouthAfrica
+3679,2015-08-27,Australia,Ireland,Belfast,Australia
+3680,2015-09-03,England,Australia,Southampton,Australia
+3681,2015-09-05,England,Australia,Lord's,Australia
+3682,2015-09-08,England,Australia,Manchester,England
+3683,2015-09-11,England,Australia,Leeds,England
+3684,2015-09-13,England,Australia,Manchester,Australia
+3685,2015-10-01,Pakistan,Zimbabwe,Harare,Pakistan
+3686,2015-10-03,Pakistan,Zimbabwe,Harare,Zimbabwe
+3687,2015-10-05,Pakistan,Zimbabwe,Harare,Pakistan
+3689,2015-10-11,SouthAfrica,India,Kanpur,SouthAfrica
+3692,2015-10-14,SouthAfrica,India,Indore,India
+3693,2015-10-16,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
+3694,2015-10-18,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
+3695,2015-10-18,SouthAfrica,India,Rajkot,SouthAfrica
+3696,2015-10-20,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
+3697,2015-10-22,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
+3698,2015-10-22,SouthAfrica,India,Chennai,India
+3699,2015-10-24,Afghanistan,Zimbabwe,Bulawayo,Afghanistan
+3700,2015-10-25,SouthAfrica,India,Mumbai,SouthAfrica
+3701,2015-11-01,WestIndies,Sri Lanka,Colombo (RPS),Sri Lanka
+3702,2015-11-04,WestIndies,Sri Lanka,Colombo (RPS),Sri Lanka
+3703,2015-11-07,Bangladesh,Zimbabwe,Dhaka,Bangladesh
+3704,2015-11-07,WestIndies,Sri Lanka,Pallekele,Sri Lanka
+3705,2015-11-09,Bangladesh,Zimbabwe,Dhaka,Bangladesh
+3706,2015-11-11,Bangladesh,Zimbabwe,Dhaka,Bangladesh
+3707,2015-11-11,Pakistan,England,Abu Dhabi,Pakistan
+3708,2015-11-13,Pakistan,England,Abu Dhabi,England
+3710,2015-11-17,Pakistan,England,Sharjah,England
+3712,2015-11-20,Pakistan,England,Dubai (DSC),England
+3713,2015-12-25,Afghanistan,Zimbabwe,Sharjah,Afghanistan
+3714,2015-12-26,SriLanka,New Zealand,Christchurch,New Zealand
+3715,2015-12-28,SriLanka,New Zealand,Christchurch,New Zealand
+3716,2015-12-29,Afghanistan,Zimbabwe,Sharjah,Afghanistan
+3717,2015-12-31,SriLanka,New Zealand,Nelson,SriLanka
+3718,2016-01-02,SriLanka,New Zealand,Nelson,n/r
+3719,2016-01-02,Afghanistan,Zimbabwe,Sharjah,Zimbabwe
+3720,2016-01-04,Afghanistan,Zimbabwe,Sharjah,Zimbabwe
+3721,2016-01-05,SriLanka,New Zealand,Mount Maunganui,New Zealand
+3722,2016-01-06,Afghanistan,Zimbabwe,Sharjah,Afghanistan
+3723,2016-01-12,India,Australia,Perth,Australia
+3724,2016-01-15,India,Australia,Brisbane,Australia
+3725,2016-01-17,India,Australia,Melbourne,Australia
+3726,2016-01-20,India,Australia,Canberra,Australia
+3727,2016-01-23,India,Australia,Sydney,India
+3728,2016-01-25,Pakistan,New Zealand,Wellington,New Zealand
+3729,2016-01-28,Pakistan,New Zealand,Napier,n/r
+3730,2016-01-31,Pakistan,New Zealand,Auckland,New Zealand
+3731,2016-02-03,Newzealad,Australia,Auckland,Newzealad
+3732,2016-02-03,SouthAfrica,England,Bloemfontein,England
+3733,2016-02-06,Newzealad,Australia,Wellington,Australia
+3734,2016-02-06,SouthAfrica,England,Port Elizabeth,England
+3735,2016-02-08,Newzealad,Australia,Hamilton,Newzealad
+3736,2016-02-09,SouthAfrica,England,Centurion,SouthAfrica
+3737,2016-02-12,SouthAfrica,England,Johannesburg,SouthAfrica
+3738,2016-02-14,SouthAfrica,England,Cape Town,SouthAfrica
+3739,2016-06-03,WestIndies,South Africa,Providence,WestIndies
+3740,2016-06-05,WestIndies,Australia,Providence,Australia
+3741,2016-06-07,SouthAfrica,Australia,Providence,SouthAfrica
+3742,2016-06-11,India,Zimbabwe,Harare,India
+3743,2016-06-11,SouthAfrica,Australia,Basseterre,Australia
+3744,2016-06-13,India,Zimbabwe,Harare,India
+3745,2016-06-13,WestIndies,Australia,Basseterre,WestIndies
+3746,2016-06-15,India,Zimbabwe,Harare,India
+3747,2016-06-15,WestIndies,South Africa,Basseterre,South Africa
+3748,2016-06-16,SriLanka,Ireland,Dublin (Malahide),SriLanka
+3749,2016-06-18,SriLanka,Ireland,Dublin (Malahide),SriLanka
+3750,2016-06-19,SouthAfrica,Australia,Bridgetown,n/r
+3751,2016-06-21,SriLanka,England,Nottingham,tied
+3752,2016-06-21,WestIndies,Australia,Bridgetown,Australia
+3753,2016-06-24,SriLanka,England,Birmingham,England
+3754,2016-06-24,WestIndies,South Africa,Bridgetown,WestIndies
+3755,2016-06-26,SriLanka,England,Bristol,n/r
+3756,2016-06-26,WestIndies,Australia,Bridgetown,Australia
+3757,2016-06-29,SriLanka,England,The Oval,England
+3758,2016-07-02,SriLanka,England,Cardiff,England
+3759,2016-07-04,Afghanistan,Scotland,Edinburgh,n/r
+3760,2016-07-06,Afghanistan,Scotland,Edinburgh,Afghanistan
+3760,2016-07-10,Afghanistan,Ireland,Belfast,n/r
+3761,2016-07-12,Afghanistan,Ireland,Belfast,Afghanistan
+3762,2016-07-14,Afghanistan,Ireland,Belfast,Ireland
+3763,2016-07-17,Afghanistan,Ireland,Belfast,Afghanistan
+3764,2016-07-19,Afghanistan,Ireland,Belfast,Ireland
+3767,2016-08-18,Pakistan,Ireland,Dublin (Malahide),Pakistan
+3767,2016-08-20,Pakistan,Ireland,Dublin (Malahide),n/r
+3768,2016-08-21,SriLanka,Australia,Colombo (RPS),Australia
+3769,2016-08-24,SriLanka,Australia,Colombo (RPS),SriLanka
+3770,2016-08-24,Pakistan,England,Southampton,England
+3771,2016-08-27,Pakistan,England,Lord's,England
+3772,2016-08-28,SriLanka,Australia,Dambulla,Australia
+3773,2016-08-30,Pakistan,England,Nottingham,England
+3774,2016-08-31,SriLanka,Australia,Dambulla,Australia
+3775,2016-09-01,Pakistan,England,Leeds,England
+3776,2016-09-04,SriLanka,Australia,Pallekele,Australia
+3777,2016-09-04,Pakistan,England,Cardiff,Pakistan
+3780,2016-09-25,SouthAfrica,Ireland,Benoni,SouthAfrica
+3781,2016-09-25,Bangladesh,Afghanistan,Dhaka,Bangladesh
+3782,2016-09-27,Australia,Ireland,Benoni,Australia
+3783,2016-09-28,Bangladesh,Afghanistan,Dhaka,Afghanistan
+3784,2016-09-30,WestIndies,Pakistan,Sharjah,Pakistan
+3785,2016-09-30,SouthAfrica,Australia,Centurion,SouthAfrica
+3786,2016-10-01,Bangladesh,Afghanistan,Dhaka,Bangladesh
+3787,2016-10-02,SouthAfrica,Australia,Johannesburg,SouthAfrica
+3788,2016-10-02,WestIndies,Pakistan,Sharjah,Pakistan
+3789,2016-10-05,WestIndies,Pakistan,Abu Dhabi,Pakistan
+3790,2016-10-05,SouthAfrica,Australia,Durban,SouthAfrica
+3791,2016-10-07,England,Bangladesh,Dhaka,England
+3792,2016-10-09,SouthAfrica,Australia,Port Elizabeth,SouthAfrica
+3793,2016-10-09,England,Bangladesh,Dhaka,Bangladesh
+3794,2016-10-12,England,Bangladesh,Chattogram,England
+3795,2016-10-12,SouthAfrica,Australia,Cape Town,SouthAfrica
+3796,2016-10-16,Newzealad,India,Dharamsala,India
+3797,2016-10-20,Newzealad,India,Delhi,Newzealad
+3798,2016-10-23,Newzealad,India,Mohali,India
+3799,2016-10-26,Newzealad,India,Ranchi,Newzealad
+3800,2016-10-29,Newzealad,India,Visakhapatnam,India
+3804,2016-11-14,SriLanka,Zimbabwe,Harare,SriLanka
+3805,2016-11-16,WestIndies,Sri Lanka,Harare,WestIndies
+3806,2016-11-19,WestIndies,Zimbabwe,Bulawayo,tied
+3807,2016-11-21,SriLanka,Zimbabwe,Bulawayo,n/r
+3808,2016-11-23,WestIndies,Sri Lanka,Bulawayo,Sri Lanka
+3809,2016-11-25,WestIndies,Zimbabwe,Bulawayo,Zimbabwe
+3810,2016-11-27,SriLanka,Zimbabwe,Bulawayo,SriLanka
+3811,2016-12-04,Newzealad,Australia,Sydney,Australia
+3812,2016-12-06,Newzealad,Australia,Canberra,Australia
+3813,2016-12-09,Newzealad,Australia,Melbourne,Australia
+3814,2016-12-26,Newzealad,Bangladesh,Christchurch,Newzealad
+3815,2016-12-29,Newzealad,Bangladesh,Nelson,Newzealad
+3816,2016-12-31,Newzealad,Bangladesh,Nelson,Newzealad
+3817,2017-01-13,Pakistan,Australia,Brisbane,Australia
+3818,2017-01-15,Pakistan,Australia,Melbourne,Pakistan
+3819,2017-01-15,India,England,Pune,India
+3820,2017-01-19,Pakistan,Australia,Perth,Australia
+3821,2017-01-19,India,England,Cuttack,India
+3822,2017-01-22,Pakistan,Australia,Sydney,Australia
+3824,2017-01-22,India,England,Kolkata,England
+3826,2017-01-26,Pakistan,Australia,Adelaide,Australia
+3828,2017-01-28,SriLanka,South Africa,Port Elizabeth,South Africa
+3829,2017-01-30,Newzealad,Australia,Auckland,Newzealad
+3830,2017-02-01,SriLanka,South Africa,Durban,South Africa
+3830,2017-02-02,Newzealad,Australia,Napier,n/r
+3831,2017-02-04,SriLanka,South Africa,Johannesburg,South Africa
+3832,2017-02-05,Newzealad,Australia,Hamilton,Newzealad
+3833,2017-02-07,SriLanka,South Africa,Cape Town,South Africa
+3834,2017-02-10,SriLanka,South Africa,Centurion,South Africa
+3835,2017-02-16,Afghanistan,Zimbabwe,Harare,Afghanistan
+3836,2017-02-19,SouthAfrica,New Zealand,Hamilton,SouthAfrica
+3837,2017-02-19,Afghanistan,Zimbabwe,Harare,Afghanistan
+3838,2017-02-21,Afghanistan,Zimbabwe,Harare,Zimbabwe
+3839,2017-02-22,SouthAfrica,New Zealand,Christchurch,New Zealand
+3840,2017-02-24,Afghanistan,Zimbabwe,Harare,Zimbabwe
+3841,2017-02-25,SouthAfrica,New Zealand,Wellington,SouthAfrica
+3842,2017-02-26,Afghanistan,Zimbabwe,Harare,Afghanistan
+3843,2017-03-01,SouthAfrica,New Zealand,Hamilton,New Zealand
+3845,2017-03-03,WestIndies,England,North Sound,England
+3846,2017-03-04,SouthAfrica,New Zealand,Auckland,SouthAfrica
+3848,2017-03-05,WestIndies,England,North Sound,England
+3849,2017-03-09,WestIndies,England,Bridgetown,England
+3850,2017-03-15,Afghanistan,Ireland,Greater Noida,Afghanistan
+3851,2017-03-17,Afghanistan,Ireland,Greater Noida,Afghanistan
+3852,2017-03-19,Afghanistan,Ireland,Greater Noida,Ireland
+3853,2017-03-22,Afghanistan,Ireland,Greater Noida,Ireland
+3854,2017-03-24,Afghanistan,Ireland,Greater Noida,Afghanistan
+3855,2017-03-25,SriLanka,Bangladesh,Dambulla,Bangladesh
+3856,2017-03-28,SriLanka,Bangladesh,Dambulla,n/r
+3858,2017-04-01,SriLanka,Bangladesh,Colombo (SSC),SriLanka
+3861,2017-04-07,WestIndies,Pakistan,Providence,WestIndies
+3862,2017-04-09,WestIndies,Pakistan,Providence,Pakistan
+3863,2017-04-11,WestIndies,Pakistan,Providence,Pakistan
+3864,2017-05-05,England,Ireland,Bristol,England
+3865,2017-05-07,England,Ireland,Lord's,England
+3866,2017-05-12,Bangladesh,Ireland,Dublin (Malahide),n/r
+3867,2017-05-14,Newzealad,Ireland,Dublin (Malahide),Newzealad
+3868,2017-05-17,Newzealad,Bangladesh,Dublin,Newzealad
+3869,2017-05-19,Bangladesh,Ireland,Dublin (Malahide),Bangladesh
+3870,2017-05-21,Newzealad,Ireland,Dublin (Malahide),Newzealad
+3871,2017-05-24,Newzealad,Bangladesh,Dublin,Bangladesh
+3872,2017-05-24,SouthAfrica,England,Leeds,England
+3873,2017-05-27,SouthAfrica,England,Southampton,England
+3874,2017-05-29,SouthAfrica,England,Lord's,SouthAfrica
+3875,2017-06-01,England,Bangladesh,The Oval,England
+3876,2017-06-02,Newzealad,Australia,Birmingham,n/r
+3877,2017-06-03,SriLanka,South Africa,The Oval,South Africa
+3878,2017-06-04,Pakistan,India,Birmingham,India
+3879,2017-06-05,Bangladesh,Australia,The Oval,n/r
+3880,2017-06-06,Newzealad,England,Cardiff,England
+3881,2017-06-07,SouthAfrica,Pakistan,Birmingham,Pakistan
+3882,2017-06-08,SriLanka,India,The Oval,SriLanka
+3883,2017-06-09,Newzealad,Bangladesh,Cardiff,Bangladesh
+3884,2017-06-09,WestIndies,Afghanistan,Gros Islet,Afghanistan
+3885,2017-06-10,England,Australia,Birmingham,England
+3886,2017-06-11,SouthAfrica,India,The Oval,India
+3887,2017-06-11,WestIndies,Afghanistan,Gros Islet,WestIndies
+3888,2017-06-12,SriLanka,Pakistan,Cardiff,Pakistan
+3889,2017-06-14,Pakistan,England,Cardiff,Pakistan
+3890,2017-06-14,WestIndies,Afghanistan,Gros Islet,n/r
+3891,2017-06-15,India,Bangladesh,Birmingham,India
+3894,2017-06-18,Pakistan,India,The Oval,Pakistan
+3895,2017-06-23,WestIndies,India,Port of Spain,n/r
+3896,2017-06-25,WestIndies,India,Port of Spain,India
+3897,2017-06-30,SriLanka,Zimbabwe,Galle,Zimbabwe
+3898,2017-06-30,WestIndies,India,North Sound,India
+3899,2017-07-02,SriLanka,Zimbabwe,Galle,SriLanka
+3900,2017-07-02,WestIndies,India,North Sound,WestIndies
+3901,2017-07-06,SriLanka,Zimbabwe,Hambantota,SriLanka
+3902,2017-07-06,WestIndies,India,Kingston,India
+3903,2017-07-08,SriLanka,Zimbabwe,Hambantota,Zimbabwe
+3904,2017-07-10,SriLanka,Zimbabwe,Hambantota,Zimbabwe
+3905,2017-08-20,SriLanka,India,Dambulla,India
+3906,2017-08-24,SriLanka,India,Pallekele,India
+3907,2017-08-27,SriLanka,India,Pallekele,India
+3908,2017-08-31,SriLanka,India,Colombo (RPS),India
+3909,2017-09-03,SriLanka,India,Colombo (RPS),India
+3909,2017-09-13,WestIndies,Ireland,Belfast,n/r
+3910,2017-09-17,India,Australia,Chennai,India
+3911,2017-09-19,WestIndies,England,Manchester,England
+3912,2017-09-21,India,Australia,Kolkata,India
+3913,2017-09-21,WestIndies,England,Nottingham,n/r
+3914,2017-09-24,India,Australia,Indore,India
+3915,2017-09-24,WestIndies,England,Bristol,England
+3916,2017-09-27,WestIndies,England,The Oval,England
+3917,2017-09-28,India,Australia,Bengaluru,Australia
+3918,2017-09-29,WestIndies,England,Southampton,England
+3919,2017-10-01,India,Australia,Nagpur,India
+3922,2017-10-13,SriLanka,Pakistan,Dubai (DSC),Pakistan
+3923,2017-10-15,SouthAfrica,Bangladesh,Kimberley,SouthAfrica
+3924,2017-10-16,SriLanka,Pakistan,Abu Dhabi,Pakistan
+3925,2017-10-18,SouthAfrica,Bangladesh,Paarl,SouthAfrica
+3926,2017-10-18,SriLanka,Pakistan,Abu Dhabi,Pakistan
+3927,2017-10-20,SriLanka,Pakistan,Sharjah,Pakistan
+3928,2017-10-22,Newzealad,India,Mumbai,Newzealad
+3929,2017-10-22,SouthAfrica,Bangladesh,East London,SouthAfrica
+3930,2017-10-23,SriLanka,Pakistan,Sharjah,Pakistan
+3931,2017-10-25,Newzealad,India,Pune,India
+3932,2017-10-29,Newzealad,India,Kanpur,India
+3935,2017-12-05,Afghanistan,Ireland,Sharjah,Afghanistan
+3937,2017-12-07,Afghanistan,Ireland,Sharjah,Ireland
+3939,2017-12-10,SriLanka,India,Dharamsala,SriLanka
+3940,2017-12-10,Afghanistan,Ireland,Sharjah,Ireland
+3941,2017-12-13,SriLanka,India,Mohali,India
+3942,2017-12-17,SriLanka,India,Visakhapatnam,India
+3943,2017-12-20,WestIndies,New Zealand,Whangarei,New Zealand
+3944,2017-12-23,WestIndies,New Zealand,Christchurch,New Zealand
+3945,2017-12-26,WestIndies,New Zealand,Christchurch,New Zealand
+3946,2018-01-06,Pakistan,New Zealand,Wellington,New Zealand
+3947,2018-01-09,Pakistan,New Zealand,Nelson,New Zealand
+3949,2018-01-13,Pakistan,New Zealand,Dunedin,New Zealand
+3951,2018-01-14,England,Australia,Melbourne,England
+3952,2018-01-15,Bangladesh,Zimbabwe,Dhaka,Bangladesh
+3953,2018-01-16,Pakistan,New Zealand,Hamilton,New Zealand
+3955,2018-01-17,SriLanka,Zimbabwe,Dhaka,Zimbabwe
+3957,2018-01-19,Pakistan,New Zealand,Wellington,New Zealand
+3958,2018-01-19,England,Australia,Brisbane,England
+3959,2018-01-19,SriLanka,Bangladesh,Dhaka,Bangladesh
+3960,2018-01-21,England,Australia,Sydney,England
+3962,2018-01-21,SriLanka,Zimbabwe,Dhaka,SriLanka
+3964,2018-01-23,Bangladesh,Zimbabwe,Dhaka,Bangladesh
+3965,2018-01-25,SriLanka,Bangladesh,Dhaka,SriLanka
+3966,2018-01-26,England,Australia,Adelaide,Australia
+3967,2018-01-27,SriLanka,Bangladesh,Dhaka,SriLanka
+3968,2018-01-28,England,Australia,Perth,England
+3969,2018-02-01,SouthAfrica,India,Durban,India
+3970,2018-02-04,SouthAfrica,India,Centurion,India
+3971,2018-02-07,SouthAfrica,India,Cape Town,India
+3972,2018-02-09,Afghanistan,Zimbabwe,Sharjah,Afghanistan
+3973,2018-02-10,SouthAfrica,India,Johannesburg,SouthAfrica
+3974,2018-02-11,Afghanistan,Zimbabwe,Sharjah,Zimbabwe
+3975,2018-02-13,Afghanistan,Zimbabwe,Sharjah,Afghanistan
+3976,2018-02-13,SouthAfrica,India,Port Elizabeth,India
+3977,2018-02-16,Afghanistan,Zimbabwe,Sharjah,Afghanistan
+3978,2018-02-16,SouthAfrica,India,Centurion,India
+3979,2018-02-19,Afghanistan,Zimbabwe,Sharjah,Afghanistan
+3980,2018-02-25,Newzealad,England,Hamilton,Newzealad
+3981,2018-02-28,Newzealad,England,Mount Maunganui,England
+3982,2018-03-03,Newzealad,England,Wellington,England
+3983,2018-03-04,Afghanistan,Scotland,Bulawayo,Scotland
+3987,2018-03-06,WestIndies,U.A.E.,Harare,WestIndies
+3988,2018-03-06,Afghanistan,Zimbabwe,Bulawayo,Zimbabwe
+3989,2018-03-07,Newzealad,England,Dunedin,Newzealad
+3990,2018-03-08,Afghanistan,Hong Kong,Bulawayo,Hong Kong
+3991,2018-03-08,WestIndies,P.N.G.,Harare,WestIndies
+3992,2018-03-10,Newzealad,England,Christchurch,England
+3993,2018-03-10,WestIndies,Ireland,Harare,WestIndies
+3997,2018-03-15,WestIndies,Afghanistan,Harare,Afghanistan
+4002,2018-03-19,WestIndies,Zimbabwe,Harare,WestIndies
+4003,2018-03-20,Afghanistan,U.A.E.,Harare,Afghanistan
+4004,2018-03-21,WestIndies,Scotland,Harare,WestIndies
+4006,2018-03-23,Afghanistan,Ireland,Harare,Afghanistan
+4007,2018-03-25,WestIndies,Afghanistan,Harare,Afghanistan
+4008,2018-06-10,England,Scotland,Edinburgh,Scotland
+4009,2018-06-13,England,Australia,The Oval,England
+4010,2018-06-16,England,Australia,Cardiff,England
+4011,2018-06-19,England,Australia,Nottingham,England
+4012,2018-06-21,England,Australia,Chester-le-Street,England
+4013,2018-06-24,England,Australia,Manchester,England
+4014,2018-07-12,India,England,Nottingham,India
+4015,2018-07-13,Pakistan,Zimbabwe,Bulawayo,Pakistan
+4016,2018-07-14,India,England,Lord's,England
+4017,2018-07-16,Pakistan,Zimbabwe,Bulawayo,Pakistan
+4018,2018-07-17,India,England,Leeds,England
+4019,2018-07-18,Pakistan,Zimbabwe,Bulawayo,Pakistan
+4020,2018-07-20,Pakistan,Zimbabwe,Bulawayo,Pakistan
+4021,2018-07-22,Pakistan,Zimbabwe,Bulawayo,Pakistan
+4022,2018-07-22,WestIndies,Bangladesh,Providence,Bangladesh
+4023,2018-07-25,WestIndies,Bangladesh,Providence,WestIndies
+4024,2018-07-28,WestIndies,Bangladesh,Basseterre,Bangladesh
+4025,2018-07-29,SriLanka,South Africa,Dambulla,South Africa
+4027,2018-08-01,SriLanka,South Africa,Dambulla,South Africa
+4029,2018-08-05,SriLanka,South Africa,Pallekele,South Africa
+4030,2018-08-08,SriLanka,South Africa,Pallekele,SriLanka
+4031,2018-08-12,SriLanka,South Africa,Colombo (RPS),SriLanka
+4032,2018-08-27,Afghanistan,Ireland,Belfast,Afghanistan
+4033,2018-08-29,Afghanistan,Ireland,Belfast,Ireland
+4035,2018-08-31,Afghanistan,Ireland,Belfast,Afghanistan
+4036,2018-09-15,SriLanka,Bangladesh,Dubai (DSC),Bangladesh
+4037,2018-09-16,Pakistan,Hong Kong,Dubai (DSC),Pakistan
+4038,2018-09-17,SriLanka,Afghanistan,Abu Dhabi,Afghanistan
+4039,2018-09-18,India,Hong Kong,Dubai (DSC),India
+4040,2018-09-19,Pakistan,India,Dubai (DSC),India
+4041,2018-09-20,Bangladesh,Afghanistan,Abu Dhabi,Afghanistan
+4042,2018-09-21,India,Bangladesh,Dubai (DSC),India
+4043,2018-09-21,Pakistan,Afghanistan,Abu Dhabi,Pakistan
+4044,2018-09-23,Pakistan,India,Dubai (DSC),India
+4045,2018-09-23,Bangladesh,Afghanistan,Abu Dhabi,Bangladesh
+4046,2018-09-25,India,Afghanistan,Dubai (DSC),tied
+4047,2018-09-26,Pakistan,Bangladesh,Abu Dhabi,Bangladesh
+4048,2018-09-28,India,Bangladesh,Dubai (DSC),India
+4049,2018-09-30,SouthAfrica,Zimbabwe,Kimberley,SouthAfrica
+4050,2018-10-03,SouthAfrica,Zimbabwe,Bloemfontein,SouthAfrica
+4051,2018-10-06,SouthAfrica,Zimbabwe,Paarl,SouthAfrica
+4052,2018-10-10,SriLanka,England,Dambulla,n/r
+4053,2018-10-13,SriLanka,England,Dambulla,England
+4054,2018-10-17,SriLanka,England,Pallekele,England
+4055,2018-10-20,SriLanka,England,Pallekele,England
+4056,2018-10-21,WestIndies,India,Guwahati,India
+4057,2018-10-21,Bangladesh,Zimbabwe,Dhaka,Bangladesh
+4058,2018-10-23,SriLanka,England,Colombo (RPS),SriLanka
+4059,2018-10-24,WestIndies,India,Visakhapatnam,tied
+4060,2018-10-24,Bangladesh,Zimbabwe,Chattogram,Bangladesh
+4061,2018-10-26,Bangladesh,Zimbabwe,Chattogram,Bangladesh
+4062,2018-10-27,WestIndies,India,Pune,WestIndies
+4063,2018-10-29,WestIndies,India,Mumbai (BS),India
+4064,2018-11-01,WestIndies,India,Thiruvananthapuram,India
+4065,2018-11-04,SouthAfrica,Australia,Perth,SouthAfrica
+4066,2018-11-07,Pakistan,New Zealand,Abu Dhabi,New Zealand
+4067,2018-11-09,SouthAfrica,Australia,Adelaide,Australia
+4068,2018-11-09,Pakistan,New Zealand,Abu Dhabi,Pakistan
+4069,2018-11-11,SouthAfrica,Australia,Hobart,SouthAfrica
+4070,2018-11-11,Pakistan,New Zealand,Dubai (DSC),n/r
+4071,2018-12-09,WestIndies,Bangladesh,Dhaka,Bangladesh
+4072,2018-12-11,WestIndies,Bangladesh,Dhaka,WestIndies
+4073,2018-12-14,WestIndies,Bangladesh,Sylhet,Bangladesh
+4074,2019-01-03,SriLanka,New Zealand,Mount Maunganui,New Zealand
+4075,2019-01-05,SriLanka,New Zealand,Mount Maunganui,New Zealand
+4076,2019-01-08,SriLanka,New Zealand,Nelson,New Zealand
+4077,2019-01-12,India,Australia,Sydney,Australia
+4078,2019-01-15,India,Australia,Adelaide,India
+4079,2019-01-18,India,Australia,Melbourne,India
+4080,2019-01-19,SouthAfrica,Pakistan,Port Elizabeth,Pakistan
+4081,2019-01-22,SouthAfrica,Pakistan,Durban,SouthAfrica
+4082,2019-01-23,Newzealad,India,Napier,India
+4084,2019-01-25,SouthAfrica,Pakistan,Centurion,SouthAfrica
+4085,2019-01-26,Newzealad,India,Mount Maunganui,India
+4087,2019-01-27,SouthAfrica,Pakistan,Johannesburg,Pakistan
+4088,2019-01-28,Newzealad,India,Mount Maunganui,India
+4090,2019-01-30,SouthAfrica,Pakistan,Cape Town,SouthAfrica
+4091,2019-01-31,Newzealad,India,Hamilton,Newzealad
+4092,2019-02-03,Newzealad,India,Wellington,India
+4093,2019-02-13,Newzealad,Bangladesh,Napier,Newzealad
+4094,2019-02-16,Newzealad,Bangladesh,Christchurch,Newzealad
+4095,2019-02-20,Newzealad,Bangladesh,Dunedin,Newzealad
+4096,2019-02-20,WestIndies,England,Bridgetown,England
+4097,2019-02-22,WestIndies,England,Bridgetown,WestIndies
+4098,2019-02-25,WestIndies,England,St George's,n/r
+4099,2019-02-27,WestIndies,England,St George's,England
+4100,2019-02-28,Afghanistan,Ireland,Dehradun,Afghanistan
+4101,2019-03-02,Afghanistan,Ireland,Dehradun,n/r
+4102,2019-03-02,India,Australia,Hyderabad (Deccan),India
+4103,2019-03-02,WestIndies,England,Gros Islet,WestIndies
+4104,2019-03-03,SriLanka,South Africa,Johannesburg,South Africa
+4105,2019-03-05,Afghanistan,Ireland,Dehradun,Ireland
+4106,2019-03-05,India,Australia,Nagpur,India
+4107,2019-03-06,SriLanka,South Africa,Centurion,South Africa
+4108,2019-03-08,Afghanistan,Ireland,Dehradun,Afghanistan
+4109,2019-03-08,India,Australia,Ranchi,Australia
+4110,2019-03-10,Afghanistan,Ireland,Dehradun,Ireland
+4111,2019-03-10,India,Australia,Mohali,Australia
+4112,2019-03-10,SriLanka,South Africa,Durban,South Africa
+4113,2019-03-13,India,Australia,Delhi,Australia
+4114,2019-03-13,SriLanka,South Africa,Port Elizabeth,South Africa
+4115,2019-03-16,SriLanka,South Africa,Cape Town,South Africa
+4116,2019-03-22,Pakistan,Australia,Sharjah,Australia
+4117,2019-03-24,Pakistan,Australia,Sharjah,Australia
+4118,2019-03-27,Pakistan,Australia,Abu Dhabi,Australia
+4119,2019-03-29,Pakistan,Australia,Dubai (DSC),Australia
+4120,2019-03-31,Pakistan,Australia,Dubai (DSC),Australia
+4127,2019-05-03,England,Ireland,Dublin (Malahide),England
+4128,2019-05-05,WestIndies,Ireland,Dublin,WestIndies
+4129,2019-05-07,WestIndies,Bangladesh,Dublin,Bangladesh
+4129,2019-05-08,Afghanistan,Scotland,Edinburgh,n/r
+4130,2019-05-08,Pakistan,England,The Oval,n/r
+4130,2019-05-09,Bangladesh,Ireland,Dublin (Malahide),n/r
+4131,2019-05-10,Afghanistan,Scotland,Edinburgh,Afghanistan
+4132,2019-05-11,WestIndies,Ireland,Dublin (Malahide),WestIndies
+4133,2019-05-11,Pakistan,England,Southampton,England
+4134,2019-05-13,WestIndies,Bangladesh,Dublin (Malahide),Bangladesh
+4135,2019-05-14,Pakistan,England,Bristol,England
+4136,2019-05-15,Bangladesh,Ireland,Dublin,Bangladesh
+4137,2019-05-17,WestIndies,Bangladesh,Dublin (Malahide),Bangladesh
+4138,2019-05-17,Pakistan,England,Nottingham,England
+4138,2019-05-18,SriLanka,Scotland,Edinburgh,n/r
+4139,2019-05-19,Afghanistan,Ireland,Belfast,
+4140,2019-05-19,Pakistan,England,Leeds,
