@@ -14,7 +14,7 @@ def renameCols2(df, old_name_list, new_name_list):
     Pre-condition: len(old_name_list) == len(new_name_list)
     '''
     for i in range(len(old_name_list)):
-        df.rename(columns={old_name_list[i]:new_name_list[i]})
+        df.rename(columns={old_name_list[i]:new_name_list[i]}, inplace=True)
 
 def renameCols3(df, suffix):
     '''
