@@ -96,3 +96,31 @@ def checkMerge(df, col_list1, col_list2):
             assert((df[col_list1[i]] != df[col_list2[i]]).sum() == 0)
         except:
             print("AssertionError:", col_list1[i], "!=", col_list2[i])
+
+# Gather missing match data
+def getScoreData(url):
+    ''' str -> dct
+    Uses requests and bs4 libraries to extract and parse html data from url.
+    Returns a dct with 'team' and 'score' indices.
+    '''
+    score_lst = []
+    team_lst=[]
+
+    r = requests.get(url)
+    # Create .txt file and write html content
+    with open(os.path.join('../Data/raw/espn_html/', url.split('/')[-1] + ".txt"), mode='wb') as f:
+        f.write(r.content)
+
+    # Extract team and score data from .txt file
+    with open(os.path.join('../Data/raw/espn_html/', url.split('/')[-1] + ".txt")) as f:
+        soup = BeautifulSoup(f, 'lxml')
+        score = soup.find_all(class_='cscore_score')
+        team = soup.find_all(class_='cscore_name--long')
+
+    # Write content to dct
+    for i in range(len(score)//2):
+        score_lst.append(score[i].contents[0])
+        team_lst.append(team[i].contents[0])
+        score_dct = {'team':team_lst, 'score':score_lst}
+
+    return score_dct
