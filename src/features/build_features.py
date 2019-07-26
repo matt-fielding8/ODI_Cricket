@@ -127,7 +127,8 @@ def getScoreData(url):
 
 def getSoup(url):
     '''
-    Returns soup for url response object.
+    Creates a response object using requests library and returns a soup in
+    bytes format for a given url.
     '''
     r = requests.get(url)
     soup = BeautifulSoup(r.content, "html.parser")
