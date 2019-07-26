@@ -124,3 +124,11 @@ def getScoreData(url):
         score_dct = {'team':team_lst, 'score':score_lst}
 
     return score_dct
+
+def getSoup(url):
+    '''
+    Returns soup for url response object.
+    '''
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, "html.parser")
+    return soup
