@@ -103,21 +103,14 @@ def getScoreData(url):
     Uses requests and bs4 libraries to extract and parse html data from url.
     Returns a dct with 'team' and 'score' indices.
     '''
+    soup = getSoup(url)
+    # Extract team and score data from soup
+    score = soup.find_all(class_='cscore_score')
+    team = soup.find_all(class_='cscore_name--long')
+
+    # Write scores for both teams to dct
     score_lst = []
     team_lst=[]
-
-    r = requests.get(url)
-    # Create .txt file and write html content
-    with open(os.path.join('../Data/raw/espn_html/', url.split('/')[-1] + ".txt"), mode='wb') as f:
-        f.write(r.content)
-
-    # Extract team and score data from .txt file
-    with open(os.path.join('../Data/raw/espn_html/', url.split('/')[-1] + ".txt")) as f:
-        soup = BeautifulSoup(f, 'lxml')
-        score = soup.find_all(class_='cscore_score')
-        team = soup.find_all(class_='cscore_name--long')
-
-    # Write content to dct
     for i in range(len(score)//2):
         score_lst.append(score[i].contents[0])
         team_lst.append(team[i].contents[0])
@@ -127,8 +120,7 @@ def getScoreData(url):
 
 def getSoup(url):
     '''
-    Creates a response object using requests library and returns a soup in
-    bytes format for a given url.
+    Returns soup for url response object.
     '''
     r = requests.get(url)
     soup = BeautifulSoup(r.content, "html.parser")
