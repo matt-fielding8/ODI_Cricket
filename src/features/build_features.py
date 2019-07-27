@@ -127,6 +127,7 @@ def getSoup(url):
     soup = BeautifulSoup(r.content, "html.parser")
     return soup
 
+# Get page links directing to all results per year
 def yearPageLinks(soup):
     ''' wb -> list of str
     Extracts relative links in "QuoteSummary" class from soup.
@@ -140,3 +141,13 @@ def yearPageLinks(soup):
         print('Class "QuoteSummary" does not exist')
 
     return link_list
+
+# Turn relative url to absolute using prefix
+def absoluteUrl(prefix, relative):
+    '''
+    Joins prefix with relative. Returns an absolute url.
+    '''
+    if prefix.endswith('/'):
+        return prefix[:-1] + relative
+    else:
+        return prefix + relative
