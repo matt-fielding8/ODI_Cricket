@@ -53,6 +53,16 @@ class Gather:
 
         return self.link_list
 
+    # Filter links based on criteria
+    def filterLinks(self, links, lst):
+        """ (list of str, list of str) -> list of str
+        Filters elements in links which contain elements in lst as a substring.
+        Returns filtered elements as a list.
+        """
+        self.filt_links = ([(list(filter(lambda x: i in x, links))) for i in lst])
+        # Flatten filt_links list
+        return [i for link in self.filt_links for i in link]
+
     # Turn relative url to absolute using prefix
     def absoluteUrl(self, prefix, relative):
         '''
