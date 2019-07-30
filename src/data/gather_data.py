@@ -1,18 +1,21 @@
 """
-All the scripts required to gether missing data from
+All the scripts required to gather missing data from
 https://www.espncricinfo.com/
 """
 from bs4 import BeautifulSoup
 import requests
 
 class Gather:
+    def __init__(self):
+        pass
+
     def getSoup(self, url):
         '''
         Returns soup for url response object.
         '''
         r = requests.get(url)
-        soup = BeautifulSoup(r.content, "html.parser")
-        return soup
+        self.soup = BeautifulSoup(r.content, "html.parser")
+        return self.soup
 
     # Gather missing score data
     def getScoreData(self, url):
@@ -36,22 +39,22 @@ class Gather:
         return score_dct
 
     # Get page links directing to all results per year
-    def yearPageLinks(soup):
+    def yearPageLinks(self, soup):
         ''' wb -> list of str
         Extracts relative links in "QuoteSummary" class from soup.
         Returns relative url's as a list of str.
         '''
-        link_list = []
+        self.link_list = []
         try:
             for i in soup.find_all(class_='QuoteSummary'):
-                link_list.append(i['href'])
+                self.link_list.append(i['href'])
         except:
             print('Class "QuoteSummary" does not exist')
 
-        return link_list
+        return self.link_list
 
     # Turn relative url to absolute using prefix
-    def absoluteUrl(prefix, relative):
+    def absoluteUrl(self, prefix, relative):
         '''
         Joins prefix with relative. Returns an absolute url.
         '''
