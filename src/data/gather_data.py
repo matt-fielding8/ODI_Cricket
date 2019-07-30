@@ -58,7 +58,5 @@ class Gather:
         '''
         Joins prefix with relative. Returns an absolute url.
         '''
-        if prefix.endswith('/'):
-            return prefix[:-1] + relative
-        else:
-            return prefix + relative
+        prefix = prefix.rstrip('/')
+        return [prefix + link for link in relative]
