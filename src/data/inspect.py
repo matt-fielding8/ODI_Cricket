@@ -1,49 +1,5 @@
-# from bs4 import BeautifulSoup
-# import requests
-#
-# url = "http://stats.espncricinfo.com/ci/content/records/307851.html"
-#
-# def getSoup(url):
-#     '''
-#     Returns soup for url response object.
-#     '''
-#     r = requests.get(url)
-#     soup = BeautifulSoup(r.content, "html.parser")
-#     return soup
-#
-# # print(getSoup(url))
-#
-# def yearPageLinks(soup):
-#     ''' wb -> list of str
-#     Extracts relative links in "QuoteSummary" class from soup.
-#     Returns relative url's as a list of str.
-#     '''
-#     link_list = []
-#     try:
-#         for i in soup.find_all(class_='QuoteSummary'):
-#             link_list.append(i['href'])
-#     except:
-#         print('Class "QuoteSummary" does not exist')
-#
-#     return link_list
-#
-# print(yearPageLinks(getSoup(url)))
-#
-# prefix = "http://stats.espncricinfo.com/"
-# rel = "/ci/engine/records/team/match_results.html?class=2;id=1971;type=year"
-#
-# def absoluteUrl(prefix, relative):
-#     '''
-#     Joins prefix with relative. Returns an absolute url.
-#     '''
-#     if prefix.endswith('/'):
-#         return prefix[:-1] + relative
-#     else:
-#         return prefix + relative
-#
-# print(absoluteUrl(prefix, rel))
-
-from src.data.gather_data import Gather
+from gather_data import Gather
+import
 
 url = "http://stats.espncricinfo.com/ci/content/records/307851.html"
 
@@ -53,7 +9,14 @@ all_links = g.yearPageLinks(soup1)
 
 years = ["2013", "1024", "2015", "2016","2017","2018","2019"]
 filt_links = g.filterLinks(all_links, years)
-abs_links = g.absoluteUrl("http://stats.espncricinfo.com/", filt_links)
+abs_links = g.absoluteUrl("http://stats.espncricinfo.com", filt_links)
+# print(abs_links)
+
+soup_dct = {}
+for link in abs_links:
+    soup_dct[link.split(";")[-2].split('=')[-1]] = g.getSoup(link)
+
+print(soup_dct['2019'])
 
 match_ids = ['ODI # 3337', 'ODI # 3339', 'ODI # 3340', 'ODI # 3341',
        'ODI # 3342', 'ODI # 3353', 'ODI # 3354', 'ODI # 3355',
@@ -102,10 +65,3 @@ match_ids = ['ODI # 3337', 'ODI # 3339', 'ODI # 3340', 'ODI # 3341',
        'ODI # 4061', 'ODI # 4100', 'ODI # 4101', 'ODI # 4105',
        'ODI # 4108', 'ODI # 4110', 'ODI # 4127', 'ODI # 4128',
        'ODI # 4131', 'ODI # 4132', 'ODI # 4136', 'ODI # 4139']
-
-missing_score_links = g.scorecardLinks(abs_links, match_ids)
-abs_sc_links = g.absoluteUrl("https://www.espncricinfo.com/", missing_score_links)
-print(len(match_ids), len(missing_score_links))
-print(abs_sc_links)
-
-assert len(match_ids)==len(missing_score_links)
