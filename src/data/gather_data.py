@@ -70,3 +70,23 @@ class Gather:
         '''
         prefix = prefix.rstrip('/')
         return [prefix + link for link in relative]
+
+    # Get scorecard links
+    def scorecardLinks(self, year_links, match_ids):
+        ''' (lst of str, list of str) -> list of str
+        Loops through year_links and returns a list of relative links for all
+        id's in match_ids.
+        '''
+        # Generate soup for all year_links
+        soups = [self.getSoup(link) for link in year_links]
+        # Retrieve all links within each soup
+        raw_links = [soup.find_all(['tr', 'td','a'], class_=['data-link'], attrs=['href']) for soup in soups]
+
+        # Extract all links associated with elements in match_ids
+        sc_links_found = []
+        for year_page in raw_links:
+            for link in year_page:
+                if link.contents[0] in match_ids:
+                    sc_links_found.append(link['href'])
+
+        return sc_links_found
