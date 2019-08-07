@@ -109,8 +109,11 @@ missing_score_links = g.scorecardLinks(abs_links, match_ids)
 abs_sc_links = g.absoluteUrl("https://www.espncricinfo.com/", missing_score_links)
 
 score_master = {'match_id':[], 'team':[], 'score':[], 'detailed_score':[]}
+counter=1
 for url in abs_sc_links:
        score_dct = g.getMissingData(url)
+       print(counter)
+       counter+=1
        for key in score_dct:
               score_master[key].extend(score_dct[key])
 
