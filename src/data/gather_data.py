@@ -97,3 +97,9 @@ class Gather:
                     sc_links_found.append(link['href'])
 
         return sc_links_found
+
+    def flattenList(self, lst):
+        ''' (lst of lst) -> lst
+        Flattens elements of lst.
+        '''
+        return [j for i in lst for j in i]
