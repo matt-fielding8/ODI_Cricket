@@ -18,23 +18,30 @@ class Gather:
         return self.soup
 
     # Gather missing score data
-    def getScoreData(self, url):
+    def getMissingData(self, url):
         ''' str -> dct
         Uses requests and bs4 libraries to extract and parse html data from url.
         Returns a dct with 'team' and 'score' indices.
         '''
-        soup = getSoup(url)
-        # Extract team and score data from soup
+        soup = self.getSoup(url)
+        # Extract match_id
+        match_id = soup.find(lambda tag: tag.name == 'a' and 'ODI no' in tag.get_text()).contents
+        # Extract score data from soup
         score = soup.find_all(class_='cscore_score')
+        score_lst = [i.contents[0] for i in score]
+        # Extract team data from soup
         team = soup.find_all(class_='cscore_name--long')
-
-        # Write scores for both teams to dct
-        score_lst = []
-        team_lst=[]
-        for i in range(len(score)//2):
-            score_lst.append(score[i].contents[0])
-            team_lst.append(team[i].contents[0])
-            score_dct = {'team':team_lst, 'score':score_lst}
+        team_lst =  [i.contents[0] for i in team]
+        # Extract detailed score data from soup
+        ## Find tags containg "TOTAL"
+        tot_tags = soup.find_all(lambda tag: tag.name == 'div' and \
+            tag.get('class')==['cell'] and tag.get_text()=='TOTAL')
+        detailed_score = [i.findNext().contents[0] for i in tot_tags]
+        # Write information to dct
+        score_dct = {'match_id':match_id*2,
+                    'team':team_lst[:2],
+                    'score':score_lst[:2],
+                    'detailed_score':detailed_score}
 
         return score_dct
 
