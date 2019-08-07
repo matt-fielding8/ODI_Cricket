@@ -18,6 +18,16 @@ class Gather:
         self.soup = BeautifulSoup(r.content, "html.parser")
         return self.soup
 
+    def getMatchid(self, soup):
+        '''
+        Return match_id string from soup.
+        '''
+        try:
+            return soup.find(lambda tag: tag.name == 'a' and 'ODI no' in tag.get_text()).contents
+        except Exception as e:
+            print("Match ID Extraction Error\n", e, '\n', url)
+            return ['-']
+
     # Gather missing score data
     def getMissingData(self, url):
         ''' str -> dct
