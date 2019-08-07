@@ -51,7 +51,7 @@ g = Gather()
 soup1 = g.getSoup(url)
 all_links = g.yearPageLinks(soup1)
 
-years = ["2013", "1024", "2015", "2016","2017","2018","2019"]
+years = ["2013", "2014", "2015", "2016","2017","2018","2019"]
 filt_links = g.filterLinks(all_links, years)
 abs_links = g.absoluteUrl("http://stats.espncricinfo.com/", filt_links)
 
