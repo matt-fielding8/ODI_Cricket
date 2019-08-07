@@ -4,6 +4,7 @@ https://www.espncricinfo.com/
 """
 from bs4 import BeautifulSoup
 import requests
+import numpy as np
 
 class Gather:
     def __init__(self):
@@ -25,18 +26,35 @@ class Gather:
         '''
         soup = self.getSoup(url)
         # Extract match_id
-        match_id = soup.find(lambda tag: tag.name == 'a' and 'ODI no' in tag.get_text()).contents
+        try:
+            match_id = soup.find(lambda tag: tag.name == 'a' and 'ODI no' in tag.get_text()).contents
+        except Exception as e:
+            print("Match ID Extraction Error\n", e, '\n', url)
+            match_id = [np.NaN]
         # Extract score data from soup
         score = soup.find_all(class_='cscore_score')
-        score_lst = [i.contents[0] for i in score]
+        try:
+            score_lst = [i.contents[0] for i in score]
+        except Exception as e:
+            print("Score Extraction Error\n", e, '\n', match_id, url)
+            score_lst = [np.NaN]*2
         # Extract team data from soup
         team = soup.find_all(class_='cscore_name--long')
-        team_lst =  [i.contents[0] for i in team]
+        try:
+            team_lst =  [i.contents[0] for i in team]
+        except Exception as e:
+            print("Team Extraction\n", e, '\n', e, url)
+            team_lst = [np.NaN]*2
         # Extract detailed score data from soup
         ## Find tags containg "TOTAL"
         tot_tags = soup.find_all(lambda tag: tag.name == 'div' and \
             tag.get('class')==['cell'] and tag.get_text()=='TOTAL')
-        detailed_score = [i.findNext().contents[0] for i in tot_tags]
+        try:
+            detailed_score = [i.findNext().contents[0] for i in tot_tags]
+        except Exception as e:
+            print("detailed_score Extraction Error\n", e, '\n', url)
+            detailed_score = [np.NaN]*2
+
         # Write information to dct
         score_dct = {'match_id':match_id*2,
                     'team':team_lst[:2],
