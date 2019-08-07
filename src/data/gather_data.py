@@ -19,8 +19,8 @@ class Gather:
         return self.soup
 
     def getMatchid(self, soup):
-        '''
-        Return match_id string from soup.
+        ''' (html) -> list of str
+        Return match_id as list of string from soup.
         '''
         try:
             return soup.find(lambda tag: tag.name == 'a' and 'ODI no' in tag.get_text()).contents
@@ -59,10 +59,14 @@ class Gather:
         ## Find tags containg "TOTAL"
         tot_tags = soup.find_all(lambda tag: tag.name == 'div' and \
             tag.get('class')==['cell'] and tag.get_text()=='TOTAL')
-        try:
-            detailed_score = [i.findNext().contents[0] for i in tot_tags]
-        except Exception as e:
-            print("detailed_score Extraction Error\n", e, '\n', url)
+        if len(tot_tags) == 2:
+            try:
+                detailed_score = [i.findNext().contents[0] for i in tot_tags]
+            except Exception as e:
+                print("detailed_score Extraction Error\n", e, '\n', url)
+                detailed_score = [np.NaN]*2
+        else:
+            print("No result likely", url)
             detailed_score = [np.NaN]*2
 
         # Write information to dct
