@@ -25,3 +25,10 @@ def replaceNaN (df, col_list, str):
     '''
     for col in col_list:
         df[col] = np.where(df[col] == str, np.NaN, df[col])
+
+def countVal (df, s):
+    ''' (df, str) -> list of dct
+    Counts instances of s for each column in df with type object. Returns counts for each column
+    as a list of dct.
+    '''
+    return [{c:(df[c].str.count('(^)'+s+'($)')).sum()} for c in df.loc[:, df.dtypes==object].columns]
