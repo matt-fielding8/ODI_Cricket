@@ -32,3 +32,10 @@ def countVal (df, s):
     as a list of dct.
     '''
     return [{c:(df[c].str.count('(^)'+s+'($)')).sum()} for c in df.loc[:, df.dtypes==object].columns]
+
+def commonValue(df, col, lst, new_val):
+    '''
+    For df['col'], make all values in lst equal to new_val.
+    '''
+    for val in lst:
+        df[col].replace(lst, new_val, inplace=True)
