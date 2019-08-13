@@ -39,3 +39,13 @@ def commonValue(df, col, lst, new_val):
     '''
     for val in lst:
         df[col].replace(lst, new_val, inplace=True)
+
+def splitCol(df, col, new_col1, new_col2):
+    '''
+    Extracts numerical digits in df[col] into new_col1 then converts them to
+    type float. Extracts alphabetical chars from df[col] into new_col2.
+    Drops df[col].
+    '''
+    df[new_col1] = df.margin.str.extract('(\d+)').astype(float)
+    df[new_col2] = df.margin.str.extract('([a-zA-Z]+)')
+    df.drop(col, axis=1, inplace=True)
