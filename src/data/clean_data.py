@@ -49,3 +49,9 @@ def splitCol(df, col, new_col1, new_col2):
     df[new_col1] = df.margin.str.extract('(\d+)').astype(float)
     df[new_col2] = df.margin.str.extract('([a-zA-Z]+)')
     df.drop(col, axis=1, inplace=True)
+
+def matchPrefix(df, col):
+    '''
+    Extract only digits from each value in df[col] as str and reassign to df[col]
+    '''
+    df[col] = df[col].str.extract('(\d+)')
