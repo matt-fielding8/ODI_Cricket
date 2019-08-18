@@ -19,11 +19,11 @@ def renameCols(df, old_name_list, new_name_list):
     for i in range(len(old_name_list)):
         df.rename(columns={old_name_list[i]:new_name_list[i]}, inplace=True)
 
-def replaceNaN (df, col_list, str):
-    ''' (df, list of str, str) -> df
-    Replace values equal to str in df[col_list] with NaN.
+def replaceNaN (df,  str):
+    ''' (df, str) -> df
+    Replace values of str with NaN for each column wih type object.
     '''
-    for col in col_list:
+    for col in df.loc[:, df.dtypes==object].columns:
         df[col] = np.where(df[col] == str, np.NaN, df[col])
 
 def countVal (df, s):
