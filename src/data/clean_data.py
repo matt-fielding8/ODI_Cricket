@@ -66,6 +66,6 @@ def splitUpper(x):
     split = re.findall('[A-Z][^A-Z]*', x)
     string = ""
     for s in split:
-        string = string + s + " "
+        string = string + s.strip() + " "
 
     return string.strip()
