@@ -4,6 +4,7 @@ All scripts for cleaning ODI data
 
 import pandas as pd
 import numpy as np
+import re
 
 def formatHeaders(df):
     '''
@@ -55,3 +56,16 @@ def matchPrefix(df, col):
     Extract only digits from each value in df[col] as str and reassign to df[col]
     '''
     df[col] = df[col].str.extract('(\d+)')
+
+def splitUpper(x):
+    '''
+    Inserts a space before capital letters in string x.
+    >>> splitUpper("WestIndies"):
+    "West Indies"
+    '''
+    split = re.findall('[A-Z][^A-Z]*', x)
+    string = ""
+    for s in split:
+        string = string + s + " "
+
+    return string.strip()
