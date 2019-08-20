@@ -16,17 +16,17 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3322,2013-01-19,India,won,2nd,England,157.0,3,28.1,5.57,won,7.0,wickets
 3322,2013-01-19,England,lost,1st,India,155.0,10,42.2,3.66,lost,7.0,wickets
 3323,2013-01-19,South Africa,lost,1st,New Zealand,208.0,10,46.2,4.48,lost,1.0,wickets
-3323,2013-01-19,Newzealad,won,2nd,South Africa,209.0,9,45.4,4.57,won,1.0,wickets
+3323,2013-01-19,New Zealand,won,2nd,South Africa,209.0,9,45.4,4.57,won,1.0,wickets
 3324,2013-01-20,Sri Lanka,lost,2nd,Australia,14.0,0,3.2,4.2,n/r,,
 3324,2013-01-20,Australia,won,1st,Sri Lanka,222.0,9,50.0,4.44,n/r,,
 3325,2013-01-22,South Africa,won,2nd,New Zealand,252.0,10,49.1,5.12,lost,27.0,runs
-3325,2013-01-22,Newzealad,lost,1st,South Africa,279.0,8,50.0,5.58,won,27.0,runs
+3325,2013-01-22,New Zealand,lost,1st,South Africa,279.0,8,50.0,5.58,won,27.0,runs
 3326,2013-01-23,Sri Lanka,won,2nd,Australia,215.0,10,48.3,4.43,lost,32.0,runs
 3326,2013-01-23,Australia,lost,1st,Sri Lanka,247.0,5,50.0,4.94,won,32.0,runs
 3327,2013-01-23,India,won,2nd,England,258.0,5,47.3,5.43,won,5.0,wickets
 3327,2013-01-23,England,lost,1st,India,257.0,7,50.0,5.14,lost,5.0,wickets
 3328,2013-01-25,South Africa,lost,2nd,New Zealand,264.0,9,50.0,5.28,won,1.0,wickets
-3328,2013-01-25,Newzealad,won,1st,South Africa,260.0,9,50.0,5.2,lost,1.0,wickets
+3328,2013-01-25,New Zealand,won,1st,South Africa,260.0,9,50.0,5.2,lost,1.0,wickets
 3329,2013-01-27,India,lost,1st,England,226.0,10,49.4,4.55,lost,7.0,wickets
 3329,2013-01-27,England,won,2nd,India,227.0,3,47.2,4.79,won,7.0,wickets
 3330,2013-02-01,West Indies,won,1st,Australia,70.0,10,23.5,2.93,lost,9.0,wickets
@@ -39,11 +39,11 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3333,2013-02-08,Australia,lost,2nd,West Indies,221.0,5,44.5,4.92,won,5.0,wickets
 3334,2013-02-10,West Indies,won,2nd,Australia,257.0,10,49.5,5.15,lost,17.0,runs
 3334,2013-02-10,Australia,lost,1st,West Indies,274.0,5,50.0,5.48,won,17.0,runs
-3335,2013-02-17,Newzealad,won,2nd,England,259.0,7,48.5,5.3,won,3.0,wickets
+3335,2013-02-17,New Zealand,won,2nd,England,259.0,7,48.5,5.3,won,3.0,wickets
 3335,2013-02-17,England,lost,1st,New Zealand,258.0,10,49.3,5.21,lost,3.0,wickets
-3336,2013-02-20,Newzealad,lost,1st,England,269.0,10,48.5,5.5,lost,8.0,wickets
+3336,2013-02-20,New Zealand,lost,1st,England,269.0,10,48.5,5.5,lost,8.0,wickets
 3336,2013-02-20,England,won,2nd,New Zealand,270.0,2,47.4,5.66,won,8.0,wickets
-3338,2013-02-23,Newzealad,lost,1st,England,185.0,10,43.5,4.22,lost,5.0,wickets
+3338,2013-02-23,New Zealand,lost,1st,England,185.0,10,43.5,4.22,lost,5.0,wickets
 3338,2013-02-23,England,won,2nd,New Zealand,186.0,5,37.3,4.96,won,5.0,wickets
 3343,2013-03-10,South Africa,lost,1st,Pakistan,315.0,4,50.0,6.3,won,125.0,runs
 3343,2013-03-10,Pakistan,won,2nd,South Africa,190.0,10,36.2,5.22,lost,125.0,runs
@@ -61,11 +61,11 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3351,2013-03-25,Bangladesh,won,DNB,Sri Lanka,,10,0.0,,n/r,,
 3352,2013-03-28,Sri Lanka,won,1st,Bangladesh,302.0,9,50.0,6.04,lost,3.0,wickets
 3352,2013-03-28,Bangladesh,lost,2nd,Sri Lanka,184.0,7,26.0,7.07,won,3.0,wickets
-3360,2013-05-31,Newzealad,won,2nd,England,231.0,5,46.5,4.93,won,5.0,wickets
+3360,2013-05-31,New Zealand,won,2nd,England,231.0,5,46.5,4.93,won,5.0,wickets
 3360,2013-05-31,England,lost,1st,New Zealand,227.0,9,50.0,4.54,lost,5.0,wickets
-3361,2013-06-02,Newzealad,won,1st,England,359.0,3,50.0,7.18,won,86.0,runs
+3361,2013-06-02,New Zealand,won,1st,England,359.0,3,50.0,7.18,won,86.0,runs
 3361,2013-06-02,England,lost,2nd,New Zealand,273.0,10,44.1,6.18,lost,86.0,runs
-3362,2013-06-05,Newzealad,won,2nd,England,253.0,10,46.3,5.44,lost,34.0,runs
+3362,2013-06-05,New Zealand,won,2nd,England,253.0,10,46.3,5.44,lost,34.0,runs
 3362,2013-06-05,England,lost,1st,New Zealand,287.0,6,50.0,5.74,won,34.0,runs
 3363,2013-06-06,South Africa,won,2nd,India,305.0,10,50.0,6.1,lost,26.0,runs
 3363,2013-06-06,India,lost,1st,South Africa,331.0,7,50.0,6.62,won,26.0,runs
@@ -74,12 +74,12 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3365,2013-06-08,England,won,1st,Australia,269.0,6,50.0,5.38,won,48.0,runs
 3365,2013-06-08,Australia,lost,2nd,England,221.0,9,50.0,4.42,lost,48.0,runs
 3366,2013-06-09,Sri Lanka,won,1st,New Zealand,138.0,10,37.5,3.64,lost,1.0,wickets
-3366,2013-06-09,Newzealad,lost,2nd,Sri Lanka,139.0,9,36.3,3.8,won,1.0,wickets
+3366,2013-06-09,New Zealand,lost,2nd,Sri Lanka,139.0,9,36.3,3.8,won,1.0,wickets
 3367,2013-06-10,South Africa,won,1st,Pakistan,234.0,9,50.0,4.68,won,67.0,runs
 3367,2013-06-10,Pakistan,lost,2nd,South Africa,167.0,10,45.0,3.71,lost,67.0,runs
 3368,2013-06-11,West Indies,lost,1st,India,233.0,9,50.0,4.66,lost,8.0,wickets
 3368,2013-06-11,India,won,2nd,West Indies,236.0,2,39.1,6.02,won,8.0,wickets
-3369,2013-06-12,Newzealad,lost,2nd,Australia,51.0,2,15.0,3.4,n/r,,
+3369,2013-06-12,New Zealand,lost,2nd,Australia,51.0,2,15.0,3.4,n/r,,
 3369,2013-06-12,Australia,won,1st,New Zealand,243.0,8,50.0,4.86,n/r,,
 3370,2013-06-13,Sri Lanka,won,2nd,England,297.0,3,47.1,6.29,won,7.0,wickets
 3370,2013-06-13,England,lost,1st,Sri Lanka,293.0,7,50.0,5.86,lost,7.0,wickets
@@ -87,7 +87,7 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3371,2013-06-14,South Africa,lost,1st,West Indies,230.0,6,31.0,7.41,tied,,
 3372,2013-06-15,Pakistan,lost,1st,India,165.0,10,39.4,4.15,lost,8.0,wickets
 3372,2013-06-15,India,won,2nd,Pakistan,102.0,2,19.1,5.32,won,8.0,wickets
-3373,2013-06-16,Newzealad,won,2nd,England,159.0,8,24.0,6.62,lost,10.0,runs
+3373,2013-06-16,New Zealand,won,2nd,England,159.0,8,24.0,6.62,lost,10.0,runs
 3373,2013-06-16,England,lost,1st,New Zealand,169.0,10,23.3,7.19,won,10.0,runs
 3374,2013-06-17,Sri Lanka,lost,1st,Australia,253.0,8,50.0,5.06,won,20.0,runs
 3374,2013-06-17,Australia,won,2nd,Sri Lanka,233.0,10,42.3,5.48,lost,20.0,runs
@@ -147,32 +147,32 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3421,2013-10-19,Australia,won,2nd,India,304.0,6,49.3,6.14,won,4.0,wickets
 3422,2013-10-23,India,won,2nd,Australia,27.0,0,4.1,6.48,n/r,,
 3422,2013-10-23,Australia,lost,1st,India,295.0,8,50.0,5.9,n/r,,
-3423,2013-10-29,Newzealad,won,2nd,Bangladesh,162.0,10,29.5,5.43,lost,43.0,runs
+3423,2013-10-29,New Zealand,won,2nd,Bangladesh,162.0,10,29.5,5.43,lost,43.0,runs
 3423,2013-10-29,Bangladesh,lost,1st,New Zealand,265.0,10,49.5,5.31,won,43.0,runs
 3424,2013-10-30,India,won,2nd,Australia,351.0,4,49.3,7.09,won,6.0,wickets
 3424,2013-10-30,Australia,lost,1st,India,350.0,6,50.0,7.0,lost,6.0,wickets
 3425,2013-10-30,South Africa,won,1st,Pakistan,183.0,10,49.5,3.67,won,1.0,runs
 3425,2013-10-30,Pakistan,lost,2nd,South Africa,182.0,10,46.3,3.91,lost,1.0,runs
-3426,2013-10-31,Newzealad,lost,2nd,Bangladesh,207.0,10,46.4,4.43,lost,40.0,runs
+3426,2013-10-31,New Zealand,lost,2nd,Bangladesh,207.0,10,46.4,4.43,lost,40.0,runs
 3426,2013-10-31,Bangladesh,won,1st,New Zealand,247.0,10,49.0,5.04,won,40.0,runs
 3427,2013-11-01,South Africa,lost,2nd,Pakistan,143.0,10,40.4,3.51,lost,66.0,runs
 3427,2013-11-01,Pakistan,won,1st,South Africa,209.0,10,49.4,4.2,won,66.0,runs
 3428,2013-11-02,India,lost,1st,Australia,383.0,6,50.0,7.66,won,57.0,runs
 3428,2013-11-02,Australia,won,2nd,India,326.0,10,45.1,7.21,lost,57.0,runs
-3429,2013-11-03,Newzealad,lost,1st,Bangladesh,307.0,5,50.0,6.14,lost,4.0,wickets
+3429,2013-11-03,New Zealand,lost,1st,Bangladesh,307.0,5,50.0,6.14,lost,4.0,wickets
 3429,2013-11-03,Bangladesh,won,2nd,New Zealand,309.0,6,49.2,6.26,won,4.0,wickets
 3430,2013-11-06,South Africa,won,1st,Pakistan,259.0,8,50.0,5.18,won,68.0,runs
 3430,2013-11-06,Pakistan,lost,2nd,South Africa,191.0,10,44.3,4.29,lost,68.0,runs
 3431,2013-11-08,South Africa,won,1st,Pakistan,266.0,5,50.0,5.32,won,28.0,runs
 3431,2013-11-08,Pakistan,lost,2nd,South Africa,238.0,10,49.2,4.82,lost,28.0,runs
 3432,2013-11-10,Sri Lanka,lost,1st,New Zealand,288.0,9,50.0,5.76,n/r,,
-3432,2013-11-10,Newzealad,won,2nd,Sri Lanka,13.0,1,4.2,3.0,n/r,,
+3432,2013-11-10,New Zealand,won,2nd,Sri Lanka,13.0,1,4.2,3.0,n/r,,
 3433,2013-11-11,South Africa,won,1st,Pakistan,268.0,7,50.0,5.36,won,117.0,runs
 3433,2013-11-11,Pakistan,lost,2nd,South Africa,151.0,10,35.3,4.25,lost,117.0,runs
 3434,2013-11-12,Sri Lanka,won,1st,New Zealand,138.0,1,23.0,6.0,lost,4.0,wickets
-3434,2013-11-12,Newzealad,lost,2nd,Sri Lanka,203.0,6,23.0,8.82,won,4.0,wickets
+3434,2013-11-12,New Zealand,lost,2nd,Sri Lanka,203.0,6,23.0,8.82,won,4.0,wickets
 3435,2013-11-16,Sri Lanka,lost,1st,New Zealand,211.0,8,33.0,6.39,won,36.0,runs
-3435,2013-11-16,Newzealad,won,2nd,Sri Lanka,126.0,6,25.0,5.04,lost,36.0,runs
+3435,2013-11-16,New Zealand,won,2nd,Sri Lanka,126.0,6,25.0,5.04,lost,36.0,runs
 3436,2013-11-21,West Indies,won,1st,India,211.0,10,48.5,4.32,lost,6.0,wickets
 3436,2013-11-21,India,lost,2nd,West Indies,212.0,4,35.2,6.0,won,6.0,wickets
 3437,2013-11-24,West Indies,won,2nd,India,289.0,8,49.3,5.83,won,2.0,wickets
@@ -200,34 +200,34 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3448,2013-12-25,Sri Lanka,won,1st,Pakistan,225.0,10,48.5,4.6,lost,8.0,wickets
 3448,2013-12-25,Pakistan,lost,2nd,Sri Lanka,226.0,2,41.1,5.48,won,8.0,wickets
 3449,2013-12-26,West Indies,won,2nd,New Zealand,157.0,8,27.3,5.7,won,2.0,wickets
-3449,2013-12-26,Newzealad,lost,1st,West Indies,156.0,10,42.1,3.69,lost,2.0,wickets
+3449,2013-12-26,New Zealand,lost,1st,West Indies,156.0,10,42.1,3.69,lost,2.0,wickets
 3450,2013-12-27,Sri Lanka,lost,2nd,Pakistan,235.0,8,49.4,4.73,won,2.0,wickets
 3450,2013-12-27,Pakistan,won,1st,Sri Lanka,232.0,10,49.3,4.68,lost,2.0,wickets
 3451,2014-01-01,West Indies,won,2nd,New Zealand,124.0,5,21.0,5.9,lost,159.0,runs
-3451,2014-01-01,Newzealad,lost,1st,West Indies,283.0,4,21.0,13.47,won,159.0,runs
+3451,2014-01-01,New Zealand,lost,1st,West Indies,283.0,4,21.0,13.47,won,159.0,runs
 3452,2014-01-04,West Indies,lost,2nd,New Zealand,134.0,5,33.4,3.98,lost,58.0,runs
-3452,2014-01-04,Newzealad,won,1st,West Indies,285.0,6,50.0,5.7,won,58.0,runs
+3452,2014-01-04,New Zealand,won,1st,West Indies,285.0,6,50.0,5.7,won,58.0,runs
 3453,2014-01-08,West Indies,lost,1st,New Zealand,363.0,4,50.0,7.26,won,203.0,runs
-3453,2014-01-08,Newzealad,won,2nd,West Indies,160.0,10,29.5,5.36,lost,203.0,runs
+3453,2014-01-08,New Zealand,won,2nd,West Indies,160.0,10,29.5,5.36,lost,203.0,runs
 3454,2014-01-12,England,won,1st,Australia,269.0,7,50.0,5.38,lost,6.0,wickets
 3454,2014-01-12,Australia,lost,2nd,England,270.0,4,45.4,5.91,won,6.0,wickets
 3455,2014-01-17,England,won,1st,Australia,300.0,8,50.0,6.0,lost,1.0,wickets
 3455,2014-01-17,Australia,lost,2nd,England,301.0,9,49.3,6.08,won,1.0,wickets
-3456,2014-01-19,Newzealad,lost,1st,India,292.0,7,50.0,5.84,won,24.0,runs
+3456,2014-01-19,New Zealand,lost,1st,India,292.0,7,50.0,5.84,won,24.0,runs
 3456,2014-01-19,India,won,2nd,New Zealand,268.0,10,48.4,5.5,lost,24.0,runs
 3457,2014-01-19,England,won,1st,Australia,243.0,9,50.0,4.86,lost,7.0,wickets
 3457,2014-01-19,Australia,lost,2nd,England,244.0,3,40.0,6.1,won,7.0,wickets
-3458,2014-01-22,Newzealad,lost,1st,India,271.0,7,42.0,6.45,won,15.0,runs
+3458,2014-01-22,New Zealand,lost,1st,India,271.0,7,42.0,6.45,won,15.0,runs
 3458,2014-01-22,India,won,2nd,New Zealand,277.0,9,41.3,6.67,lost,15.0,runs
 3461,2014-01-24,England,lost,1st,Australia,316.0,8,50.0,6.32,won,57.0,runs
 3461,2014-01-24,Australia,won,2nd,England,259.0,10,47.4,5.43,lost,57.0,runs
-3462,2014-01-25,Newzealad,lost,1st,India,314.0,10,50.0,6.28,tied,,
+3462,2014-01-25,New Zealand,lost,1st,India,314.0,10,50.0,6.28,tied,,
 3462,2014-01-25,India,won,2nd,New Zealand,314.0,9,50.0,6.28,tied,,
 3463,2014-01-26,England,lost,2nd,Australia,212.0,10,49.4,4.26,lost,5.0,runs
 3463,2014-01-26,Australia,won,1st,England,217.0,9,50.0,4.34,won,5.0,runs
-3465,2014-01-28,Newzealad,lost,2nd,India,280.0,3,48.1,5.81,won,7.0,wickets
+3465,2014-01-28,New Zealand,lost,2nd,India,280.0,3,48.1,5.81,won,7.0,wickets
 3465,2014-01-28,India,won,1st,New Zealand,278.0,5,50.0,5.56,lost,7.0,wickets
-3467,2014-01-31,Newzealad,lost,1st,India,303.0,5,50.0,6.06,won,87.0,runs
+3467,2014-01-31,New Zealand,lost,1st,India,303.0,5,50.0,6.06,won,87.0,runs
 3467,2014-01-31,India,won,2nd,New Zealand,216.0,10,49.4,4.34,lost,87.0,runs
 3469,2014-02-17,Sri Lanka,lost,1st,Bangladesh,180.0,10,40.0,4.5,won,13.0,runs
 3469,2014-02-17,Bangladesh,won,2nd,Sri Lanka,167.0,10,39.2,4.24,lost,13.0,runs
@@ -324,11 +324,11 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3535,2014-10-17,West Indies,won,2nd,India,271.0,10,48.1,5.62,lost,59.0,runs
 3535,2014-10-17,India,lost,1st,West Indies,330.0,6,50.0,6.6,won,59.0,runs
 3536,2014-10-21,South Africa,won,2nd,New Zealand,236.0,4,48.1,4.89,won,6.0,wickets
-3536,2014-10-21,Newzealad,lost,1st,South Africa,230.0,10,45.1,5.09,lost,6.0,wickets
+3536,2014-10-21,New Zealand,lost,1st,South Africa,230.0,10,45.1,5.09,lost,6.0,wickets
 3537,2014-10-24,South Africa,lost,1st,New Zealand,282.0,9,50.0,5.64,won,72.0,runs
-3537,2014-10-24,Newzealad,won,2nd,South Africa,210.0,10,46.3,4.51,lost,72.0,runs
+3537,2014-10-24,New Zealand,won,2nd,South Africa,210.0,10,46.3,4.51,lost,72.0,runs
 3538,2014-10-27,South Africa,lost,1st,New Zealand,157.0,3,30.4,5.11,n/r,,
-3538,2014-10-27,Newzealad,won,DNB,South Africa,,10,0.0,,n/r,,
+3538,2014-10-27,New Zealand,won,DNB,South Africa,,10,0.0,,n/r,,
 3539,2014-11-02,Sri Lanka,won,2nd,India,194.0,10,39.2,4.93,lost,169.0,runs
 3539,2014-11-02,India,lost,1st,Sri Lanka,363.0,5,50.0,7.26,won,169.0,runs
 3540,2014-11-06,Sri Lanka,won,1st,India,274.0,8,50.0,5.48,lost,6.0,wickets
@@ -358,47 +358,47 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3563,2014-12-07,Sri Lanka,lost,2nd,England,267.0,4,49.4,5.37,won,6.0,wickets
 3563,2014-12-07,England,won,1st,Sri Lanka,265.0,10,50.0,5.3,lost,6.0,wickets
 3564,2014-12-08,Pakistan,won,2nd,New Zealand,250.0,7,49.3,5.05,won,3.0,wickets
-3564,2014-12-08,Newzealad,lost,1st,Pakistan,246.0,7,50.0,4.92,lost,3.0,wickets
+3564,2014-12-08,New Zealand,lost,1st,Pakistan,246.0,7,50.0,4.92,lost,3.0,wickets
 3565,2014-12-10,Sri Lanka,lost,1st,England,239.0,10,49.0,4.87,lost,5.0,wickets
 3565,2014-12-10,England,won,2nd,Sri Lanka,240.0,5,49.1,4.88,won,5.0,wickets
 3566,2014-12-12,Pakistan,won,1st,New Zealand,252.0,10,48.3,5.19,lost,4.0,wickets
-3566,2014-12-12,Newzealad,lost,2nd,Pakistan,255.0,6,46.0,5.54,won,4.0,wickets
+3566,2014-12-12,New Zealand,lost,2nd,Pakistan,255.0,6,46.0,5.54,won,4.0,wickets
 3567,2014-12-13,Sri Lanka,won,1st,England,292.0,7,50.0,5.84,won,90.0,runs
 3567,2014-12-13,England,lost,2nd,Sri Lanka,202.0,10,41.3,4.86,lost,90.0,runs
 3568,2014-12-14,Pakistan,won,1st,New Zealand,364.0,7,50.0,7.28,won,147.0,runs
-3568,2014-12-14,Newzealad,lost,2nd,Pakistan,217.0,10,38.2,5.66,lost,147.0,runs
+3568,2014-12-14,New Zealand,lost,2nd,Pakistan,217.0,10,38.2,5.66,lost,147.0,runs
 3569,2014-12-16,Sri Lanka,won,1st,England,302.0,6,50.0,6.04,won,87.0,runs
 3569,2014-12-16,England,lost,2nd,Sri Lanka,215.0,10,45.5,4.69,lost,87.0,runs
 3570,2014-12-17,Pakistan,lost,2nd,New Zealand,292.0,8,50.0,5.84,lost,7.0,runs
-3570,2014-12-17,Newzealad,won,1st,Pakistan,299.0,5,50.0,5.98,won,7.0,runs
+3570,2014-12-17,New Zealand,won,1st,Pakistan,299.0,5,50.0,5.98,won,7.0,runs
 3571,2014-12-19,Pakistan,lost,2nd,New Zealand,207.0,10,43.3,4.75,lost,68.0,runs
-3571,2014-12-19,Newzealad,won,1st,Pakistan,275.0,4,50.0,5.5,won,68.0,runs
+3571,2014-12-19,New Zealand,won,1st,Pakistan,275.0,4,50.0,5.5,won,68.0,runs
 3574,2015-01-11,Sri Lanka,won,1st,New Zealand,218.0,9,50.0,4.36,lost,3.0,wickets
-3574,2015-01-11,Newzealad,lost,2nd,Sri Lanka,219.0,7,43.0,5.09,won,3.0,wickets
+3574,2015-01-11,New Zealand,lost,2nd,Sri Lanka,219.0,7,43.0,5.09,won,3.0,wickets
 3577,2015-01-15,Sri Lanka,lost,2nd,New Zealand,252.0,4,47.4,5.28,won,6.0,wickets
-3577,2015-01-15,Newzealad,won,1st,Sri Lanka,248.0,10,50.0,4.96,lost,6.0,wickets
+3577,2015-01-15,New Zealand,won,1st,Sri Lanka,248.0,10,50.0,4.96,lost,6.0,wickets
 3578,2015-01-16,England,won,1st,Australia,234.0,10,47.5,4.89,lost,3.0,wickets
 3578,2015-01-16,Australia,lost,2nd,England,235.0,7,39.5,5.89,won,3.0,wickets
 3579,2015-01-16,West Indies,lost,2nd,South Africa,164.0,10,28.2,5.78,lost,61.0,runs
 3579,2015-01-16,South Africa,won,1st,West Indies,279.0,8,48.2,5.77,won,61.0,runs
 3580,2015-01-17,Sri Lanka,won,DNB,New Zealand,,10,0.0,,n/r,,
-3580,2015-01-17,Newzealad,lost,1st,Sri Lanka,145.0,3,28.5,5.02,n/r,,
+3580,2015-01-17,New Zealand,lost,1st,Sri Lanka,145.0,3,28.5,5.02,n/r,,
 3582,2015-01-18,India,won,1st,Australia,267.0,8,50.0,5.34,lost,4.0,wickets
 3582,2015-01-18,Australia,lost,2nd,India,269.0,6,49.0,5.48,won,4.0,wickets
 3583,2015-01-18,West Indies,won,2nd,South Africa,291.0,7,50.0,5.82,lost,148.0,runs
 3583,2015-01-18,South Africa,lost,1st,West Indies,439.0,2,50.0,8.78,won,148.0,runs
 3585,2015-01-20,Sri Lanka,won,1st,New Zealand,276.0,10,49.3,5.57,lost,4.0,wickets
-3585,2015-01-20,Newzealad,lost,2nd,Sri Lanka,280.0,6,48.1,5.81,won,4.0,wickets
+3585,2015-01-20,New Zealand,lost,2nd,Sri Lanka,280.0,6,48.1,5.81,won,4.0,wickets
 3586,2015-01-20,India,won,1st,England,153.0,10,39.3,3.87,lost,9.0,wickets
 3586,2015-01-20,England,lost,2nd,India,156.0,1,27.3,5.67,won,9.0,wickets
 3587,2015-01-21,West Indies,won,1st,South Africa,122.0,10,33.4,3.62,lost,9.0,wickets
 3587,2015-01-21,South Africa,lost,2nd,West Indies,124.0,1,24.4,5.02,won,9.0,wickets
 3588,2015-01-23,Sri Lanka,won,2nd,New Zealand,252.0,10,43.4,5.77,lost,108.0,runs
-3588,2015-01-23,Newzealad,lost,1st,Sri Lanka,360.0,5,50.0,7.2,won,108.0,runs
+3588,2015-01-23,New Zealand,lost,1st,Sri Lanka,360.0,5,50.0,7.2,won,108.0,runs
 3589,2015-01-23,England,lost,1st,Australia,303.0,8,50.0,6.06,lost,3.0,wickets
 3589,2015-01-23,Australia,won,2nd,England,304.0,7,49.5,6.1,won,3.0,wickets
 3590,2015-01-25,Sri Lanka,lost,2nd,New Zealand,195.0,10,40.3,4.81,lost,120.0,runs
-3590,2015-01-25,Newzealad,won,1st,Sri Lanka,315.0,8,50.0,6.3,won,120.0,runs
+3590,2015-01-25,New Zealand,won,1st,Sri Lanka,315.0,8,50.0,6.3,won,120.0,runs
 3591,2015-01-25,West Indies,won,2nd,South Africa,266.0,9,48.3,5.48,won,1.0,wickets
 3591,2015-01-25,South Africa,lost,1st,West Indies,262.0,8,50.0,5.24,lost,1.0,wickets
 3592,2015-01-26,India,lost,1st,Australia,69.0,2,16.0,4.31,n/r,,
@@ -406,24 +406,24 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3593,2015-01-28,West Indies,won,2nd,South Africa,230.0,10,37.4,6.1,lost,131.0,runs
 3593,2015-01-28,South Africa,lost,1st,West Indies,361.0,5,42.0,8.59,won,131.0,runs
 3594,2015-01-29,Sri Lanka,won,1st,New Zealand,287.0,6,50.0,5.74,won,34.0,runs
-3594,2015-01-29,Newzealad,lost,2nd,Sri Lanka,253.0,10,45.2,5.58,lost,34.0,runs
+3594,2015-01-29,New Zealand,lost,2nd,Sri Lanka,253.0,10,45.2,5.58,lost,34.0,runs
 3595,2015-01-30,India,lost,1st,England,200.0,10,48.1,4.15,lost,3.0,wickets
 3595,2015-01-30,England,won,2nd,India,201.0,7,46.5,4.29,won,3.0,wickets
 3596,2015-01-31,Pakistan,lost,1st,New Zealand,210.0,10,45.3,4.61,lost,7.0,wickets
-3596,2015-01-31,Newzealad,won,2nd,Pakistan,213.0,3,39.3,5.39,won,7.0,wickets
+3596,2015-01-31,New Zealand,won,2nd,Pakistan,213.0,3,39.3,5.39,won,7.0,wickets
 3597,2015-02-01,England,won,2nd,Australia,166.0,10,39.1,4.23,lost,112.0,runs
 3597,2015-02-01,Australia,lost,1st,England,278.0,8,50.0,5.56,won,112.0,runs
 3598,2015-02-03,Pakistan,lost,2nd,New Zealand,250.0,10,43.1,5.79,lost,119.0,runs
-3598,2015-02-03,Newzealad,won,1st,Pakistan,369.0,5,50.0,7.38,won,119.0,runs
+3598,2015-02-03,New Zealand,won,1st,Pakistan,369.0,5,50.0,7.38,won,119.0,runs
 3599,2015-02-14,Sri Lanka,won,2nd,New Zealand,233.0,10,46.1,5.04,lost,98.0,runs
-3599,2015-02-14,Newzealad,lost,1st,Sri Lanka,331.0,6,50.0,6.62,won,98.0,runs
+3599,2015-02-14,New Zealand,lost,1st,Sri Lanka,331.0,6,50.0,6.62,won,98.0,runs
 3600,2015-02-14,England,won,2nd,Australia,231.0,10,41.5,5.52,lost,111.0,runs
 3600,2015-02-14,Australia,lost,1st,England,342.0,9,50.0,6.84,won,111.0,runs
 3602,2015-02-15,Pakistan,lost,2nd,India,224.0,10,47.0,4.76,lost,76.0,runs
 3602,2015-02-15,India,won,1st,Pakistan,300.0,7,50.0,6.0,won,76.0,runs
 3605,2015-02-18,Bangladesh,won,1st,Afghanistan,267.0,10,50.0,5.34,won,105.0,runs
 3605,2015-02-18,Afghanistan,lost,2nd,Bangladesh,162.0,10,42.5,3.78,lost,105.0,runs
-3607,2015-02-20,Newzealad,lost,2nd,England,125.0,2,12.2,10.13,won,8.0,wickets
+3607,2015-02-20,New Zealand,lost,2nd,England,125.0,2,12.2,10.13,won,8.0,wickets
 3607,2015-02-20,England,won,1st,New Zealand,123.0,10,33.2,3.69,lost,8.0,wickets
 3608,2015-02-21,West Indies,lost,1st,Pakistan,310.0,6,50.0,6.2,won,150.0,runs
 3608,2015-02-21,Pakistan,won,2nd,West Indies,160.0,10,39.0,4.1,lost,150.0,runs
@@ -435,7 +435,7 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3615,2015-02-26,Bangladesh,lost,2nd,Sri Lanka,240.0,10,47.0,5.1,lost,92.0,runs
 3616,2015-02-27,West Indies,lost,2nd,South Africa,151.0,10,33.1,4.55,lost,257.0,runs
 3616,2015-02-27,South Africa,won,1st,West Indies,408.0,5,50.0,8.16,won,257.0,runs
-3617,2015-02-28,Newzealad,lost,2nd,Australia,152.0,9,23.1,6.56,won,1.0,wickets
+3617,2015-02-28,New Zealand,lost,2nd,Australia,152.0,9,23.1,6.56,won,1.0,wickets
 3617,2015-02-28,Australia,won,1st,New Zealand,151.0,10,32.2,4.67,lost,1.0,wickets
 3619,2015-03-01,Sri Lanka,lost,2nd,England,312.0,1,47.2,6.59,won,9.0,wickets
 3619,2015-03-01,England,won,1st,Sri Lanka,309.0,6,50.0,6.18,lost,9.0,wickets
@@ -445,13 +445,13 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3625,2015-03-06,India,lost,2nd,West Indies,185.0,6,39.1,4.72,won,4.0,wickets
 3626,2015-03-07,South Africa,won,2nd,Pakistan,202.0,10,33.3,6.02,lost,29.0,runs
 3626,2015-03-07,Pakistan,lost,1st,South Africa,222.0,10,46.4,4.75,won,29.0,runs
-3628,2015-03-08,Newzealad,lost,2nd,Afghanistan,188.0,4,36.1,5.19,won,6.0,wickets
+3628,2015-03-08,New Zealand,lost,2nd,Afghanistan,188.0,4,36.1,5.19,won,6.0,wickets
 3628,2015-03-08,Afghanistan,won,1st,New Zealand,186.0,10,47.4,3.9,lost,6.0,wickets
 3629,2015-03-08,Sri Lanka,lost,2nd,Australia,312.0,10,46.2,6.73,lost,64.0,runs
 3629,2015-03-08,Australia,won,1st,Sri Lanka,376.0,9,50.0,7.52,won,64.0,runs
 3630,2015-03-09,England,won,2nd,Bangladesh,260.0,10,48.3,5.36,lost,15.0,runs
 3630,2015-03-09,Bangladesh,lost,1st,England,275.0,7,50.0,5.5,won,15.0,runs
-3634,2015-03-13,Newzealad,won,2nd,Bangladesh,290.0,7,48.5,5.93,won,3.0,wickets
+3634,2015-03-13,New Zealand,won,2nd,Bangladesh,290.0,7,48.5,5.93,won,3.0,wickets
 3634,2015-03-13,Bangladesh,lost,1st,New Zealand,288.0,7,50.0,5.76,lost,3.0,wickets
 3635,2015-03-13,England,won,2nd,Afghanistan,101.0,1,18.1,5.55,won,9.0,wickets
 3635,2015-03-13,Afghanistan,lost,1st,England,111.0,7,36.2,3.05,lost,9.0,wickets
@@ -462,12 +462,12 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3642,2015-03-20,Pakistan,won,1st,Australia,213.0,10,49.5,4.27,lost,6.0,wickets
 3642,2015-03-20,Australia,lost,2nd,Pakistan,216.0,4,33.5,6.38,won,6.0,wickets
 3643,2015-03-21,West Indies,lost,2nd,New Zealand,250.0,10,30.3,8.19,lost,143.0,runs
-3643,2015-03-21,Newzealad,won,1st,West Indies,393.0,6,50.0,7.86,won,143.0,runs
+3643,2015-03-21,New Zealand,won,1st,West Indies,393.0,6,50.0,7.86,won,143.0,runs
 3644,2015-03-24,South Africa,won,1st,New Zealand,281.0,5,43.0,6.53,lost,4.0,wickets
-3644,2015-03-24,Newzealad,lost,2nd,South Africa,299.0,6,42.5,6.98,won,4.0,wickets
+3644,2015-03-24,New Zealand,lost,2nd,South Africa,299.0,6,42.5,6.98,won,4.0,wickets
 3645,2015-03-26,India,lost,2nd,Australia,233.0,10,46.5,4.97,lost,95.0,runs
 3645,2015-03-26,Australia,won,1st,India,328.0,7,50.0,6.56,won,95.0,runs
-3646,2015-03-29,Newzealad,won,1st,Australia,183.0,10,45.0,4.06,lost,7.0,wickets
+3646,2015-03-29,New Zealand,won,1st,Australia,183.0,10,45.0,4.06,lost,7.0,wickets
 3646,2015-03-29,Australia,lost,2nd,New Zealand,186.0,3,33.1,5.6,won,7.0,wickets
 3647,2015-04-17,Pakistan,lost,2nd,Bangladesh,250.0,10,45.2,5.51,lost,79.0,runs
 3647,2015-04-17,Bangladesh,won,1st,Pakistan,329.0,6,50.0,6.58,won,79.0,runs
@@ -475,17 +475,17 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3648,2015-04-19,Bangladesh,lost,2nd,Pakistan,240.0,3,38.1,6.28,won,7.0,wickets
 3649,2015-04-22,Pakistan,won,1st,Bangladesh,250.0,10,49.0,5.1,lost,8.0,wickets
 3649,2015-04-22,Bangladesh,lost,2nd,Pakistan,251.0,2,39.3,6.35,won,8.0,wickets
-3654,2015-06-09,Newzealad,won,2nd,England,198.0,10,31.1,6.35,lost,210.0,runs
+3654,2015-06-09,New Zealand,won,2nd,England,198.0,10,31.1,6.35,lost,210.0,runs
 3654,2015-06-09,England,lost,1st,New Zealand,408.0,9,50.0,8.16,won,210.0,runs
-3655,2015-06-12,Newzealad,won,1st,England,398.0,5,50.0,7.96,won,13.0,runs
+3655,2015-06-12,New Zealand,won,1st,England,398.0,5,50.0,7.96,won,13.0,runs
 3655,2015-06-12,England,lost,2nd,New Zealand,365.0,9,46.0,7.93,lost,13.0,runs
-3656,2015-06-14,Newzealad,lost,2nd,England,306.0,7,49.0,6.24,won,3.0,wickets
+3656,2015-06-14,New Zealand,lost,2nd,England,306.0,7,49.0,6.24,won,3.0,wickets
 3656,2015-06-14,England,won,1st,New Zealand,302.0,10,45.2,6.66,lost,3.0,wickets
-3657,2015-06-17,Newzealad,won,1st,England,349.0,7,50.0,6.98,lost,7.0,wickets
+3657,2015-06-17,New Zealand,won,1st,England,349.0,7,50.0,6.98,lost,7.0,wickets
 3657,2015-06-17,England,lost,2nd,New Zealand,350.0,3,44.0,7.95,won,7.0,wickets
 3658,2015-06-18,India,lost,2nd,Bangladesh,228.0,10,46.0,4.95,lost,79.0,runs
 3658,2015-06-18,Bangladesh,won,1st,India,307.0,10,49.4,6.18,won,79.0,runs
-3659,2015-06-20,Newzealad,lost,1st,England,283.0,9,50.0,5.66,lost,3.0,wickets
+3659,2015-06-20,New Zealand,lost,1st,England,283.0,9,50.0,5.66,lost,3.0,wickets
 3659,2015-06-20,England,won,2nd,New Zealand,192.0,7,25.0,7.68,won,3.0,wickets
 3660,2015-06-21,India,won,1st,Bangladesh,200.0,10,45.0,4.44,lost,6.0,wickets
 3660,2015-06-21,Bangladesh,lost,2nd,India,200.0,4,38.0,5.26,won,6.0,wickets
@@ -508,11 +508,11 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3672,2015-07-26,Sri Lanka,won,1st,Pakistan,368.0,4,50.0,7.36,won,165.0,runs
 3672,2015-07-26,Pakistan,lost,2nd,Sri Lanka,203.0,10,37.2,5.43,lost,165.0,runs
 3676,2015-08-19,South Africa,lost,1st,New Zealand,304.0,7,50.0,6.08,won,20.0,runs
-3676,2015-08-19,Newzealad,won,2nd,South Africa,284.0,10,48.1,5.89,lost,20.0,runs
+3676,2015-08-19,New Zealand,won,2nd,South Africa,284.0,10,48.1,5.89,lost,20.0,runs
 3677,2015-08-23,South Africa,won,1st,New Zealand,204.0,10,49.3,4.12,lost,8.0,wickets
-3677,2015-08-23,Newzealad,lost,2nd,South Africa,207.0,2,44.3,4.65,won,8.0,wickets
+3677,2015-08-23,New Zealand,lost,2nd,South Africa,207.0,2,44.3,4.65,won,8.0,wickets
 3678,2015-08-26,South Africa,won,1st,New Zealand,283.0,7,50.0,5.66,won,62.0,runs
-3678,2015-08-26,Newzealad,lost,2nd,South Africa,221.0,10,49.2,4.47,lost,62.0,runs
+3678,2015-08-26,New Zealand,lost,2nd,South Africa,221.0,10,49.2,4.47,lost,62.0,runs
 3680,2015-09-03,England,lost,2nd,Australia,246.0,10,45.3,5.4,lost,59.0,runs
 3680,2015-09-03,Australia,won,1st,England,305.0,6,50.0,6.1,won,59.0,runs
 3681,2015-09-05,England,won,2nd,Australia,245.0,10,42.3,5.76,lost,64.0,runs
@@ -548,15 +548,15 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3712,2015-11-20,Pakistan,lost,2nd,England,271.0,10,40.4,6.66,lost,84.0,runs
 3712,2015-11-20,England,won,1st,Pakistan,355.0,5,50.0,7.1,won,84.0,runs
 3714,2015-12-26,Sri Lanka,won,1st,New Zealand,188.0,10,47.0,4.0,lost,7.0,wickets
-3714,2015-12-26,Newzealad,lost,2nd,Sri Lanka,191.0,3,21.0,9.09,won,7.0,wickets
+3714,2015-12-26,New Zealand,lost,2nd,Sri Lanka,191.0,3,21.0,9.09,won,7.0,wickets
 3715,2015-12-28,Sri Lanka,won,1st,New Zealand,117.0,10,27.4,4.22,lost,10.0,wickets
-3715,2015-12-28,Newzealad,lost,2nd,Sri Lanka,118.0,0,8.2,14.16,won,10.0,wickets
+3715,2015-12-28,New Zealand,lost,2nd,Sri Lanka,118.0,0,8.2,14.16,won,10.0,wickets
 3717,2015-12-31,Sri Lanka,lost,2nd,New Zealand,277.0,2,46.2,5.97,won,8.0,wickets
-3717,2015-12-31,Newzealad,won,1st,Sri Lanka,276.0,8,50.0,5.52,lost,8.0,wickets
+3717,2015-12-31,New Zealand,won,1st,Sri Lanka,276.0,8,50.0,5.52,lost,8.0,wickets
 3718,2016-01-02,Sri Lanka,won,DNB,New Zealand,,10,0.0,,n/r,,
-3718,2016-01-02,Newzealad,lost,1st,Sri Lanka,75.0,3,9.0,8.33,n/r,,
+3718,2016-01-02,New Zealand,lost,1st,Sri Lanka,75.0,3,9.0,8.33,n/r,,
 3721,2016-01-05,Sri Lanka,won,2nd,New Zealand,258.0,10,47.1,5.46,lost,36.0,runs
-3721,2016-01-05,Newzealad,lost,1st,Sri Lanka,294.0,5,50.0,5.88,won,36.0,runs
+3721,2016-01-05,New Zealand,lost,1st,Sri Lanka,294.0,5,50.0,5.88,won,36.0,runs
 3723,2016-01-12,India,won,1st,Australia,309.0,3,50.0,6.18,lost,5.0,wickets
 3723,2016-01-12,Australia,lost,2nd,India,310.0,5,49.2,6.28,won,5.0,wickets
 3724,2016-01-15,India,won,1st,Australia,308.0,8,50.0,6.16,lost,7.0,wickets
@@ -568,18 +568,18 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3727,2016-01-23,India,won,2nd,Australia,331.0,4,49.4,6.66,won,6.0,wickets
 3727,2016-01-23,Australia,lost,1st,India,330.0,7,50.0,6.6,lost,6.0,wickets
 3728,2016-01-25,Pakistan,won,2nd,New Zealand,210.0,10,46.0,4.56,lost,70.0,runs
-3728,2016-01-25,Newzealad,lost,1st,Pakistan,280.0,8,50.0,5.6,won,70.0,runs
+3728,2016-01-25,New Zealand,lost,1st,Pakistan,280.0,8,50.0,5.6,won,70.0,runs
 3730,2016-01-31,Pakistan,won,1st,New Zealand,290.0,10,47.3,6.1,lost,3.0,wickets
-3730,2016-01-31,Newzealad,lost,2nd,Pakistan,265.0,7,42.4,6.21,won,3.0,wickets
-3731,2016-02-03,Newzealad,lost,1st,Australia,307.0,8,50.0,6.14,won,159.0,runs
+3730,2016-01-31,New Zealand,lost,2nd,Pakistan,265.0,7,42.4,6.21,won,3.0,wickets
+3731,2016-02-03,New Zealand,lost,1st,Australia,307.0,8,50.0,6.14,won,159.0,runs
 3731,2016-02-03,Australia,won,2nd,New Zealand,148.0,10,24.2,6.08,lost,159.0,runs
 3732,2016-02-03,South Africa,lost,2nd,England,250.0,5,33.3,7.46,lost,39.0,runs
 3732,2016-02-03,England,won,1st,South Africa,399.0,9,50.0,7.98,won,39.0,runs
-3733,2016-02-06,Newzealad,won,1st,Australia,281.0,9,50.0,5.62,lost,4.0,wickets
+3733,2016-02-06,New Zealand,won,1st,Australia,281.0,9,50.0,5.62,lost,4.0,wickets
 3733,2016-02-06,Australia,lost,2nd,New Zealand,283.0,6,46.3,6.08,won,4.0,wickets
 3734,2016-02-06,South Africa,won,1st,England,262.0,7,50.0,5.24,lost,5.0,wickets
 3734,2016-02-06,England,lost,2nd,South Africa,263.0,5,46.2,5.67,won,5.0,wickets
-3735,2016-02-08,Newzealad,lost,1st,Australia,246.0,10,45.3,5.4,won,55.0,runs
+3735,2016-02-08,New Zealand,lost,1st,Australia,246.0,10,45.3,5.4,won,55.0,runs
 3735,2016-02-08,Australia,won,2nd,New Zealand,191.0,10,43.4,4.37,lost,55.0,runs
 3736,2016-02-09,South Africa,lost,2nd,England,319.0,3,46.2,6.88,won,7.0,wickets
 3736,2016-02-09,England,won,1st,South Africa,318.0,8,50.0,6.36,lost,7.0,wickets
@@ -665,31 +665,31 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3794,2016-10-12,Bangladesh,lost,1st,England,277.0,6,50.0,5.54,lost,4.0,wickets
 3795,2016-10-12,South Africa,won,1st,Australia,327.0,8,50.0,6.54,won,31.0,runs
 3795,2016-10-12,Australia,lost,2nd,South Africa,296.0,10,48.2,6.12,lost,31.0,runs
-3796,2016-10-16,Newzealad,lost,1st,India,190.0,10,43.5,4.33,lost,6.0,wickets
+3796,2016-10-16,New Zealand,lost,1st,India,190.0,10,43.5,4.33,lost,6.0,wickets
 3796,2016-10-16,India,won,2nd,New Zealand,194.0,4,33.1,5.84,won,6.0,wickets
-3797,2016-10-20,Newzealad,lost,1st,India,242.0,9,50.0,4.84,won,6.0,runs
+3797,2016-10-20,New Zealand,lost,1st,India,242.0,9,50.0,4.84,won,6.0,runs
 3797,2016-10-20,India,won,2nd,New Zealand,236.0,10,49.3,4.76,lost,6.0,runs
-3798,2016-10-23,Newzealad,lost,1st,India,285.0,10,49.4,5.73,lost,7.0,wickets
+3798,2016-10-23,New Zealand,lost,1st,India,285.0,10,49.4,5.73,lost,7.0,wickets
 3798,2016-10-23,India,won,2nd,New Zealand,289.0,3,48.2,5.97,won,7.0,wickets
-3799,2016-10-26,Newzealad,won,1st,India,260.0,7,50.0,5.2,won,19.0,runs
+3799,2016-10-26,New Zealand,won,1st,India,260.0,7,50.0,5.2,won,19.0,runs
 3799,2016-10-26,India,lost,2nd,New Zealand,241.0,10,48.4,4.95,lost,19.0,runs
-3800,2016-10-29,Newzealad,lost,2nd,India,79.0,10,23.1,3.41,lost,190.0,runs
+3800,2016-10-29,New Zealand,lost,2nd,India,79.0,10,23.1,3.41,lost,190.0,runs
 3800,2016-10-29,India,won,1st,New Zealand,269.0,6,50.0,5.38,won,190.0,runs
 3805,2016-11-16,West Indies,lost,1st,Sri Lanka,227.0,10,49.2,4.6,won,62.0,runs
 3805,2016-11-16,Sri Lanka,won,2nd,West Indies,165.0,10,43.1,3.82,lost,62.0,runs
 3808,2016-11-23,West Indies,won,2nd,Sri Lanka,329.0,9,50.0,6.58,lost,1.0,runs
 3808,2016-11-23,Sri Lanka,lost,1st,West Indies,330.0,7,50.0,6.6,won,1.0,runs
-3811,2016-12-04,Newzealad,lost,2nd,Australia,256.0,10,44.2,5.77,lost,68.0,runs
+3811,2016-12-04,New Zealand,lost,2nd,Australia,256.0,10,44.2,5.77,lost,68.0,runs
 3811,2016-12-04,Australia,won,1st,New Zealand,324.0,8,50.0,6.48,won,68.0,runs
-3812,2016-12-06,Newzealad,won,2nd,Australia,262.0,10,47.2,5.53,lost,116.0,runs
+3812,2016-12-06,New Zealand,won,2nd,Australia,262.0,10,47.2,5.53,lost,116.0,runs
 3812,2016-12-06,Australia,lost,1st,New Zealand,378.0,5,50.0,7.56,won,116.0,runs
-3813,2016-12-09,Newzealad,lost,2nd,Australia,147.0,10,36.1,4.06,lost,117.0,runs
+3813,2016-12-09,New Zealand,lost,2nd,Australia,147.0,10,36.1,4.06,lost,117.0,runs
 3813,2016-12-09,Australia,won,1st,New Zealand,264.0,8,50.0,5.28,won,117.0,runs
-3814,2016-12-26,Newzealad,won,1st,Bangladesh,341.0,7,50.0,6.82,won,77.0,runs
+3814,2016-12-26,New Zealand,won,1st,Bangladesh,341.0,7,50.0,6.82,won,77.0,runs
 3814,2016-12-26,Bangladesh,lost,2nd,New Zealand,264.0,10,44.5,5.88,lost,77.0,runs
-3815,2016-12-29,Newzealad,lost,1st,Bangladesh,251.0,10,50.0,5.02,won,67.0,runs
+3815,2016-12-29,New Zealand,lost,1st,Bangladesh,251.0,10,50.0,5.02,won,67.0,runs
 3815,2016-12-29,Bangladesh,won,2nd,New Zealand,184.0,10,42.4,4.31,lost,67.0,runs
-3816,2016-12-31,Newzealad,lost,2nd,Bangladesh,239.0,2,41.2,5.78,won,8.0,wickets
+3816,2016-12-31,New Zealand,lost,2nd,Bangladesh,239.0,2,41.2,5.78,won,8.0,wickets
 3816,2016-12-31,Bangladesh,won,1st,New Zealand,236.0,9,50.0,4.72,lost,8.0,wickets
 3817,2017-01-13,Pakistan,lost,2nd,Australia,176.0,10,42.4,4.12,lost,92.0,runs
 3817,2017-01-13,Australia,won,1st,Pakistan,268.0,9,50.0,5.36,won,92.0,runs
@@ -709,30 +709,30 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3826,2017-01-26,Australia,won,1st,Pakistan,369.0,7,50.0,7.38,won,57.0,runs
 3828,2017-01-28,Sri Lanka,lost,1st,South Africa,181.0,10,48.3,3.73,lost,8.0,wickets
 3828,2017-01-28,South Africa,won,2nd,Sri Lanka,185.0,2,34.2,5.38,won,8.0,wickets
-3829,2017-01-30,Newzealad,lost,1st,Australia,286.0,9,50.0,5.72,won,6.0,runs
+3829,2017-01-30,New Zealand,lost,1st,Australia,286.0,9,50.0,5.72,won,6.0,runs
 3829,2017-01-30,Australia,won,2nd,New Zealand,280.0,10,47.0,5.95,lost,6.0,runs
 3830,2017-02-01,Sri Lanka,won,2nd,South Africa,186.0,10,37.5,4.91,lost,121.0,runs
 3830,2017-02-01,South Africa,lost,1st,Sri Lanka,307.0,6,50.0,6.14,won,121.0,runs
 3831,2017-02-04,Sri Lanka,lost,1st,South Africa,163.0,10,39.2,4.14,lost,7.0,wickets
 3831,2017-02-04,South Africa,won,2nd,Sri Lanka,164.0,3,32.0,5.12,won,7.0,wickets
-3832,2017-02-05,Newzealad,won,1st,Australia,281.0,9,50.0,5.62,won,24.0,runs
+3832,2017-02-05,New Zealand,won,1st,Australia,281.0,9,50.0,5.62,won,24.0,runs
 3832,2017-02-05,Australia,lost,2nd,New Zealand,257.0,10,47.0,5.46,lost,24.0,runs
 3833,2017-02-07,Sri Lanka,lost,2nd,South Africa,327.0,10,48.1,6.78,lost,40.0,runs
 3833,2017-02-07,South Africa,won,1st,Sri Lanka,367.0,5,50.0,7.34,won,40.0,runs
 3834,2017-02-10,Sri Lanka,won,2nd,South Africa,296.0,8,50.0,5.92,lost,88.0,runs
 3834,2017-02-10,South Africa,lost,1st,Sri Lanka,384.0,6,50.0,7.68,won,88.0,runs
 3836,2017-02-19,South Africa,won,2nd,New Zealand,210.0,6,33.5,6.2,won,4.0,wickets
-3836,2017-02-19,Newzealad,lost,1st,South Africa,207.0,7,34.0,6.08,lost,4.0,wickets
+3836,2017-02-19,New Zealand,lost,1st,South Africa,207.0,7,34.0,6.08,lost,4.0,wickets
 3839,2017-02-22,South Africa,won,2nd,New Zealand,283.0,9,50.0,5.66,lost,6.0,runs
-3839,2017-02-22,Newzealad,lost,1st,South Africa,289.0,4,50.0,5.78,won,6.0,runs
+3839,2017-02-22,New Zealand,lost,1st,South Africa,289.0,4,50.0,5.78,won,6.0,runs
 3841,2017-02-25,South Africa,won,1st,New Zealand,271.0,8,50.0,5.42,won,159.0,runs
-3841,2017-02-25,Newzealad,lost,2nd,South Africa,112.0,10,32.2,3.46,lost,159.0,runs
+3841,2017-02-25,New Zealand,lost,2nd,South Africa,112.0,10,32.2,3.46,lost,159.0,runs
 3843,2017-03-01,South Africa,won,1st,New Zealand,279.0,8,50.0,5.58,lost,7.0,wickets
-3843,2017-03-01,Newzealad,lost,2nd,South Africa,280.0,3,45.0,6.22,won,7.0,wickets
+3843,2017-03-01,New Zealand,lost,2nd,South Africa,280.0,3,45.0,6.22,won,7.0,wickets
 3845,2017-03-03,West Indies,won,2nd,England,251.0,10,47.2,5.3,lost,45.0,runs
 3845,2017-03-03,England,lost,1st,West Indies,296.0,6,50.0,5.92,won,45.0,runs
 3846,2017-03-04,South Africa,won,2nd,New Zealand,150.0,4,32.2,4.63,won,6.0,wickets
-3846,2017-03-04,Newzealad,lost,1st,South Africa,149.0,10,41.1,3.61,lost,6.0,wickets
+3846,2017-03-04,New Zealand,lost,1st,South Africa,149.0,10,41.1,3.61,lost,6.0,wickets
 3848,2017-03-05,West Indies,won,1st,England,225.0,10,47.5,4.7,lost,4.0,wickets
 3848,2017-03-05,England,lost,2nd,West Indies,226.0,6,48.2,4.67,won,4.0,wickets
 3849,2017-03-09,West Indies,won,2nd,England,142.0,10,39.2,3.61,lost,186.0,runs
@@ -749,9 +749,9 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3862,2017-04-09,Pakistan,lost,1st,West Indies,282.0,5,50.0,5.64,won,74.0,runs
 3863,2017-04-11,West Indies,won,1st,Pakistan,233.0,9,50.0,4.66,lost,6.0,wickets
 3863,2017-04-11,Pakistan,lost,2nd,West Indies,236.0,4,43.1,5.46,won,6.0,wickets
-3868,2017-05-17,Newzealad,won,2nd,Bangladesh,258.0,6,47.3,5.43,won,4.0,wickets
+3868,2017-05-17,New Zealand,won,2nd,Bangladesh,258.0,6,47.3,5.43,won,4.0,wickets
 3868,2017-05-17,Bangladesh,lost,1st,New Zealand,257.0,9,50.0,5.14,lost,4.0,wickets
-3871,2017-05-24,Newzealad,lost,1st,Bangladesh,270.0,8,50.0,5.4,lost,5.0,wickets
+3871,2017-05-24,New Zealand,lost,1st,Bangladesh,270.0,8,50.0,5.4,lost,5.0,wickets
 3871,2017-05-24,Bangladesh,won,2nd,New Zealand,271.0,5,48.2,5.6,won,5.0,wickets
 3872,2017-05-24,South Africa,won,2nd,England,267.0,10,45.0,5.93,lost,72.0,runs
 3872,2017-05-24,England,lost,1st,South Africa,339.0,6,50.0,6.78,won,72.0,runs
@@ -761,7 +761,7 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3874,2017-05-29,England,lost,1st,South Africa,153.0,10,31.1,4.9,lost,7.0,wickets
 3875,2017-06-01,England,won,2nd,Bangladesh,308.0,2,47.2,6.5,won,8.0,wickets
 3875,2017-06-01,Bangladesh,lost,1st,England,305.0,6,50.0,6.1,lost,8.0,wickets
-3876,2017-06-02,Newzealad,won,1st,Australia,291.0,10,45.0,6.46,n/r,,
+3876,2017-06-02,New Zealand,won,1st,Australia,291.0,10,45.0,6.46,n/r,,
 3876,2017-06-02,Australia,lost,2nd,New Zealand,53.0,3,9.0,5.88,n/r,,
 3877,2017-06-03,Sri Lanka,won,2nd,South Africa,203.0,10,41.3,4.89,lost,96.0,runs
 3877,2017-06-03,South Africa,lost,1st,Sri Lanka,299.0,6,50.0,5.98,won,96.0,runs
@@ -769,13 +769,13 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3878,2017-06-04,India,lost,1st,Pakistan,319.0,3,48.0,6.64,won,124.0,runs
 3879,2017-06-05,Bangladesh,won,1st,Australia,182.0,10,44.3,4.08,n/r,,
 3879,2017-06-05,Australia,lost,2nd,Bangladesh,83.0,1,16.0,5.18,n/r,,
-3880,2017-06-06,Newzealad,won,2nd,England,223.0,10,44.3,5.01,lost,87.0,runs
+3880,2017-06-06,New Zealand,won,2nd,England,223.0,10,44.3,5.01,lost,87.0,runs
 3880,2017-06-06,England,lost,1st,New Zealand,310.0,10,49.3,6.26,won,87.0,runs
 3881,2017-06-07,South Africa,won,1st,Pakistan,219.0,8,50.0,4.38,lost,19.0,runs
 3881,2017-06-07,Pakistan,lost,2nd,South Africa,119.0,3,27.0,4.4,won,19.0,runs
 3882,2017-06-08,Sri Lanka,won,2nd,India,322.0,3,48.4,6.61,won,7.0,wickets
 3882,2017-06-08,India,lost,1st,Sri Lanka,321.0,6,50.0,6.42,lost,7.0,wickets
-3883,2017-06-09,Newzealad,won,1st,Bangladesh,265.0,8,50.0,5.3,lost,5.0,wickets
+3883,2017-06-09,New Zealand,won,1st,Bangladesh,265.0,8,50.0,5.3,lost,5.0,wickets
 3883,2017-06-09,Bangladesh,lost,2nd,New Zealand,268.0,5,47.2,5.66,won,5.0,wickets
 3884,2017-06-09,West Indies,lost,2nd,Afghanistan,149.0,10,44.4,3.33,lost,63.0,runs
 3884,2017-06-09,Afghanistan,won,1st,West Indies,212.0,6,50.0,4.24,won,63.0,runs
@@ -847,15 +847,15 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3926,2017-10-18,Pakistan,lost,2nd,Sri Lanka,209.0,3,42.3,4.91,won,7.0,wickets
 3927,2017-10-20,Sri Lanka,won,1st,Pakistan,173.0,10,43.4,3.96,lost,7.0,wickets
 3927,2017-10-20,Pakistan,lost,2nd,Sri Lanka,177.0,3,39.0,4.53,won,7.0,wickets
-3928,2017-10-22,Newzealad,lost,2nd,India,284.0,4,49.0,5.79,won,6.0,wickets
+3928,2017-10-22,New Zealand,lost,2nd,India,284.0,4,49.0,5.79,won,6.0,wickets
 3928,2017-10-22,India,won,1st,New Zealand,280.0,8,50.0,5.6,lost,6.0,wickets
 3929,2017-10-22,South Africa,won,1st,Bangladesh,369.0,6,50.0,7.38,won,200.0,runs
 3929,2017-10-22,Bangladesh,lost,2nd,South Africa,169.0,10,40.4,4.15,lost,200.0,runs
 3930,2017-10-23,Sri Lanka,won,1st,Pakistan,103.0,10,26.2,3.91,lost,9.0,wickets
 3930,2017-10-23,Pakistan,lost,2nd,Sri Lanka,105.0,1,20.2,5.16,won,9.0,wickets
-3931,2017-10-25,Newzealad,won,1st,India,230.0,9,50.0,4.6,lost,6.0,wickets
+3931,2017-10-25,New Zealand,won,1st,India,230.0,9,50.0,4.6,lost,6.0,wickets
 3931,2017-10-25,India,lost,2nd,New Zealand,232.0,4,46.0,5.04,won,6.0,wickets
-3932,2017-10-29,Newzealad,won,2nd,India,331.0,7,50.0,6.62,lost,6.0,runs
+3932,2017-10-29,New Zealand,won,2nd,India,331.0,7,50.0,6.62,lost,6.0,runs
 3932,2017-10-29,India,lost,1st,New Zealand,337.0,6,50.0,6.74,won,6.0,runs
 3939,2017-12-10,Sri Lanka,won,2nd,India,114.0,3,20.4,5.51,won,7.0,wickets
 3939,2017-12-10,India,lost,1st,Sri Lanka,112.0,10,38.2,2.92,lost,7.0,wickets
@@ -864,23 +864,23 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3942,2017-12-17,Sri Lanka,lost,1st,India,215.0,10,44.5,4.79,lost,8.0,wickets
 3942,2017-12-17,India,won,2nd,Sri Lanka,219.0,2,32.1,6.8,won,8.0,wickets
 3943,2017-12-20,West Indies,lost,1st,New Zealand,248.0,9,50.0,4.96,lost,5.0,wickets
-3943,2017-12-20,Newzealad,won,2nd,West Indies,249.0,5,46.0,5.41,won,5.0,wickets
+3943,2017-12-20,New Zealand,won,2nd,West Indies,249.0,5,46.0,5.41,won,5.0,wickets
 3944,2017-12-23,West Indies,won,2nd,New Zealand,121.0,10,28.0,4.32,lost,204.0,runs
-3944,2017-12-23,Newzealad,lost,1st,West Indies,325.0,6,50.0,6.5,won,204.0,runs
+3944,2017-12-23,New Zealand,lost,1st,West Indies,325.0,6,50.0,6.5,won,204.0,runs
 3945,2017-12-26,West Indies,lost,2nd,New Zealand,99.0,9,23.0,4.3,lost,66.0,runs
-3945,2017-12-26,Newzealad,won,1st,West Indies,131.0,4,23.0,5.69,won,66.0,runs
+3945,2017-12-26,New Zealand,won,1st,West Indies,131.0,4,23.0,5.69,won,66.0,runs
 3946,2018-01-06,Pakistan,won,2nd,New Zealand,166.0,6,30.1,5.5,lost,61.0,runs
-3946,2018-01-06,Newzealad,lost,1st,Pakistan,315.0,7,50.0,6.3,won,61.0,runs
+3946,2018-01-06,New Zealand,lost,1st,Pakistan,315.0,7,50.0,6.3,won,61.0,runs
 3947,2018-01-09,Pakistan,won,1st,New Zealand,246.0,9,50.0,4.92,lost,8.0,wickets
-3947,2018-01-09,Newzealad,lost,2nd,Pakistan,151.0,2,23.5,6.33,won,8.0,wickets
+3947,2018-01-09,New Zealand,lost,2nd,Pakistan,151.0,2,23.5,6.33,won,8.0,wickets
 3949,2018-01-13,Pakistan,lost,2nd,New Zealand,74.0,10,27.2,2.7,lost,183.0,runs
-3949,2018-01-13,Newzealad,won,1st,Pakistan,257.0,10,50.0,5.14,won,183.0,runs
+3949,2018-01-13,New Zealand,won,1st,Pakistan,257.0,10,50.0,5.14,won,183.0,runs
 3951,2018-01-14,England,won,2nd,Australia,308.0,5,48.5,6.3,won,5.0,wickets
 3951,2018-01-14,Australia,lost,1st,England,304.0,8,50.0,6.08,lost,5.0,wickets
 3953,2018-01-16,Pakistan,won,1st,New Zealand,262.0,8,50.0,5.24,lost,5.0,wickets
-3953,2018-01-16,Newzealad,lost,2nd,Pakistan,263.0,5,45.5,5.73,won,5.0,wickets
+3953,2018-01-16,New Zealand,lost,2nd,Pakistan,263.0,5,45.5,5.73,won,5.0,wickets
 3957,2018-01-19,Pakistan,lost,2nd,New Zealand,256.0,10,49.0,5.22,lost,15.0,runs
-3957,2018-01-19,Newzealad,won,1st,Pakistan,271.0,7,50.0,5.42,won,15.0,runs
+3957,2018-01-19,New Zealand,won,1st,Pakistan,271.0,7,50.0,5.42,won,15.0,runs
 3958,2018-01-19,England,lost,2nd,Australia,274.0,6,44.2,6.18,won,4.0,wickets
 3958,2018-01-19,Australia,won,1st,England,270.0,9,50.0,5.4,lost,4.0,wickets
 3959,2018-01-19,Sri Lanka,lost,2nd,Bangladesh,157.0,10,32.2,4.85,lost,163.0,runs
@@ -907,15 +907,15 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3976,2018-02-13,India,lost,1st,South Africa,274.0,7,50.0,5.48,won,73.0,runs
 3978,2018-02-16,South Africa,lost,1st,India,204.0,10,46.5,4.35,lost,8.0,wickets
 3978,2018-02-16,India,won,2nd,South Africa,206.0,2,32.1,6.4,won,8.0,wickets
-3980,2018-02-25,Newzealad,won,2nd,England,287.0,7,49.2,5.81,won,3.0,wickets
+3980,2018-02-25,New Zealand,won,2nd,England,287.0,7,49.2,5.81,won,3.0,wickets
 3980,2018-02-25,England,lost,1st,New Zealand,284.0,8,50.0,5.68,lost,3.0,wickets
-3981,2018-02-28,Newzealad,lost,1st,England,223.0,10,49.4,4.48,lost,6.0,wickets
+3981,2018-02-28,New Zealand,lost,1st,England,223.0,10,49.4,4.48,lost,6.0,wickets
 3981,2018-02-28,England,won,2nd,New Zealand,225.0,4,37.5,5.94,won,6.0,wickets
-3982,2018-03-03,Newzealad,won,2nd,England,230.0,8,50.0,4.6,lost,4.0,runs
+3982,2018-03-03,New Zealand,won,2nd,England,230.0,8,50.0,4.6,lost,4.0,runs
 3982,2018-03-03,England,lost,1st,New Zealand,234.0,10,50.0,4.68,won,4.0,runs
-3989,2018-03-07,Newzealad,won,2nd,England,339.0,5,49.3,6.84,won,5.0,wickets
+3989,2018-03-07,New Zealand,won,2nd,England,339.0,5,49.3,6.84,won,5.0,wickets
 3989,2018-03-07,England,lost,1st,New Zealand,335.0,9,50.0,6.7,lost,5.0,wickets
-3992,2018-03-10,Newzealad,lost,1st,England,223.0,10,49.5,4.47,lost,7.0,wickets
+3992,2018-03-10,New Zealand,lost,1st,England,223.0,10,49.5,4.47,lost,7.0,wickets
 3992,2018-03-10,England,won,2nd,New Zealand,229.0,3,32.4,7.01,won,7.0,wickets
 3997,2018-03-15,West Indies,won,1st,Afghanistan,197.0,8,50.0,3.94,lost,3.0,wickets
 3997,2018-03-15,Afghanistan,lost,2nd,West Indies,198.0,7,47.4,4.15,won,3.0,wickets
@@ -998,15 +998,15 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 4065,2018-11-04,South Africa,won,2nd,Australia,153.0,4,29.2,5.21,won,6.0,wickets
 4065,2018-11-04,Australia,lost,1st,South Africa,152.0,10,38.1,3.98,lost,6.0,wickets
 4066,2018-11-07,Pakistan,lost,2nd,New Zealand,219.0,10,47.2,4.62,lost,47.0,runs
-4066,2018-11-07,Newzealad,won,1st,Pakistan,266.0,9,50.0,5.32,won,47.0,runs
+4066,2018-11-07,New Zealand,won,1st,Pakistan,266.0,9,50.0,5.32,won,47.0,runs
 4067,2018-11-09,South Africa,won,2nd,Australia,224.0,9,50.0,4.48,lost,7.0,runs
 4067,2018-11-09,Australia,lost,1st,South Africa,231.0,10,48.3,4.76,won,7.0,runs
 4068,2018-11-09,Pakistan,lost,2nd,New Zealand,212.0,4,40.3,5.23,won,6.0,wickets
-4068,2018-11-09,Newzealad,won,1st,Pakistan,209.0,9,50.0,4.18,lost,6.0,wickets
+4068,2018-11-09,New Zealand,won,1st,Pakistan,209.0,9,50.0,4.18,lost,6.0,wickets
 4069,2018-11-11,South Africa,lost,1st,Australia,320.0,5,50.0,6.4,won,40.0,runs
 4069,2018-11-11,Australia,won,2nd,South Africa,280.0,9,50.0,5.6,lost,40.0,runs
 4070,2018-11-11,Pakistan,won,1st,New Zealand,279.0,8,50.0,5.58,n/r,,
-4070,2018-11-11,Newzealad,lost,2nd,Pakistan,35.0,1,6.5,5.12,n/r,,
+4070,2018-11-11,New Zealand,lost,2nd,Pakistan,35.0,1,6.5,5.12,n/r,,
 4071,2018-12-09,West Indies,won,1st,Bangladesh,195.0,9,50.0,3.9,lost,5.0,wickets
 4071,2018-12-09,Bangladesh,lost,2nd,West Indies,196.0,5,35.1,5.57,won,5.0,wickets
 4072,2018-12-11,West Indies,won,2nd,Bangladesh,256.0,6,49.4,5.15,won,4.0,wickets
@@ -1014,11 +1014,11 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 4073,2018-12-14,West Indies,lost,1st,Bangladesh,198.0,9,50.0,3.96,lost,8.0,wickets
 4073,2018-12-14,Bangladesh,won,2nd,West Indies,202.0,2,38.3,5.24,won,8.0,wickets
 4074,2019-01-03,Sri Lanka,lost,2nd,New Zealand,326.0,10,49.0,6.65,lost,45.0,runs
-4074,2019-01-03,Newzealad,won,1st,Sri Lanka,371.0,7,50.0,7.42,won,45.0,runs
+4074,2019-01-03,New Zealand,won,1st,Sri Lanka,371.0,7,50.0,7.42,won,45.0,runs
 4075,2019-01-05,Sri Lanka,lost,2nd,New Zealand,298.0,10,46.2,6.43,lost,21.0,runs
-4075,2019-01-05,Newzealad,won,1st,Sri Lanka,319.0,7,50.0,6.38,won,21.0,runs
+4075,2019-01-05,New Zealand,won,1st,Sri Lanka,319.0,7,50.0,6.38,won,21.0,runs
 4076,2019-01-08,Sri Lanka,won,2nd,New Zealand,249.0,10,41.4,5.97,lost,115.0,runs
-4076,2019-01-08,Newzealad,lost,1st,Sri Lanka,364.0,4,50.0,7.28,won,115.0,runs
+4076,2019-01-08,New Zealand,lost,1st,Sri Lanka,364.0,4,50.0,7.28,won,115.0,runs
 4077,2019-01-12,India,lost,2nd,Australia,254.0,9,50.0,5.08,lost,34.0,runs
 4077,2019-01-12,Australia,won,1st,India,288.0,5,50.0,5.76,won,34.0,runs
 4078,2019-01-15,India,lost,2nd,Australia,299.0,4,49.2,6.06,won,6.0,wickets
@@ -1029,27 +1029,27 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 4080,2019-01-19,Pakistan,lost,2nd,South Africa,267.0,5,49.1,5.43,won,5.0,wickets
 4081,2019-01-22,South Africa,won,2nd,Pakistan,207.0,5,42.0,4.92,won,5.0,wickets
 4081,2019-01-22,Pakistan,lost,1st,South Africa,203.0,10,45.5,4.42,lost,5.0,wickets
-4082,2019-01-23,Newzealad,won,1st,India,157.0,10,38.0,4.13,lost,8.0,wickets
+4082,2019-01-23,New Zealand,won,1st,India,157.0,10,38.0,4.13,lost,8.0,wickets
 4082,2019-01-23,India,lost,2nd,New Zealand,156.0,2,34.5,4.47,won,8.0,wickets
 4084,2019-01-25,South Africa,lost,2nd,Pakistan,187.0,2,33.0,5.66,won,13.0,runs
 4084,2019-01-25,Pakistan,won,1st,South Africa,317.0,6,50.0,6.34,lost,13.0,runs
-4085,2019-01-26,Newzealad,lost,2nd,India,234.0,10,40.2,5.8,lost,90.0,runs
+4085,2019-01-26,New Zealand,lost,2nd,India,234.0,10,40.2,5.8,lost,90.0,runs
 4085,2019-01-26,India,won,1st,New Zealand,324.0,4,50.0,6.48,won,90.0,runs
 4087,2019-01-27,South Africa,lost,1st,Pakistan,164.0,10,41.0,4.0,lost,8.0,wickets
 4087,2019-01-27,Pakistan,won,2nd,South Africa,168.0,2,31.3,5.33,won,8.0,wickets
-4088,2019-01-28,Newzealad,won,1st,India,243.0,10,49.0,4.95,lost,7.0,wickets
+4088,2019-01-28,New Zealand,won,1st,India,243.0,10,49.0,4.95,lost,7.0,wickets
 4088,2019-01-28,India,lost,2nd,New Zealand,245.0,3,43.0,5.69,won,7.0,wickets
 4090,2019-01-30,South Africa,won,2nd,Pakistan,241.0,3,40.0,6.02,won,7.0,wickets
 4090,2019-01-30,Pakistan,lost,1st,South Africa,240.0,8,50.0,4.8,lost,7.0,wickets
-4091,2019-01-31,Newzealad,won,2nd,India,93.0,2,14.4,6.34,won,8.0,wickets
+4091,2019-01-31,New Zealand,won,2nd,India,93.0,2,14.4,6.34,won,8.0,wickets
 4091,2019-01-31,India,lost,1st,New Zealand,92.0,10,30.5,2.98,lost,8.0,wickets
-4092,2019-02-03,Newzealad,lost,2nd,India,217.0,10,44.1,4.91,lost,35.0,runs
+4092,2019-02-03,New Zealand,lost,2nd,India,217.0,10,44.1,4.91,lost,35.0,runs
 4092,2019-02-03,India,won,1st,New Zealand,252.0,10,49.5,5.05,won,35.0,runs
-4093,2019-02-13,Newzealad,lost,2nd,Bangladesh,233.0,2,44.3,5.23,won,8.0,wickets
+4093,2019-02-13,New Zealand,lost,2nd,Bangladesh,233.0,2,44.3,5.23,won,8.0,wickets
 4093,2019-02-13,Bangladesh,won,1st,New Zealand,232.0,10,48.5,4.75,lost,8.0,wickets
-4094,2019-02-16,Newzealad,won,2nd,Bangladesh,229.0,2,36.1,6.33,won,8.0,wickets
+4094,2019-02-16,New Zealand,won,2nd,Bangladesh,229.0,2,36.1,6.33,won,8.0,wickets
 4094,2019-02-16,Bangladesh,lost,1st,New Zealand,226.0,10,49.4,4.55,lost,8.0,wickets
-4095,2019-02-20,Newzealad,lost,1st,Bangladesh,330.0,6,50.0,6.6,won,88.0,runs
+4095,2019-02-20,New Zealand,lost,1st,Bangladesh,330.0,6,50.0,6.6,won,88.0,runs
 4095,2019-02-20,Bangladesh,won,2nd,New Zealand,242.0,10,47.2,5.11,lost,88.0,runs
 4096,2019-02-20,West Indies,won,1st,England,360.0,8,50.0,7.2,lost,6.0,wickets
 4096,2019-02-20,England,lost,2nd,West Indies,364.0,4,48.4,7.47,won,6.0,wickets
