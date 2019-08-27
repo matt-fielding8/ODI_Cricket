@@ -3,6 +3,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sb
 
+def bins(df, var, manual=False, min=0, max=2, step=1):
+    '''
+    Creates bins using np.arange(). If manual=False use variable minimum and
+    maximum values as bin edges, otherwise min and max parameters.
+    '''
+    if not manual:
+        return np.arange(df[var].min(), df[var].max()+step, step)
+    else:
+        return np.arange(min, max+step, step)
+
 def proportions(df, groupby=None, agg_method='count', agg_col='match_id', asc=False,
 col1=None, filter1=None, col2=None, filter2=None):
     '''
