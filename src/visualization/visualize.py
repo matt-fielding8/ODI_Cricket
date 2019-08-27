@@ -3,6 +3,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sb
 
+def setPlot(figsize=[10,7],title="", xlabel="", ylabel="",
+    axis_font=14, title_font=16):
+    '''
+    Sets up matplotlib axis according to params. Returns None.
+    '''
+    _, ax = plt.subplots(figsize=figsize);
+    ax.set_title(title, fontsize=title_font);
+    ax.set_xlabel(xlabel, fontsize=axis_font);
+    ax.set_ylabel(ylabel, fontsize=axis_font);
+
 def bins(df, var, manual=False, min=0, max=2, step=1):
     '''
     Creates bins using np.arange(). If manual=False use variable minimum and
