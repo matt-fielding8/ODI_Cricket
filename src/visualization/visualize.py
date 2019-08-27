@@ -13,6 +13,15 @@ def bins(df, var, manual=False, min=0, max=2, step=1):
     else:
         return np.arange(min, max+step, step)
 
+def tickLabels(locs, multi=1, f=0, pcnt=False):
+    ''' (list of int) -> list of str
+    Return locs * multi as list of strings to i decimal places.
+    '''
+    if not pcnt:
+        return ["{:0.{}f}".format(i*multi, f) for i in locs]
+    else:
+        return ["{:0.{}f}%".format(i*multi, f) for i in locs]
+
 def proportions(df, groupby=None, agg_method='count', agg_col='match_id', asc=False,
 col1=None, filter1=None, col2=None, filter2=None):
     '''
