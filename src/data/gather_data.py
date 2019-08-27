@@ -45,12 +45,12 @@ def getMissingData(url):
         print("Score Extraction Error\n", e, '\n', match_id, url)
         score_lst = [np.NaN]*2
     # Extract team data from soup
-    team = soup.find_all(class_='cscore_name--long')
+    country = soup.find_all(class_='cscore_name--long')
     try:
-        team_lst =  [i.contents[0] for i in team]
+        country_lst =  [i.contents[0] for i in team]
     except Exception as e:
-        print("Team Extraction\n", e, '\n', e, url)
-        team_lst = [np.NaN]*2
+        print("Country Extraction\n", e, '\n', e, url)
+        country_lst = [np.NaN]*2
     # Extract detailed score data from soup
     ## Find tags containg "TOTAL"
     tot_tags = soup.find_all(lambda tag: tag.name == 'div' and \
@@ -67,7 +67,7 @@ def getMissingData(url):
 
     # Write information to dct
     score_dct = {'match_id':match_id*2,
-                'team':team_lst[:2],
+                'country':team_lst[:2],
                 'score':score_lst[:2],
                 'detailed_score':detailed_score}
 
