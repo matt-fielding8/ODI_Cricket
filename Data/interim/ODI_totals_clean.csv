@@ -1,4 +1,370 @@
 match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,result,result_margin,result_method
+3337,2013-02-22,West Indies,lost,1st,Zimbabwe,337.0,4,50.0,6.74,won,156.0,runs
+3337,2013-02-22,Zimbabwe,won,2nd,West Indies,181.0,9,50.0,3.62,lost,156.0,runs
+3339,2013-02-24,Zimbabwe,won,1st,West Indies,273.0,8,50.0,5.46,lost,7.0,wickets
+3339,2013-02-24,West Indies,lost,2nd,Zimbabwe,274.0,3,49.0,5.59,won,7.0,wickets
+3340,2013-02-26,Zimbabwe,won,1st,West Indies,211.0,9,50.0,4.22,lost,5.0,wickets
+3340,2013-02-26,West Indies,lost,2nd,Zimbabwe,215.0,5,46.0,4.64,won,5.0,wickets
+3341,2013-03-06,Scotland,won,1st,Afghanistan,199.0,8,50.0,3.98,lost,7.0,wickets
+3341,2013-03-06,Afghanistan,lost,2nd,Scotland,203.0,3,33.0,6.0,won,7.0,wickets
+3342,2013-03-08,Scotland,lost,1st,Afghanistan,259.0,9,50.0,5.18,lost,5.0,wickets
+3342,2013-03-08,Afghanistan,won,2nd,Scotland,261.0,5,48.0,5.36,won,5.0,wickets
+3353,2013-05-03,Bangladesh,lost,1st,Zimbabwe,269.0,8,50.0,5.38,won,121.0,runs
+3353,2013-05-03,Zimbabwe,won,2nd,Bangladesh,148.0,10,32.0,4.6,lost,121.0,runs
+3354,2013-05-05,Bangladesh,lost,1st,Zimbabwe,252.0,9,50.0,5.04,lost,6.0,wickets
+3354,2013-05-05,Zimbabwe,won,2nd,Bangladesh,253.0,4,47.0,5.28,won,6.0,wickets
+3355,2013-05-08,Bangladesh,lost,1st,Zimbabwe,247.0,9,50.0,4.94,lost,7.0,wickets
+3355,2013-05-08,Zimbabwe,won,2nd,Bangladesh,251.0,3,47.0,5.32,won,7.0,wickets
+3356,2013-05-17,Pakistan,won,1st,Scotland,231.0,7,50.0,4.62,won,96.0,runs
+3356,2013-05-17,Scotland,lost,2nd,Pakistan,135.0,10,39.0,3.4,lost,96.0,runs
+3357,2013-05-23,Pakistan,won,1st,Ireland,266.0,5,47.0,5.65,tied,,
+3357,2013-05-23,Ireland,lost,2nd,Pakistan,275.0,5,47.0,5.85,tied,,
+3358,2013-05-26,Ireland,lost,1st,Pakistan,229.0,9,50.0,4.58,lost,2.0,wickets
+3358,2013-05-26,Pakistan,won,2nd,Ireland,230.0,8,48.0,4.72,won,2.0,wickets
+3359,2013-05-31,South Africa,won,1st,Netherlands,341.0,3,50.0,6.82,won,83.0,runs
+3359,2013-05-31,Netherlands,lost,2nd,South Africa,258.0,9,50.0,5.16,lost,83.0,runs
+3395,2013-07-24,Zimbabwe,lost,1st,India,228.0,7,50.0,4.56,lost,6.0,wickets
+3395,2013-07-24,India,won,2nd,Zimbabwe,230.0,4,44.0,5.13,won,6.0,wickets
+3397,2013-07-26,India,lost,1st,Zimbabwe,294.0,8,50.0,5.88,won,58.0,runs
+3397,2013-07-26,Zimbabwe,won,2nd,India,236.0,9,50.0,4.72,lost,58.0,runs
+3399,2013-07-28,Zimbabwe,lost,1st,India,183.0,10,46.0,3.97,lost,7.0,wickets
+3399,2013-07-28,India,won,2nd,Zimbabwe,187.0,3,35.0,5.26,won,7.0,wickets
+3402,2013-08-01,Zimbabwe,lost,1st,India,144.0,10,42.0,3.37,lost,9.0,wickets
+3402,2013-08-01,India,won,2nd,Zimbabwe,145.0,1,30.0,4.7,won,9.0,wickets
+3403,2013-08-03,Zimbabwe,lost,1st,India,163.0,10,39.0,4.09,lost,7.0,wickets
+3403,2013-08-03,India,won,2nd,Zimbabwe,167.0,3,34.0,4.91,won,7.0,wickets
+3404,2013-08-27,Pakistan,won,1st,Zimbabwe,244.0,7,50.0,4.88,lost,7.0,wickets
+3404,2013-08-27,Zimbabwe,lost,2nd,Pakistan,246.0,3,48.0,5.08,won,7.0,wickets
+3406,2013-08-29,Pakistan,lost,1st,Zimbabwe,299.0,4,50.0,5.98,won,90.0,runs
+3406,2013-08-29,Zimbabwe,won,2nd,Pakistan,209.0,10,42.0,4.89,lost,90.0,runs
+3408,2013-08-31,Pakistan,lost,1st,Zimbabwe,260.0,6,50.0,5.2,won,108.0,runs
+3408,2013-08-31,Zimbabwe,won,2nd,Pakistan,152.0,10,40.0,3.8,lost,108.0,runs
+3409,2013-09-03,Ireland,lost,1st,England,269.0,7,50.0,5.38,lost,6.0,wickets
+3409,2013-09-03,England,won,2nd,Ireland,274.0,4,43.0,6.37,won,6.0,wickets
+3410,2013-09-03,Australia,lost,1st,Scotland,362.0,3,50.0,7.24,won,200.0,runs
+3410,2013-09-03,Scotland,won,2nd,Australia,162.0,10,43.0,3.69,lost,200.0,runs
+3417,2013-10-02,Kenya,won,1st,Afghanistan,89.0,10,37.0,2.35,lost,8.0,wickets
+3417,2013-10-02,Afghanistan,lost,2nd,Kenya,95.0,2,17.0,5.32,won,8.0,wickets
+3418,2013-10-04,Kenya,lost,1st,Afghanistan,93.0,10,43.0,2.13,lost,7.0,wickets
+3418,2013-10-04,Afghanistan,won,2nd,Kenya,96.0,3,20.0,4.6,won,7.0,wickets
+3472,2014-02-23,Ireland,won,1st,West Indies,202.0,10,49.0,4.09,lost,4.0,wickets
+3472,2014-02-23,West Indies,lost,2nd,Ireland,205.0,6,36.0,5.59,won,4.0,wickets
+3487,2014-05-01,Hong Kong,lost,1st,Afghanistan,216.0,10,49.0,4.36,lost,6.0,wickets
+3487,2014-05-01,Afghanistan,won,2nd,Hong Kong,218.0,4,43.0,5.05,won,6.0,wickets
+3488,2014-05-02,Afghanistan,lost,1st,U.A.E.,302.0,5,50.0,6.04,won,70.0,runs
+3488,2014-05-02,United Arab Emirates,won,2nd,Afghanistan,232.0,10,44.0,5.21,lost,70.0,runs
+3490,2014-05-06,Sri Lanka,lost,1st,Ireland,219.0,8,50.0,4.38,won,79.0,runs
+3490,2014-05-06,Ireland,won,2nd,Sri Lanka,140.0,10,39.0,3.51,lost,79.0,runs
+3491,2014-05-09,England,lost,1st,Scotland,167.0,6,20.0,8.35,won,39.0,runs
+3491,2014-05-09,Scotland,won,2nd,England,133.0,9,20.0,6.65,lost,39.0,runs
+3503,2014-07-18,Afghanistan,lost,1st,Zimbabwe,223.0,9,50.0,4.46,lost,6.0,wickets
+3503,2014-07-18,Zimbabwe,won,2nd,Afghanistan,227.0,4,45.0,5.0,won,6.0,wickets
+3504,2014-07-20,Afghanistan,lost,1st,Zimbabwe,256.0,7,50.0,5.12,lost,8.0,wickets
+3504,2014-07-20,Zimbabwe,won,2nd,Afghanistan,257.0,2,43.0,5.9,won,8.0,wickets
+3505,2014-07-22,Zimbabwe,lost,1st,Afghanistan,261.0,8,50.0,5.22,lost,2.0,wickets
+3505,2014-07-22,Afghanistan,won,2nd,Zimbabwe,264.0,8,49.0,5.31,won,2.0,wickets
+3506,2014-07-24,Afghanistan,lost,1st,Zimbabwe,259.0,10,49.0,5.26,won,100.0,runs
+3506,2014-07-24,Zimbabwe,won,2nd,Afghanistan,159.0,10,38.0,4.18,lost,100.0,runs
+3507,2014-08-17,South Africa,lost,1st,Zimbabwe,309.0,3,50.0,6.18,won,93.0,runs
+3507,2014-08-17,Zimbabwe,won,2nd,South Africa,216.0,10,49.0,4.33,lost,93.0,runs
+3508,2014-08-19,South Africa,lost,1st,Zimbabwe,257.0,10,49.0,5.17,won,61.0,runs
+3508,2014-08-19,Zimbabwe,won,2nd,South Africa,196.0,10,49.0,3.98,lost,61.0,runs
+3510,2014-08-21,Zimbabwe,lost,1st,South Africa,165.0,10,39.0,4.14,lost,7.0,wickets
+3510,2014-08-21,South Africa,won,2nd,Zimbabwe,171.0,3,27.0,6.25,won,7.0,wickets
+3513,2014-08-25,Australia,lost,1st,Zimbabwe,350.0,6,50.0,7.0,won,198.0,runs
+3513,2014-08-25,Zimbabwe,won,2nd,Australia,152.0,10,39.0,3.84,lost,198.0,runs
+3518,2014-08-29,South Africa,lost,1st,Zimbabwe,231.0,10,49.0,4.63,won,61.0,runs
+3518,2014-08-29,Zimbabwe,won,2nd,South Africa,170.0,10,38.0,4.41,lost,61.0,runs
+3521,2014-08-31,Australia,won,1st,Zimbabwe,209.0,9,50.0,4.18,lost,3.0,wickets
+3521,2014-08-31,Zimbabwe,lost,2nd,Australia,211.0,7,48.0,4.39,won,3.0,wickets
+3524,2014-09-04,South Africa,lost,1st,Zimbabwe,271.0,6,50.0,5.42,won,63.0,runs
+3524,2014-09-04,Zimbabwe,won,2nd,South Africa,208.0,10,47.0,4.39,lost,63.0,runs
+3550,2014-11-21,Bangladesh,lost,1st,Zimbabwe,281.0,7,50.0,5.62,won,87.0,runs
+3550,2014-11-21,Zimbabwe,won,2nd,Bangladesh,194.0,10,42.0,4.6,lost,87.0,runs
+3552,2014-11-23,Bangladesh,won,1st,Zimbabwe,251.0,7,50.0,5.02,won,68.0,runs
+3552,2014-11-23,Zimbabwe,lost,2nd,Bangladesh,183.0,10,44.0,4.08,lost,68.0,runs
+3553,2014-11-26,Bangladesh,lost,1st,Zimbabwe,297.0,6,50.0,5.94,won,124.0,runs
+3553,2014-11-26,Zimbabwe,won,2nd,Bangladesh,173.0,10,39.0,4.34,lost,124.0,runs
+3555,2014-11-28,Bangladesh,won,1st,Zimbabwe,256.0,8,50.0,5.12,won,21.0,runs
+3555,2014-11-28,Zimbabwe,lost,2nd,Bangladesh,235.0,8,50.0,4.7,lost,21.0,runs
+3556,2014-11-28,Afghanistan,won,1st,U.A.E.,248.0,6,50.0,4.96,lost,5.0,wickets
+3556,2014-11-28,United Arab Emirates,lost,2nd,Afghanistan,249.0,5,48.0,5.11,won,5.0,wickets
+3558,2014-11-30,Afghanistan,lost,1st,U.A.E.,280.0,8,50.0,5.6,lost,6.0,wickets
+3558,2014-11-30,United Arab Emirates,won,2nd,Afghanistan,282.0,4,48.0,5.83,won,6.0,wickets
+3559,2014-12-01,Zimbabwe,won,1st,Bangladesh,128.0,10,30.0,4.26,lost,5.0,wickets
+3559,2014-12-01,Bangladesh,lost,2nd,Zimbabwe,130.0,5,24.0,5.3,won,5.0,wickets
+3560,2014-12-02,United Arab Emirates,lost,1st,Afghanistan,273.0,5,50.0,5.46,lost,2.0,wickets
+3560,2014-12-02,Afghanistan,won,2nd,U.A.E.,276.0,8,49.0,5.55,won,2.0,wickets
+3562,2014-12-04,United Arab Emirates,lost,1st,Afghanistan,258.0,9,50.0,5.16,won,30.0,runs
+3562,2014-12-04,Afghanistan,won,2nd,U.A.E.,228.0,10,49.0,4.6,lost,30.0,runs
+3572,2015-01-08,Scotland,lost,1st,Afghanistan,237.0,8,45.0,5.26,lost,8.0,wickets
+3572,2015-01-08,Afghanistan,won,2nd,Scotland,240.0,2,38.0,6.31,won,8.0,wickets
+3573,2015-01-10,Afghanistan,lost,1st,Ireland,180.0,10,44.0,4.06,lost,3.0,wickets
+3573,2015-01-10,Ireland,won,2nd,Afghanistan,181.0,7,43.0,4.17,won,3.0,wickets
+3576,2015-01-14,Scotland,won,1st,Afghanistan,213.0,7,50.0,4.26,won,150.0,runs
+3576,2015-01-14,Afghanistan,lost,2nd,Scotland,63.0,10,18.0,3.4,lost,150.0,runs
+3581,2015-01-17,Afghanistan,lost,1st,Ireland,246.0,8,50.0,4.92,won,71.0,runs
+3581,2015-01-17,Ireland,won,2nd,Afghanistan,175.0,10,43.0,4.02,lost,71.0,runs
+3601,2015-02-15,South Africa,lost,1st,Zimbabwe,339.0,4,50.0,6.78,won,62.0,runs
+3601,2015-02-15,Zimbabwe,won,2nd,South Africa,277.0,10,48.0,5.73,lost,62.0,runs
+3603,2015-02-16,West Indies,lost,1st,Ireland,304.0,7,50.0,6.08,lost,4.0,wickets
+3603,2015-02-16,Ireland,won,2nd,West Indies,307.0,6,45.0,6.69,won,4.0,wickets
+3604,2015-02-17,Scotland,lost,1st,New Zealand,142.0,10,36.0,3.9,lost,3.0,wickets
+3604,2015-02-17,New Zealand,won,2nd,Scotland,146.0,7,24.0,5.87,won,3.0,wickets
+3611,2015-02-23,England,lost,1st,Scotland,303.0,8,50.0,6.06,won,119.0,runs
+3611,2015-02-23,Scotland,won,2nd,England,184.0,10,42.0,4.34,lost,119.0,runs
+3612,2015-02-24,West Indies,won,1st,Zimbabwe,372.0,2,50.0,7.44,won,73.0,runs
+3612,2015-02-24,Zimbabwe,lost,2nd,West Indies,289.0,10,44.0,6.49,lost,73.0,runs
+3614,2015-02-26,Scotland,lost,1st,Afghanistan,210.0,10,50.0,4.2,lost,1.0,wickets
+3614,2015-02-26,Afghanistan,won,2nd,Scotland,211.0,9,49.0,4.26,won,1.0,wickets
+3618,2015-02-28,United Arab Emirates,won,1st,India,102.0,10,31.0,3.23,lost,9.0,wickets
+3618,2015-02-28,India,lost,2nd,U.A.E.,104.0,1,18.0,5.52,won,9.0,wickets
+3620,2015-03-01,Pakistan,won,1st,Zimbabwe,235.0,7,50.0,4.7,won,20.0,runs
+3620,2015-03-01,Zimbabwe,lost,2nd,Pakistan,215.0,10,49.0,4.32,lost,20.0,runs
+3621,2015-03-03,South Africa,won,1st,Ireland,411.0,4,50.0,8.22,won,201.0,runs
+3621,2015-03-03,Ireland,lost,2nd,South Africa,210.0,10,45.0,4.66,lost,201.0,runs
+3622,2015-03-04,Pakistan,lost,1st,U.A.E.,339.0,6,50.0,6.78,won,129.0,runs
+3622,2015-03-04,United Arab Emirates,won,2nd,Pakistan,210.0,8,50.0,4.2,lost,129.0,runs
+3624,2015-03-05,Scotland,lost,1st,Bangladesh,318.0,8,50.0,6.36,lost,6.0,wickets
+3624,2015-03-05,Bangladesh,won,2nd,Scotland,322.0,4,48.0,6.68,won,6.0,wickets
+3631,2015-03-10,Ireland,won,1st,India,259.0,10,49.0,5.28,lost,8.0,wickets
+3631,2015-03-10,India,lost,2nd,Ireland,260.0,2,36.0,7.05,won,8.0,wickets
+3632,2015-03-11,Sri Lanka,won,1st,Scotland,363.0,9,50.0,7.26,won,148.0,runs
+3632,2015-03-11,Scotland,lost,2nd,Sri Lanka,215.0,10,43.0,4.98,lost,148.0,runs
+3633,2015-03-12,South Africa,lost,1st,U.A.E.,341.0,6,50.0,6.82,won,146.0,runs
+3633,2015-03-12,United Arab Emirates,won,2nd,South Africa,195.0,10,47.0,4.1,lost,146.0,runs
+3636,2015-03-14,Zimbabwe,lost,1st,India,287.0,10,48.0,5.87,lost,6.0,wickets
+3636,2015-03-14,India,won,2nd,Zimbabwe,288.0,4,48.0,5.91,won,6.0,wickets
+3637,2015-03-14,Scotland,lost,1st,Australia,130.0,10,25.0,5.06,lost,7.0,wickets
+3637,2015-03-14,Australia,won,2nd,Scotland,133.0,3,15.0,8.67,won,7.0,wickets
+3638,2015-03-15,United Arab Emirates,lost,1st,West Indies,175.0,10,47.0,3.67,lost,6.0,wickets
+3638,2015-03-15,West Indies,won,2nd,U.A.E.,176.0,4,30.0,5.77,won,6.0,wickets
+3639,2015-03-15,Ireland,won,1st,Pakistan,237.0,10,50.0,4.74,lost,7.0,wickets
+3639,2015-03-15,Pakistan,lost,2nd,Ireland,241.0,3,46.0,5.22,won,7.0,wickets
+3651,2015-05-26,Pakistan,won,1st,Zimbabwe,375.0,3,50.0,7.5,won,41.0,runs
+3651,2015-05-26,Zimbabwe,lost,2nd,Pakistan,334.0,5,50.0,6.68,lost,41.0,runs
+3652,2015-05-29,Zimbabwe,lost,1st,Pakistan,268.0,7,50.0,5.36,lost,6.0,wickets
+3652,2015-05-29,Pakistan,won,2nd,Zimbabwe,269.0,4,47.0,5.68,won,6.0,wickets
+3653,2015-05-31,Pakistan,won,1st,Zimbabwe,296.0,9,50.0,5.92,n/r,,
+3653,2015-05-31,Zimbabwe,lost,2nd,Pakistan,68.0,0,9.0,7.55,n/r,,
+3662,2015-07-10,India,lost,1st,Zimbabwe,255.0,6,50.0,5.1,won,4.0,runs
+3662,2015-07-10,Zimbabwe,won,2nd,India,251.0,7,50.0,5.02,lost,4.0,runs
+3665,2015-07-12,India,lost,1st,Zimbabwe,271.0,8,50.0,5.42,won,62.0,runs
+3665,2015-07-12,Zimbabwe,won,2nd,India,209.0,10,49.0,4.26,lost,62.0,runs
+3667,2015-07-14,India,lost,1st,Zimbabwe,276.0,5,50.0,5.52,won,83.0,runs
+3667,2015-07-14,Zimbabwe,won,2nd,India,193.0,10,42.0,4.52,lost,83.0,runs
+3673,2015-08-02,New Zealand,lost,1st,Zimbabwe,303.0,4,50.0,6.06,lost,7.0,wickets
+3673,2015-08-02,Zimbabwe,won,2nd,New Zealand,304.0,3,49.0,6.2,won,7.0,wickets
+3674,2015-08-04,Zimbabwe,won,1st,New Zealand,235.0,9,50.0,4.7,lost,10.0,wickets
+3674,2015-08-04,New Zealand,lost,2nd,Zimbabwe,236.0,0,42.0,5.57,won,10.0,wickets
+3675,2015-08-07,New Zealand,lost,1st,Zimbabwe,273.0,6,50.0,5.46,won,38.0,runs
+3675,2015-08-07,Zimbabwe,won,2nd,New Zealand,235.0,10,47.0,4.93,lost,38.0,runs
+3679,2015-08-27,Australia,won,1st,Ireland,222.0,6,40.0,5.5,won,23.0,runs
+3679,2015-08-27,Ireland,lost,2nd,Australia,157.0,10,23.0,6.63,lost,23.0,runs
+3685,2015-10-01,Pakistan,lost,1st,Zimbabwe,259.0,6,50.0,5.18,won,131.0,runs
+3685,2015-10-01,Zimbabwe,won,2nd,Pakistan,128.0,10,37.0,3.45,lost,131.0,runs
+3686,2015-10-03,Zimbabwe,lost,1st,Pakistan,276.0,6,50.0,5.52,won,5.0,runs
+3686,2015-10-03,Pakistan,won,2nd,Zimbabwe,256.0,8,48.0,5.33,lost,5.0,runs
+3687,2015-10-05,Zimbabwe,lost,1st,Pakistan,161.0,10,38.0,4.14,lost,7.0,wickets
+3687,2015-10-05,Pakistan,won,2nd,Zimbabwe,162.0,3,34.0,4.76,won,7.0,wickets
+3693,2015-10-16,Afghanistan,won,1st,Zimbabwe,122.0,10,34.0,3.57,lost,8.0,wickets
+3693,2015-10-16,Zimbabwe,lost,2nd,Afghanistan,126.0,2,23.0,5.4,won,8.0,wickets
+3694,2015-10-18,Afghanistan,won,1st,Zimbabwe,271.0,6,50.0,5.42,won,58.0,runs
+3694,2015-10-18,Zimbabwe,lost,2nd,Afghanistan,213.0,10,46.0,4.56,lost,58.0,runs
+3696,2015-10-20,Afghanistan,won,1st,Zimbabwe,223.0,8,50.0,4.46,lost,6.0,wickets
+3696,2015-10-20,Zimbabwe,lost,2nd,Afghanistan,229.0,4,49.0,4.61,won,6.0,wickets
+3697,2015-10-22,Zimbabwe,won,1st,Afghanistan,184.0,8,50.0,3.68,lost,3.0,wickets
+3697,2015-10-22,Afghanistan,lost,2nd,Zimbabwe,185.0,7,46.0,3.96,won,3.0,wickets
+3699,2015-10-24,Afghanistan,lost,1st,Zimbabwe,245.0,9,50.0,4.9,won,73.0,runs
+3699,2015-10-24,Zimbabwe,won,2nd,Afghanistan,172.0,10,44.0,3.89,lost,73.0,runs
+3703,2015-11-07,Bangladesh,lost,1st,Zimbabwe,273.0,9,50.0,5.46,won,145.0,runs
+3703,2015-11-07,Zimbabwe,won,2nd,Bangladesh,128.0,10,36.0,3.53,lost,145.0,runs
+3705,2015-11-09,Bangladesh,lost,1st,Zimbabwe,241.0,9,50.0,4.82,won,58.0,runs
+3705,2015-11-09,Zimbabwe,won,2nd,Bangladesh,183.0,10,43.0,4.22,lost,58.0,runs
+3706,2015-11-11,Bangladesh,won,1st,Zimbabwe,276.0,9,50.0,5.52,won,61.0,runs
+3706,2015-11-11,Zimbabwe,lost,2nd,Bangladesh,215.0,10,43.0,4.94,lost,61.0,runs
+3713,2015-12-25,Afghanistan,won,1st,Zimbabwe,131.0,10,38.0,3.37,won,49.0,runs
+3713,2015-12-25,Zimbabwe,lost,2nd,Afghanistan,82.0,10,30.0,2.65,lost,49.0,runs
+3716,2015-12-29,Zimbabwe,won,1st,Afghanistan,253.0,7,50.0,5.06,lost,4.0,wickets
+3716,2015-12-29,Afghanistan,lost,2nd,Zimbabwe,254.0,6,47.0,5.32,won,4.0,wickets
+3719,2016-01-02,Zimbabwe,won,1st,Afghanistan,175.0,10,48.0,3.6,won,117.0,runs
+3719,2016-01-02,Afghanistan,lost,2nd,Zimbabwe,58.0,10,16.0,3.58,lost,117.0,runs
+3720,2016-01-04,Zimbabwe,won,1st,Afghanistan,226.0,10,49.0,4.59,won,65.0,runs
+3720,2016-01-04,Afghanistan,lost,2nd,Zimbabwe,161.0,10,45.0,3.57,lost,65.0,runs
+3722,2016-01-06,Zimbabwe,won,1st,Afghanistan,248.0,10,49.0,4.97,lost,2.0,wickets
+3722,2016-01-06,Afghanistan,lost,2nd,Zimbabwe,254.0,8,49.0,5.11,won,2.0,wickets
+3742,2016-06-11,Zimbabwe,lost,1st,India,168.0,10,49.0,3.37,lost,9.0,wickets
+3742,2016-06-11,India,won,2nd,Zimbabwe,173.0,1,42.0,4.07,won,9.0,wickets
+3744,2016-06-13,Zimbabwe,lost,1st,India,126.0,10,34.0,3.65,lost,8.0,wickets
+3744,2016-06-13,India,won,2nd,Zimbabwe,129.0,2,26.0,4.8,won,8.0,wickets
+3746,2016-06-15,Zimbabwe,won,1st,India,123.0,10,42.0,2.9,lost,10.0,wickets
+3746,2016-06-15,India,lost,2nd,Zimbabwe,126.0,0,21.0,5.77,won,10.0,wickets
+3748,2016-06-16,Sri Lanka,lost,1st,Ireland,303.0,7,50.0,6.06,won,76.0,runs
+3748,2016-06-16,Ireland,won,2nd,Sri Lanka,216.0,10,40.0,5.31,lost,76.0,runs
+3749,2016-06-18,Sri Lanka,lost,1st,Ireland,377.0,8,50.0,7.54,won,136.0,runs
+3749,2016-06-18,Ireland,won,2nd,Sri Lanka,241.0,10,45.0,5.35,lost,136.0,runs
+3760,2016-07-06,Afghanistan,won,1st,Scotland,178.0,6,37.0,4.76,won,78.0,runs
+3760,2016-07-06,Scotland,lost,2nd,Afghanistan,132.0,10,27.0,4.85,lost,78.0,runs
+3761,2016-07-12,Afghanistan,lost,1st,Ireland,250.0,10,49.0,5.06,won,39.0,runs
+3761,2016-07-12,Ireland,won,2nd,Afghanistan,211.0,10,48.0,4.36,lost,39.0,runs
+3762,2016-07-14,Afghanistan,won,1st,Ireland,236.0,10,49.0,4.8,lost,6.0,wickets
+3762,2016-07-14,Ireland,lost,2nd,Afghanistan,237.0,4,47.0,4.98,won,6.0,wickets
+3763,2016-07-17,Afghanistan,won,1st,Ireland,229.0,7,50.0,4.58,won,79.0,runs
+3763,2016-07-17,Ireland,lost,2nd,Afghanistan,150.0,10,41.0,3.65,lost,79.0,runs
+3764,2016-07-19,Ireland,lost,1st,Afghanistan,265.0,5,50.0,5.3,won,12.0,runs
+3764,2016-07-19,Afghanistan,won,2nd,Ireland,253.0,9,50.0,5.06,lost,12.0,runs
+3767,2016-08-18,Pakistan,lost,1st,Ireland,337.0,6,47.0,7.17,won,255.0,runs
+3767,2016-08-18,Ireland,won,2nd,Pakistan,82.0,10,23.0,3.46,lost,255.0,runs
+3780,2016-09-25,South Africa,lost,1st,Ireland,354.0,5,50.0,7.08,won,206.0,runs
+3780,2016-09-25,Ireland,won,2nd,South Africa,148.0,10,30.0,4.8,lost,206.0,runs
+3782,2016-09-27,Ireland,won,1st,Australia,198.0,10,43.0,4.51,lost,9.0,wickets
+3782,2016-09-27,Australia,lost,2nd,Ireland,199.0,1,30.0,6.59,won,9.0,wickets
+3804,2016-11-14,Zimbabwe,lost,1st,Sri Lanka,154.0,10,41.0,3.71,lost,8.0,wickets
+3804,2016-11-14,Sri Lanka,won,2nd,Zimbabwe,155.0,2,24.0,6.32,won,8.0,wickets
+3806,2016-11-19,Zimbabwe,won,1st,West Indies,257.0,10,50.0,5.14,tied,,
+3806,2016-11-19,West Indies,lost,2nd,Zimbabwe,257.0,8,50.0,5.14,tied,,
+3809,2016-11-25,Zimbabwe,won,1st,West Indies,218.0,8,49.0,4.44,won,5.0,runs
+3809,2016-11-25,West Indies,lost,2nd,Zimbabwe,124.0,5,27.0,4.5,lost,5.0,runs
+3810,2016-11-27,Zimbabwe,won,1st,Sri Lanka,160.0,10,36.0,4.38,lost,6.0,wickets
+3810,2016-11-27,Sri Lanka,lost,2nd,Zimbabwe,166.0,4,37.0,4.42,won,6.0,wickets
+3835,2017-02-16,Afghanistan,won,1st,Zimbabwe,215.0,10,49.0,4.35,won,12.0,runs
+3835,2017-02-16,Zimbabwe,lost,2nd,Afghanistan,99.0,4,27.0,3.62,lost,12.0,runs
+3837,2017-02-19,Afghanistan,won,1st,Zimbabwe,238.0,9,50.0,4.76,won,54.0,runs
+3837,2017-02-19,Zimbabwe,lost,2nd,Afghanistan,184.0,10,42.0,4.36,lost,54.0,runs
+3838,2017-02-21,Zimbabwe,won,1st,Afghanistan,129.0,10,32.0,3.94,won,3.0,runs
+3838,2017-02-21,Afghanistan,lost,2nd,Zimbabwe,126.0,10,29.0,4.27,lost,3.0,runs
+3840,2017-02-24,Afghanistan,won,1st,Zimbabwe,111.0,10,38.0,2.85,lost,7.0,wickets
+3840,2017-02-24,Zimbabwe,lost,2nd,Afghanistan,107.0,3,22.0,4.79,won,7.0,wickets
+3842,2017-02-26,Afghanistan,won,1st,Zimbabwe,253.0,9,50.0,5.06,won,106.0,runs
+3842,2017-02-26,Zimbabwe,lost,2nd,Afghanistan,54.0,10,13.0,3.9,lost,106.0,runs
+3850,2017-03-15,Afghanistan,won,1st,Ireland,292.0,7,50.0,5.84,won,30.0,runs
+3850,2017-03-15,Ireland,lost,2nd,Afghanistan,262.0,10,46.0,5.59,lost,30.0,runs
+3851,2017-03-17,Afghanistan,won,1st,Ireland,338.0,10,50.0,6.76,won,34.0,runs
+3851,2017-03-17,Ireland,lost,2nd,Afghanistan,304.0,10,47.0,6.4,lost,34.0,runs
+3852,2017-03-19,Afghanistan,won,1st,Ireland,264.0,8,50.0,5.28,lost,6.0,wickets
+3852,2017-03-19,Ireland,lost,2nd,Afghanistan,265.0,4,48.0,5.46,won,6.0,wickets
+3853,2017-03-22,Afghanistan,won,1st,Ireland,220.0,10,49.0,4.41,lost,3.0,wickets
+3853,2017-03-22,Ireland,lost,2nd,Afghanistan,224.0,7,46.0,4.78,won,3.0,wickets
+3854,2017-03-24,Ireland,won,1st,Afghanistan,229.0,10,48.0,4.75,lost,7.0,wickets
+3854,2017-03-24,Afghanistan,lost,2nd,Ireland,231.0,3,48.0,4.74,won,7.0,wickets
+3864,2017-05-05,Ireland,won,1st,England,126.0,10,33.0,3.81,lost,7.0,wickets
+3864,2017-05-05,England,lost,2nd,Ireland,127.0,3,20.0,6.35,won,7.0,wickets
+3865,2017-05-07,England,lost,1st,Ireland,328.0,6,50.0,6.56,won,85.0,runs
+3865,2017-05-07,Ireland,won,2nd,England,243.0,10,46.0,5.26,lost,85.0,runs
+3867,2017-05-14,New Zealand,lost,1st,Ireland,289.0,7,50.0,5.78,won,51.0,runs
+3867,2017-05-14,Ireland,won,2nd,New Zealand,238.0,10,45.0,5.23,lost,51.0,runs
+3869,2017-05-19,Ireland,lost,1st,Bangladesh,181.0,10,46.0,3.89,lost,8.0,wickets
+3869,2017-05-19,Bangladesh,won,2nd,Ireland,182.0,2,27.0,6.69,won,8.0,wickets
+3870,2017-05-21,New Zealand,lost,1st,Ireland,344.0,6,50.0,6.88,won,190.0,runs
+3870,2017-05-21,Ireland,won,2nd,New Zealand,154.0,10,39.0,3.89,lost,190.0,runs
+3897,2017-06-30,Sri Lanka,won,1st,Zimbabwe,316.0,5,50.0,6.32,lost,6.0,wickets
+3897,2017-06-30,Zimbabwe,lost,2nd,Sri Lanka,322.0,4,47.0,6.75,won,6.0,wickets
+3899,2017-07-02,Zimbabwe,lost,1st,Sri Lanka,155.0,10,33.0,4.6,lost,7.0,wickets
+3899,2017-07-02,Sri Lanka,won,2nd,Zimbabwe,158.0,3,30.0,5.23,won,7.0,wickets
+3901,2017-07-06,Zimbabwe,lost,1st,Sri Lanka,310.0,8,50.0,6.2,lost,8.0,wickets
+3901,2017-07-06,Sri Lanka,won,2nd,Zimbabwe,312.0,2,47.0,6.59,won,8.0,wickets
+3903,2017-07-08,Sri Lanka,won,1st,Zimbabwe,300.0,6,50.0,6.0,lost,4.0,wickets
+3903,2017-07-08,Zimbabwe,lost,2nd,Sri Lanka,219.0,6,29.0,7.46,won,4.0,wickets
+3904,2017-07-10,Sri Lanka,lost,1st,Zimbabwe,203.0,8,50.0,4.06,lost,3.0,wickets
+3904,2017-07-10,Zimbabwe,won,2nd,Sri Lanka,204.0,7,38.0,5.34,won,3.0,wickets
+3935,2017-12-05,Afghanistan,lost,1st,Ireland,238.0,9,50.0,4.76,won,138.0,runs
+3935,2017-12-05,Ireland,won,2nd,Afghanistan,100.0,10,31.0,3.15,lost,138.0,runs
+3937,2017-12-07,Ireland,won,1st,Afghanistan,271.0,9,50.0,5.42,won,51.0,runs
+3937,2017-12-07,Afghanistan,lost,2nd,Ireland,220.0,10,45.0,4.85,lost,51.0,runs
+3940,2017-12-10,Afghanistan,won,1st,Ireland,177.0,10,48.0,3.66,lost,5.0,wickets
+3940,2017-12-10,Ireland,lost,2nd,Afghanistan,180.0,5,38.0,4.73,won,5.0,wickets
+3952,2018-01-15,Zimbabwe,lost,1st,Bangladesh,170.0,10,49.0,3.46,lost,8.0,wickets
+3952,2018-01-15,Bangladesh,won,2nd,Zimbabwe,171.0,2,28.0,6.0,won,8.0,wickets
+3955,2018-01-17,Zimbabwe,lost,1st,Sri Lanka,290.0,6,50.0,5.8,won,12.0,runs
+3955,2018-01-17,Sri Lanka,won,2nd,Zimbabwe,278.0,10,48.0,5.77,lost,12.0,runs
+3962,2018-01-21,Zimbabwe,won,1st,Sri Lanka,198.0,10,44.0,4.5,lost,5.0,wickets
+3962,2018-01-21,Sri Lanka,lost,2nd,Zimbabwe,202.0,5,44.0,4.5,won,5.0,wickets
+3964,2018-01-23,Bangladesh,won,1st,Zimbabwe,216.0,9,50.0,4.32,won,91.0,runs
+3964,2018-01-23,Zimbabwe,lost,2nd,Bangladesh,125.0,10,36.0,3.42,lost,91.0,runs
+3972,2018-02-09,Afghanistan,won,1st,Zimbabwe,333.0,5,50.0,6.66,won,154.0,runs
+3972,2018-02-09,Zimbabwe,lost,2nd,Afghanistan,179.0,10,34.0,5.16,lost,154.0,runs
+3974,2018-02-11,Zimbabwe,won,1st,Afghanistan,333.0,5,50.0,6.66,won,154.0,runs
+3974,2018-02-11,Afghanistan,lost,2nd,Zimbabwe,179.0,10,30.0,5.93,lost,154.0,runs
+3975,2018-02-13,Zimbabwe,won,1st,Afghanistan,154.0,10,34.0,4.46,lost,6.0,wickets
+3975,2018-02-13,Afghanistan,lost,2nd,Zimbabwe,158.0,4,27.0,5.74,won,6.0,wickets
+3977,2018-02-16,Zimbabwe,won,1st,Afghanistan,134.0,10,38.0,3.52,lost,10.0,wickets
+3977,2018-02-16,Afghanistan,lost,2nd,Zimbabwe,135.0,0,21.0,6.37,won,10.0,wickets
+3979,2018-02-19,Afghanistan,won,1st,Zimbabwe,241.0,9,50.0,4.82,won,146.0,runs
+3979,2018-02-19,Zimbabwe,lost,2nd,Afghanistan,95.0,10,32.0,2.95,lost,146.0,runs
+3983,2018-03-04,Afghanistan,lost,1st,Scotland,255.0,10,49.0,5.13,lost,7.0,wickets
+3983,2018-03-04,Scotland,won,2nd,Afghanistan,256.0,3,47.0,5.4,won,7.0,wickets
+3987,2018-03-06,West Indies,won,1st,U.A.E.,357.0,4,50.0,7.14,won,60.0,runs
+3987,2018-03-06,United Arab Emirates,lost,2nd,West Indies,297.0,6,50.0,5.94,lost,60.0,runs
+3988,2018-03-06,Zimbabwe,won,1st,Afghanistan,196.0,10,43.0,4.55,won,2.0,runs
+3988,2018-03-06,Afghanistan,lost,2nd,Zimbabwe,194.0,10,49.0,3.91,lost,2.0,runs
+3990,2018-03-08,Hong Kong,lost,1st,Afghanistan,241.0,8,50.0,4.82,won,30.0,runs
+3990,2018-03-08,Afghanistan,won,2nd,Hong Kong,195.0,9,46.0,4.23,lost,30.0,runs
+3991,2018-03-08,Papua New Guinea,won,1st,West Indies,200.0,10,42.0,4.68,lost,6.0,wickets
+3991,2018-03-08,West Indies,lost,2nd,P.N.G.,201.0,4,43.0,4.67,won,6.0,wickets
+3993,2018-03-10,West Indies,lost,1st,Ireland,257.0,8,50.0,5.14,won,52.0,runs
+3993,2018-03-10,Ireland,won,2nd,West Indies,205.0,10,46.0,4.42,lost,52.0,runs
+4002,2018-03-19,Zimbabwe,won,1st,West Indies,289.0,10,50.0,5.78,lost,4.0,wickets
+4002,2018-03-19,West Indies,lost,2nd,Zimbabwe,290.0,6,49.0,5.91,won,4.0,wickets
+4003,2018-03-20,United Arab Emirates,won,1st,Afghanistan,177.0,10,43.0,4.11,lost,5.0,wickets
+4003,2018-03-20,Afghanistan,lost,2nd,U.A.E.,178.0,5,34.0,5.15,won,5.0,wickets
+4004,2018-03-21,West Indies,lost,1st,Scotland,198.0,10,48.0,4.06,won,5.0,runs
+4004,2018-03-21,Scotland,won,2nd,West Indies,125.0,5,35.0,3.53,lost,5.0,runs
+4006,2018-03-23,Ireland,won,1st,Afghanistan,209.0,7,50.0,4.18,lost,5.0,wickets
+4006,2018-03-23,Afghanistan,lost,2nd,Ireland,213.0,5,49.0,4.33,won,5.0,wickets
+4008,2018-06-10,Scotland,lost,1st,England,371.0,5,50.0,7.42,won,6.0,runs
+4008,2018-06-10,England,won,2nd,Scotland,365.0,10,48.0,7.47,lost,6.0,runs
+4015,2018-07-13,Pakistan,lost,1st,Zimbabwe,308.0,7,50.0,6.16,won,201.0,runs
+4015,2018-07-13,Zimbabwe,won,2nd,Pakistan,107.0,10,35.0,3.05,lost,201.0,runs
+4017,2018-07-16,Zimbabwe,won,1st,Pakistan,194.0,10,49.0,3.93,lost,9.0,wickets
+4017,2018-07-16,Pakistan,lost,2nd,Zimbabwe,195.0,1,36.0,5.41,won,9.0,wickets
+4019,2018-07-18,Zimbabwe,won,1st,Pakistan,67.0,10,25.0,2.66,lost,9.0,wickets
+4019,2018-07-18,Pakistan,lost,2nd,Zimbabwe,69.0,1,9.0,7.01,won,9.0,wickets
+4020,2018-07-20,Pakistan,won,1st,Zimbabwe,399.0,1,50.0,7.98,won,244.0,runs
+4020,2018-07-20,Zimbabwe,lost,2nd,Pakistan,155.0,10,42.0,3.63,lost,244.0,runs
+4021,2018-07-22,Pakistan,won,1st,Zimbabwe,364.0,4,50.0,7.28,won,131.0,runs
+4021,2018-07-22,Zimbabwe,lost,2nd,Pakistan,233.0,4,50.0,4.66,lost,131.0,runs
+4032,2018-08-27,Afghanistan,lost,1st,Ireland,227.0,9,50.0,4.54,won,29.0,runs
+4032,2018-08-27,Ireland,won,2nd,Afghanistan,198.0,10,48.0,4.08,lost,29.0,runs
+4033,2018-08-29,Afghanistan,won,1st,Ireland,182.0,9,50.0,3.64,lost,3.0,wickets
+4033,2018-08-29,Ireland,lost,2nd,Afghanistan,183.0,7,43.0,4.17,won,3.0,wickets
+4035,2018-08-31,Ireland,won,1st,Afghanistan,124.0,10,36.0,3.42,lost,8.0,wickets
+4035,2018-08-31,Afghanistan,lost,2nd,Ireland,127.0,2,23.0,5.32,won,8.0,wickets
+4037,2018-09-16,Hong Kong,won,1st,Pakistan,116.0,10,37.0,3.12,lost,8.0,wickets
+4037,2018-09-16,Pakistan,lost,2nd,Hong Kong,120.0,2,23.0,5.07,won,8.0,wickets
+4039,2018-09-18,India,lost,1st,Hong Kong,285.0,7,50.0,5.7,won,26.0,runs
+4039,2018-09-18,Hong Kong,won,2nd,India,259.0,8,50.0,5.18,lost,26.0,runs
+4049,2018-09-30,Zimbabwe,lost,1st,South Africa,117.0,10,34.0,3.42,lost,5.0,wickets
+4049,2018-09-30,South Africa,won,2nd,Zimbabwe,119.0,5,26.0,4.42,won,5.0,wickets
+4050,2018-10-03,South Africa,won,1st,Zimbabwe,198.0,10,47.0,4.16,won,120.0,runs
+4050,2018-10-03,Zimbabwe,lost,2nd,South Africa,78.0,10,24.0,3.25,lost,120.0,runs
+4051,2018-10-06,Zimbabwe,won,1st,South Africa,228.0,10,49.0,4.6,lost,4.0,wickets
+4051,2018-10-06,South Africa,lost,2nd,Zimbabwe,231.0,6,45.0,5.04,won,4.0,wickets
+4057,2018-10-21,Bangladesh,won,1st,Zimbabwe,271.0,8,50.0,5.42,won,28.0,runs
+4057,2018-10-21,Zimbabwe,lost,2nd,Bangladesh,243.0,9,50.0,4.86,lost,28.0,runs
+4060,2018-10-24,Zimbabwe,lost,1st,Bangladesh,246.0,7,50.0,4.92,lost,7.0,wickets
+4060,2018-10-24,Bangladesh,won,2nd,Zimbabwe,250.0,3,44.0,5.66,won,7.0,wickets
+4061,2018-10-26,Zimbabwe,lost,1st,Bangladesh,286.0,5,50.0,5.72,lost,7.0,wickets
+4061,2018-10-26,Bangladesh,won,2nd,Zimbabwe,288.0,3,42.0,6.83,won,7.0,wickets
+4100,2019-02-28,Ireland,won,1st,Afghanistan,161.0,10,49.0,3.26,lost,5.0,wickets
+4100,2019-02-28,Afghanistan,lost,2nd,Ireland,165.0,5,41.0,3.94,won,5.0,wickets
+4105,2019-03-05,Afghanistan,won,1st,Ireland,256.0,8,50.0,5.12,lost,4.0,wickets
+4105,2019-03-05,Ireland,lost,2nd,Afghanistan,260.0,6,49.0,5.3,won,4.0,wickets
+4108,2019-03-08,Afghanistan,lost,1st,Ireland,223.0,10,49.0,4.53,won,109.0,runs
+4108,2019-03-08,Ireland,won,2nd,Afghanistan,114.0,10,35.0,3.21,lost,109.0,runs
+4110,2019-03-10,Afghanistan,lost,1st,Ireland,216.0,6,50.0,4.32,lost,5.0,wickets
+4110,2019-03-10,Ireland,won,2nd,Afghanistan,219.0,5,47.0,4.62,won,5.0,wickets
+4127,2019-05-03,Ireland,lost,1st,England,198.0,10,43.0,4.58,lost,4.0,wickets
+4127,2019-05-03,England,won,2nd,Ireland,199.0,6,42.0,4.73,won,4.0,wickets
+4128,2019-05-05,West Indies,lost,1st,Ireland,381.0,3,50.0,7.62,won,196.0,runs
+4128,2019-05-05,Ireland,won,2nd,West Indies,185.0,10,34.0,5.33,lost,196.0,runs
+4131,2019-05-10,Scotland,won,1st,Afghanistan,325.0,7,50.0,6.5,lost,2.0,runs
+4131,2019-05-10,Afghanistan,lost,2nd,Scotland,269.0,3,44.0,6.0,won,2.0,runs
+4132,2019-05-11,Ireland,won,1st,West Indies,327.0,5,50.0,6.54,lost,5.0,wickets
+4132,2019-05-11,West Indies,lost,2nd,Ireland,331.0,5,47.0,6.91,won,5.0,wickets
+4136,2019-05-15,Ireland,won,1st,Bangladesh,292.0,8,50.0,5.84,lost,6.0,wickets
+4136,2019-05-15,Bangladesh,lost,2nd,Ireland,294.0,4,43.0,6.83,won,6.0,wickets
+4139,2019-05-19,Ireland,lost,1st,Afghanistan,210.0,10,48.0,4.3,won,72.0,runs
+4139,2019-05-19,Afghanistan,won,2nd,Ireland,138.0,10,35.0,3.86,lost,72.0,runs
 3315,2013-01-03,Pakistan,lost,1st,India,250.0,10,48.3,5.15,won,85.0,runs
 3315,2013-01-03,India,won,2nd,Pakistan,165.0,10,48.0,3.43,lost,85.0,runs
 3316,2013-01-06,Pakistan,lost,2nd,India,157.0,10,48.5,3.21,lost,10.0,runs
@@ -475,6 +841,7 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3648,2015-04-19,Bangladesh,lost,2nd,Pakistan,240.0,3,38.1,6.28,won,7.0,wickets
 3649,2015-04-22,Pakistan,won,1st,Bangladesh,250.0,10,49.0,5.1,lost,8.0,wickets
 3649,2015-04-22,Bangladesh,lost,2nd,Pakistan,251.0,2,39.3,6.35,won,8.0,wickets
+3650,2015-05-08,England,won,DNB,Ireland,,10,0.0,,n/r,,
 3654,2015-06-09,New Zealand,won,2nd,England,198.0,10,31.1,6.35,lost,210.0,runs
 3654,2015-06-09,England,lost,1st,New Zealand,408.0,9,50.0,8.16,won,210.0,runs
 3655,2015-06-12,New Zealand,won,1st,England,398.0,5,50.0,7.96,won,13.0,runs
@@ -617,6 +984,7 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3757,2016-06-29,England,won,2nd,Sri Lanka,309.0,4,40.1,7.69,won,6.0,wickets
 3758,2016-07-02,Sri Lanka,won,2nd,England,202.0,10,42.4,4.73,lost,122.0,runs
 3758,2016-07-02,England,lost,1st,Sri Lanka,324.0,7,50.0,6.48,won,122.0,runs
+3759,2016-07-04,Afghanistan,lost,1st,Scotland,283.0,4,47.2,5.97,n/r,,
 3768,2016-08-21,Sri Lanka,lost,1st,Australia,227.0,8,50.0,4.54,lost,3.0,wickets
 3768,2016-08-21,Australia,won,2nd,Sri Lanka,228.0,7,46.5,4.86,won,3.0,wickets
 3769,2016-08-24,Sri Lanka,won,1st,Australia,288.0,10,48.5,5.89,won,82.0,runs
@@ -677,6 +1045,7 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3800,2016-10-29,India,won,1st,New Zealand,269.0,6,50.0,5.38,won,190.0,runs
 3805,2016-11-16,West Indies,lost,1st,Sri Lanka,227.0,10,49.2,4.6,won,62.0,runs
 3805,2016-11-16,Sri Lanka,won,2nd,West Indies,165.0,10,43.1,3.82,lost,62.0,runs
+3807,2016-11-21,Sri Lanka,lost,DNB,Zimbabwe,,10,0.0,,n/r,,
 3808,2016-11-23,West Indies,won,2nd,Sri Lanka,329.0,9,50.0,6.58,lost,1.0,runs
 3808,2016-11-23,Sri Lanka,lost,1st,West Indies,330.0,7,50.0,6.6,won,1.0,runs
 3811,2016-12-04,New Zealand,lost,2nd,Australia,256.0,10,44.2,5.77,lost,68.0,runs
@@ -749,6 +1118,7 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 3862,2017-04-09,Pakistan,lost,1st,West Indies,282.0,5,50.0,5.64,won,74.0,runs
 3863,2017-04-11,West Indies,won,1st,Pakistan,233.0,9,50.0,4.66,lost,6.0,wickets
 3863,2017-04-11,Pakistan,lost,2nd,West Indies,236.0,4,43.1,5.46,won,6.0,wickets
+3866,2017-05-12,Bangladesh,lost,1st,Ireland,157.0,4,31.1,5.03,n/r,,
 3868,2017-05-17,New Zealand,won,2nd,Bangladesh,258.0,6,47.3,5.43,won,4.0,wickets
 3868,2017-05-17,Bangladesh,lost,1st,New Zealand,257.0,9,50.0,5.14,lost,4.0,wickets
 3871,2017-05-24,New Zealand,lost,1st,Bangladesh,270.0,8,50.0,5.4,lost,5.0,wickets
@@ -1059,6 +1429,7 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 4098,2019-02-25,England,won,DNB,West Indies,,10,0.0,,n/r,,
 4099,2019-02-27,West Indies,won,2nd,England,389.0,10,48.0,8.1,lost,29.0,runs
 4099,2019-02-27,England,lost,1st,West Indies,418.0,6,50.0,8.36,won,29.0,runs
+4101,2019-03-02,Afghanistan,won,1st,Ireland,250.0,7,48.3,5.15,n/r,,
 4102,2019-03-02,India,lost,2nd,Australia,240.0,4,48.2,4.96,won,6.0,wickets
 4102,2019-03-02,Australia,won,1st,India,236.0,7,50.0,4.72,lost,6.0,wickets
 4103,2019-03-02,West Indies,won,2nd,England,115.0,3,12.1,9.45,won,7.0,wickets
@@ -1105,371 +1476,5 @@ match_id,start_date,country,toss,bat,opposition,score_total,wickets,overs,rpo,re
 4137,2019-05-17,Bangladesh,won,2nd,West Indies,213.0,5,22.5,9.32,won,5.0,wickets
 4138,2019-05-17,Pakistan,lost,1st,England,340.0,7,50.0,6.8,lost,3.0,wickets
 4138,2019-05-17,England,won,2nd,Pakistan,341.0,7,49.3,6.88,won,3.0,wickets
-4140,2019-05-19,Pakistan,lost,2nd,England,193.0,6,31.5,6.06,,,
-4140,2019-05-19,England,won,1st,Pakistan,351.0,9,50.0,7.02,,,
-3337,2013-02-22,West Indies,lost,1st,Zimbabwe,337.0,4,50.0,6.74,won,156.0,runs
-3337,2013-02-22,Zimbabwe,won,2nd,West Indies,181.0,9,50.0,3.62,lost,156.0,runs
-3339,2013-02-24,Zimbabwe,won,1st,West Indies,273.0,8,50.0,5.46,lost,7.0,wickets
-3339,2013-02-24,West Indies,lost,2nd,Zimbabwe,274.0,3,49.0,5.59,won,7.0,wickets
-3340,2013-02-26,Zimbabwe,won,1st,West Indies,211.0,9,50.0,4.22,lost,5.0,wickets
-3340,2013-02-26,West Indies,lost,2nd,Zimbabwe,215.0,5,46.0,4.64,won,5.0,wickets
-3341,2013-03-06,Scotland,won,1st,Afghanistan,199.0,8,50.0,3.98,lost,7.0,wickets
-3341,2013-03-06,Afghanistan,lost,2nd,Scotland,203.0,3,33.0,6.0,won,7.0,wickets
-3342,2013-03-08,Scotland,lost,1st,Afghanistan,259.0,9,50.0,5.18,lost,5.0,wickets
-3342,2013-03-08,Afghanistan,won,2nd,Scotland,261.0,5,48.0,5.36,won,5.0,wickets
-3353,2013-05-03,Bangladesh,lost,1st,Zimbabwe,269.0,8,50.0,5.38,won,121.0,runs
-3353,2013-05-03,Zimbabwe,won,2nd,Bangladesh,148.0,10,32.0,4.6,lost,121.0,runs
-3354,2013-05-05,Bangladesh,lost,1st,Zimbabwe,252.0,9,50.0,5.04,lost,6.0,wickets
-3354,2013-05-05,Zimbabwe,won,2nd,Bangladesh,253.0,4,47.0,5.28,won,6.0,wickets
-3355,2013-05-08,Bangladesh,lost,1st,Zimbabwe,247.0,9,50.0,4.94,lost,7.0,wickets
-3355,2013-05-08,Zimbabwe,won,2nd,Bangladesh,251.0,3,47.0,5.32,won,7.0,wickets
-3356,2013-05-17,Pakistan,won,1st,Scotland,231.0,7,50.0,4.62,won,96.0,runs
-3356,2013-05-17,Scotland,lost,2nd,Pakistan,135.0,10,39.0,3.4,lost,96.0,runs
-3357,2013-05-23,Pakistan,won,1st,Ireland,266.0,5,47.0,5.65,tied,,
-3357,2013-05-23,Ireland,lost,2nd,Pakistan,275.0,5,47.0,5.85,tied,,
-3358,2013-05-26,Ireland,lost,1st,Pakistan,229.0,9,50.0,4.58,lost,2.0,wickets
-3358,2013-05-26,Pakistan,won,2nd,Ireland,230.0,8,48.0,4.72,won,2.0,wickets
-3359,2013-05-31,South Africa,won,1st,Netherlands,341.0,3,50.0,6.82,won,83.0,runs
-3359,2013-05-31,Netherlands,lost,2nd,South Africa,258.0,9,50.0,5.16,lost,83.0,runs
-3395,2013-07-24,Zimbabwe,lost,1st,India,228.0,7,50.0,4.56,lost,6.0,wickets
-3395,2013-07-24,India,won,2nd,Zimbabwe,230.0,4,44.0,5.13,won,6.0,wickets
-3397,2013-07-26,India,lost,1st,Zimbabwe,294.0,8,50.0,5.88,won,58.0,runs
-3397,2013-07-26,Zimbabwe,won,2nd,India,236.0,9,50.0,4.72,lost,58.0,runs
-3399,2013-07-28,Zimbabwe,lost,1st,India,183.0,10,46.0,3.97,lost,7.0,wickets
-3399,2013-07-28,India,won,2nd,Zimbabwe,187.0,3,35.0,5.26,won,7.0,wickets
-3402,2013-08-01,Zimbabwe,lost,1st,India,144.0,10,42.0,3.37,lost,9.0,wickets
-3402,2013-08-01,India,won,2nd,Zimbabwe,145.0,1,30.0,4.7,won,9.0,wickets
-3403,2013-08-03,Zimbabwe,lost,1st,India,163.0,10,39.0,4.09,lost,7.0,wickets
-3403,2013-08-03,India,won,2nd,Zimbabwe,167.0,3,34.0,4.91,won,7.0,wickets
-3404,2013-08-27,Pakistan,won,1st,Zimbabwe,244.0,7,50.0,4.88,lost,7.0,wickets
-3404,2013-08-27,Zimbabwe,lost,2nd,Pakistan,246.0,3,48.0,5.08,won,7.0,wickets
-3406,2013-08-29,Pakistan,lost,1st,Zimbabwe,299.0,4,50.0,5.98,won,90.0,runs
-3406,2013-08-29,Zimbabwe,won,2nd,Pakistan,209.0,10,42.0,4.89,lost,90.0,runs
-3408,2013-08-31,Pakistan,lost,1st,Zimbabwe,260.0,6,50.0,5.2,won,108.0,runs
-3408,2013-08-31,Zimbabwe,won,2nd,Pakistan,152.0,10,40.0,3.8,lost,108.0,runs
-3409,2013-09-03,Ireland,lost,1st,England,269.0,7,50.0,5.38,lost,6.0,wickets
-3409,2013-09-03,England,won,2nd,Ireland,274.0,4,43.0,6.37,won,6.0,wickets
-3410,2013-09-03,Australia,lost,1st,Scotland,362.0,3,50.0,7.24,won,200.0,runs
-3410,2013-09-03,Scotland,won,2nd,Australia,162.0,10,43.0,3.69,lost,200.0,runs
-3417,2013-10-02,Kenya,won,1st,Afghanistan,89.0,10,37.0,2.35,lost,8.0,wickets
-3417,2013-10-02,Afghanistan,lost,2nd,Kenya,95.0,2,17.0,5.32,won,8.0,wickets
-3418,2013-10-04,Kenya,lost,1st,Afghanistan,93.0,10,43.0,2.13,lost,7.0,wickets
-3418,2013-10-04,Afghanistan,won,2nd,Kenya,96.0,3,20.0,4.6,won,7.0,wickets
-3472,2014-02-23,Ireland,won,1st,West Indies,202.0,10,49.0,4.09,lost,4.0,wickets
-3472,2014-02-23,West Indies,lost,2nd,Ireland,205.0,6,36.0,5.59,won,4.0,wickets
-3487,2014-05-01,Hong Kong,lost,1st,Afghanistan,216.0,10,49.0,4.36,lost,6.0,wickets
-3487,2014-05-01,Afghanistan,won,2nd,Hong Kong,218.0,4,43.0,5.05,won,6.0,wickets
-3488,2014-05-02,Afghanistan,lost,1st,U.A.E.,302.0,5,50.0,6.04,won,70.0,runs
-3488,2014-05-02,United Arab Emirates,won,2nd,Afghanistan,232.0,10,44.0,5.21,lost,70.0,runs
-3490,2014-05-06,Sri Lanka,lost,1st,Ireland,219.0,8,50.0,4.38,won,79.0,runs
-3490,2014-05-06,Ireland,won,2nd,Sri Lanka,140.0,10,39.0,3.51,lost,79.0,runs
-3491,2014-05-09,England,lost,1st,Scotland,167.0,6,20.0,8.35,won,39.0,runs
-3491,2014-05-09,Scotland,won,2nd,England,133.0,9,20.0,6.65,lost,39.0,runs
-3503,2014-07-18,Afghanistan,lost,1st,Zimbabwe,223.0,9,50.0,4.46,lost,6.0,wickets
-3503,2014-07-18,Zimbabwe,won,2nd,Afghanistan,227.0,4,45.0,5.0,won,6.0,wickets
-3504,2014-07-20,Afghanistan,lost,1st,Zimbabwe,256.0,7,50.0,5.12,lost,8.0,wickets
-3504,2014-07-20,Zimbabwe,won,2nd,Afghanistan,257.0,2,43.0,5.9,won,8.0,wickets
-3505,2014-07-22,Zimbabwe,lost,1st,Afghanistan,261.0,8,50.0,5.22,lost,2.0,wickets
-3505,2014-07-22,Afghanistan,won,2nd,Zimbabwe,264.0,8,49.0,5.31,won,2.0,wickets
-3506,2014-07-24,Afghanistan,lost,1st,Zimbabwe,259.0,10,49.0,5.26,won,100.0,runs
-3506,2014-07-24,Zimbabwe,won,2nd,Afghanistan,159.0,10,38.0,4.18,lost,100.0,runs
-3507,2014-08-17,South Africa,lost,1st,Zimbabwe,309.0,3,50.0,6.18,won,93.0,runs
-3507,2014-08-17,Zimbabwe,won,2nd,South Africa,216.0,10,49.0,4.33,lost,93.0,runs
-3508,2014-08-19,South Africa,lost,1st,Zimbabwe,257.0,10,49.0,5.17,won,61.0,runs
-3508,2014-08-19,Zimbabwe,won,2nd,South Africa,196.0,10,49.0,3.98,lost,61.0,runs
-3510,2014-08-21,Zimbabwe,lost,1st,South Africa,165.0,10,39.0,4.14,lost,7.0,wickets
-3510,2014-08-21,South Africa,won,2nd,Zimbabwe,171.0,3,27.0,6.25,won,7.0,wickets
-3513,2014-08-25,Australia,lost,1st,Zimbabwe,350.0,6,50.0,7.0,won,198.0,runs
-3513,2014-08-25,Zimbabwe,won,2nd,Australia,152.0,10,39.0,3.84,lost,198.0,runs
-3518,2014-08-29,South Africa,lost,1st,Zimbabwe,231.0,10,49.0,4.63,won,61.0,runs
-3518,2014-08-29,Zimbabwe,won,2nd,South Africa,170.0,10,38.0,4.41,lost,61.0,runs
-3521,2014-08-31,Australia,won,1st,Zimbabwe,209.0,9,50.0,4.18,lost,3.0,wickets
-3521,2014-08-31,Zimbabwe,lost,2nd,Australia,211.0,7,48.0,4.39,won,3.0,wickets
-3524,2014-09-04,South Africa,lost,1st,Zimbabwe,271.0,6,50.0,5.42,won,63.0,runs
-3524,2014-09-04,Zimbabwe,won,2nd,South Africa,208.0,10,47.0,4.39,lost,63.0,runs
-3550,2014-11-21,Bangladesh,lost,1st,Zimbabwe,281.0,7,50.0,5.62,won,87.0,runs
-3550,2014-11-21,Zimbabwe,won,2nd,Bangladesh,194.0,10,42.0,4.6,lost,87.0,runs
-3552,2014-11-23,Bangladesh,won,1st,Zimbabwe,251.0,7,50.0,5.02,won,68.0,runs
-3552,2014-11-23,Zimbabwe,lost,2nd,Bangladesh,183.0,10,44.0,4.08,lost,68.0,runs
-3553,2014-11-26,Bangladesh,lost,1st,Zimbabwe,297.0,6,50.0,5.94,won,124.0,runs
-3553,2014-11-26,Zimbabwe,won,2nd,Bangladesh,173.0,10,39.0,4.34,lost,124.0,runs
-3555,2014-11-28,Bangladesh,won,1st,Zimbabwe,256.0,8,50.0,5.12,won,21.0,runs
-3555,2014-11-28,Zimbabwe,lost,2nd,Bangladesh,235.0,8,50.0,4.7,lost,21.0,runs
-3556,2014-11-28,Afghanistan,won,1st,U.A.E.,248.0,6,50.0,4.96,lost,5.0,wickets
-3556,2014-11-28,United Arab Emirates,lost,2nd,Afghanistan,249.0,5,48.0,5.11,won,5.0,wickets
-3558,2014-11-30,Afghanistan,lost,1st,U.A.E.,280.0,8,50.0,5.6,lost,6.0,wickets
-3558,2014-11-30,United Arab Emirates,won,2nd,Afghanistan,282.0,4,48.0,5.83,won,6.0,wickets
-3559,2014-12-01,Zimbabwe,won,1st,Bangladesh,128.0,10,30.0,4.26,lost,5.0,wickets
-3559,2014-12-01,Bangladesh,lost,2nd,Zimbabwe,130.0,5,24.0,5.3,won,5.0,wickets
-3560,2014-12-02,United Arab Emirates,lost,1st,Afghanistan,273.0,5,50.0,5.46,lost,2.0,wickets
-3560,2014-12-02,Afghanistan,won,2nd,U.A.E.,276.0,8,49.0,5.55,won,2.0,wickets
-3562,2014-12-04,United Arab Emirates,lost,1st,Afghanistan,258.0,9,50.0,5.16,won,30.0,runs
-3562,2014-12-04,Afghanistan,won,2nd,U.A.E.,228.0,10,49.0,4.6,lost,30.0,runs
-3572,2015-01-08,Scotland,lost,1st,Afghanistan,237.0,8,45.0,5.26,lost,8.0,wickets
-3572,2015-01-08,Afghanistan,won,2nd,Scotland,240.0,2,38.0,6.31,won,8.0,wickets
-3573,2015-01-10,Afghanistan,lost,1st,Ireland,180.0,10,44.0,4.06,lost,3.0,wickets
-3573,2015-01-10,Ireland,won,2nd,Afghanistan,181.0,7,43.0,4.17,won,3.0,wickets
-3576,2015-01-14,Scotland,won,1st,Afghanistan,213.0,7,50.0,4.26,won,150.0,runs
-3576,2015-01-14,Afghanistan,lost,2nd,Scotland,63.0,10,18.0,3.4,lost,150.0,runs
-3581,2015-01-17,Afghanistan,lost,1st,Ireland,246.0,8,50.0,4.92,won,71.0,runs
-3581,2015-01-17,Ireland,won,2nd,Afghanistan,175.0,10,43.0,4.02,lost,71.0,runs
-3601,2015-02-15,South Africa,lost,1st,Zimbabwe,339.0,4,50.0,6.78,won,62.0,runs
-3601,2015-02-15,Zimbabwe,won,2nd,South Africa,277.0,10,48.0,5.73,lost,62.0,runs
-3603,2015-02-16,West Indies,lost,1st,Ireland,304.0,7,50.0,6.08,lost,4.0,wickets
-3603,2015-02-16,Ireland,won,2nd,West Indies,307.0,6,45.0,6.69,won,4.0,wickets
-3604,2015-02-17,Scotland,lost,1st,New Zealand,142.0,10,36.0,3.9,lost,3.0,wickets
-3604,2015-02-17,New Zealand,won,2nd,Scotland,146.0,7,24.0,5.87,won,3.0,wickets
-3611,2015-02-23,England,lost,1st,Scotland,303.0,8,50.0,6.06,won,119.0,runs
-3611,2015-02-23,Scotland,won,2nd,England,184.0,10,42.0,4.34,lost,119.0,runs
-3612,2015-02-24,West Indies,won,1st,Zimbabwe,372.0,2,50.0,7.44,won,73.0,runs
-3612,2015-02-24,Zimbabwe,lost,2nd,West Indies,289.0,10,44.0,6.49,lost,73.0,runs
-3614,2015-02-26,Scotland,lost,1st,Afghanistan,210.0,10,50.0,4.2,lost,1.0,wickets
-3614,2015-02-26,Afghanistan,won,2nd,Scotland,211.0,9,49.0,4.26,won,1.0,wickets
-3618,2015-02-28,United Arab Emirates,won,1st,India,102.0,10,31.0,3.23,lost,9.0,wickets
-3618,2015-02-28,India,lost,2nd,U.A.E.,104.0,1,18.0,5.52,won,9.0,wickets
-3620,2015-03-01,Pakistan,won,1st,Zimbabwe,235.0,7,50.0,4.7,won,20.0,runs
-3620,2015-03-01,Zimbabwe,lost,2nd,Pakistan,215.0,10,49.0,4.32,lost,20.0,runs
-3621,2015-03-03,South Africa,won,1st,Ireland,411.0,4,50.0,8.22,won,201.0,runs
-3621,2015-03-03,Ireland,lost,2nd,South Africa,210.0,10,45.0,4.66,lost,201.0,runs
-3622,2015-03-04,Pakistan,lost,1st,U.A.E.,339.0,6,50.0,6.78,won,129.0,runs
-3622,2015-03-04,United Arab Emirates,won,2nd,Pakistan,210.0,8,50.0,4.2,lost,129.0,runs
-3624,2015-03-05,Scotland,lost,1st,Bangladesh,318.0,8,50.0,6.36,lost,6.0,wickets
-3624,2015-03-05,Bangladesh,won,2nd,Scotland,322.0,4,48.0,6.68,won,6.0,wickets
-3631,2015-03-10,Ireland,won,1st,India,259.0,10,49.0,5.28,lost,8.0,wickets
-3631,2015-03-10,India,lost,2nd,Ireland,260.0,2,36.0,7.05,won,8.0,wickets
-3632,2015-03-11,Sri Lanka,won,1st,Scotland,363.0,9,50.0,7.26,won,148.0,runs
-3632,2015-03-11,Scotland,lost,2nd,Sri Lanka,215.0,10,43.0,4.98,lost,148.0,runs
-3633,2015-03-12,South Africa,lost,1st,U.A.E.,341.0,6,50.0,6.82,won,146.0,runs
-3633,2015-03-12,United Arab Emirates,won,2nd,South Africa,195.0,10,47.0,4.1,lost,146.0,runs
-3636,2015-03-14,Zimbabwe,lost,1st,India,287.0,10,48.0,5.87,lost,6.0,wickets
-3636,2015-03-14,India,won,2nd,Zimbabwe,288.0,4,48.0,5.91,won,6.0,wickets
-3637,2015-03-14,Scotland,lost,1st,Australia,130.0,10,25.0,5.06,lost,7.0,wickets
-3637,2015-03-14,Australia,won,2nd,Scotland,133.0,3,15.0,8.67,won,7.0,wickets
-3638,2015-03-15,United Arab Emirates,lost,1st,West Indies,175.0,10,47.0,3.67,lost,6.0,wickets
-3638,2015-03-15,West Indies,won,2nd,U.A.E.,176.0,4,30.0,5.77,won,6.0,wickets
-3639,2015-03-15,Ireland,won,1st,Pakistan,237.0,10,50.0,4.74,lost,7.0,wickets
-3639,2015-03-15,Pakistan,lost,2nd,Ireland,241.0,3,46.0,5.22,won,7.0,wickets
-3651,2015-05-26,Pakistan,won,1st,Zimbabwe,375.0,3,50.0,7.5,won,41.0,runs
-3651,2015-05-26,Zimbabwe,lost,2nd,Pakistan,334.0,5,50.0,6.68,lost,41.0,runs
-3652,2015-05-29,Zimbabwe,lost,1st,Pakistan,268.0,7,50.0,5.36,lost,6.0,wickets
-3652,2015-05-29,Pakistan,won,2nd,Zimbabwe,269.0,4,47.0,5.68,won,6.0,wickets
-3653,2015-05-31,Pakistan,won,1st,Zimbabwe,296.0,9,50.0,5.92,n/r,,
-3653,2015-05-31,Zimbabwe,lost,2nd,Pakistan,68.0,0,9.0,7.55,n/r,,
-3662,2015-07-10,India,lost,1st,Zimbabwe,255.0,6,50.0,5.1,won,4.0,runs
-3662,2015-07-10,Zimbabwe,won,2nd,India,251.0,7,50.0,5.02,lost,4.0,runs
-3665,2015-07-12,India,lost,1st,Zimbabwe,271.0,8,50.0,5.42,won,62.0,runs
-3665,2015-07-12,Zimbabwe,won,2nd,India,209.0,10,49.0,4.26,lost,62.0,runs
-3667,2015-07-14,India,lost,1st,Zimbabwe,276.0,5,50.0,5.52,won,83.0,runs
-3667,2015-07-14,Zimbabwe,won,2nd,India,193.0,10,42.0,4.52,lost,83.0,runs
-3673,2015-08-02,New Zealand,lost,1st,Zimbabwe,303.0,4,50.0,6.06,lost,7.0,wickets
-3673,2015-08-02,Zimbabwe,won,2nd,New Zealand,304.0,3,49.0,6.2,won,7.0,wickets
-3674,2015-08-04,Zimbabwe,won,1st,New Zealand,235.0,9,50.0,4.7,lost,10.0,wickets
-3674,2015-08-04,New Zealand,lost,2nd,Zimbabwe,236.0,0,42.0,5.57,won,10.0,wickets
-3675,2015-08-07,New Zealand,lost,1st,Zimbabwe,273.0,6,50.0,5.46,won,38.0,runs
-3675,2015-08-07,Zimbabwe,won,2nd,New Zealand,235.0,10,47.0,4.93,lost,38.0,runs
-3679,2015-08-27,Australia,won,1st,Ireland,222.0,6,40.0,5.5,won,23.0,runs
-3679,2015-08-27,Ireland,lost,2nd,Australia,157.0,10,23.0,6.63,lost,23.0,runs
-3685,2015-10-01,Pakistan,lost,1st,Zimbabwe,259.0,6,50.0,5.18,won,131.0,runs
-3685,2015-10-01,Zimbabwe,won,2nd,Pakistan,128.0,10,37.0,3.45,lost,131.0,runs
-3686,2015-10-03,Zimbabwe,lost,1st,Pakistan,276.0,6,50.0,5.52,won,5.0,runs
-3686,2015-10-03,Pakistan,won,2nd,Zimbabwe,256.0,8,48.0,5.33,lost,5.0,runs
-3687,2015-10-05,Zimbabwe,lost,1st,Pakistan,161.0,10,38.0,4.14,lost,7.0,wickets
-3687,2015-10-05,Pakistan,won,2nd,Zimbabwe,162.0,3,34.0,4.76,won,7.0,wickets
-3693,2015-10-16,Afghanistan,won,1st,Zimbabwe,122.0,10,34.0,3.57,lost,8.0,wickets
-3693,2015-10-16,Zimbabwe,lost,2nd,Afghanistan,126.0,2,23.0,5.4,won,8.0,wickets
-3694,2015-10-18,Afghanistan,won,1st,Zimbabwe,271.0,6,50.0,5.42,won,58.0,runs
-3694,2015-10-18,Zimbabwe,lost,2nd,Afghanistan,213.0,10,46.0,4.56,lost,58.0,runs
-3696,2015-10-20,Afghanistan,won,1st,Zimbabwe,223.0,8,50.0,4.46,lost,6.0,wickets
-3696,2015-10-20,Zimbabwe,lost,2nd,Afghanistan,229.0,4,49.0,4.61,won,6.0,wickets
-3697,2015-10-22,Zimbabwe,won,1st,Afghanistan,184.0,8,50.0,3.68,lost,3.0,wickets
-3697,2015-10-22,Afghanistan,lost,2nd,Zimbabwe,185.0,7,46.0,3.96,won,3.0,wickets
-3699,2015-10-24,Afghanistan,lost,1st,Zimbabwe,245.0,9,50.0,4.9,won,73.0,runs
-3699,2015-10-24,Zimbabwe,won,2nd,Afghanistan,172.0,10,44.0,3.89,lost,73.0,runs
-3703,2015-11-07,Bangladesh,lost,1st,Zimbabwe,273.0,9,50.0,5.46,won,145.0,runs
-3703,2015-11-07,Zimbabwe,won,2nd,Bangladesh,128.0,10,36.0,3.53,lost,145.0,runs
-3705,2015-11-09,Bangladesh,lost,1st,Zimbabwe,241.0,9,50.0,4.82,won,58.0,runs
-3705,2015-11-09,Zimbabwe,won,2nd,Bangladesh,183.0,10,43.0,4.22,lost,58.0,runs
-3706,2015-11-11,Bangladesh,won,1st,Zimbabwe,276.0,9,50.0,5.52,won,61.0,runs
-3706,2015-11-11,Zimbabwe,lost,2nd,Bangladesh,215.0,10,43.0,4.94,lost,61.0,runs
-3713,2015-12-25,Afghanistan,won,1st,Zimbabwe,131.0,10,38.0,3.37,won,49.0,runs
-3713,2015-12-25,Zimbabwe,lost,2nd,Afghanistan,82.0,10,30.0,2.65,lost,49.0,runs
-3716,2015-12-29,Zimbabwe,won,1st,Afghanistan,253.0,7,50.0,5.06,lost,4.0,wickets
-3716,2015-12-29,Afghanistan,lost,2nd,Zimbabwe,254.0,6,47.0,5.32,won,4.0,wickets
-3719,2016-01-02,Zimbabwe,won,1st,Afghanistan,175.0,10,48.0,3.6,won,117.0,runs
-3719,2016-01-02,Afghanistan,lost,2nd,Zimbabwe,58.0,10,16.0,3.58,lost,117.0,runs
-3720,2016-01-04,Zimbabwe,won,1st,Afghanistan,226.0,10,49.0,4.59,won,65.0,runs
-3720,2016-01-04,Afghanistan,lost,2nd,Zimbabwe,161.0,10,45.0,3.57,lost,65.0,runs
-3722,2016-01-06,Zimbabwe,won,1st,Afghanistan,248.0,10,49.0,4.97,lost,2.0,wickets
-3722,2016-01-06,Afghanistan,lost,2nd,Zimbabwe,254.0,8,49.0,5.11,won,2.0,wickets
-3742,2016-06-11,Zimbabwe,lost,1st,India,168.0,10,49.0,3.37,lost,9.0,wickets
-3742,2016-06-11,India,won,2nd,Zimbabwe,173.0,1,42.0,4.07,won,9.0,wickets
-3744,2016-06-13,Zimbabwe,lost,1st,India,126.0,10,34.0,3.65,lost,8.0,wickets
-3744,2016-06-13,India,won,2nd,Zimbabwe,129.0,2,26.0,4.8,won,8.0,wickets
-3746,2016-06-15,Zimbabwe,won,1st,India,123.0,10,42.0,2.9,lost,10.0,wickets
-3746,2016-06-15,India,lost,2nd,Zimbabwe,126.0,0,21.0,5.77,won,10.0,wickets
-3748,2016-06-16,Sri Lanka,lost,1st,Ireland,303.0,7,50.0,6.06,won,76.0,runs
-3748,2016-06-16,Ireland,won,2nd,Sri Lanka,216.0,10,40.0,5.31,lost,76.0,runs
-3749,2016-06-18,Sri Lanka,lost,1st,Ireland,377.0,8,50.0,7.54,won,136.0,runs
-3749,2016-06-18,Ireland,won,2nd,Sri Lanka,241.0,10,45.0,5.35,lost,136.0,runs
-3760,2016-07-06,Afghanistan,won,1st,Scotland,178.0,6,37.0,4.76,won,78.0,runs
-3760,2016-07-06,Scotland,lost,2nd,Afghanistan,132.0,10,27.0,4.85,lost,78.0,runs
-3761,2016-07-12,Afghanistan,lost,1st,Ireland,250.0,10,49.0,5.06,won,39.0,runs
-3761,2016-07-12,Ireland,won,2nd,Afghanistan,211.0,10,48.0,4.36,lost,39.0,runs
-3762,2016-07-14,Afghanistan,won,1st,Ireland,236.0,10,49.0,4.8,lost,6.0,wickets
-3762,2016-07-14,Ireland,lost,2nd,Afghanistan,237.0,4,47.0,4.98,won,6.0,wickets
-3763,2016-07-17,Afghanistan,won,1st,Ireland,229.0,7,50.0,4.58,won,79.0,runs
-3763,2016-07-17,Ireland,lost,2nd,Afghanistan,150.0,10,41.0,3.65,lost,79.0,runs
-3764,2016-07-19,Ireland,lost,1st,Afghanistan,265.0,5,50.0,5.3,won,12.0,runs
-3764,2016-07-19,Afghanistan,won,2nd,Ireland,253.0,9,50.0,5.06,lost,12.0,runs
-3767,2016-08-18,Pakistan,lost,1st,Ireland,337.0,6,47.0,7.17,won,255.0,runs
-3767,2016-08-18,Ireland,won,2nd,Pakistan,82.0,10,23.0,3.46,lost,255.0,runs
-3780,2016-09-25,South Africa,lost,1st,Ireland,354.0,5,50.0,7.08,won,206.0,runs
-3780,2016-09-25,Ireland,won,2nd,South Africa,148.0,10,30.0,4.8,lost,206.0,runs
-3782,2016-09-27,Ireland,won,1st,Australia,198.0,10,43.0,4.51,lost,9.0,wickets
-3782,2016-09-27,Australia,lost,2nd,Ireland,199.0,1,30.0,6.59,won,9.0,wickets
-3804,2016-11-14,Zimbabwe,lost,1st,Sri Lanka,154.0,10,41.0,3.71,lost,8.0,wickets
-3804,2016-11-14,Sri Lanka,won,2nd,Zimbabwe,155.0,2,24.0,6.32,won,8.0,wickets
-3806,2016-11-19,Zimbabwe,won,1st,West Indies,257.0,10,50.0,5.14,tied,,
-3806,2016-11-19,West Indies,lost,2nd,Zimbabwe,257.0,8,50.0,5.14,tied,,
-3809,2016-11-25,Zimbabwe,won,1st,West Indies,218.0,8,49.0,4.44,won,5.0,runs
-3809,2016-11-25,West Indies,lost,2nd,Zimbabwe,124.0,5,27.0,4.5,lost,5.0,runs
-3810,2016-11-27,Zimbabwe,won,1st,Sri Lanka,160.0,10,36.0,4.38,lost,6.0,wickets
-3810,2016-11-27,Sri Lanka,lost,2nd,Zimbabwe,166.0,4,37.0,4.42,won,6.0,wickets
-3835,2017-02-16,Afghanistan,won,1st,Zimbabwe,215.0,10,49.0,4.35,won,12.0,runs
-3835,2017-02-16,Zimbabwe,lost,2nd,Afghanistan,99.0,4,27.0,3.62,lost,12.0,runs
-3837,2017-02-19,Afghanistan,won,1st,Zimbabwe,238.0,9,50.0,4.76,won,54.0,runs
-3837,2017-02-19,Zimbabwe,lost,2nd,Afghanistan,184.0,10,42.0,4.36,lost,54.0,runs
-3838,2017-02-21,Zimbabwe,won,1st,Afghanistan,129.0,10,32.0,3.94,won,3.0,runs
-3838,2017-02-21,Afghanistan,lost,2nd,Zimbabwe,126.0,10,29.0,4.27,lost,3.0,runs
-3840,2017-02-24,Afghanistan,won,1st,Zimbabwe,111.0,10,38.0,2.85,lost,7.0,wickets
-3840,2017-02-24,Zimbabwe,lost,2nd,Afghanistan,107.0,3,22.0,4.79,won,7.0,wickets
-3842,2017-02-26,Afghanistan,won,1st,Zimbabwe,253.0,9,50.0,5.06,won,106.0,runs
-3842,2017-02-26,Zimbabwe,lost,2nd,Afghanistan,54.0,10,13.0,3.9,lost,106.0,runs
-3850,2017-03-15,Afghanistan,won,1st,Ireland,292.0,7,50.0,5.84,won,30.0,runs
-3850,2017-03-15,Ireland,lost,2nd,Afghanistan,262.0,10,46.0,5.59,lost,30.0,runs
-3851,2017-03-17,Afghanistan,won,1st,Ireland,338.0,10,50.0,6.76,won,34.0,runs
-3851,2017-03-17,Ireland,lost,2nd,Afghanistan,304.0,10,47.0,6.4,lost,34.0,runs
-3852,2017-03-19,Afghanistan,won,1st,Ireland,264.0,8,50.0,5.28,lost,6.0,wickets
-3852,2017-03-19,Ireland,lost,2nd,Afghanistan,265.0,4,48.0,5.46,won,6.0,wickets
-3853,2017-03-22,Afghanistan,won,1st,Ireland,220.0,10,49.0,4.41,lost,3.0,wickets
-3853,2017-03-22,Ireland,lost,2nd,Afghanistan,224.0,7,46.0,4.78,won,3.0,wickets
-3854,2017-03-24,Ireland,won,1st,Afghanistan,229.0,10,48.0,4.75,lost,7.0,wickets
-3854,2017-03-24,Afghanistan,lost,2nd,Ireland,231.0,3,48.0,4.74,won,7.0,wickets
-3864,2017-05-05,Ireland,won,1st,England,126.0,10,33.0,3.81,lost,7.0,wickets
-3864,2017-05-05,England,lost,2nd,Ireland,127.0,3,20.0,6.35,won,7.0,wickets
-3865,2017-05-07,England,lost,1st,Ireland,328.0,6,50.0,6.56,won,85.0,runs
-3865,2017-05-07,Ireland,won,2nd,England,243.0,10,46.0,5.26,lost,85.0,runs
-3867,2017-05-14,New Zealand,lost,1st,Ireland,289.0,7,50.0,5.78,won,51.0,runs
-3867,2017-05-14,Ireland,won,2nd,New Zealand,238.0,10,45.0,5.23,lost,51.0,runs
-3869,2017-05-19,Ireland,lost,1st,Bangladesh,181.0,10,46.0,3.89,lost,8.0,wickets
-3869,2017-05-19,Bangladesh,won,2nd,Ireland,182.0,2,27.0,6.69,won,8.0,wickets
-3870,2017-05-21,New Zealand,lost,1st,Ireland,344.0,6,50.0,6.88,won,190.0,runs
-3870,2017-05-21,Ireland,won,2nd,New Zealand,154.0,10,39.0,3.89,lost,190.0,runs
-3897,2017-06-30,Sri Lanka,won,1st,Zimbabwe,316.0,5,50.0,6.32,lost,6.0,wickets
-3897,2017-06-30,Zimbabwe,lost,2nd,Sri Lanka,322.0,4,47.0,6.75,won,6.0,wickets
-3899,2017-07-02,Zimbabwe,lost,1st,Sri Lanka,155.0,10,33.0,4.6,lost,7.0,wickets
-3899,2017-07-02,Sri Lanka,won,2nd,Zimbabwe,158.0,3,30.0,5.23,won,7.0,wickets
-3901,2017-07-06,Zimbabwe,lost,1st,Sri Lanka,310.0,8,50.0,6.2,lost,8.0,wickets
-3901,2017-07-06,Sri Lanka,won,2nd,Zimbabwe,312.0,2,47.0,6.59,won,8.0,wickets
-3903,2017-07-08,Sri Lanka,won,1st,Zimbabwe,300.0,6,50.0,6.0,lost,4.0,wickets
-3903,2017-07-08,Zimbabwe,lost,2nd,Sri Lanka,219.0,6,29.0,7.46,won,4.0,wickets
-3904,2017-07-10,Sri Lanka,lost,1st,Zimbabwe,203.0,8,50.0,4.06,lost,3.0,wickets
-3904,2017-07-10,Zimbabwe,won,2nd,Sri Lanka,204.0,7,38.0,5.34,won,3.0,wickets
-3935,2017-12-05,Afghanistan,lost,1st,Ireland,238.0,9,50.0,4.76,won,138.0,runs
-3935,2017-12-05,Ireland,won,2nd,Afghanistan,100.0,10,31.0,3.15,lost,138.0,runs
-3937,2017-12-07,Ireland,won,1st,Afghanistan,271.0,9,50.0,5.42,won,51.0,runs
-3937,2017-12-07,Afghanistan,lost,2nd,Ireland,220.0,10,45.0,4.85,lost,51.0,runs
-3940,2017-12-10,Afghanistan,won,1st,Ireland,177.0,10,48.0,3.66,lost,5.0,wickets
-3940,2017-12-10,Ireland,lost,2nd,Afghanistan,180.0,5,38.0,4.73,won,5.0,wickets
-3952,2018-01-15,Zimbabwe,lost,1st,Bangladesh,170.0,10,49.0,3.46,lost,8.0,wickets
-3952,2018-01-15,Bangladesh,won,2nd,Zimbabwe,171.0,2,28.0,6.0,won,8.0,wickets
-3955,2018-01-17,Zimbabwe,lost,1st,Sri Lanka,290.0,6,50.0,5.8,won,12.0,runs
-3955,2018-01-17,Sri Lanka,won,2nd,Zimbabwe,278.0,10,48.0,5.77,lost,12.0,runs
-3962,2018-01-21,Zimbabwe,won,1st,Sri Lanka,198.0,10,44.0,4.5,lost,5.0,wickets
-3962,2018-01-21,Sri Lanka,lost,2nd,Zimbabwe,202.0,5,44.0,4.5,won,5.0,wickets
-3964,2018-01-23,Bangladesh,won,1st,Zimbabwe,216.0,9,50.0,4.32,won,91.0,runs
-3964,2018-01-23,Zimbabwe,lost,2nd,Bangladesh,125.0,10,36.0,3.42,lost,91.0,runs
-3972,2018-02-09,Afghanistan,won,1st,Zimbabwe,333.0,5,50.0,6.66,won,154.0,runs
-3972,2018-02-09,Zimbabwe,lost,2nd,Afghanistan,179.0,10,34.0,5.16,lost,154.0,runs
-3974,2018-02-11,Zimbabwe,won,1st,Afghanistan,333.0,5,50.0,6.66,won,154.0,runs
-3974,2018-02-11,Afghanistan,lost,2nd,Zimbabwe,179.0,10,30.0,5.93,lost,154.0,runs
-3975,2018-02-13,Zimbabwe,won,1st,Afghanistan,154.0,10,34.0,4.46,lost,6.0,wickets
-3975,2018-02-13,Afghanistan,lost,2nd,Zimbabwe,158.0,4,27.0,5.74,won,6.0,wickets
-3977,2018-02-16,Zimbabwe,won,1st,Afghanistan,134.0,10,38.0,3.52,lost,10.0,wickets
-3977,2018-02-16,Afghanistan,lost,2nd,Zimbabwe,135.0,0,21.0,6.37,won,10.0,wickets
-3979,2018-02-19,Afghanistan,won,1st,Zimbabwe,241.0,9,50.0,4.82,won,146.0,runs
-3979,2018-02-19,Zimbabwe,lost,2nd,Afghanistan,95.0,10,32.0,2.95,lost,146.0,runs
-3983,2018-03-04,Afghanistan,lost,1st,Scotland,255.0,10,49.0,5.13,lost,7.0,wickets
-3983,2018-03-04,Scotland,won,2nd,Afghanistan,256.0,3,47.0,5.4,won,7.0,wickets
-3987,2018-03-06,West Indies,won,1st,U.A.E.,357.0,4,50.0,7.14,won,60.0,runs
-3987,2018-03-06,United Arab Emirates,lost,2nd,West Indies,297.0,6,50.0,5.94,lost,60.0,runs
-3988,2018-03-06,Zimbabwe,won,1st,Afghanistan,196.0,10,43.0,4.55,won,2.0,runs
-3988,2018-03-06,Afghanistan,lost,2nd,Zimbabwe,194.0,10,49.0,3.91,lost,2.0,runs
-3990,2018-03-08,Hong Kong,lost,1st,Afghanistan,241.0,8,50.0,4.82,won,30.0,runs
-3990,2018-03-08,Afghanistan,won,2nd,Hong Kong,195.0,9,46.0,4.23,lost,30.0,runs
-3991,2018-03-08,Papua New Guinea,won,1st,West Indies,200.0,10,42.0,4.68,lost,6.0,wickets
-3991,2018-03-08,West Indies,lost,2nd,P.N.G.,201.0,4,43.0,4.67,won,6.0,wickets
-3993,2018-03-10,West Indies,lost,1st,Ireland,257.0,8,50.0,5.14,won,52.0,runs
-3993,2018-03-10,Ireland,won,2nd,West Indies,205.0,10,46.0,4.42,lost,52.0,runs
-4002,2018-03-19,Zimbabwe,won,1st,West Indies,289.0,10,50.0,5.78,lost,4.0,wickets
-4002,2018-03-19,West Indies,lost,2nd,Zimbabwe,290.0,6,49.0,5.91,won,4.0,wickets
-4003,2018-03-20,United Arab Emirates,won,1st,Afghanistan,177.0,10,43.0,4.11,lost,5.0,wickets
-4003,2018-03-20,Afghanistan,lost,2nd,U.A.E.,178.0,5,34.0,5.15,won,5.0,wickets
-4004,2018-03-21,West Indies,lost,1st,Scotland,198.0,10,48.0,4.06,won,5.0,runs
-4004,2018-03-21,Scotland,won,2nd,West Indies,125.0,5,35.0,3.53,lost,5.0,runs
-4006,2018-03-23,Ireland,won,1st,Afghanistan,209.0,7,50.0,4.18,lost,5.0,wickets
-4006,2018-03-23,Afghanistan,lost,2nd,Ireland,213.0,5,49.0,4.33,won,5.0,wickets
-4008,2018-06-10,Scotland,lost,1st,England,371.0,5,50.0,7.42,won,6.0,runs
-4008,2018-06-10,England,won,2nd,Scotland,365.0,10,48.0,7.47,lost,6.0,runs
-4015,2018-07-13,Pakistan,lost,1st,Zimbabwe,308.0,7,50.0,6.16,won,201.0,runs
-4015,2018-07-13,Zimbabwe,won,2nd,Pakistan,107.0,10,35.0,3.05,lost,201.0,runs
-4017,2018-07-16,Zimbabwe,won,1st,Pakistan,194.0,10,49.0,3.93,lost,9.0,wickets
-4017,2018-07-16,Pakistan,lost,2nd,Zimbabwe,195.0,1,36.0,5.41,won,9.0,wickets
-4019,2018-07-18,Zimbabwe,won,1st,Pakistan,67.0,10,25.0,2.66,lost,9.0,wickets
-4019,2018-07-18,Pakistan,lost,2nd,Zimbabwe,69.0,1,9.0,7.01,won,9.0,wickets
-4020,2018-07-20,Pakistan,won,1st,Zimbabwe,399.0,1,50.0,7.98,won,244.0,runs
-4020,2018-07-20,Zimbabwe,lost,2nd,Pakistan,155.0,10,42.0,3.63,lost,244.0,runs
-4021,2018-07-22,Pakistan,won,1st,Zimbabwe,364.0,4,50.0,7.28,won,131.0,runs
-4021,2018-07-22,Zimbabwe,lost,2nd,Pakistan,233.0,4,50.0,4.66,lost,131.0,runs
-4032,2018-08-27,Afghanistan,lost,1st,Ireland,227.0,9,50.0,4.54,won,29.0,runs
-4032,2018-08-27,Ireland,won,2nd,Afghanistan,198.0,10,48.0,4.08,lost,29.0,runs
-4033,2018-08-29,Afghanistan,won,1st,Ireland,182.0,9,50.0,3.64,lost,3.0,wickets
-4033,2018-08-29,Ireland,lost,2nd,Afghanistan,183.0,7,43.0,4.17,won,3.0,wickets
-4035,2018-08-31,Ireland,won,1st,Afghanistan,124.0,10,36.0,3.42,lost,8.0,wickets
-4035,2018-08-31,Afghanistan,lost,2nd,Ireland,127.0,2,23.0,5.32,won,8.0,wickets
-4037,2018-09-16,Hong Kong,won,1st,Pakistan,116.0,10,37.0,3.12,lost,8.0,wickets
-4037,2018-09-16,Pakistan,lost,2nd,Hong Kong,120.0,2,23.0,5.07,won,8.0,wickets
-4039,2018-09-18,India,lost,1st,Hong Kong,285.0,7,50.0,5.7,won,26.0,runs
-4039,2018-09-18,Hong Kong,won,2nd,India,259.0,8,50.0,5.18,lost,26.0,runs
-4049,2018-09-30,Zimbabwe,lost,1st,South Africa,117.0,10,34.0,3.42,lost,5.0,wickets
-4049,2018-09-30,South Africa,won,2nd,Zimbabwe,119.0,5,26.0,4.42,won,5.0,wickets
-4050,2018-10-03,South Africa,won,1st,Zimbabwe,198.0,10,47.0,4.16,won,120.0,runs
-4050,2018-10-03,Zimbabwe,lost,2nd,South Africa,78.0,10,24.0,3.25,lost,120.0,runs
-4051,2018-10-06,Zimbabwe,won,1st,South Africa,228.0,10,49.0,4.6,lost,4.0,wickets
-4051,2018-10-06,South Africa,lost,2nd,Zimbabwe,231.0,6,45.0,5.04,won,4.0,wickets
-4057,2018-10-21,Bangladesh,won,1st,Zimbabwe,271.0,8,50.0,5.42,won,28.0,runs
-4057,2018-10-21,Zimbabwe,lost,2nd,Bangladesh,243.0,9,50.0,4.86,lost,28.0,runs
-4060,2018-10-24,Zimbabwe,lost,1st,Bangladesh,246.0,7,50.0,4.92,lost,7.0,wickets
-4060,2018-10-24,Bangladesh,won,2nd,Zimbabwe,250.0,3,44.0,5.66,won,7.0,wickets
-4061,2018-10-26,Zimbabwe,lost,1st,Bangladesh,286.0,5,50.0,5.72,lost,7.0,wickets
-4061,2018-10-26,Bangladesh,won,2nd,Zimbabwe,288.0,3,42.0,6.83,won,7.0,wickets
-4100,2019-02-28,Ireland,won,1st,Afghanistan,161.0,10,49.0,3.26,lost,5.0,wickets
-4100,2019-02-28,Afghanistan,lost,2nd,Ireland,165.0,5,41.0,3.94,won,5.0,wickets
-4105,2019-03-05,Afghanistan,won,1st,Ireland,256.0,8,50.0,5.12,lost,4.0,wickets
-4105,2019-03-05,Ireland,lost,2nd,Afghanistan,260.0,6,49.0,5.3,won,4.0,wickets
-4108,2019-03-08,Afghanistan,lost,1st,Ireland,223.0,10,49.0,4.53,won,109.0,runs
-4108,2019-03-08,Ireland,won,2nd,Afghanistan,114.0,10,35.0,3.21,lost,109.0,runs
-4110,2019-03-10,Afghanistan,lost,1st,Ireland,216.0,6,50.0,4.32,lost,5.0,wickets
-4110,2019-03-10,Ireland,won,2nd,Afghanistan,219.0,5,47.0,4.62,won,5.0,wickets
-4127,2019-05-03,Ireland,lost,1st,England,198.0,10,43.0,4.58,lost,4.0,wickets
-4127,2019-05-03,England,won,2nd,Ireland,199.0,6,42.0,4.73,won,4.0,wickets
-4128,2019-05-05,West Indies,lost,1st,Ireland,381.0,3,50.0,7.62,won,196.0,runs
-4128,2019-05-05,Ireland,won,2nd,West Indies,185.0,10,34.0,5.33,lost,196.0,runs
-4131,2019-05-10,Scotland,won,1st,Afghanistan,325.0,7,50.0,6.5,lost,2.0,runs
-4131,2019-05-10,Afghanistan,lost,2nd,Scotland,269.0,3,44.0,6.0,won,2.0,runs
-4132,2019-05-11,Ireland,won,1st,West Indies,327.0,5,50.0,6.54,lost,5.0,wickets
-4132,2019-05-11,West Indies,lost,2nd,Ireland,331.0,5,47.0,6.91,won,5.0,wickets
-4136,2019-05-15,Ireland,won,1st,Bangladesh,292.0,8,50.0,5.84,lost,6.0,wickets
-4136,2019-05-15,Bangladesh,lost,2nd,Ireland,294.0,4,43.0,6.83,won,6.0,wickets
-4139,2019-05-19,Ireland,lost,1st,Afghanistan,210.0,10,48.0,4.3,,,
-4139,2019-05-19,Afghanistan,won,2nd,Ireland,138.0,10,35.0,3.86,,,
+4140,2019-05-19,Pakistan,lost,2nd,England,297.0,10,46.5,6.34,lost,54.0,runs
+4140,2019-05-19,England,won,1st,Pakistan,351.0,9,50.0,7.02,won,54.0,runs
