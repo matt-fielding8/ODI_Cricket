@@ -39,7 +39,6 @@ match_id,start_date,team1,team2,ground,result
 3354,2013-05-05,Bangladesh,Zimbabwe,Bulawayo,Zimbabwe
 3355,2013-05-08,Bangladesh,Zimbabwe,Bulawayo,Zimbabwe
 3356,2013-05-17,Pakistan,Scotland,Edinburgh,Pakistan
-3356,2013-05-19,Pakistan,Scotland,Edinburgh,n/r
 3357,2013-05-23,Pakistan,Ireland,Dublin,tied
 3358,2013-05-26,Pakistan,Ireland,Dublin,Pakistan
 3359,2013-05-31,South Africa,Netherlands,Amstelveen,South Africa
@@ -88,7 +87,6 @@ match_id,start_date,team1,team2,ground,result
 3408,2013-08-31,Pakistan,Zimbabwe,Harare,Pakistan
 3409,2013-09-03,England,Ireland,Dublin (Malahide),England
 3410,2013-09-03,Australia,Scotland,Edinburgh,Australia
-3410,2013-09-06,England,Australia,Leeds,n/r
 3412,2013-09-08,England,Australia,Manchester,Australia
 3414,2013-09-11,England,Australia,Birmingham,n/r
 3415,2013-09-14,England,Australia,Cardiff,England
@@ -99,7 +97,6 @@ match_id,start_date,team1,team2,ground,result
 3420,2013-10-16,India,Australia,Jaipur,India
 3421,2013-10-19,India,Australia,Mohali,Australia
 3422,2013-10-23,India,Australia,Ranchi,n/r
-3422,2013-10-26,India,Australia,Cuttack,n/r
 3423,2013-10-29,New Zealand,Bangladesh,Dhaka,Bangladesh
 3424,2013-10-30,India,Australia,Nagpur,India
 3425,2013-10-30,South Africa,Pakistan,Sharjah,South Africa
@@ -128,7 +125,6 @@ match_id,start_date,team1,team2,ground,result
 3448,2013-12-25,Sri Lanka,Pakistan,Abu Dhabi,Pakistan
 3449,2013-12-26,West Indies,New Zealand,Auckland,West Indies
 3450,2013-12-27,Sri Lanka,Pakistan,Abu Dhabi,Sri Lanka
-3450,2013-12-29,West Indies,New Zealand,Napier,n/r
 3451,2014-01-01,West Indies,New Zealand,Queenstown,New Zealand
 3452,2014-01-04,West Indies,New Zealand,Nelson,New Zealand
 3453,2014-01-08,West Indies,New Zealand,Hamilton,West Indies
@@ -163,7 +159,6 @@ match_id,start_date,team1,team2,ground,result
 3487,2014-05-01,Afghanistan,Hong Kong,Kuala Lumpur,Afghanistan
 3488,2014-05-02,Afghanistan,U. A. E.,Kuala Lumpur,Afghanistan
 3490,2014-05-06,Sri Lanka,Ireland,Dublin,Sri Lanka
-3490,2014-05-08,Sri Lanka,Ireland,Dublin,n/r
 3491,2014-05-09,England,Scotland,Aberdeen,England
 3492,2014-05-22,Sri Lanka,England,The Oval,England
 3493,2014-05-25,Sri Lanka,England,Chester-le-Street,Sri Lanka
@@ -187,7 +182,6 @@ match_id,start_date,team1,team2,ground,result
 3511,2014-08-22,West Indies,Bangladesh,St George's,West Indies
 3512,2014-08-23,Sri Lanka,Pakistan,Hambantota,Pakistan
 3513,2014-08-25,Australia,Zimbabwe,Harare,Australia
-3513,2014-08-25,India,England,Bristol,n/r
 3514,2014-08-25,West Indies,Bangladesh,Basseterre,West Indies
 3515,2014-08-26,Sri Lanka,Pakistan,Hambantota,Sri Lanka
 3516,2014-08-27,South Africa,Australia,Harare,South Africa
@@ -206,9 +200,7 @@ match_id,start_date,team1,team2,ground,result
 3532,2014-10-10,Pakistan,Australia,Dubai (DSC),Australia
 3533,2014-10-11,West Indies,India,Delhi,India
 3534,2014-10-12,Pakistan,Australia,Abu Dhabi,Australia
-3534,2014-10-14,West Indies,India,Visakhapatnam,n/r
 3535,2014-10-17,West Indies,India,Dharamsala,India
-3535,2014-10-20,West Indies,India,Kolkata,n/r
 3536,2014-10-21,South Africa,New Zealand,Mount Maunganui,South Africa
 3537,2014-10-24,South Africa,New Zealand,Mount Maunganui,South Africa
 3538,2014-10-27,South Africa,New Zealand,Hamilton,n/r
@@ -277,7 +269,6 @@ match_id,start_date,team1,team2,ground,result
 3605,2015-02-18,Bangladesh,Afghanistan,Canberra,Bangladesh
 3607,2015-02-20,New Zealand,England,Wellington,New Zealand
 3608,2015-02-21,West Indies,Pakistan,Christchurch,West Indies
-3608,2015-02-21,Bangladesh,Australia,Brisbane,n/r
 3609,2015-02-22,Sri Lanka,Afghanistan,Dunedin,Sri Lanka
 3610,2015-02-22,South Africa,India,Melbourne,India
 3611,2015-02-23,England,Scotland,Christchurch,England
@@ -391,7 +382,6 @@ match_id,start_date,team1,team2,ground,result
 3726,2016-01-20,India,Australia,Canberra,Australia
 3727,2016-01-23,India,Australia,Sydney,India
 3728,2016-01-25,Pakistan,New Zealand,Wellington,New Zealand
-3729,2016-01-28,Pakistan,New Zealand,Napier,n/r
 3730,2016-01-31,Pakistan,New Zealand,Auckland,New Zealand
 3731,2016-02-03,New Zealand,Australia,Auckland,New Zealand
 3732,2016-02-03,South Africa,England,Bloemfontein,England
@@ -423,13 +413,11 @@ match_id,start_date,team1,team2,ground,result
 3758,2016-07-02,Sri Lanka,England,Cardiff,England
 3759,2016-07-04,Afghanistan,Scotland,Edinburgh,n/r
 3760,2016-07-06,Afghanistan,Scotland,Edinburgh,Afghanistan
-3760,2016-07-10,Afghanistan,Ireland,Belfast,n/r
 3761,2016-07-12,Afghanistan,Ireland,Belfast,Afghanistan
 3762,2016-07-14,Afghanistan,Ireland,Belfast,Ireland
 3763,2016-07-17,Afghanistan,Ireland,Belfast,Afghanistan
 3764,2016-07-19,Afghanistan,Ireland,Belfast,Ireland
 3767,2016-08-18,Pakistan,Ireland,Dublin (Malahide),Pakistan
-3767,2016-08-20,Pakistan,Ireland,Dublin (Malahide),n/r
 3768,2016-08-21,Sri Lanka,Australia,Colombo (RPS),Australia
 3769,2016-08-24,Sri Lanka,Australia,Colombo (RPS),Sri Lanka
 3770,2016-08-24,Pakistan,England,Southampton,England
@@ -485,7 +473,6 @@ match_id,start_date,team1,team2,ground,result
 3828,2017-01-28,Sri Lanka,South Africa,Port Elizabeth,South Africa
 3829,2017-01-30,New Zealand,Australia,Auckland,New Zealand
 3830,2017-02-01,Sri Lanka,South Africa,Durban,South Africa
-3830,2017-02-02,New Zealand,Australia,Napier,n/r
 3831,2017-02-04,Sri Lanka,South Africa,Johannesburg,South Africa
 3832,2017-02-05,New Zealand,Australia,Hamilton,New Zealand
 3833,2017-02-07,Sri Lanka,South Africa,Cape Town,South Africa
@@ -558,7 +545,6 @@ match_id,start_date,team1,team2,ground,result
 3907,2017-08-27,Sri Lanka,India,Pallekele,India
 3908,2017-08-31,Sri Lanka,India,Colombo (RPS),India
 3909,2017-09-03,Sri Lanka,India,Colombo (RPS),India
-3909,2017-09-13,West Indies,Ireland,Belfast,n/r
 3910,2017-09-17,India,Australia,Chennai,India
 3911,2017-09-19,West Indies,England,Manchester,England
 3912,2017-09-21,India,Australia,Kolkata,India
@@ -744,9 +730,7 @@ match_id,start_date,team1,team2,ground,result
 4127,2019-05-03,England,Ireland,Dublin (Malahide),England
 4128,2019-05-05,West Indies,Ireland,Dublin,West Indies
 4129,2019-05-07,West Indies,Bangladesh,Dublin,Bangladesh
-4129,2019-05-08,Afghanistan,Scotland,Edinburgh,n/r
 4130,2019-05-08,Pakistan,England,The Oval,n/r
-4130,2019-05-09,Bangladesh,Ireland,Dublin (Malahide),n/r
 4131,2019-05-10,Afghanistan,Scotland,Edinburgh,Afghanistan
 4132,2019-05-11,West Indies,Ireland,Dublin (Malahide),West Indies
 4133,2019-05-11,Pakistan,England,Southampton,England
@@ -755,6 +739,3 @@ match_id,start_date,team1,team2,ground,result
 4136,2019-05-15,Bangladesh,Ireland,Dublin,Bangladesh
 4137,2019-05-17,West Indies,Bangladesh,Dublin (Malahide),Bangladesh
 4138,2019-05-17,Pakistan,England,Nottingham,England
-4138,2019-05-18,Sri Lanka,Scotland,Edinburgh,n/r
-4139,2019-05-19,Afghanistan,Ireland,Belfast,
-4140,2019-05-19,Pakistan,England,Leeds,
