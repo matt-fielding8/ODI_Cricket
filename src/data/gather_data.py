@@ -28,7 +28,7 @@ def getMatchid(soup):
 def getMissingData(url):
     ''' str -> dct
     Uses requests and bs4 libraries to extract and parse html data from url.
-    Returns a dct with 'team' and 'score' indices.
+    Returns a dct with 'match_id', 'country', 'score', 'detailed_score' keys.
     '''
     soup = getSoup(url)
     # Extract match_id
@@ -37,6 +37,7 @@ def getMissingData(url):
     except Exception as e:
         print("Match ID Extraction Error\n", e, '\n', url)
         match_id = [np.NaN]
+    print(match_id)
     # Extract score data from soup
     score = soup.find_all(class_='cscore_score')
     try:
@@ -44,10 +45,10 @@ def getMissingData(url):
     except Exception as e:
         print("Score Extraction Error\n", e, '\n', match_id, url)
         score_lst = [np.NaN]*2
-    # Extract team data from soup
+    # Extract country data from soup
     country = soup.find_all(class_='cscore_name--long')
     try:
-        country_lst =  [i.contents[0] for i in team]
+        country_lst =  [i.contents[0] for i in country]
     except Exception as e:
         print("Country Extraction\n", e, '\n', e, url)
         country_lst = [np.NaN]*2
@@ -61,13 +62,13 @@ def getMissingData(url):
         except Exception as e:
             print("detailed_score Extraction Error\n", e, '\n', url)
             detailed_score = [np.NaN]*2
+
     else:
         print("No result likely", url)
         detailed_score = [np.NaN]*2
-
     # Write information to dct
     score_dct = {'match_id':match_id*2,
-                'country':team_lst[:2],
+                'country':country_lst[:2],
                 'score':score_lst[:2],
                 'detailed_score':detailed_score}
 
