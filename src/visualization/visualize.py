@@ -33,7 +33,7 @@ def tickLabels(locs, multi=1, f=0, pcnt=False):
     if not pcnt:
         return ["{:0.{}f}".format(i*multi, f) for i in locs]
     else:
-        return ["{:0.{}f}%".format(i*multi, f) for i in locs]
+        return ["{:0.{}f}%".format(i*100, f) for i in locs]
 
 def proportions(df, groupby=None, agg_method='count', agg_col='match_id', asc=False,
 col1=None, filter1=None, col2=None, filter2=None):
