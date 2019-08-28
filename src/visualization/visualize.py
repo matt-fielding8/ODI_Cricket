@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sb
 
 def setPlot(figsize=[10,7],title="", xlabel="", ylabel="",
-    axis_font=14, title_font=16):
+    axis_font=14, title_font=16, tick_font=14):
     '''
     Sets up matplotlib axis according to params. Returns None.
     '''
@@ -12,6 +12,9 @@ def setPlot(figsize=[10,7],title="", xlabel="", ylabel="",
     ax.set_title(title, fontsize=title_font);
     ax.set_xlabel(xlabel, fontsize=axis_font);
     ax.set_ylabel(ylabel, fontsize=axis_font);
+    plt.xticks(fontsize=tick_font);
+    plt.yticks(fontsize=tick_font);
+
 
 def bins(df, var, manual=False, min=0, max=2, step=1):
     '''
