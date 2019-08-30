@@ -3,17 +3,28 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sb
 
-def setPlot(figsize=[10,7],title="", xlabel="", ylabel="",
+def setPlot(figsize=[14.7,8.27],title="", xlabel="", ylabel="",
     axis_font=14, title_font=16, tick_font=14):
     '''
     Sets up matplotlib axis according to params. Returns None.
     '''
     _, ax = plt.subplots(figsize=figsize);
-    ax.set_title(title, fontsize=title_font);
+    ax.set_title(title, fontsize=title_font, fontweight='bold');
     ax.set_xlabel(xlabel, fontsize=axis_font);
     ax.set_ylabel(ylabel, fontsize=axis_font);
     plt.xticks(fontsize=tick_font);
     plt.yticks(fontsize=tick_font);
+
+def setSeabornFigPlot(plot, w = 14.70, h = 8.27, title="", xlabel="", ylabel="",
+    axis_font=14, title_font=16, title_pos = 1.04, tick_font=14):
+    '''
+    Sets up seaborn figure-level axis according to params. Returns None.
+    '''
+    plot.fig.set_figheight(h)
+    plot.fig.set_figwidth(w)
+    plot.set_xlabels(xlabel, fontsize = axis_font)
+    plot.set_ylabels(ylabel, fontsize = axis_font)
+    plot.fig.suptitle(title, fontsize = title_font, weight = "bold", y = title_pos);
 
 
 def bins(df, var, manual=False, min=0, max=2, step=1):
