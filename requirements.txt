@@ -44,7 +44,7 @@ more-itertools==7.2.0
 -e git+https://github.com/jupyter/nbconvert.git@aeaa2143966c610751d7a4f681a08df28e7d799c#egg=nbconvert
 nbformat==4.4.0
 notebook==5.7.8
-numpy==1.16.4
+numpy==1.22.0
 packaging==19.1
 pandas==0.24.2
 pandocfilters==1.4.2
